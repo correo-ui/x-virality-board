@@ -1,0 +1,67 @@
+{
+  "timezone": "America/Santiago",
+  "min_views": 2000,
+  "star_views": 5000,
+  "lang": "en",
+  "accounts": [
+    "colmedchile",
+    "ministeriosalud",
+    "adnradiochile",
+    "latercera",
+    "elmostrador",
+    "dgforno",
+    "Pajarobere",
+    "juancarlossaid",
+    "gparaje",
+    "CatuRojas",
+    "HeliaMolina_M",
+    "Cooperativa",
+    "24HorasTVN",
+    "ErickSky"
+  ],
+  "trend_input_only": [],
+  "keyword_domain_terms": [
+    "salud",
+    "IA",
+    "agentes",
+    "oftalmología",
+    "Minsal",
+    "Fonasa"
+  ],
+  "x_keywords": {
+    "max": 16,
+    "core": [
+      "inteligencia artificial",
+      "agentes de IA",
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Grok",
+      "IA en salud",
+      "Minsal",
+      "Fonasa",
+      "listas de espera",
+      "Colegio Médico",
+      "oftalmología",
+      "cataratas",
+      "glaucoma",
+      "miopía",
+      "salud mental"
+    ],
+    "query_override": {}
+  },
+  "experiment": {
+    "enabled": false,
+    "handle": "Drrubentorrest",
+    "user_id": "2081096209947639808",
+    "start": "2026-11-01",
+    "end": "2026-11-07",
+    "baseline_days": 30,
+    "trend_threshold": 35,
+    "min_n": 5,
+    "min_age_h": 24,
+    "hypothesis": "Trend posts beat non-trend posts of the same format"
+  },
+  "board_url": "https://correo-ui.github.io/x-virality-board/",
+  "_comment": "RT config. min_views lowered 5000->2000 and star_views 10000->5000: in the first 48h scan 8/14 accounts never reached 5000 views. Defaults 5000/10000 in the repo."
+}
