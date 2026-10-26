@@ -4,20 +4,76 @@
   "star_views": 5000,
   "lang": "en",
   "accounts": [
-    "colmedchile",
-    "ministeriosalud",
-    "adnradiochile",
-    "latercera",
-    "elmostrador",
-    "dgforno",
-    "Pajarobere",
-    "juancarlossaid",
-    "gparaje",
-    "CatuRojas",
-    "HeliaMolina_M",
-    "Cooperativa",
-    "24HorasTVN",
-    "ErickSky"
+    {
+      "handle": "ErickSky",
+      "area": "ai",
+      "notes": "AI · Spanish AI/dev creator"
+    },
+    {
+      "handle": "DotCSV",
+      "area": "ai",
+      "notes": "AI · Carlos Santana, Spanish AI explainer"
+    },
+    {
+      "handle": "freddier",
+      "area": "ai",
+      "notes": "AI · Freddy Vega, Platzi CEO"
+    },
+    {
+      "handle": "midudev",
+      "area": "ai",
+      "notes": "AI · Miguel Ángel Durán, AI agents + coding"
+    },
+    {
+      "handle": "sergiorocaa",
+      "area": "ai",
+      "notes": "AI · Sergio Roca, AI agents threads"
+    },
+    {
+      "handle": "bilinkis",
+      "area": "ai",
+      "notes": "AI · Santiago Bilinkis, AI & society (AR)"
+    },
+    {
+      "handle": "ministeriosalud",
+      "area": "health",
+      "notes": "Health/Chile"
+    },
+    {
+      "handle": "adnradiochile",
+      "area": "health",
+      "notes": "Health/Chile"
+    },
+    {
+      "handle": "Pajarobere",
+      "area": "health",
+      "notes": "Health/Chile"
+    },
+    {
+      "handle": "juancarlossaid",
+      "area": "health",
+      "notes": "Health/Chile"
+    },
+    {
+      "handle": "CatuRojas",
+      "area": "health",
+      "notes": "Health/Chile"
+    },
+    {
+      "handle": "HeliaMolina_M",
+      "area": "health",
+      "notes": "Health/Chile"
+    },
+    {
+      "handle": "Cooperativa",
+      "area": "health",
+      "notes": "Health/Chile"
+    },
+    {
+      "handle": "jmanalich",
+      "area": "health",
+      "notes": "Health/Chile · Jaime Mañalich, ex health minister"
+    }
   ],
   "trend_input_only": [],
   "keyword_domain_terms": [
@@ -63,5 +119,5 @@
     "hypothesis": "Trend posts beat non-trend posts of the same format"
   },
   "board_url": "https://correo-ui.github.io/x-virality-board/",
-  "_comment": "RT config. min_views lowered 5000->2000 and star_views 10000->5000: in the first 48h scan 8/14 accounts never reached 5000 views. Defaults 5000/10000 in the repo."
+  "_comment": "RT config. min_views lowered 5000->2000 and star_views 10000->5000: in the first 48h scan 8/14 accounts never reached 5000 views. Defaults 5000/10000 in the repo. Accounts use object form {handle, area, notes}; 'area' (ai|health) is an RT tag, ignored by the pipeline (it reads only 'handle')."
 }
