@@ -2634,7 +2634,7 @@
    "highlight": false,
    "created_at": "2026-10-27T22:20:00.000Z",
    "window": "24h",
-   "draft_en": "[R5 · respuesta] Un dato útil, con la emergencia preventiva que empieza el 1 de noviembre: la toxina de la marea roja no se elimina al cocinarlos. Resiste altas temperaturas, y un marisco contaminado no cambia de color, olor ni textura. Solo el análisis de laboratorio la detecta.\n\nPor eso la regla es simple: comprar en lugares autorizados y respetar las prohibiciones sanitarias de cada zona.\n\nSeñal de alarma después de comer mariscos: hormigueo o adormecimiento de labios, lengua o cara, que puede aparecer en minutos u horas. Ahí hay que ir de inmediato a urgencia. No existe antídoto, y el pronóstico depende de llegar a tiempo a la atención médica (Minsal).\n\nFuente: https://www.adnradio.cl/2026/10/27/declaran-emergencia-preventiva-en-los-lagos-y-otras-14-zonas-de-chile-por-riesgo-de-floraciones-de-algas-nocivas/ · https://labtox.cl/?page_id=42 · https://diprece.minsal.cl/wp-content/uploads/2023/10/ORIENTACION-TECNICA-PARA-EL-MANEJO-CLINICO-MAREA-ROJA.pdf · https://doh.wa.gov/community-and-environment/shellfish/recreational-shellfish/illnesses/biotoxins/paralytic-shellfish-poisoning",
+   "draft_en": "[R5 · respuesta] Un dato útil, con la emergencia preventiva que empieza el 1 de noviembre: la toxina de la marea roja no se elimina al cocinar los mariscos. Resiste altas temperaturas, y un marisco contaminado no cambia de color, olor ni textura. Solo el análisis de laboratorio la detecta.\n\nPor eso la regla es simple: comprar en lugares autorizados y respetar las prohibiciones sanitarias de cada zona.\n\nSeñal de alarma después de comer mariscos: hormigueo o adormecimiento de labios, lengua o cara, que puede aparecer en minutos u horas. Ahí hay que ir de inmediato a urgencia. No existe antídoto, y el pronóstico depende de llegar a tiempo a la atención médica (Minsal).\n\nFuente: https://www.adnradio.cl/2026/10/27/declaran-emergencia-preventiva-en-los-lagos-y-otras-14-zonas-de-chile-por-riesgo-de-floraciones-de-algas-nocivas/ · https://labtox.cl/?page_id=42 · https://diprece.minsal.cl/wp-content/uploads/2023/10/ORIENTACION-TECNICA-PARA-EL-MANEJO-CLINICO-MAREA-ROJA.pdf · https://doh.wa.gov/community-and-environment/shellfish/recreational-shellfish/illnesses/biotoxins/paralytic-shellfish-poisoning",
    "draft_keywords": [
     "Floraciones de algas nocivas: qué saber de la marea roja"
    ],
@@ -3345,15 +3345,15 @@
    },
    {
     "rank": 8,
-    "keyword": "generación"
-   },
-   {
-    "rank": 9,
     "keyword": "google"
    },
    {
-    "rank": 10,
+    "rank": 9,
     "keyword": "genie"
+   },
+   {
+    "rank": 10,
+    "keyword": "generación"
    },
    {
     "rank": 11,
@@ -3433,7 +3433,7 @@
     "format": "respuesta",
     "source": "@adnradiochile",
     "topic": "Floraciones de algas nocivas: qué saber de la marea roja",
-    "hook_en": "Un dato útil, con la emergencia preventiva que empieza el 1 de noviembre: la toxina de la marea roja no se elimina al cocinarlos. Resiste altas temperaturas, y un marisco contaminado no cambia de color, olor ni textura. Solo el análisis de laboratorio la detecta.\n\nPor eso la regla es simple: comprar en lugares autorizados y respetar las prohibiciones sanitarias de cada zona.\n\nSeñal de alarma después de comer mariscos: hormigueo o adormecimiento de labios, lengua o cara, que puede aparecer en minutos u horas. Ahí hay que ir de inmediato a urgencia. No existe antídoto, y el pronóstico depende de llegar a tiempo a la atención médica (Minsal).",
+    "hook_en": "Un dato útil, con la emergencia preventiva que empieza el 1 de noviembre: la toxina de la marea roja no se elimina al cocinar los mariscos. Resiste altas temperaturas, y un marisco contaminado no cambia de color, olor ni textura. Solo el análisis de laboratorio la detecta.\n\nPor eso la regla es simple: comprar en lugares autorizados y respetar las prohibiciones sanitarias de cada zona.\n\nSeñal de alarma después de comer mariscos: hormigueo o adormecimiento de labios, lengua o cara, que puede aparecer en minutos u horas. Ahí hay que ir de inmediato a urgencia. No existe antídoto, y el pronóstico depende de llegar a tiempo a la atención médica (Minsal).",
     "angle": "Objetivo: https://x.com/adnradiochile/status/2115206908269187250 (2.132 vistas)",
     "why": "Base: Decreto vigente 1-nov-2026 a 30-jun-2027 (ADN); toxinas resistentes a altas temperaturas, la cocción no las elimina; mariscos contaminados sin cambios de color, olor ni textura (LabTox U. de Chile); VPM: hormigueo/entumecimiento de labios, lengua y cara, minutos a horas; sin antídoto; la letalidad depende del acceso a atención avanzada (Minsal). Fuente: https://www.adnradio.cl/2026/10/27/declaran-emergencia-preventiva-en-los-lagos-y-otras-14-zonas-de-chile-por-riesgo-de-floraciones-de-algas-nocivas/ · https://labtox.cl/?page_id=42 · https://diprece.minsal.cl/wp-content/uploads/2023/10/ORIENTACION-TECNICA-PARA-EL-MANEJO-CLINICO-MAREA-ROJA.pdf · https://doh.wa.gov/community-and-environment/shellfish/recreational-shellfish/illnesses/biotoxins/paralytic-shellfish-poisoning",
     "keywords": [
