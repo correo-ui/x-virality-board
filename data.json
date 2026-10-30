@@ -1,33 +1,50 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-10-29 10:35",
- "date": "2026-10-29",
+ "title": "Digest diario — escaneo 24h al 2026-10-30 10:40",
+ "date": "2026-10-30",
  "timezone": "America/Santiago",
- "updated": "2026-10-29T10:55:00-03:00",
+ "updated": "2026-10-30T11:00:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 143192,
+   "likes": 1496,
+   "replies": 38,
+   "reposts": 136,
+   "url": "https://x.com/ErickSky/status/2115995338527883456",
+   "status_url": "https://x.com/ErickSky/status/2115995338527883456",
+   "text": "Gent3 mira esto de Binance que acaba de salir!!! Es el chisme del año.\n\nResulta que un ingeniero de DevOps tenía el laptop comprometido y desde ahí el atacante se metió a un service container interno que tenía permisos para armar y mandar retiros, y empezó a sacar plata no https://t.co/YlehAaYnHh",
+   "original_en": "Gent3 mira esto de Binance que acaba de salir!!! Es el chisme del año.\n\nResulta que un ingeniero de DevOps tenía el laptop comprometido y desde ahí el atacante se metió a un service container interno que tenía permisos para armar y mandar retiros, y empezó a sacar plata no https://t.co/YlehAaYnHh",
+   "highlight": true,
+   "created_at": "2026-10-30T02:32:56.000Z",
+   "window": "24h"
+  },
   {
    "name": "midudev",
    "display_name": "midudev",
    "handle": "@midudev",
    "area": "ai",
-   "views": 112776,
-   "likes": 2565,
-   "replies": 79,
-   "reposts": 278,
-   "url": "https://x.com/midudev/status/2115459595107778941",
-   "status_url": "https://x.com/midudev/status/2115459595107778941",
-   "text": "Si eres programador y quieres saber dónde va la industria, esto te interesa.\n\nAmazon acaba de publicar una nota donde explican que el rol de desarrollador cambia en su empresa.\n\nY dan estos 5 puntos clave:\n① Aprende a usar IA ya\n② Más tokens ≠ productividad\n③ Más código ≠ https://t.co/e6YheDS0fv",
-   "original_en": "Si eres programador y quieres saber dónde va la industria, esto te interesa.\n\nAmazon acaba de publicar una nota donde explican que el rol de desarrollador cambia en su empresa.\n\nY dan estos 5 puntos clave:\n① Aprende a usar IA ya\n② Más tokens ≠ productividad\n③ Más código ≠ https://t.co/e6YheDS0fv",
+   "views": 97676,
+   "likes": 2061,
+   "replies": 69,
+   "reposts": 165,
+   "url": "https://x.com/midudev/status/2115806107935412531",
+   "status_url": "https://x.com/midudev/status/2115806107935412531",
+   "text": "Un manager de Anthropic dice que las entrevistas de código están muertas y las han dejado de usar en su equipo.\n\nSinceramente creo que hace tiempo que deberían estar muertas y enterradas.\n\nLas pruebas tipo LeetCode siempre fueron un error. Las preguntas de memorización. Las https://t.co/vZViHqLanR",
+   "original_en": "Un manager de Anthropic dice que las entrevistas de código están muertas y las han dejado de usar en su equipo.\n\nSinceramente creo que hace tiempo que deberían estar muertas y enterradas.\n\nLas pruebas tipo LeetCode siempre fueron un error. Las preguntas de memorización. Las https://t.co/vZViHqLanR",
    "highlight": true,
-   "created_at": "2026-10-28T15:04:05.000Z",
+   "created_at": "2026-10-29T14:01:00.000Z",
    "window": "24h",
-   "draft_en": "[R4 · respuesta] De los cinco, el 2 y el 3 son los que más cuesta aceptar. Si una herramienta te deja producir el triple, la tentación es medir cuánto produces. Pero el valor se movió: elegir qué vale la pena hacer, revisar si quedó bien y saber cuándo parar.\n\nEso no es exclusivo de programar. Pasa en cualquier oficio donde la IA acelera la parte mecánica, incluida la medicina: lo escaso deja de ser la ejecución y pasa a ser el criterio.\n\nY el criterio no se descarga. Se construye haciendo, equivocándose y escuchando a quien usa lo que haces. Por eso el último punto me parece el más importante: entender al usuario es lo que hace que la IA sume en vez de solo producir más.",
+   "draft_en": "[R1 · respuesta] En medicina hicimos un cambio parecido hace décadas. La prueba de memoria sigue existiendo, pero para saber si alguien está listo para atender pacientes se usan estaciones con casos simulados: se observa cómo pregunta, cómo razona, qué examina y cómo lo explica.\n\nCon la IA esa idea pesa todavía más. Si cualquiera obtiene una respuesta en segundos, lo que vale la pena evaluar es si la persona sabe qué preguntar, detecta cuando la respuesta está mal y puede explicar por qué eligió un camino.\n\nLo difícil, como dices, es que eso exige tiempo de quien evalúa. Pero es la forma más honesta de medir lo que de verdad se usa en el trabajo.",
    "draft_keywords": [
-    "Amazon: el rol del desarrollador cambia"
+    "Evaluar criterio, no memoria (entrevistas de código)"
    ],
-   "why_hit": "Objetivo de respuesta R4 (Amazon: el rol del desarrollador cambia). Base verificada: Sin cifras; los 5 puntos son los del post de midudev.",
-   "hook": "De los cinco, el 2 y el 3 son los que más cuesta aceptar. Si una herramienta te deja producir el triple, la tentación es",
+   "why_hit": "Objetivo de respuesta R1 (Evaluar criterio, no memoria (entrevistas de código)). Base verificada: Sin cifras; el ECOE/OSCE se usa en la formación médica desde los años 70 (Harden, BMJ 1975).",
+   "hook": "En medicina hicimos un cambio parecido hace décadas. La prueba de memoria sigue existiendo, pero para saber si alguien e",
    "top10_rank": 1
   },
   {
@@ -35,190 +52,132 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 69623,
-   "likes": 213,
-   "replies": 20,
-   "reposts": 28,
-   "url": "https://x.com/ErickSky/status/2115477664211358048",
-   "status_url": "https://x.com/ErickSky/status/2115477664211358048",
-   "text": "Chicos, estamos claros que modelos como el Seedance 2.5 es el favorito para hacer videos de alta calidad.\n\nLo normal es pagarlo con markup en los agregadores y, de paso, manejar varias cuentas y suscripciones.\n\nLes digo que si están en eso, con Sunra es más conveniente! https://t.co/Qn6ydmswLA",
-   "original_en": "Chicos, estamos claros que modelos como el Seedance 2.5 es el favorito para hacer videos de alta calidad.\n\nLo normal es pagarlo con markup en los agregadores y, de paso, manejar varias cuentas y suscripciones.\n\nLes digo que si están en eso, con Sunra es más conveniente! https://t.co/Qn6ydmswLA",
+   "views": 75956,
+   "likes": 271,
+   "replies": 17,
+   "reposts": 26,
+   "url": "https://x.com/ErickSky/status/2115850611258208548",
+   "status_url": "https://x.com/ErickSky/status/2115850611258208548",
+   "text": "Chicos, por fin alguien resolvió el problema más jodido de los agentes de voz: que te dejen hablar y que el modelo pueda hacer cosas mientras tú sigues hablando.\n\nDeja les explico con calma porque esto es diferente de todo lo que hemos visto hasta ahora:\n\nLa mayoría de los https://t.co/sQxGVNBoCZ",
+   "original_en": "Chicos, por fin alguien resolvió el problema más jodido de los agentes de voz: que te dejen hablar y que el modelo pueda hacer cosas mientras tú sigues hablando.\n\nDeja les explico con calma porque esto es diferente de todo lo que hemos visto hasta ahora:\n\nLa mayoría de los https://t.co/sQxGVNBoCZ",
    "highlight": true,
-   "created_at": "2026-10-28T16:15:53.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "DotCSV",
-   "display_name": "DotCSV",
-   "handle": "@DotCSV",
-   "area": "ai",
-   "views": 54060,
-   "likes": 1650,
-   "replies": 96,
-   "reposts": 177,
-   "url": "https://x.com/DotCSV/status/2115784876209148358",
-   "status_url": "https://x.com/DotCSV/status/2115784876209148358",
-   "text": "En la lotería de coger un tren en España hoy nos hemos quedado tirados a medio viaje por una catenaria rota más adelante...\n\nSi se sabía de la incidencia al momento de salir de Atocha (porque nos han avisado) para qué sale el tren para luego dejarnos tirados en ningún lado?\n\nª https://t.co/P4xd44ZsdL",
-   "original_en": "En la lotería de coger un tren en España hoy nos hemos quedado tirados a medio viaje por una catenaria rota más adelante...\n\nSi se sabía de la incidencia al momento de salir de Atocha (porque nos han avisado) para qué sale el tren para luego dejarnos tirados en ningún lado?\n\nª https://t.co/P4xd44ZsdL",
-   "highlight": true,
-   "created_at": "2026-10-29T12:36:38.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "sergiorocaa",
-   "display_name": "sergiorocaa",
-   "handle": "@sergiorocaa",
-   "area": "ai",
-   "views": 37713,
-   "likes": 534,
-   "replies": 6,
-   "reposts": 67,
-   "url": "https://x.com/sergiorocaa/status/2115439113264406598",
-   "status_url": "https://x.com/sergiorocaa/status/2115439113264406598",
-   "text": "ANTHROPIC LANZÓ EL EMPLEADO MÁS BARATO DEL MUNDO Y CASI NADIE SE ENTERÓ\n\nSe llama \"Claude for Small Business\".\n\nLo que puede hacer:\n\n→ Gestionar facturas y finanzas\n→ Crear campañas y contenido\n→ Organizar ventas y clientes\n→ Gestionar emails y calendarios\n→ Ejecutar tareas",
-   "original_en": "ANTHROPIC LANZÓ EL EMPLEADO MÁS BARATO DEL MUNDO Y CASI NADIE SE ENTERÓ\n\nSe llama \"Claude for Small Business\".\n\nLo que puede hacer:\n\n→ Gestionar facturas y finanzas\n→ Crear campañas y contenido\n→ Organizar ventas y clientes\n→ Gestionar emails y calendarios\n→ Ejecutar tareas",
-   "highlight": true,
-   "created_at": "2026-10-28T13:42:42.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 36865,
-   "likes": 521,
-   "replies": 16,
-   "reposts": 17,
-   "url": "https://x.com/ErickSky/status/2115468410947596416",
-   "status_url": "https://x.com/ErickSky/status/2115468410947596416",
-   "text": "Un abogado con Claude es literalmente Harvey Specter, ahora, con la IA, un ciudadano normal con Claude sería también Harvey Specter jajajaj\n\nEl único limitante que debatimos hace unos meses es el acceso a la data.\n\nEn muchos países la información legal no es tan abierta... https://t.co/ksDLXvmpIO",
-   "original_en": "Un abogado con Claude es literalmente Harvey Specter, ahora, con la IA, un ciudadano normal con Claude sería también Harvey Specter jajajaj\n\nEl único limitante que debatimos hace unos meses es el acceso a la data.\n\nEn muchos países la información legal no es tan abierta... https://t.co/ksDLXvmpIO",
-   "highlight": true,
-   "created_at": "2026-10-28T15:39:07.000Z",
+   "created_at": "2026-10-29T16:57:50.000Z",
    "window": "24h",
-   "draft_en": "[R3 · respuesta] El acceso a la información ayuda mucho, pero no es lo único que separa a un ciudadano de Harvey Specter. Lo que lo hace bueno no es saberse la ley: es saber qué pregunta hacer, qué dato falta y qué arriesga cada camino en ese caso concreto.\n\nEn medicina pasa algo parecido. Hoy cualquiera puede leer una guía clínica completa, y eso es muy bueno para conversar mejor con su médico. El valor está en aplicarla a una persona con su historia, sus otros remedios y sus prioridades.\n\nDonde la IA ya rinde de verdad es en la preparación: llegar al abogado o al médico con los documentos ordenados, las dudas escritas y claro lo que quieres resolver. Eso ahorra tiempo y mejora la decisión.\n\nFuente: https://x.com/claudeai/status/2115467192276025500",
+   "draft_en": "[R3 · respuesta] Lo de actuar mientras la persona sigue hablando importa mucho fuera del mundo tech. Hay mucha gente que nunca va a usar una app ni un chat escrito, pero sí llama por teléfono: adultos mayores, personas con baja visión, quien va manejando o tiene las manos ocupadas.\n\nPara ellos, un agente de voz que no corta el ritmo puede ser la diferencia entre resolver un trámite y colgar frustrados. Pienso en agendar una hora, confirmar una cita o preguntar por un resultado.\n\nEn esos usos lo clave no es que suene humano, sino que repita en voz alta lo que hizo: «quedó agendado el martes a las 10, ¿correcto?». Esa confirmación, que en salud usamos hace años con las indicaciones verbales, evita muchos malentendidos.",
    "draft_keywords": [
-    "Claude for Legal: ¿cualquiera es Harvey Specter?"
+    "Agentes de voz full-duplex en la vida real"
    ],
-   "why_hit": "Objetivo de respuesta R3 (Claude for Legal: ¿cualquiera es Harvey Specter?). Base verificada: Sin cifras; post de Erick cita el lanzamiento de Claude for Legal (galería de artefactos: revisión de contratos, chequeo de citas).",
-   "hook": "El acceso a la información ayuda mucho, pero no es lo único que separa a un ciudadano de Harvey Specter. Lo que lo hace ",
+   "why_hit": "Objetivo de respuesta R3 (Agentes de voz full-duplex en la vida real). Base verificada: Sin cifras propias; datos del demo según el post de Erick (44 min, 123 tool calls).",
+   "hook": "Lo de actuar mientras la persona sigue hablando importa mucho fuera del mundo tech. Hay mucha gente que nunca va a usar ",
    "top10_rank": 2
   },
   {
-   "name": "DotCSV",
-   "display_name": "DotCSV",
-   "handle": "@DotCSV",
+   "name": "midudev",
+   "display_name": "midudev",
+   "handle": "@midudev",
    "area": "ai",
-   "views": 35489,
-   "likes": 837,
-   "replies": 48,
-   "reposts": 47,
-   "url": "https://x.com/DotCSV/status/2115507042186039346",
-   "status_url": "https://x.com/DotCSV/status/2115507042186039346",
-   "text": "🔴 ¡NUEVO GEMINI 4 CARBON!\n\nGoogle golpea por segunda vez este mes, tras la salida de su modelo Argon, con una nueva versión entendemos más grande y sobretodo, potente. Superando en muchos benchmarks a Opus 5.5 y a GPT-6 Astra!\n\nPor ahora es el anuncio del modelo, sin acceso. https://t.co/EtV7j0uuxD",
-   "original_en": "🔴 ¡NUEVO GEMINI 4 CARBON!\n\nGoogle golpea por segunda vez este mes, tras la salida de su modelo Argon, con una nueva versión entendemos más grande y sobretodo, potente. Superando en muchos benchmarks a Opus 5.5 y a GPT-6 Astra!\n\nPor ahora es el anuncio del modelo, sin acceso. https://t.co/EtV7j0uuxD",
+   "views": 66320,
+   "likes": 1016,
+   "replies": 67,
+   "reposts": 41,
+   "url": "https://x.com/midudev/status/2115822892839559584",
+   "status_url": "https://x.com/midudev/status/2115822892839559584",
+   "text": "Esto le pasa a alguna gente que usa la IA para programar\n\nConfundir poder generar código rápido con la capacidad de comprender, verificar y asumir la responsabilidad de un sistema crítico.\n\n¡Y claro que el sistema es mejorable! Pero despreciar su complejidad porque usas Opus 5.5 https://t.co/gRG72CLz8u",
+   "original_en": "Esto le pasa a alguna gente que usa la IA para programar\n\nConfundir poder generar código rápido con la capacidad de comprender, verificar y asumir la responsabilidad de un sistema crítico.\n\n¡Y claro que el sistema es mejorable! Pero despreciar su complejidad porque usas Opus 5.5 https://t.co/gRG72CLz8u",
    "highlight": true,
-   "created_at": "2026-10-28T18:12:37.000Z",
+   "created_at": "2026-10-29T15:07:42.000Z",
    "window": "24h",
-   "draft_en": "[R6 · respuesta] Los benchmarks sirven para saber que un modelo es capaz. Lo que no dicen es cómo le irá en tu tarea, con tus documentos y tus errores de siempre.\n\nEn medicina distinguimos eficacia (cómo funciona algo en el ensayo, en condiciones ideales) de efectividad (cómo funciona en la vida real). Con los modelos pasa algo parecido: el salto que importa se ve después de usarlo una semana en trabajo real.\n\nUna forma simple de probarlo cuando haya acceso: darle las mismas tres o cuatro tareas que ya conoces bien y comparar con lo que usas hoy. Ahí se nota si el número del benchmark se traduce en algo.",
+   "draft_en": "[R2 · respuesta] La palabra clave del post es «asumir». Generar algo rápido es una capacidad; responder por ello cuando falla es otra, y esa no se acelera con un modelo mejor.\n\nEn un sistema crítico lo que más cuesta no es escribir, es entender por qué las cosas están hechas como están. Muchas de esas decisiones nacieron de un error que alguien ya pagó y que no quedó anotado en ninguna parte.\n\nLa IA ayuda mucho a leer, resumir y proponer cambios. Pero quien firma tiene que poder explicar el sistema sin ella. Con un informe médico pasa igual: lo puede redactar otro, pero lo firma quien responde por él.",
    "draft_keywords": [
-    "Gemini 4 Carbon: benchmarks vs uso real"
+    "Generar rápido no es responder por el sistema"
    ],
-   "why_hit": "Objetivo de respuesta R6 (Gemini 4 Carbon: benchmarks vs uso real). Base verificada: Sin cifras; DotCSV: anuncio sin acceso, supera en muchos benchmarks a Opus 5.5 y GPT-6 Astra.",
-   "hook": "Los benchmarks sirven para saber que un modelo es capaz. Lo que no dicen es cómo le irá en tu tarea, con tus documentos ",
+   "why_hit": "Objetivo de respuesta R2 (Generar rápido no es responder por el sistema). Base verificada: Sin cifras.",
+   "hook": "La palabra clave del post es «asumir». Generar algo rápido es una capacidad; responder por ello cuando falla es otra, y ",
    "top10_rank": 3
   },
   {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
+   "name": "freddier",
+   "display_name": "freddier",
+   "handle": "@freddier",
    "area": "ai",
-   "views": 34226,
-   "likes": 1760,
-   "replies": 64,
-   "reposts": 28,
-   "url": "https://x.com/midudev/status/2115531678210834454",
-   "status_url": "https://x.com/midudev/status/2115531678210834454",
-   "text": "Alguien se ha colado hoy en la keynote de GitHub :) https://t.co/upZFYoIw3G",
-   "original_en": "Alguien se ha colado hoy en la keynote de GitHub :) https://t.co/upZFYoIw3G",
+   "views": 47044,
+   "likes": 918,
+   "replies": 34,
+   "reposts": 89,
+   "url": "https://x.com/freddier/status/2115935605788135458",
+   "status_url": "https://x.com/freddier/status/2115935605788135458",
+   "text": "Binance hacked.\n$5.6B stolen in multiple cryptocurrencies.\nBitcoin, Ethereum and Tron most of them.\n\nSeveral protocols proactively freezing. https://t.co/aXHlB0mmBr",
+   "original_en": "Binance hacked.\n$5.6B stolen in multiple cryptocurrencies.\nBitcoin, Ethereum and Tron most of them.\n\nSeveral protocols proactively freezing. https://t.co/aXHlB0mmBr",
    "highlight": true,
-   "created_at": "2026-10-28T19:50:31.000Z",
+   "created_at": "2026-10-29T22:35:35.000Z",
    "window": "24h"
-  },
-  {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 25649,
-   "likes": 596,
-   "replies": 8,
-   "reposts": 7,
-   "url": "https://x.com/midudev/status/2115441601866568083",
-   "status_url": "https://x.com/midudev/status/2115441601866568083",
-   "text": "Qué triste el accidente de tren. :( Un abrazo enorme a todas las personas afectadas y a sus familias. Y gracias a los que están trabajando para ayudar.",
-   "original_en": "Qué triste el accidente de tren. :( Un abrazo enorme a todas las personas afectadas y a sus familias. Y gracias a los que están trabajando para ayudar.",
-   "highlight": true,
-   "created_at": "2026-10-28T13:52:35.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 23222,
-   "likes": 783,
-   "replies": 9,
-   "reposts": 100,
-   "url": "https://x.com/midudev/status/2115474984415944924",
-   "status_url": "https://x.com/midudev/status/2115474984415944924",
-   "text": "¡CURSO de AWS CLOUD en Español!\nGratuito, desde cero y práctico.\n\n✓ Crear servidores y bases de datos\n✓ Subir archivos estáticos y webs con S3\n✓ Cómo usar Serverless Functions\n\nSon 2 horas de contenido:\n→ https://t.co/TNqtLw3JRc https://t.co/QeqegVlyHS",
-   "original_en": "¡CURSO de AWS CLOUD en Español!\nGratuito, desde cero y práctico.\n\n✓ Crear servidores y bases de datos\n✓ Subir archivos estáticos y webs con S3\n✓ Cómo usar Serverless Functions\n\nSon 2 horas de contenido:\n→ https://t.co/TNqtLw3JRc https://t.co/QeqegVlyHS",
-   "highlight": true,
-   "created_at": "2026-10-28T16:05:14.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 13690,
-   "likes": 32,
-   "replies": 6,
-   "reposts": 34,
-   "url": "https://x.com/adnradiochile/status/2115446990180110846",
-   "status_url": "https://x.com/adnradiochile/status/2115446990180110846",
-   "text": "Seremi de Salud decreta alerta por listeria en paté de cerdo en Ñuble y Biobío: revisa la marca y cómo identificarlo https://t.co/wXxKdHsHtc",
-   "original_en": "Seremi de Salud decreta alerta por listeria en paté de cerdo en Ñuble y Biobío: revisa la marca y cómo identificarlo https://t.co/wXxKdHsHtc",
-   "highlight": true,
-   "created_at": "2026-10-28T14:14:00.000Z",
-   "window": "24h",
-   "draft_en": "[R2 · respuesta] Dato útil para Ñuble y Biobío: la alerta es por el paté de cerdo de Cecinas Tres Torres, producción del 16 de octubre, vencimiento 10 de noviembre. No hay que consumirlo aunque esté dentro de la fecha.\n\nEl riesgo de un cuadro grave es mayor en embarazadas, recién nacidos, adultos mayores y personas inmunodeprimidas o con enfermedades crónicas. Puede partir como un cuadro febril o gastrointestinal, así que si lo comiste y tienes fiebre, dolores musculares, náuseas o diarrea, consulta y cuenta que lo comiste.\n\nUn dato que sirve más allá de esta alerta: el CDC de EE.UU. incluye el paté refrigerado entre los alimentos que conviene evitar en embarazadas, mayores de 65 y personas con defensas bajas. Para ellos, la opción más segura es el paté en envase sellado que no necesita refrigeración antes de abrirse.\n\nFuente: https://adnradio.cl/2026/10/28/seremi-de-salud-decreta-alerta-por-listeria-en-pate-de-cerdo-en-nuble-y-biobio-revisa-la-marca-y-como-identificarlo/ · https://www.cdc.gov/listeria/prevention/index.html",
-   "draft_keywords": [
-    "Alerta listeria en paté (Ñuble y Biobío)"
-   ],
-   "why_hit": "Objetivo de respuesta R2 (Alerta listeria en paté (Ñuble y Biobío)). Base verificada: ADN/Seremi Ñuble: paté de cerdo Cecinas Tres Torres, producción 16-oct-2026, vence 10-nov-2026; mayor riesgo embarazadas, recién nacidos, adultos mayores, inmunodeprimidos; CDC lista el paté refrigerado entre los alimentos a evitar en grupos de riesgo.",
-   "hook": "Dato útil para Ñuble y Biobío: la alerta es por el paté de cerdo de Cecinas Tres Torres, producción del 16 de octubre, v",
-   "top10_rank": 4
   },
   {
    "name": "ErickSky",
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 10878,
-   "likes": 89,
-   "replies": 12,
-   "reposts": 3,
-   "url": "https://x.com/ErickSky/status/2115441388183580772",
-   "status_url": "https://x.com/ErickSky/status/2115441388183580772",
-   "text": "Por qué Apple saca un teléfono que no cumple con sus estándares de excelencia? Es que de verdad no lo puedo entender https://t.co/uUlmbQj4bz",
-   "original_en": "Por qué Apple saca un teléfono que no cumple con sus estándares de excelencia? Es que de verdad no lo puedo entender https://t.co/uUlmbQj4bz",
+   "views": 25678,
+   "likes": 402,
+   "replies": 23,
+   "reposts": 13,
+   "url": "https://x.com/ErickSky/status/2115900141924429941",
+   "status_url": "https://x.com/ErickSky/status/2115900141924429941",
+   "text": "Chicos, quieren un aumento en sus trabajos??\n\nDíganle a sus jefes que salgan de Claude y contraten esto 🤗 https://t.co/DXBGxBrS0k",
+   "original_en": "Chicos, quieren un aumento en sus trabajos??\n\nDíganle a sus jefes que salgan de Claude y contraten esto 🤗 https://t.co/DXBGxBrS0k",
    "highlight": true,
-   "created_at": "2026-10-28T13:51:44.000Z",
+   "created_at": "2026-10-29T20:14:40.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 16951,
+   "likes": 115,
+   "replies": 6,
+   "reposts": 4,
+   "url": "https://x.com/ErickSky/status/2115933234932465884",
+   "status_url": "https://x.com/ErickSky/status/2115933234932465884",
+   "text": "Lo que realmente está pasando:\n\nEn 20 minutos se vaciaron hot wallets de Binance por $2.8-3.3 mil millones. Una sola tx de “Binance 14” movió 167k ETH + $1.615B en USDT + 60 tokens más. Después salieron otros $780M en USDC del mismo origen.\n\nLa dirección receptora era nueva, https://t.co/sKBiuSgba7",
+   "original_en": "Lo que realmente está pasando:\n\nEn 20 minutos se vaciaron hot wallets de Binance por $2.8-3.3 mil millones. Una sola tx de “Binance 14” movió 167k ETH + $1.615B en USDT + 60 tokens más. Después salieron otros $780M en USDC del mismo origen.\n\nLa dirección receptora era nueva, https://t.co/sKBiuSgba7",
+   "highlight": true,
+   "created_at": "2026-10-29T22:26:10.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 16249,
+   "likes": 210,
+   "replies": 3,
+   "reposts": 9,
+   "url": "https://x.com/ErickSky/status/2116118125905121527",
+   "status_url": "https://x.com/ErickSky/status/2116118125905121527",
+   "text": "MIERDA FUE EL DE SOLO LEVELING https://t.co/D3jLuNF2oz",
+   "original_en": "MIERDA FUE EL DE SOLO LEVELING https://t.co/D3jLuNF2oz",
+   "highlight": true,
+   "created_at": "2026-10-30T10:40:51.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 14240,
+   "likes": 188,
+   "replies": 9,
+   "reposts": 12,
+   "url": "https://x.com/ErickSky/status/2115933586130149559",
+   "status_url": "https://x.com/ErickSky/status/2115933586130149559",
+   "text": "Estamos hablando del robo más grande de la historia de la humanidad chicos, de esto se harán películas!!",
+   "original_en": "Estamos hablando del robo más grande de la historia de la humanidad chicos, de esto se harán películas!!",
+   "highlight": true,
+   "created_at": "2026-10-29T22:27:33.000Z",
    "window": "24h"
   },
   {
@@ -226,16 +185,40 @@
    "display_name": "freddier",
    "handle": "@freddier",
    "area": "ai",
-   "views": 10156,
-   "likes": 213,
-   "replies": 8,
-   "reposts": 10,
-   "url": "https://x.com/freddier/status/2115551640560566624",
-   "status_url": "https://x.com/freddier/status/2115551640560566624",
-   "text": "Not yet available. \nBetter than Opus 5.5 (on benchmarks)\n\nBut. #1 in Artificial Analysis v5. That’s a big deal. https://t.co/eH41GfQdkg",
-   "original_en": "Not yet available. \nBetter than Opus 5.5 (on benchmarks)\n\nBut. #1 in Artificial Analysis v5. That’s a big deal. https://t.co/eH41GfQdkg",
+   "views": 14229,
+   "likes": 217,
+   "replies": 28,
+   "reposts": 11,
+   "url": "https://x.com/freddier/status/2115870208296690154",
+   "status_url": "https://x.com/freddier/status/2115870208296690154",
+   "text": "AI can do magic.\nBut it's not exactly what you want.\nSo, you build rules, code, guidance. A \"harness\". \n\nIt works, but it needs polish.\nYou polish, and polish, and polish.\nIt gets better.\n\nNew model release.\nIt's incredible. More powerful.\nMakes your harness obsolete.\nYou let",
+   "original_en": "AI can do magic.\nBut it's not exactly what you want.\nSo, you build rules, code, guidance. A \"harness\". \n\nIt works, but it needs polish.\nYou polish, and polish, and polish.\nIt gets better.\n\nNew model release.\nIt's incredible. More powerful.\nMakes your harness obsolete.\nYou let",
    "highlight": true,
-   "created_at": "2026-10-28T21:09:50.000Z",
+   "created_at": "2026-10-29T18:15:43.000Z",
+   "window": "24h",
+   "draft_en": "[R4 · respuesta] The part worth keeping between model releases isn't the harness itself. It's what you learned while building it: examples of what \"good\" looks like, the mistakes it kept making, and the checks that caught them.\n\nPrompts and workarounds age fast. A short set of real test cases and a clear definition of done don't. When a new model lands, you run it against those, and within an hour you know which pieces of scaffolding you can drop and which ones still earn their place.\n\nThat's the loop in your post: the magic keeps changing, but the definition of what you actually want shouldn't.",
+   "draft_keywords": [
+    "What survives a new model release (harness)"
+   ],
+   "why_hit": "Objetivo de respuesta R4 (What survives a new model release (harness)). Base verificada: No figures.",
+   "hook": "The part worth keeping between model releases isn't the harness itself. It's what you learned while building it: example",
+   "top10_rank": 4
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 9755,
+   "likes": 10,
+   "replies": 1,
+   "reposts": 2,
+   "url": "https://x.com/adnradiochile/status/2115990823619776566",
+   "status_url": "https://x.com/adnradiochile/status/2115990823619776566",
+   "text": "“Un año raro y movido”: el desgarrador y doble drama familiar por cáncer que golpea a conocido actor chileno\nhttps://t.co/uZO4ii4dZN",
+   "original_en": "“Un año raro y movido”: el desgarrador y doble drama familiar por cáncer que golpea a conocido actor chileno\nhttps://t.co/uZO4ii4dZN",
+   "highlight": true,
+   "created_at": "2026-10-30T02:15:00.000Z",
    "window": "24h"
   },
   {
@@ -243,33 +226,50 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 9812,
-   "likes": 140,
-   "replies": 17,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2115507151397433539",
-   "status_url": "https://x.com/ErickSky/status/2115507151397433539",
-   "text": "YA VA QUE!? COMO QUE GEMINI CARBON???? https://t.co/bBmAZqRVNL",
-   "original_en": "YA VA QUE!? COMO QUE GEMINI CARBON???? https://t.co/bBmAZqRVNL",
-   "highlight": true,
-   "created_at": "2026-10-28T18:13:03.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 9734,
-   "likes": 143,
+   "views": 5239,
+   "likes": 114,
    "replies": 7,
    "reposts": 2,
-   "url": "https://x.com/ErickSky/status/2115508041520951737",
-   "status_url": "https://x.com/ErickSky/status/2115508041520951737",
-   "text": "Para bien o para mal, los gringos no conocen WhatsApp https://t.co/iNKmKvuKNy",
-   "original_en": "Para bien o para mal, los gringos no conocen WhatsApp https://t.co/iNKmKvuKNy",
+   "url": "https://x.com/ErickSky/status/2115874211294236951",
+   "status_url": "https://x.com/ErickSky/status/2115874211294236951",
+   "text": "Va a llegar un momento en el que Claude no te podrá responder ni la hora porque podría ofender a otros husos horarios 😭 https://t.co/c2Pu7G2JPj",
+   "original_en": "Va a llegar un momento en el que Claude no te podrá responder ni la hora porque podría ofender a otros husos horarios 😭 https://t.co/c2Pu7G2JPj",
    "highlight": true,
-   "created_at": "2026-10-28T18:16:35.000Z",
+   "created_at": "2026-10-29T18:31:37.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 3703,
+   "likes": 20,
+   "replies": 3,
+   "reposts": 0,
+   "url": "https://x.com/ErickSky/status/2116117361887445397",
+   "status_url": "https://x.com/ErickSky/status/2116117361887445397",
+   "text": "BOOM! https://t.co/D2L2H3LWB5",
+   "original_en": "BOOM! https://t.co/D2L2H3LWB5",
+   "highlight": false,
+   "created_at": "2026-10-30T10:37:49.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 3637,
+   "likes": 152,
+   "replies": 0,
+   "reposts": 4,
+   "url": "https://x.com/ErickSky/status/2115865135436673531",
+   "status_url": "https://x.com/ErickSky/status/2115865135436673531",
+   "text": "Ojalá la versión pro le haga honores a la versión flash (casi nunca pasa) https://t.co/vikJQfHO30",
+   "original_en": "Ojalá la versión pro le haga honores a la versión flash (casi nunca pasa) https://t.co/vikJQfHO30",
+   "highlight": false,
+   "created_at": "2026-10-29T17:55:33.000Z",
    "window": "24h"
   },
   {
@@ -277,230 +277,116 @@
    "display_name": "adnradiochile",
    "handle": "@adnradiochile",
    "area": "health",
-   "views": 9718,
-   "likes": 7,
+   "views": 3089,
+   "likes": 3,
    "replies": 0,
    "reposts": 3,
-   "url": "https://x.com/adnradiochile/status/2115638502037619155",
-   "status_url": "https://x.com/adnradiochile/status/2115638502037619155",
-   "text": "Tragedia por uso de IA: mujer muere tras pedirle a ChatGPT consejos para reducir sus remedios\nhttps://t.co/EMiJmbw2yZ",
-   "original_en": "Tragedia por uso de IA: mujer muere tras pedirle a ChatGPT consejos para reducir sus remedios\nhttps://t.co/EMiJmbw2yZ",
-   "highlight": true,
-   "created_at": "2026-10-29T02:55:00.000Z",
-   "window": "24h",
-   "draft_en": "[R1 · respuesta] Lo central de este caso no es la tecnología, es una regla que vale con o sin IA: un antiepiléptico no se baja ni se suspende sin hablarlo con quien lo indicó. Su propio neurólogo dijo al New York Times que nunca le habría aconsejado dejarlo.\n\nUn chatbot puede ayudar a preparar preguntas para el control, entender un examen o recordar horarios. Lo que no puede es conocer tu historia completa, ver cómo respondiste a cada ajuste anterior ni hacerse cargo de la decisión.\n\nEs un buen momento para revisar en casa quién toma remedios crónicos y recordar algo simple: cualquier cambio de dosis se conversa primero con quien lo indicó.\n\nFuente: https://www.adnradio.cl/2026/10/28/tragedia-por-uso-de-ia-mujer-muere-tras-pedirle-a-chatgpt-consejos-para-reducir-sus-remedios/",
-   "draft_keywords": [
-    "IA y cambios de medicamentos (caso Bowen Wan)"
-   ],
-   "why_hit": "Objetivo de respuesta R1 (IA y cambios de medicamentos (caso Bowen Wan)). Base verificada: ADN 28-oct (vía NYT): Bowen Wan, 31 años, epilepsia; ChatGPT le habría recomendado reducir sus antiepilépticos; su neurólogo Nicholas Poolos dijo que jamás le habría aconsejado dejarlo; padres demandan a OpenAI.",
-   "hook": "Lo central de este caso no es la tecnología, es una regla que vale con o sin IA: un antiepiléptico no se baja ni se susp",
-   "top10_rank": 5
+   "url": "https://x.com/adnradiochile/status/2115808874863407288",
+   "status_url": "https://x.com/adnradiochile/status/2115808874863407288",
+   "text": "Es la carrera universitaria con más titulaciones en Chile y ahora cuenta con herramienta IA para fortalecer su formación https://t.co/18HZPlsIlX",
+   "original_en": "Es la carrera universitaria con más titulaciones en Chile y ahora cuenta con herramienta IA para fortalecer su formación https://t.co/18HZPlsIlX",
+   "highlight": false,
+   "created_at": "2026-10-29T14:12:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 2811,
+   "likes": 1,
+   "replies": 1,
+   "reposts": 1,
+   "url": "https://x.com/adnradiochile/status/2115979503323262991",
+   "status_url": "https://x.com/adnradiochile/status/2115979503323262991",
+   "text": "Alerta a postulantes PAES: 6 claves para usar la IA a tu favor sin que decida por ti antes de ingresar a la universidad https://t.co/jNOwXLUauv",
+   "original_en": "Alerta a postulantes PAES: 6 claves para usar la IA a tu favor sin que decida por ti antes de ingresar a la universidad https://t.co/jNOwXLUauv",
+   "highlight": false,
+   "created_at": "2026-10-30T01:30:01.000Z",
+   "window": "24h"
   },
   {
    "name": "ErickSky",
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 6847,
-   "likes": 129,
-   "replies": 2,
-   "reposts": 11,
-   "url": "https://x.com/ErickSky/status/2115439892540821925",
-   "status_url": "https://x.com/ErickSky/status/2115439892540821925",
-   "text": "El misterioso @Prof_Oak_ se acaba de doxear y resulta que es Cody Tranbarger. El tipo llevaba 6 años posteando en anonimato sobre biopharma mientras armaba, solo, una biotech para atacar una enfermedad muscular rara y brutal que afecta a niños.\n\nLa enfermedad se llama LAMA2-CMD. https://t.co/J6uqVNd61j",
-   "original_en": "El misterioso @Prof_Oak_ se acaba de doxear y resulta que es Cody Tranbarger. El tipo llevaba 6 años posteando en anonimato sobre biopharma mientras armaba, solo, una biotech para atacar una enfermedad muscular rara y brutal que afecta a niños.\n\nLa enfermedad se llama LAMA2-CMD. https://t.co/J6uqVNd61j",
-   "highlight": true,
-   "created_at": "2026-10-28T13:45:48.000Z",
-   "window": "24h",
-   "draft_en": "[R5 · respuesta] Lo que más me llamó la atención del post original de Cody Tranbarger es su apuesta: no cree que la IA vaya a curar enfermedades comprimiendo plazos, sino quitándole al investigador el peso de coordinar, para que pueda llevar varios programas y concentrarse en las decisiones científicas.\n\nEso tiene especial sentido en enfermedades raras como la LAMA2-CMD, con pocos pacientes, pocos grupos trabajando y programas que dependen de muy pocas personas. Si una sola persona puede sostener lo que antes exigía un equipo completo de gestión, pueden aparecer programas que antes no habrían partido.\n\nLo que no cambia es la parte lenta y necesaria: demostrar en personas que funciona y que es seguro. Ahí el criterio sigue siendo humano, y está bien que así sea.\n\nFuente: https://x.com/Prof_Oak_/status/2115185849424048564",
-   "draft_keywords": [
-    "Prof Oak: biotech de una persona + Claude (LAMA2-CMD)"
-   ],
-   "why_hit": "Objetivo de respuesta R5 (Prof Oak: biotech de una persona + Claude (LAMA2-CMD)). Base verificada: Post de Cody Tranbarger: Anthropic adquirió Mithril (bsAbs para LAMA2-CMD); su tesis: la IA rinde hoy en orquestación y paralelización, no en comprimir plazos; los investigadores ven pocas decisiones go/no-go en su carrera.",
-   "hook": "Lo que más me llamó la atención del post original de Cody Tranbarger es su apuesta: no cree que la IA vaya a curar enfer",
-   "top10_rank": 6
+   "views": 2340,
+   "likes": 10,
+   "replies": 3,
+   "reposts": 0,
+   "url": "https://x.com/ErickSky/status/2115943498041917915",
+   "status_url": "https://x.com/ErickSky/status/2115943498041917915",
+   "text": "EL DIABLASOOOO https://t.co/7wgw6IuVyI",
+   "original_en": "EL DIABLASOOOO https://t.co/7wgw6IuVyI",
+   "highlight": false,
+   "created_at": "2026-10-29T23:06:56.000Z",
+   "window": "24h"
   },
   {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
+   "name": "DotCSV",
+   "display_name": "DotCSV",
+   "handle": "@DotCSV",
    "area": "ai",
-   "views": 3922,
-   "likes": 90,
+   "views": 2258,
+   "likes": 26,
    "replies": 16,
    "reposts": 0,
-   "url": "https://x.com/ErickSky/status/2115759349146566717",
-   "status_url": "https://x.com/ErickSky/status/2115759349146566717",
-   "text": "Nos parece normal que a estás alturas Anthropic aún no haya nerfeado a Opus 5.5 y que siga rindiendo bien??\n\nA mí me parece insólito, algun pacto con el diablo habrán hecho...",
-   "original_en": "Nos parece normal que a estás alturas Anthropic aún no haya nerfeado a Opus 5.5 y que siga rindiendo bien??\n\nA mí me parece insólito, algun pacto con el diablo habrán hecho...",
+   "url": "https://x.com/DotCSV/status/2116160239309332870",
+   "status_url": "https://x.com/DotCSV/status/2116160239309332870",
+   "text": "¿Hay alguna tarea que hagáis en frente de una pantalla que aún los modelos actuales NO PUEDAN RESOLVER? \n\nNo digo resolverlas one-shot, pero que con skills y especificándole cómo hacerlas, aún no sean capaces de hacerla correctamente.",
+   "original_en": "¿Hay alguna tarea que hagáis en frente de una pantalla que aún los modelos actuales NO PUEDAN RESOLVER? \n\nNo digo resolverlas one-shot, pero que con skills y especificándole cómo hacerlas, aún no sean capaces de hacerla correctamente.",
    "highlight": false,
-   "created_at": "2026-10-29T10:55:12.000Z",
-   "window": "24h"
+   "created_at": "2026-10-30T13:28:12.000Z",
+   "window": "24h",
+   "draft_en": "[R5 · respuesta] Al menos en salud, las que todavía fallan no son de capacidad sino de contexto: tareas donde lo importante no está en la pantalla. Por ejemplo, notar que en una ficha falta un dato que debería estar, o que dos documentos que se ven correctos chocan con algo que el paciente contó en voz alta.\n\nCon skills e instrucciones claras resuelven muy bien lo que está escrito. Lo difícil sigue siendo saber qué no está y decidir cuándo parar a preguntar en vez de completar con lo más probable.\n\nY ese punto es el que más pesa: un modelo que rellena un vacío con algo verosímil es más riesgoso que uno que dice «me falta este dato».",
+   "draft_keywords": [
+    "Lo que aún no resuelven: lo que no está en la pantalla"
+   ],
+   "why_hit": "Objetivo de respuesta R5 (Lo que aún no resuelven: lo que no está en la pantalla). Base verificada: Sin cifras.",
+   "hook": "Al menos en salud, las que todavía fallan no son de capacidad sino de contexto: tareas donde lo importante no está en la",
+   "top10_rank": 5
   },
   {
    "name": "ministeriosalud",
    "display_name": "ministeriosalud",
    "handle": "@ministeriosalud",
    "area": "health",
-   "views": 3591,
-   "likes": 4,
-   "replies": 2,
-   "reposts": 5,
-   "url": "https://x.com/ministeriosalud/status/2115482063210004661",
-   "status_url": "https://x.com/ministeriosalud/status/2115482063210004661",
-   "text": "Desde el Cesfam Las Mercedes, la subsecretaria de Salud Pública, Alejandra Pizarro, llegó para reforzar el llamado a poner al día a los niños y niñas que les falta una o dos dosis de la vacuna contra el sarampión, considerando que en la región de las Américas se reportan más de https://t.co/LwpnyIT3gf",
-   "original_en": "Desde el Cesfam Las Mercedes, la subsecretaria de Salud Pública, Alejandra Pizarro, llegó para reforzar el llamado a poner al día a los niños y niñas que les falta una o dos dosis de la vacuna contra el sarampión, considerando que en la región de las Américas se reportan más de https://t.co/LwpnyIT3gf",
+   "views": 2190,
+   "likes": 14,
+   "replies": 1,
+   "reposts": 14,
+   "url": "https://x.com/ministeriosalud/status/2115810783896461478",
+   "status_url": "https://x.com/ministeriosalud/status/2115810783896461478",
+   "text": "Reconocer los síntomas del ACV y actuar a tiempo puede salvar vidas 🚨\n\nAcude a urgencias si presentas aunque sea uno de ellos o llama al SAMU 131 si no puedes acudir por tu cuenta. https://t.co/0dIRBQZmY1",
+   "original_en": "Reconocer los síntomas del ACV y actuar a tiempo puede salvar vidas 🚨\n\nAcude a urgencias si presentas aunque sea uno de ellos o llama al SAMU 131 si no puedes acudir por tu cuenta. https://t.co/0dIRBQZmY1",
    "highlight": false,
-   "created_at": "2026-10-28T16:33:22.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "Cooperativa",
-   "display_name": "Cooperativa",
-   "handle": "@Cooperativa",
-   "area": "health",
-   "views": 2739,
-   "likes": 4,
-   "replies": 0,
-   "reposts": 1,
-   "url": "https://x.com/Cooperativa/status/2115527207930200240",
-   "status_url": "https://x.com/Cooperativa/status/2115527207930200240",
-   "text": "De Chile a Silicon Valley: Joven ingeniero destaca en la industria de la IA en Estados Unidos https://t.co/76MYvBHg2P",
-   "original_en": "De Chile a Silicon Valley: Joven ingeniero destaca en la industria de la IA en Estados Unidos https://t.co/76MYvBHg2P",
-   "highlight": false,
-   "created_at": "2026-10-28T19:32:45.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2700,
-   "likes": 36,
-   "replies": 3,
-   "reposts": 0,
-   "url": "https://x.com/ErickSky/status/2115462661018099739",
-   "status_url": "https://x.com/ErickSky/status/2115462661018099739",
-   "text": "Viene la MacBook a salvar está compañía https://t.co/XCxRqamxEt",
-   "original_en": "Viene la MacBook a salvar está compañía https://t.co/XCxRqamxEt",
-   "highlight": false,
-   "created_at": "2026-10-28T15:16:16.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2630,
-   "likes": 34,
-   "replies": 4,
-   "reposts": 5,
-   "url": "https://x.com/ErickSky/status/2115628756291195041",
-   "status_url": "https://x.com/ErickSky/status/2115628756291195041",
-   "text": "Chicos, ¿se acuerdan de este post?\n\nBueno, lo estuve armando como side-quest y resulta que hay una cantidad absurda de burocracia, papeleo, restricciones y fricción que hacen que algo tan simple como un crowd-funding o donación se vuelva un dolor de cabeza. \n\nClaro que se podría https://t.co/Po4jGf8B7q",
-   "original_en": "Chicos, ¿se acuerdan de este post?\n\nBueno, lo estuve armando como side-quest y resulta que hay una cantidad absurda de burocracia, papeleo, restricciones y fricción que hacen que algo tan simple como un crowd-funding o donación se vuelva un dolor de cabeza. \n\nClaro que se podría https://t.co/Po4jGf8B7q",
-   "highlight": false,
-   "created_at": "2026-10-29T02:16:16.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 2487,
-   "likes": 0,
-   "replies": 0,
-   "reposts": 1,
-   "url": "https://x.com/adnradiochile/status/2115602014084419626",
-   "status_url": "https://x.com/adnradiochile/status/2115602014084419626",
-   "text": "Minsal cifra en más de 140 mil los niños que aún no completan su vacunación contra el sarampión en Chile https://t.co/t3Wu08scvn",
-   "original_en": "Minsal cifra en más de 140 mil los niños que aún no completan su vacunación contra el sarampión en Chile https://t.co/t3Wu08scvn",
-   "highlight": false,
-   "created_at": "2026-10-29T00:30:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "sergiorocaa",
-   "display_name": "sergiorocaa",
-   "handle": "@sergiorocaa",
-   "area": "ai",
-   "views": 2377,
-   "likes": 48,
-   "replies": 0,
-   "reposts": 6,
-   "url": "https://x.com/sergiorocaa/status/2115743183980109921",
-   "status_url": "https://x.com/sergiorocaa/status/2115743183980109921",
-   "text": "Este usuario se pasó una hora grabando cómo usar Claude Code desde cero, para gente que jamás ha tocado una línea de código.\n\nNada de teoría rara: ejemplos reales, proyectos paso a paso y los errores típicos que te ahorras si los ves antes.\n\nAquí lo tienes",
-   "original_en": "Este usuario se pasó una hora grabando cómo usar Claude Code desde cero, para gente que jamás ha tocado una línea de código.\n\nNada de teoría rara: ejemplos reales, proyectos paso a paso y los errores típicos que te ahorras si los ves antes.\n\nAquí lo tienes",
-   "highlight": false,
-   "created_at": "2026-10-29T09:50:58.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "Cooperativa",
-   "display_name": "Cooperativa",
-   "handle": "@Cooperativa",
-   "area": "health",
-   "views": 2338,
-   "likes": 3,
-   "replies": 0,
-   "reposts": 3,
-   "url": "https://x.com/Cooperativa/status/2115604214860624365",
-   "status_url": "https://x.com/Cooperativa/status/2115604214860624365",
-   "text": "Tras detectar y vacunar a 44 mil niños rezagados, Minsal llamó a completar esquema contra el sarampión https://t.co/LYrIxkzNFG https://t.co/zi6ovEOCg6",
-   "original_en": "Tras detectar y vacunar a 44 mil niños rezagados, Minsal llamó a completar esquema contra el sarampión https://t.co/LYrIxkzNFG https://t.co/zi6ovEOCg6",
-   "highlight": false,
-   "created_at": "2026-10-29T00:38:45.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2223,
-   "likes": 41,
-   "replies": 5,
-   "reposts": 0,
-   "url": "https://x.com/ErickSky/status/2115524468462207117",
-   "status_url": "https://x.com/ErickSky/status/2115524468462207117",
-   "text": "Muy bien por Google  https://t.co/o5q6sJL18s",
-   "original_en": "Muy bien por Google  https://t.co/o5q6sJL18s",
-   "highlight": false,
-   "created_at": "2026-10-28T19:21:52.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "Cooperativa",
-   "display_name": "Cooperativa",
-   "handle": "@Cooperativa",
-   "area": "health",
-   "views": 2036,
-   "likes": 1,
-   "replies": 0,
-   "reposts": 4,
-   "url": "https://x.com/Cooperativa/status/2115554056642978198",
-   "status_url": "https://x.com/Cooperativa/status/2115554056642978198",
-   "text": "Pediatras objetan exclusión de lactancia materna desde metas de salud primaria 2027 https://t.co/yO4A5saHDw https://t.co/J2etoxMdQJ",
-   "original_en": "Pediatras objetan exclusión de lactancia materna desde metas de salud primaria 2027 https://t.co/yO4A5saHDw https://t.co/J2etoxMdQJ",
-   "highlight": false,
-   "created_at": "2026-10-28T21:19:26.000Z",
-   "window": "24h"
+   "created_at": "2026-10-29T14:19:35.000Z",
+   "window": "24h",
+   "draft_en": "[R6 · respuesta] Un síntoma que se suele pasar por alto: la pérdida brusca de visión en un ojo, sin dolor. Puede ser una oclusión de la arteria central de la retina, que la American Heart Association define como una forma de ACV.\n\nNecesita el mismo camino que cualquier ACV: ir a urgencias de inmediato, no pedir hora con el oftalmólogo para la semana siguiente. Los tratamientos en estudio tienen una ventana de pocas horas.\n\nY aunque la visión vuelva a los pocos minutos, hay que consultar ese mismo día, porque puede ser el aviso de un ACV cerebral.\n\nFuente: American Heart Association, Stroke 2021 (Mac Grory et al.).\n\nFuente: https://newsroom.heart.org/news/stroke-affecting-the-eye-requires-immediate-treatment-can-signal-future-vascular-events · https://www.ahajournals.org/doi/full/10.1161/STR.0000000000000366",
+   "draft_keywords": [
+    "ACV que afecta al ojo (oclusión de arteria central de la retina)"
+   ],
+   "why_hit": "Objetivo de respuesta R6 (ACV que afecta al ojo (oclusión de arteria central de la retina)). Base verificada: AHA, Stroke 2021 (Mac Grory et al.): la oclusión de la arteria central de la retina es una forma de ACV isquémico agudo y una emergencia; pérdida de visión brusca e indolora; menos de 20% recupera visión funcional; ventana corta de tratamiento.",
+   "hook": "Un síntoma que se suele pasar por alto: la pérdida brusca de visión en un ojo, sin dolor. Puede ser una oclusión de la a",
+   "top10_rank": 6
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Lanzamientos verticales de IA: Claude for Legal y Claude for Small Business",
-  "Nuevos modelos y benchmarks: Gemini 4 Carbon (anuncio sin acceso)",
-  "El rol profesional cambia: criterio humano por sobre volumen (nota de Amazon)",
-  "IA y biotech: compañía de una persona + Claude adquirida por Anthropic (LAMA2-CMD)",
-  "Salud Chile: alerta de listeria en paté (Ñuble y Biobío), sarampión rezagados, caso ChatGPT y antiepilépticos"
+  "Seguridad y cripto dominan el volumen (hackeo a Binance), fuera de la línea de RT",
+  "El rol profesional con IA: evaluar criterio en vez de memoria; responsabilidad sobre sistemas críticos",
+  "Agentes de voz full-duplex que actúan mientras la persona habla (Phonic-1)",
+  "El ciclo harness-modelo nuevo: qué conservar entre versiones",
+  "Salud Chile: síntomas de ACV (Minsal), IA en la PAES y en la formación universitaria (ADN), estudio de Google sobre IA personal en el trabajo (Cooperativa)"
  ],
  "no_hits": [
+  {
+   "handle": "@sergiorocaa",
+   "max_views": 1066,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.066."
+  },
   {
    "handle": "@bilinkis",
    "max_views": 0,
@@ -508,13 +394,13 @@
   },
   {
    "handle": "@Pajarobere",
-   "max_views": 1654,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.654."
+   "max_views": 0,
+   "reason": "Sin originales en las últimas 24h."
   },
   {
    "handle": "@juancarlossaid",
-   "max_views": 395,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 395."
+   "max_views": 0,
+   "reason": "Sin originales en las últimas 24h."
   },
   {
    "handle": "@CatuRojas",
@@ -523,8 +409,13 @@
   },
   {
    "handle": "@HeliaMolina_M",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "max_views": 261,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 261."
+  },
+  {
+   "handle": "@Cooperativa",
+   "max_views": 1817,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.817."
   },
   {
    "handle": "@jmanalich",
@@ -534,12 +425,12 @@
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 26,
+ "hits_count": 19,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-10-28",
-  "hits_count": 174,
-  "total_views": 4151605
+  "date": "2026-10-29",
+  "hits_count": 26,
+  "total_views": 527501
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -607,47 +498,20 @@
  },
  "day_roster": [
   {
-   "handle": "@midudev",
-   "name": "midudev",
-   "area": "ai",
-   "views": 112776,
-   "total_views": 195873,
-   "hit": true,
-   "window": "24h"
-  },
-  {
    "handle": "@ErickSky",
    "name": "ErickSky",
    "area": "ai",
-   "views": 69623,
-   "total_views": 159388,
+   "views": 143192,
+   "total_views": 322098,
    "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@DotCSV",
-   "name": "DotCSV",
+   "handle": "@midudev",
+   "name": "midudev",
    "area": "ai",
-   "views": 54060,
-   "total_views": 89549,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@sergiorocaa",
-   "name": "sergiorocaa",
-   "area": "ai",
-   "views": 37713,
-   "total_views": 43865,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@adnradiochile",
-   "name": "adnradiochile",
-   "area": "health",
-   "views": 13690,
-   "total_views": 38742,
+   "views": 97676,
+   "total_views": 163996,
    "hit": true,
    "window": "24h"
   },
@@ -655,8 +519,17 @@
    "handle": "@freddier",
    "name": "freddier",
    "area": "ai",
-   "views": 10156,
-   "total_views": 10156,
+   "views": 47044,
+   "total_views": 61273,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@adnradiochile",
+   "name": "adnradiochile",
+   "area": "health",
+   "views": 9755,
+   "total_views": 17310,
    "hit": true,
    "window": "24h"
   },
@@ -664,8 +537,17 @@
    "handle": "@ministeriosalud",
    "name": "ministeriosalud",
    "area": "health",
-   "views": 3591,
-   "total_views": 7135,
+   "views": 2296,
+   "total_views": 5352,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@DotCSV",
+   "name": "DotCSV",
+   "area": "ai",
+   "views": 2258,
+   "total_views": 2258,
    "hit": true,
    "window": "24h"
   },
@@ -673,26 +555,26 @@
    "handle": "@Cooperativa",
    "name": "Cooperativa",
    "area": "health",
-   "views": 2739,
-   "total_views": 23413,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@Pajarobere",
-   "name": "Pajarobere",
-   "area": "health",
-   "views": 1654,
-   "total_views": 2480,
+   "views": 1817,
+   "total_views": 4889,
    "hit": false,
    "window": "24h"
   },
   {
-   "handle": "@juancarlossaid",
-   "name": "juancarlossaid",
+   "handle": "@sergiorocaa",
+   "name": "sergiorocaa",
+   "area": "ai",
+   "views": 1066,
+   "total_views": 5449,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@HeliaMolina_M",
+   "name": "HeliaMolina_M",
    "area": "health",
-   "views": 395,
-   "total_views": 683,
+   "views": 261,
+   "total_views": 261,
    "hit": false,
    "window": "24h"
   },
@@ -706,8 +588,8 @@
    "window": "24h"
   },
   {
-   "handle": "@CatuRojas",
-   "name": "CatuRojas",
+   "handle": "@Pajarobere",
+   "name": "Pajarobere",
    "area": "health",
    "views": 0,
    "total_views": 0,
@@ -715,8 +597,17 @@
    "window": "24h"
   },
   {
-   "handle": "@HeliaMolina_M",
-   "name": "HeliaMolina_M",
+   "handle": "@juancarlossaid",
+   "name": "juancarlossaid",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@CatuRojas",
+   "name": "CatuRojas",
    "area": "health",
    "views": 0,
    "total_views": 0,
@@ -797,62 +688,54 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "Claude"
+    "keyword": "código"
    },
    {
     "rank": 2,
-    "keyword": "Gemini 4 Carbon"
+    "keyword": "agentes de voz"
    },
    {
     "rank": 3,
-    "keyword": "Opus 5.5"
+    "keyword": "Claude"
    },
    {
     "rank": 4,
-    "keyword": "benchmarks"
+    "keyword": "entrevistas técnicas"
    },
    {
     "rank": 5,
-    "keyword": "Claude for Legal"
+    "keyword": "harness"
    },
    {
     "rank": 6,
-    "keyword": "Claude for Small Business"
+    "keyword": "responsabilidad"
    },
    {
     "rank": 7,
-    "keyword": "Amazon / rol del desarrollador"
+    "keyword": "IA en la PAES"
    },
    {
     "rank": 8,
-    "keyword": "Seedance 2.5"
+    "keyword": "ACV"
    },
    {
     "rank": 9,
-    "keyword": "listeria"
+    "keyword": "alfabetización en IA"
    },
    {
     "rank": 10,
-    "keyword": "sarampión"
-   },
-   {
-    "rank": 11,
-    "keyword": "ChatGPT y medicamentos"
-   },
-   {
-    "rank": 12,
-    "keyword": "biotech + IA"
+    "keyword": "agentes personales (Shadow AI)"
    }
   ],
-  "note": "Minadas de originales 24h (frecuencia y vistas), depuradas a mano; temas político-partidistas excluidos."
+  "note": "Minadas y depuradas de originales 24h; Binance/cripto y temas político-partidistas excluidos."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 29-10-2026: 6 respuestas (R1–R6) y 2 originales (P1–P2) en borrador para aprobación; nada publicado.",
-   "takeaway": "Mayor tracción IA: midudev (112,8K, Amazon y el nuevo rol del desarrollador), ErickSky (69,6K Seedance; 36,9K Claude for Legal), DotCSV (54,1K trenes; 35,5K Gemini 4 Carbon) y sergiorocaa (37,7K Claude for Small Business). Salud: ADN con alerta de listeria en paté (13,7K) y el caso de ChatGPT y antiepilépticos (9,7K); Minsal y medios con sarampión (2,3–3,6K). Sin originales de bilinkis, CatuRojas, HeliaMolina_M ni jmanalich en 24h."
+   "headline": "Digest 30-10-2026: 6 respuestas (R1–R6) y 2 originales (P1–P2) en borrador para aprobación; nada publicado.",
+   "takeaway": "Mayor tracción IA: ErickSky (143,2K, hackeo a Binance; 76K agentes de voz Phonic-1), midudev (97,7K entrevistas de código muertas; 66,3K generar rápido no es asumir un sistema crítico), freddier (47K Binance; 14,2K el ciclo del harness). Salud: ADN con IA en la PAES y en la formación universitaria (2,8–3,1K) y Minsal con síntomas de ACV (2,2K). Sin originales de bilinkis, Pajarobere, juancarlossaid, CatuRojas ni jmanalich en 24h. Binance y cripto quedan fuera de línea."
   },
   "corpus": {
-   "posts": 66,
+   "posts": 38,
    "min_views": 2000
   },
   "window": {
@@ -861,104 +744,104 @@
   "topics": [],
   "ideas": [
    {
-    "title": "R1 · respuesta a @adnradiochile",
+    "title": "R1 · respuesta a @midudev",
     "format": "respuesta",
-    "source": "@adnradiochile",
-    "topic": "IA y cambios de medicamentos (caso Bowen Wan)",
-    "hook_en": "Lo central de este caso no es la tecnología, es una regla que vale con o sin IA: un antiepiléptico no se baja ni se suspende sin hablarlo con quien lo indicó. Su propio neurólogo dijo al New York Times que nunca le habría aconsejado dejarlo.\n\nUn chatbot puede ayudar a preparar preguntas para el control, entender un examen o recordar horarios. Lo que no puede es conocer tu historia completa, ver cómo respondiste a cada ajuste anterior ni hacerse cargo de la decisión.\n\nEs un buen momento para revisar en casa quién toma remedios crónicos y recordar algo simple: cualquier cambio de dosis se conversa primero con quien lo indicó.",
-    "angle": "Objetivo: https://x.com/adnradiochile/status/2115638502037619155 (9.718 vistas)",
-    "why": "Base: ADN 28-oct (vía NYT): Bowen Wan, 31 años, epilepsia; ChatGPT le habría recomendado reducir sus antiepilépticos; su neurólogo Nicholas Poolos dijo que jamás le habría aconsejado dejarlo; padres demandan a OpenAI. Fuente: https://www.adnradio.cl/2026/10/28/tragedia-por-uso-de-ia-mujer-muere-tras-pedirle-a-chatgpt-consejos-para-reducir-sus-remedios/",
+    "source": "@midudev",
+    "topic": "Evaluar criterio, no memoria (entrevistas de código)",
+    "hook_en": "En medicina hicimos un cambio parecido hace décadas. La prueba de memoria sigue existiendo, pero para saber si alguien está listo para atender pacientes se usan estaciones con casos simulados: se observa cómo pregunta, cómo razona, qué examina y cómo lo explica.\n\nCon la IA esa idea pesa todavía más. Si cualquiera obtiene una respuesta en segundos, lo que vale la pena evaluar es si la persona sabe qué preguntar, detecta cuando la respuesta está mal y puede explicar por qué eligió un camino.\n\nLo difícil, como dices, es que eso exige tiempo de quien evalúa. Pero es la forma más honesta de medir lo que de verdad se usa en el trabajo.",
+    "angle": "Objetivo: https://x.com/midudev/status/2115806107935412531 (97.676 vistas)",
+    "why": "Base: Sin cifras; el ECOE/OSCE se usa en la formación médica desde los años 70 (Harden, BMJ 1975). Fuente: sin cifras externas",
     "keywords": [
-     "IA y cambios de medicamentos (caso Bowen Wan)"
+     "Evaluar criterio, no memoria (entrevistas de código)"
     ]
    },
    {
-    "title": "R2 · respuesta a @adnradiochile",
+    "title": "R2 · respuesta a @midudev",
     "format": "respuesta",
-    "source": "@adnradiochile",
-    "topic": "Alerta listeria en paté (Ñuble y Biobío)",
-    "hook_en": "Dato útil para Ñuble y Biobío: la alerta es por el paté de cerdo de Cecinas Tres Torres, producción del 16 de octubre, vencimiento 10 de noviembre. No hay que consumirlo aunque esté dentro de la fecha.\n\nEl riesgo de un cuadro grave es mayor en embarazadas, recién nacidos, adultos mayores y personas inmunodeprimidas o con enfermedades crónicas. Puede partir como un cuadro febril o gastrointestinal, así que si lo comiste y tienes fiebre, dolores musculares, náuseas o diarrea, consulta y cuenta que lo comiste.\n\nUn dato que sirve más allá de esta alerta: el CDC de EE.UU. incluye el paté refrigerado entre los alimentos que conviene evitar en embarazadas, mayores de 65 y personas con defensas bajas. Para ellos, la opción más segura es el paté en envase sellado que no necesita refrigeración antes de abrirse.",
-    "angle": "Objetivo: https://x.com/adnradiochile/status/2115446990180110846 (13.690 vistas)",
-    "why": "Base: ADN/Seremi Ñuble: paté de cerdo Cecinas Tres Torres, producción 16-oct-2026, vence 10-nov-2026; mayor riesgo embarazadas, recién nacidos, adultos mayores, inmunodeprimidos; CDC lista el paté refrigerado entre los alimentos a evitar en grupos de riesgo. Fuente: https://adnradio.cl/2026/10/28/seremi-de-salud-decreta-alerta-por-listeria-en-pate-de-cerdo-en-nuble-y-biobio-revisa-la-marca-y-como-identificarlo/ · https://www.cdc.gov/listeria/prevention/index.html",
+    "source": "@midudev",
+    "topic": "Generar rápido no es responder por el sistema",
+    "hook_en": "La palabra clave del post es «asumir». Generar algo rápido es una capacidad; responder por ello cuando falla es otra, y esa no se acelera con un modelo mejor.\n\nEn un sistema crítico lo que más cuesta no es escribir, es entender por qué las cosas están hechas como están. Muchas de esas decisiones nacieron de un error que alguien ya pagó y que no quedó anotado en ninguna parte.\n\nLa IA ayuda mucho a leer, resumir y proponer cambios. Pero quien firma tiene que poder explicar el sistema sin ella. Con un informe médico pasa igual: lo puede redactar otro, pero lo firma quien responde por él.",
+    "angle": "Objetivo: https://x.com/midudev/status/2115822892839559584 (66.320 vistas)",
+    "why": "Base: Sin cifras. Fuente: sin cifras externas",
     "keywords": [
-     "Alerta listeria en paté (Ñuble y Biobío)"
+     "Generar rápido no es responder por el sistema"
     ]
    },
    {
     "title": "R3 · respuesta a @ErickSky",
     "format": "respuesta",
     "source": "@ErickSky",
-    "topic": "Claude for Legal: ¿cualquiera es Harvey Specter?",
-    "hook_en": "El acceso a la información ayuda mucho, pero no es lo único que separa a un ciudadano de Harvey Specter. Lo que lo hace bueno no es saberse la ley: es saber qué pregunta hacer, qué dato falta y qué arriesga cada camino en ese caso concreto.\n\nEn medicina pasa algo parecido. Hoy cualquiera puede leer una guía clínica completa, y eso es muy bueno para conversar mejor con su médico. El valor está en aplicarla a una persona con su historia, sus otros remedios y sus prioridades.\n\nDonde la IA ya rinde de verdad es en la preparación: llegar al abogado o al médico con los documentos ordenados, las dudas escritas y claro lo que quieres resolver. Eso ahorra tiempo y mejora la decisión.",
-    "angle": "Objetivo: https://x.com/ErickSky/status/2115468410947596416 (36.865 vistas)",
-    "why": "Base: Sin cifras; post de Erick cita el lanzamiento de Claude for Legal (galería de artefactos: revisión de contratos, chequeo de citas). Fuente: https://x.com/claudeai/status/2115467192276025500",
+    "topic": "Agentes de voz full-duplex en la vida real",
+    "hook_en": "Lo de actuar mientras la persona sigue hablando importa mucho fuera del mundo tech. Hay mucha gente que nunca va a usar una app ni un chat escrito, pero sí llama por teléfono: adultos mayores, personas con baja visión, quien va manejando o tiene las manos ocupadas.\n\nPara ellos, un agente de voz que no corta el ritmo puede ser la diferencia entre resolver un trámite y colgar frustrados. Pienso en agendar una hora, confirmar una cita o preguntar por un resultado.\n\nEn esos usos lo clave no es que suene humano, sino que repita en voz alta lo que hizo: «quedó agendado el martes a las 10, ¿correcto?». Esa confirmación, que en salud usamos hace años con las indicaciones verbales, evita muchos malentendidos.",
+    "angle": "Objetivo: https://x.com/ErickSky/status/2115850611258208548 (75.956 vistas)",
+    "why": "Base: Sin cifras propias; datos del demo según el post de Erick (44 min, 123 tool calls). Fuente: sin cifras externas",
     "keywords": [
-     "Claude for Legal: ¿cualquiera es Harvey Specter?"
+     "Agentes de voz full-duplex en la vida real"
     ]
    },
    {
-    "title": "R4 · respuesta a @midudev",
+    "title": "R4 · respuesta a @freddier",
     "format": "respuesta",
-    "source": "@midudev",
-    "topic": "Amazon: el rol del desarrollador cambia",
-    "hook_en": "De los cinco, el 2 y el 3 son los que más cuesta aceptar. Si una herramienta te deja producir el triple, la tentación es medir cuánto produces. Pero el valor se movió: elegir qué vale la pena hacer, revisar si quedó bien y saber cuándo parar.\n\nEso no es exclusivo de programar. Pasa en cualquier oficio donde la IA acelera la parte mecánica, incluida la medicina: lo escaso deja de ser la ejecución y pasa a ser el criterio.\n\nY el criterio no se descarga. Se construye haciendo, equivocándose y escuchando a quien usa lo que haces. Por eso el último punto me parece el más importante: entender al usuario es lo que hace que la IA sume en vez de solo producir más.",
-    "angle": "Objetivo: https://x.com/midudev/status/2115459595107778941 (112.776 vistas)",
-    "why": "Base: Sin cifras; los 5 puntos son los del post de midudev. Fuente: sin cifras externas",
+    "source": "@freddier",
+    "topic": "What survives a new model release (harness)",
+    "hook_en": "The part worth keeping between model releases isn't the harness itself. It's what you learned while building it: examples of what \"good\" looks like, the mistakes it kept making, and the checks that caught them.\n\nPrompts and workarounds age fast. A short set of real test cases and a clear definition of done don't. When a new model lands, you run it against those, and within an hour you know which pieces of scaffolding you can drop and which ones still earn their place.\n\nThat's the loop in your post: the magic keeps changing, but the definition of what you actually want shouldn't.",
+    "angle": "Objetivo: https://x.com/freddier/status/2115870208296690154 (14.229 vistas)",
+    "why": "Base: No figures. Fuente: sin cifras externas",
     "keywords": [
-     "Amazon: el rol del desarrollador cambia"
+     "What survives a new model release (harness)"
     ]
    },
    {
-    "title": "R5 · respuesta a @ErickSky",
-    "format": "respuesta",
-    "source": "@ErickSky",
-    "topic": "Prof Oak: biotech de una persona + Claude (LAMA2-CMD)",
-    "hook_en": "Lo que más me llamó la atención del post original de Cody Tranbarger es su apuesta: no cree que la IA vaya a curar enfermedades comprimiendo plazos, sino quitándole al investigador el peso de coordinar, para que pueda llevar varios programas y concentrarse en las decisiones científicas.\n\nEso tiene especial sentido en enfermedades raras como la LAMA2-CMD, con pocos pacientes, pocos grupos trabajando y programas que dependen de muy pocas personas. Si una sola persona puede sostener lo que antes exigía un equipo completo de gestión, pueden aparecer programas que antes no habrían partido.\n\nLo que no cambia es la parte lenta y necesaria: demostrar en personas que funciona y que es seguro. Ahí el criterio sigue siendo humano, y está bien que así sea.",
-    "angle": "Objetivo: https://x.com/ErickSky/status/2115439892540821925 (6.847 vistas)",
-    "why": "Base: Post de Cody Tranbarger: Anthropic adquirió Mithril (bsAbs para LAMA2-CMD); su tesis: la IA rinde hoy en orquestación y paralelización, no en comprimir plazos; los investigadores ven pocas decisiones go/no-go en su carrera. Fuente: https://x.com/Prof_Oak_/status/2115185849424048564",
-    "keywords": [
-     "Prof Oak: biotech de una persona + Claude (LAMA2-CMD)"
-    ]
-   },
-   {
-    "title": "R6 · respuesta a @DotCSV",
+    "title": "R5 · respuesta a @DotCSV",
     "format": "respuesta",
     "source": "@DotCSV",
-    "topic": "Gemini 4 Carbon: benchmarks vs uso real",
-    "hook_en": "Los benchmarks sirven para saber que un modelo es capaz. Lo que no dicen es cómo le irá en tu tarea, con tus documentos y tus errores de siempre.\n\nEn medicina distinguimos eficacia (cómo funciona algo en el ensayo, en condiciones ideales) de efectividad (cómo funciona en la vida real). Con los modelos pasa algo parecido: el salto que importa se ve después de usarlo una semana en trabajo real.\n\nUna forma simple de probarlo cuando haya acceso: darle las mismas tres o cuatro tareas que ya conoces bien y comparar con lo que usas hoy. Ahí se nota si el número del benchmark se traduce en algo.",
-    "angle": "Objetivo: https://x.com/DotCSV/status/2115507042186039346 (35.489 vistas)",
-    "why": "Base: Sin cifras; DotCSV: anuncio sin acceso, supera en muchos benchmarks a Opus 5.5 y GPT-6 Astra. Fuente: sin cifras externas",
+    "topic": "Lo que aún no resuelven: lo que no está en la pantalla",
+    "hook_en": "Al menos en salud, las que todavía fallan no son de capacidad sino de contexto: tareas donde lo importante no está en la pantalla. Por ejemplo, notar que en una ficha falta un dato que debería estar, o que dos documentos que se ven correctos chocan con algo que el paciente contó en voz alta.\n\nCon skills e instrucciones claras resuelven muy bien lo que está escrito. Lo difícil sigue siendo saber qué no está y decidir cuándo parar a preguntar en vez de completar con lo más probable.\n\nY ese punto es el que más pesa: un modelo que rellena un vacío con algo verosímil es más riesgoso que uno que dice «me falta este dato».",
+    "angle": "Objetivo: https://x.com/DotCSV/status/2116160239309332870 (2.258 vistas)",
+    "why": "Base: Sin cifras. Fuente: sin cifras externas",
     "keywords": [
-     "Gemini 4 Carbon: benchmarks vs uso real"
+     "Lo que aún no resuelven: lo que no está en la pantalla"
     ]
    },
    {
-    "title": "P1 · Ojo rojo: cuándo esperar y cuándo consultar el mismo día",
+    "title": "R6 · respuesta a @ministeriosalud",
+    "format": "respuesta",
+    "source": "@ministeriosalud",
+    "topic": "ACV que afecta al ojo (oclusión de arteria central de la retina)",
+    "hook_en": "Un síntoma que se suele pasar por alto: la pérdida brusca de visión en un ojo, sin dolor. Puede ser una oclusión de la arteria central de la retina, que la American Heart Association define como una forma de ACV.\n\nNecesita el mismo camino que cualquier ACV: ir a urgencias de inmediato, no pedir hora con el oftalmólogo para la semana siguiente. Los tratamientos en estudio tienen una ventana de pocas horas.\n\nY aunque la visión vuelva a los pocos minutos, hay que consultar ese mismo día, porque puede ser el aviso de un ACV cerebral.\n\nFuente: American Heart Association, Stroke 2021 (Mac Grory et al.).",
+    "angle": "Objetivo: https://x.com/ministeriosalud/status/2115810783896461478 (2.190 vistas)",
+    "why": "Base: AHA, Stroke 2021 (Mac Grory et al.): la oclusión de la arteria central de la retina es una forma de ACV isquémico agudo y una emergencia; pérdida de visión brusca e indolora; menos de 20% recupera visión funcional; ventana corta de tratamiento. Fuente: https://newsroom.heart.org/news/stroke-affecting-the-eye-requires-immediate-treatment-can-signal-future-vascular-events · https://www.ahajournals.org/doi/full/10.1161/STR.0000000000000366",
+    "keywords": [
+     "ACV que afecta al ojo (oclusión de arteria central de la retina)"
+    ]
+   },
+   {
+    "title": "P1 · IA por cuenta propia en el trabajo: el dato chileno y qué significa en salud",
     "format": "post largo",
     "source": "original RT",
-    "topic": "ojo rojo y señales de alarma",
-    "hook_en": "Ojo rojo: cuándo puede esperar y cuándo hay que consultar el mismo día.\n\nLa mayoría de los ojos rojos son conjuntivitis, por virus, bacterias o alergia, y suelen mejorar solos en una a dos semanas. La Academia Americana de Oftalmología recomienda consultar de inmediato si aparece cualquiera de estas señales:\n\n• Dolor moderado o intenso\n• Visión borrosa\n• Molestia fuerte con la luz\n• Enrojecimiento muy intenso o síntomas que empeoran en vez de mejorar\n• Defensas bajas por una enfermedad o un tratamiento\n\nSi usas lentes de contacto, la regla es más estricta: ojo rojo con dolor, molestia con la luz o visión borrosa significa sacarse los lentes y consultar ese mismo día, porque puede ser una infección de la córnea, y tratarla a tiempo protege la visión.\n\nUn detalle práctico: los colirios antibióticos solo sirven para la conjuntivitis bacteriana. En la viral y en la alérgica no ayudan, por eso conviene que alguien examine el ojo antes de usarlos.\n\nY si los síntomas duran más de dos semanas, también vale la pena un control.\n\nFuente: American Academy of Ophthalmology (Conjunctivitis, junio 2026; infecciones por lentes de contacto).",
-    "visual": "Video vertical de 30 s: RT a cámara con una tarjeta de las 5 señales; cierre con «lentes de contacto + dolor = sacarlos y consultar hoy».",
+    "topic": "uso de IA personal en equipos de salud",
+    "hook_en": "El 47% de los profesionales chilenos de grandes organizaciones usa con regularidad agentes de IA personales en su trabajo, y más de la mitad de ellos no ve riesgos o los considera muy bajos. Lo muestra el estudio Work: InProgress 2026, de IDC y Provokers para Google Workspace, presentado ayer.\n\nEl mismo estudio muestra la otra cara: el 63% quiere delegar tareas en agentes, pero dice que no sabe configurarlos, y el 67% cuenta que su organización no ofrece capacitación regular en IA. La mayoría aprende por su cuenta, probando o con contenido de redes.\n\nEn salud este dato tiene una lectura propia. Cuando alguien usa su cuenta personal para resumir una epicrisis o redactar una respuesta, los datos del paciente salen del sistema de la institución, aunque la intención sea muy buena.\n\nLa respuesta no pasa por prohibir. Pasa por tres cosas simples:\n\n• Herramientas aprobadas dentro de lo que el equipo ya usa (el 58% prefiere los agentes integrados ahí)\n• Reglas claras sobre qué datos se pueden usar y cuáles no\n• Capacitación breve y práctica, con casos reales del servicio\n\nLas ganas de usar IA ya están. Lo que falta es darles un camino seguro.\n\nUn matiz: la muestra chilena fueron 650 profesionales de organizaciones con 500 o más empleados, así que no representa a todo el país ni a las pymes.\n\nFuente: estudio Work: InProgress 2026 (IDC y Provokers para Google Workspace), vía Cooperativa.",
+    "visual": "Video vertical de 30 s: RT a cámara con tres cifras en pantalla (47%, 63%, 67%) y cierre con las tres medidas: herramientas aprobadas, reglas de datos, capacitación breve.",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.aao.org/eye-health/diseases/pink-eye-conjunctivitis-treatment https://www.aao.org/eye-health/diseases/contact-lens-related-eye-infections https://www.aao.org/eye-health/treatments/contact-lens-care",
+    "why": "Fuentes verificadas hoy: https://cooperativa.cl/noticias/pais/trabajo/profesionales-chilenos-superaron-la-alfabetizacion-basica-en-ia-segun/2026-10-30/080412.html",
     "keywords": [
-     "ojo rojo y señales de alarma",
+     "uso de IA personal en equipos de salud",
      "salud"
     ]
    },
    {
-    "title": "P2 · Cómo usar un chatbot para preparar tu control médico",
+    "title": "P2 · La primera IA autorizada para diagnosticar sola miraba el fondo de ojo",
     "format": "post largo",
     "source": "original RT",
-    "topic": "IA para preparar la consulta",
-    "hook_en": "Una forma útil y segura de usar la IA en salud: preparar tu próximo control.\n\nAntes de la consulta, un chatbot te puede ayudar a:\n\n• Ordenar en una lista los remedios que tomas, con dosis y horario\n• Escribir tus síntomas en orden: cuándo partieron, qué los mejora y qué los empeora\n• Explicar en lenguaje simple un informe o un examen que ya te entregaron\n• Armar tres preguntas concretas para no olvidarlas en la consulta\n\nLo que no conviene pedirle es que decida si cambias, bajas o suspendes un medicamento. Esa decisión necesita tu historia completa y alguien que responda por ella. Si una respuesta te sugiere un cambio, llévala a tu médico como pregunta; no la apliques como indicación.\n\nUn cuidado extra: antes de pegar un informe, borra tu nombre, RUT y datos de contacto.\n\nBien usada, la IA no reemplaza la conversación con tu médico. La hace más corta, más clara y más útil.",
-    "visual": "Grabación de pantalla de 30–40 s: pegar un examen de ejemplo, sin datos personales, en un chatbot y pedir «explícamelo simple y dame 3 preguntas para mi médico».",
+    "topic": "IA autónoma en tamizaje de retinopatía diabética",
+    "hook_en": "La primera IA autorizada para diagnosticar sola, sin que un médico revise la imagen, no fue un chatbot. Fue un sistema que analiza fotos del fondo de ojo de personas con diabetes, autorizado por la FDA en 2018.\n\nEn el estudio que llevó a esa autorización (Abràmoff et al., npj Digital Medicine 2018) participaron 900 adultos con diabetes en 10 centros de atención primaria. El sistema detectó retinopatía diabética más que leve con 87,2% de sensibilidad y 90,7% de especificidad, y obtuvo una imagen útil en el 96,1% de los casos.\n\nPara quienes gestionan salud, lo más interesante son las condiciones que lo hicieron funcionar:\n\n• Una tarea acotada: responder una sola pregunta, si hay que derivar o no\n• Metas fijadas antes del estudio y evaluadas en atención primaria real, no solo con imágenes de archivo\n• Operadores con un entrenamiento estandarizado para tomar la foto\n• Un camino claro después: el resultado positivo se deriva al oftalmólogo\n\nLa retinopatía diabética se puede detectar antes de que afecte la visión. Por eso un examen que se puede hacer en atención primaria, cerca de la persona, tiene tanto valor.\n\nAhí la IA no reemplaza al especialista: hace que llegue a tiempo quien lo necesita.\n\nFuentes: Abràmoff et al., npj Digital Medicine 2018; FDA, De Novo DEN180001 (IDx-DR).",
+    "visual": "Video vertical de 30–40 s: una foto de fondo de ojo de ejemplo (sin datos de paciente) y las cuatro condiciones en pantalla; cierre con «la IA no reemplaza al especialista, hace que llegue a tiempo quien lo necesita».",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.adnradio.cl/2026/10/28/tragedia-por-uso-de-ia-mujer-muere-tras-pedirle-a-chatgpt-consejos-para-reducir-sus-remedios/",
+    "why": "Fuentes verificadas hoy: https://doi.org/10.1038/s41746-018-0040-6 https://www.accessdata.fda.gov/cdrh_docs/pdf18/DEN180001.pdf",
     "keywords": [
-     "IA para preparar la consulta",
+     "IA autónoma en tamizaje de retinopatía diabética",
      "salud"
     ]
    }
