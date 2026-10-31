@@ -1,8 +1,8 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-10-30 10:40",
- "date": "2026-10-30",
+ "title": "Digest diario — escaneo 24h al 2026-10-31 10:40",
+ "date": "2026-10-31",
  "timezone": "America/Santiago",
- "updated": "2026-10-30T11:00:00-03:00",
+ "updated": "2026-10-31T11:20:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
@@ -11,16 +11,16 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 143192,
-   "likes": 1496,
-   "replies": 38,
-   "reposts": 136,
-   "url": "https://x.com/ErickSky/status/2115995338527883456",
-   "status_url": "https://x.com/ErickSky/status/2115995338527883456",
-   "text": "Gent3 mira esto de Binance que acaba de salir!!! Es el chisme del año.\n\nResulta que un ingeniero de DevOps tenía el laptop comprometido y desde ahí el atacante se metió a un service container interno que tenía permisos para armar y mandar retiros, y empezó a sacar plata no https://t.co/YlehAaYnHh",
-   "original_en": "Gent3 mira esto de Binance que acaba de salir!!! Es el chisme del año.\n\nResulta que un ingeniero de DevOps tenía el laptop comprometido y desde ahí el atacante se metió a un service container interno que tenía permisos para armar y mandar retiros, y empezó a sacar plata no https://t.co/YlehAaYnHh",
+   "views": 140339,
+   "likes": 999,
+   "replies": 30,
+   "reposts": 122,
+   "url": "https://x.com/ErickSky/status/2116187637895639552",
+   "status_url": "https://x.com/ErickSky/status/2116187637895639552",
+   "text": "El Co-CEO de Binance reafirma que lo que se jodió fue un hot wallet de Binance, no el dinero de la gente. Ellos no usan fondos de clientes. La mayoría de la plata de usuarios está en cold wallets y solo se mueve al hot cuando alguien retira. Por eso dicen que los usuarios no https://t.co/Gje7x2aEhd",
+   "original_en": "El Co-CEO de Binance reafirma que lo que se jodió fue un hot wallet de Binance, no el dinero de la gente. Ellos no usan fondos de clientes. La mayoría de la plata de usuarios está en cold wallets y solo se mueve al hot cuando alguien retira. Por eso dicen que los usuarios no https://t.co/Gje7x2aEhd",
    "highlight": true,
-   "created_at": "2026-10-30T02:32:56.000Z",
+   "created_at": "2026-10-30T15:17:04.000Z",
    "window": "24h"
   },
   {
@@ -28,88 +28,74 @@
    "display_name": "midudev",
    "handle": "@midudev",
    "area": "ai",
-   "views": 97676,
-   "likes": 2061,
-   "replies": 69,
-   "reposts": 165,
-   "url": "https://x.com/midudev/status/2115806107935412531",
-   "status_url": "https://x.com/midudev/status/2115806107935412531",
-   "text": "Un manager de Anthropic dice que las entrevistas de código están muertas y las han dejado de usar en su equipo.\n\nSinceramente creo que hace tiempo que deberían estar muertas y enterradas.\n\nLas pruebas tipo LeetCode siempre fueron un error. Las preguntas de memorización. Las https://t.co/vZViHqLanR",
-   "original_en": "Un manager de Anthropic dice que las entrevistas de código están muertas y las han dejado de usar en su equipo.\n\nSinceramente creo que hace tiempo que deberían estar muertas y enterradas.\n\nLas pruebas tipo LeetCode siempre fueron un error. Las preguntas de memorización. Las https://t.co/vZViHqLanR",
+   "views": 71457,
+   "likes": 1590,
+   "replies": 76,
+   "reposts": 138,
+   "url": "https://x.com/midudev/status/2116251454474256777",
+   "status_url": "https://x.com/midudev/status/2116251454474256777",
+   "text": "He desarrollado un juego desde cero. Es de terror, gratuito y funciona desde tu navegador.\n\nEspero que lo disfrutes y si te gusta, lo compartas.\n→ https://t.co/URkJPx23cO https://t.co/wxbATFAj5Z",
+   "original_en": "He desarrollado un juego desde cero. Es de terror, gratuito y funciona desde tu navegador.\n\nEspero que lo disfrutes y si te gusta, lo compartas.\n→ https://t.co/URkJPx23cO https://t.co/wxbATFAj5Z",
    "highlight": true,
-   "created_at": "2026-10-29T14:01:00.000Z",
+   "created_at": "2026-10-30T19:30:39.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 60814,
+   "likes": 91,
+   "replies": 3,
+   "reposts": 4,
+   "url": "https://x.com/ErickSky/status/2116229994754298247",
+   "status_url": "https://x.com/ErickSky/status/2116229994754298247",
+   "text": "Un software para mover el dormitorio, cambiar la cocina de lado, probar otra distribución… y todo arrastrando sobre tu propio plano!\n\nEsto es lo que uno siempre quiso hacer antes de remodelar y nunca pudo sin pagarle a alguien por redibujar 💕 https://t.co/Gpbfa6djbk",
+   "original_en": "Un software para mover el dormitorio, cambiar la cocina de lado, probar otra distribución… y todo arrastrando sobre tu propio plano!\n\nEsto es lo que uno siempre quiso hacer antes de remodelar y nunca pudo sin pagarle a alguien por redibujar 💕 https://t.co/Gpbfa6djbk",
+   "highlight": true,
+   "created_at": "2026-10-30T18:05:23.000Z",
    "window": "24h",
-   "draft_en": "[R1 · respuesta] En medicina hicimos un cambio parecido hace décadas. La prueba de memoria sigue existiendo, pero para saber si alguien está listo para atender pacientes se usan estaciones con casos simulados: se observa cómo pregunta, cómo razona, qué examina y cómo lo explica.\n\nCon la IA esa idea pesa todavía más. Si cualquiera obtiene una respuesta en segundos, lo que vale la pena evaluar es si la persona sabe qué preguntar, detecta cuando la respuesta está mal y puede explicar por qué eligió un camino.\n\nLo difícil, como dices, es que eso exige tiempo de quien evalúa. Pero es la forma más honesta de medir lo que de verdad se usa en el trabajo.",
+   "draft_en": "[R2 · respuesta] Lo más útil de probar la distribución antes de construir es imaginar la casa dentro de 10 o 15 años, no solo la de hoy.\n\nAhí aparecen preguntas que casi nadie se hace al remodelar: si hay un baño cerca del dormitorio, si un pasillo deja pasar un andador o una silla de ruedas, si se puede llegar de noche al baño sin cruzar alfombras ni escalones, y dónde queda una luz que se encienda sin buscar el interruptor a oscuras.\n\nSon cambios baratos en el plano y muy caros después de la obra. Una herramienta así le puede servir mucho a una familia que está adaptando la casa de un papá o una mamá que va envejeciendo.",
    "draft_keywords": [
-    "Evaluar criterio, no memoria (entrevistas de código)"
+    "Probar el plano pensando en la casa de dentro de 15 años"
    ],
-   "why_hit": "Objetivo de respuesta R1 (Evaluar criterio, no memoria (entrevistas de código)). Base verificada: Sin cifras; el ECOE/OSCE se usa en la formación médica desde los años 70 (Harden, BMJ 1975).",
-   "hook": "En medicina hicimos un cambio parecido hace décadas. La prueba de memoria sigue existiendo, pero para saber si alguien e",
+   "why_hit": "Objetivo de respuesta R2 (Probar el plano pensando en la casa de dentro de 15 años). Base verificada: Sin cifras.",
+   "hook": "Lo más útil de probar la distribución antes de construir es imaginar la casa dentro de 10 o 15 años, no solo la de hoy.\n",
    "top10_rank": 1
   },
   {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
+   "name": "midudev",
+   "display_name": "midudev",
+   "handle": "@midudev",
    "area": "ai",
-   "views": 75956,
-   "likes": 271,
-   "replies": 17,
-   "reposts": 26,
-   "url": "https://x.com/ErickSky/status/2115850611258208548",
-   "status_url": "https://x.com/ErickSky/status/2115850611258208548",
-   "text": "Chicos, por fin alguien resolvió el problema más jodido de los agentes de voz: que te dejen hablar y que el modelo pueda hacer cosas mientras tú sigues hablando.\n\nDeja les explico con calma porque esto es diferente de todo lo que hemos visto hasta ahora:\n\nLa mayoría de los https://t.co/sQxGVNBoCZ",
-   "original_en": "Chicos, por fin alguien resolvió el problema más jodido de los agentes de voz: que te dejen hablar y que el modelo pueda hacer cosas mientras tú sigues hablando.\n\nDeja les explico con calma porque esto es diferente de todo lo que hemos visto hasta ahora:\n\nLa mayoría de los https://t.co/sQxGVNBoCZ",
+   "views": 39302,
+   "likes": 1595,
+   "replies": 13,
+   "reposts": 217,
+   "url": "https://x.com/midudev/status/2116185014421369255",
+   "status_url": "https://x.com/midudev/status/2116185014421369255",
+   "text": "Este repo tiene miles de ejercicios para DevOps, arquitectura y servidores.\n\nLinux, Git, Docker, Kubernetes, AWS, Azure, Terraform, GCP, redes, CI/CD, Python, SQL...\n\nAlgunos son casos reales, perfectos para practicar:\n→ https://t.co/r3mg6ccfFv https://t.co/f667AX99qu",
+   "original_en": "Este repo tiene miles de ejercicios para DevOps, arquitectura y servidores.\n\nLinux, Git, Docker, Kubernetes, AWS, Azure, Terraform, GCP, redes, CI/CD, Python, SQL...\n\nAlgunos son casos reales, perfectos para practicar:\n→ https://t.co/r3mg6ccfFv https://t.co/f667AX99qu",
    "highlight": true,
-   "created_at": "2026-10-29T16:57:50.000Z",
-   "window": "24h",
-   "draft_en": "[R3 · respuesta] Lo de actuar mientras la persona sigue hablando importa mucho fuera del mundo tech. Hay mucha gente que nunca va a usar una app ni un chat escrito, pero sí llama por teléfono: adultos mayores, personas con baja visión, quien va manejando o tiene las manos ocupadas.\n\nPara ellos, un agente de voz que no corta el ritmo puede ser la diferencia entre resolver un trámite y colgar frustrados. Pienso en agendar una hora, confirmar una cita o preguntar por un resultado.\n\nEn esos usos lo clave no es que suene humano, sino que repita en voz alta lo que hizo: «quedó agendado el martes a las 10, ¿correcto?». Esa confirmación, que en salud usamos hace años con las indicaciones verbales, evita muchos malentendidos.",
-   "draft_keywords": [
-    "Agentes de voz full-duplex en la vida real"
-   ],
-   "why_hit": "Objetivo de respuesta R3 (Agentes de voz full-duplex en la vida real). Base verificada: Sin cifras propias; datos del demo según el post de Erick (44 min, 123 tool calls).",
-   "hook": "Lo de actuar mientras la persona sigue hablando importa mucho fuera del mundo tech. Hay mucha gente que nunca va a usar ",
-   "top10_rank": 2
+   "created_at": "2026-10-30T15:06:38.000Z",
+   "window": "24h"
   },
   {
    "name": "midudev",
    "display_name": "midudev",
    "handle": "@midudev",
    "area": "ai",
-   "views": 66320,
-   "likes": 1016,
-   "replies": 67,
-   "reposts": 41,
-   "url": "https://x.com/midudev/status/2115822892839559584",
-   "status_url": "https://x.com/midudev/status/2115822892839559584",
-   "text": "Esto le pasa a alguna gente que usa la IA para programar\n\nConfundir poder generar código rápido con la capacidad de comprender, verificar y asumir la responsabilidad de un sistema crítico.\n\n¡Y claro que el sistema es mejorable! Pero despreciar su complejidad porque usas Opus 5.5 https://t.co/gRG72CLz8u",
-   "original_en": "Esto le pasa a alguna gente que usa la IA para programar\n\nConfundir poder generar código rápido con la capacidad de comprender, verificar y asumir la responsabilidad de un sistema crítico.\n\n¡Y claro que el sistema es mejorable! Pero despreciar su complejidad porque usas Opus 5.5 https://t.co/gRG72CLz8u",
+   "views": 38335,
+   "likes": 871,
+   "replies": 47,
+   "reposts": 50,
+   "url": "https://x.com/midudev/status/2116169915958718830",
+   "status_url": "https://x.com/midudev/status/2116169915958718830",
+   "text": "He creado un plugin para Claude Code que te muestra una previsualización de los ficheros en línea.\n\nPasas el ratón por una ruta y ves el fichero: código con colores, imágenes, vídeos, PDFs… Haces clic y se abre en el Explorador de Archivos. https://t.co/ewa24M5zBY",
+   "original_en": "He creado un plugin para Claude Code que te muestra una previsualización de los ficheros en línea.\n\nPasas el ratón por una ruta y ves el fichero: código con colores, imágenes, vídeos, PDFs… Haces clic y se abre en el Explorador de Archivos. https://t.co/ewa24M5zBY",
    "highlight": true,
-   "created_at": "2026-10-29T15:07:42.000Z",
-   "window": "24h",
-   "draft_en": "[R2 · respuesta] La palabra clave del post es «asumir». Generar algo rápido es una capacidad; responder por ello cuando falla es otra, y esa no se acelera con un modelo mejor.\n\nEn un sistema crítico lo que más cuesta no es escribir, es entender por qué las cosas están hechas como están. Muchas de esas decisiones nacieron de un error que alguien ya pagó y que no quedó anotado en ninguna parte.\n\nLa IA ayuda mucho a leer, resumir y proponer cambios. Pero quien firma tiene que poder explicar el sistema sin ella. Con un informe médico pasa igual: lo puede redactar otro, pero lo firma quien responde por él.",
-   "draft_keywords": [
-    "Generar rápido no es responder por el sistema"
-   ],
-   "why_hit": "Objetivo de respuesta R2 (Generar rápido no es responder por el sistema). Base verificada: Sin cifras.",
-   "hook": "La palabra clave del post es «asumir». Generar algo rápido es una capacidad; responder por ello cuando falla es otra, y ",
-   "top10_rank": 3
-  },
-  {
-   "name": "freddier",
-   "display_name": "freddier",
-   "handle": "@freddier",
-   "area": "ai",
-   "views": 47044,
-   "likes": 918,
-   "replies": 34,
-   "reposts": 89,
-   "url": "https://x.com/freddier/status/2115935605788135458",
-   "status_url": "https://x.com/freddier/status/2115935605788135458",
-   "text": "Binance hacked.\n$5.6B stolen in multiple cryptocurrencies.\nBitcoin, Ethereum and Tron most of them.\n\nSeveral protocols proactively freezing. https://t.co/aXHlB0mmBr",
-   "original_en": "Binance hacked.\n$5.6B stolen in multiple cryptocurrencies.\nBitcoin, Ethereum and Tron most of them.\n\nSeveral protocols proactively freezing. https://t.co/aXHlB0mmBr",
-   "highlight": true,
-   "created_at": "2026-10-29T22:35:35.000Z",
+   "created_at": "2026-10-30T14:06:39.000Z",
    "window": "24h"
   },
   {
@@ -117,16 +103,16 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 25678,
-   "likes": 402,
-   "replies": 23,
-   "reposts": 13,
-   "url": "https://x.com/ErickSky/status/2115900141924429941",
-   "status_url": "https://x.com/ErickSky/status/2115900141924429941",
-   "text": "Chicos, quieren un aumento en sus trabajos??\n\nDíganle a sus jefes que salgan de Claude y contraten esto 🤗 https://t.co/DXBGxBrS0k",
-   "original_en": "Chicos, quieren un aumento en sus trabajos??\n\nDíganle a sus jefes que salgan de Claude y contraten esto 🤗 https://t.co/DXBGxBrS0k",
+   "views": 29709,
+   "likes": 632,
+   "replies": 18,
+   "reposts": 23,
+   "url": "https://x.com/ErickSky/status/2116210253998051714",
+   "status_url": "https://x.com/ErickSky/status/2116210253998051714",
+   "text": "LE METEN UN X10 A DEEPSEEK ME MUEROOOOOO https://t.co/X1QKD92iqI",
+   "original_en": "LE METEN UN X10 A DEEPSEEK ME MUEROOOOOO https://t.co/X1QKD92iqI",
    "highlight": true,
-   "created_at": "2026-10-29T20:14:40.000Z",
+   "created_at": "2026-10-30T16:46:56.000Z",
    "window": "24h"
   },
   {
@@ -134,193 +120,16 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 16951,
-   "likes": 115,
+   "views": 26086,
+   "likes": 435,
    "replies": 6,
-   "reposts": 4,
-   "url": "https://x.com/ErickSky/status/2115933234932465884",
-   "status_url": "https://x.com/ErickSky/status/2115933234932465884",
-   "text": "Lo que realmente está pasando:\n\nEn 20 minutos se vaciaron hot wallets de Binance por $2.8-3.3 mil millones. Una sola tx de “Binance 14” movió 167k ETH + $1.615B en USDT + 60 tokens más. Después salieron otros $780M en USDC del mismo origen.\n\nLa dirección receptora era nueva, https://t.co/sKBiuSgba7",
-   "original_en": "Lo que realmente está pasando:\n\nEn 20 minutos se vaciaron hot wallets de Binance por $2.8-3.3 mil millones. Una sola tx de “Binance 14” movió 167k ETH + $1.615B en USDT + 60 tokens más. Después salieron otros $780M en USDC del mismo origen.\n\nLa dirección receptora era nueva, https://t.co/sKBiuSgba7",
-   "highlight": true,
-   "created_at": "2026-10-29T22:26:10.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 16249,
-   "likes": 210,
-   "replies": 3,
-   "reposts": 9,
-   "url": "https://x.com/ErickSky/status/2116118125905121527",
-   "status_url": "https://x.com/ErickSky/status/2116118125905121527",
-   "text": "MIERDA FUE EL DE SOLO LEVELING https://t.co/D3jLuNF2oz",
-   "original_en": "MIERDA FUE EL DE SOLO LEVELING https://t.co/D3jLuNF2oz",
-   "highlight": true,
-   "created_at": "2026-10-30T10:40:51.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 14240,
-   "likes": 188,
-   "replies": 9,
-   "reposts": 12,
-   "url": "https://x.com/ErickSky/status/2115933586130149559",
-   "status_url": "https://x.com/ErickSky/status/2115933586130149559",
-   "text": "Estamos hablando del robo más grande de la historia de la humanidad chicos, de esto se harán películas!!",
-   "original_en": "Estamos hablando del robo más grande de la historia de la humanidad chicos, de esto se harán películas!!",
-   "highlight": true,
-   "created_at": "2026-10-29T22:27:33.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "freddier",
-   "display_name": "freddier",
-   "handle": "@freddier",
-   "area": "ai",
-   "views": 14229,
-   "likes": 217,
-   "replies": 28,
-   "reposts": 11,
-   "url": "https://x.com/freddier/status/2115870208296690154",
-   "status_url": "https://x.com/freddier/status/2115870208296690154",
-   "text": "AI can do magic.\nBut it's not exactly what you want.\nSo, you build rules, code, guidance. A \"harness\". \n\nIt works, but it needs polish.\nYou polish, and polish, and polish.\nIt gets better.\n\nNew model release.\nIt's incredible. More powerful.\nMakes your harness obsolete.\nYou let",
-   "original_en": "AI can do magic.\nBut it's not exactly what you want.\nSo, you build rules, code, guidance. A \"harness\". \n\nIt works, but it needs polish.\nYou polish, and polish, and polish.\nIt gets better.\n\nNew model release.\nIt's incredible. More powerful.\nMakes your harness obsolete.\nYou let",
-   "highlight": true,
-   "created_at": "2026-10-29T18:15:43.000Z",
-   "window": "24h",
-   "draft_en": "[R4 · respuesta] The part worth keeping between model releases isn't the harness itself. It's what you learned while building it: examples of what \"good\" looks like, the mistakes it kept making, and the checks that caught them.\n\nPrompts and workarounds age fast. A short set of real test cases and a clear definition of done don't. When a new model lands, you run it against those, and within an hour you know which pieces of scaffolding you can drop and which ones still earn their place.\n\nThat's the loop in your post: the magic keeps changing, but the definition of what you actually want shouldn't.",
-   "draft_keywords": [
-    "What survives a new model release (harness)"
-   ],
-   "why_hit": "Objetivo de respuesta R4 (What survives a new model release (harness)). Base verificada: No figures.",
-   "hook": "The part worth keeping between model releases isn't the harness itself. It's what you learned while building it: example",
-   "top10_rank": 4
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 9755,
-   "likes": 10,
-   "replies": 1,
-   "reposts": 2,
-   "url": "https://x.com/adnradiochile/status/2115990823619776566",
-   "status_url": "https://x.com/adnradiochile/status/2115990823619776566",
-   "text": "“Un año raro y movido”: el desgarrador y doble drama familiar por cáncer que golpea a conocido actor chileno\nhttps://t.co/uZO4ii4dZN",
-   "original_en": "“Un año raro y movido”: el desgarrador y doble drama familiar por cáncer que golpea a conocido actor chileno\nhttps://t.co/uZO4ii4dZN",
-   "highlight": true,
-   "created_at": "2026-10-30T02:15:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 5239,
-   "likes": 114,
-   "replies": 7,
-   "reposts": 2,
-   "url": "https://x.com/ErickSky/status/2115874211294236951",
-   "status_url": "https://x.com/ErickSky/status/2115874211294236951",
-   "text": "Va a llegar un momento en el que Claude no te podrá responder ni la hora porque podría ofender a otros husos horarios 😭 https://t.co/c2Pu7G2JPj",
-   "original_en": "Va a llegar un momento en el que Claude no te podrá responder ni la hora porque podría ofender a otros husos horarios 😭 https://t.co/c2Pu7G2JPj",
-   "highlight": true,
-   "created_at": "2026-10-29T18:31:37.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 3703,
-   "likes": 20,
-   "replies": 3,
-   "reposts": 0,
-   "url": "https://x.com/ErickSky/status/2116117361887445397",
-   "status_url": "https://x.com/ErickSky/status/2116117361887445397",
-   "text": "BOOM! https://t.co/D2L2H3LWB5",
-   "original_en": "BOOM! https://t.co/D2L2H3LWB5",
-   "highlight": false,
-   "created_at": "2026-10-30T10:37:49.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 3637,
-   "likes": 152,
-   "replies": 0,
-   "reposts": 4,
-   "url": "https://x.com/ErickSky/status/2115865135436673531",
-   "status_url": "https://x.com/ErickSky/status/2115865135436673531",
-   "text": "Ojalá la versión pro le haga honores a la versión flash (casi nunca pasa) https://t.co/vikJQfHO30",
-   "original_en": "Ojalá la versión pro le haga honores a la versión flash (casi nunca pasa) https://t.co/vikJQfHO30",
-   "highlight": false,
-   "created_at": "2026-10-29T17:55:33.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 3089,
-   "likes": 3,
-   "replies": 0,
    "reposts": 3,
-   "url": "https://x.com/adnradiochile/status/2115808874863407288",
-   "status_url": "https://x.com/adnradiochile/status/2115808874863407288",
-   "text": "Es la carrera universitaria con más titulaciones en Chile y ahora cuenta con herramienta IA para fortalecer su formación https://t.co/18HZPlsIlX",
-   "original_en": "Es la carrera universitaria con más titulaciones en Chile y ahora cuenta con herramienta IA para fortalecer su formación https://t.co/18HZPlsIlX",
-   "highlight": false,
-   "created_at": "2026-10-29T14:12:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 2811,
-   "likes": 1,
-   "replies": 1,
-   "reposts": 1,
-   "url": "https://x.com/adnradiochile/status/2115979503323262991",
-   "status_url": "https://x.com/adnradiochile/status/2115979503323262991",
-   "text": "Alerta a postulantes PAES: 6 claves para usar la IA a tu favor sin que decida por ti antes de ingresar a la universidad https://t.co/jNOwXLUauv",
-   "original_en": "Alerta a postulantes PAES: 6 claves para usar la IA a tu favor sin que decida por ti antes de ingresar a la universidad https://t.co/jNOwXLUauv",
-   "highlight": false,
-   "created_at": "2026-10-30T01:30:01.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2340,
-   "likes": 10,
-   "replies": 3,
-   "reposts": 0,
-   "url": "https://x.com/ErickSky/status/2115943498041917915",
-   "status_url": "https://x.com/ErickSky/status/2115943498041917915",
-   "text": "EL DIABLASOOOO https://t.co/7wgw6IuVyI",
-   "original_en": "EL DIABLASOOOO https://t.co/7wgw6IuVyI",
-   "highlight": false,
-   "created_at": "2026-10-29T23:06:56.000Z",
+   "url": "https://x.com/ErickSky/status/2116221225055711598",
+   "status_url": "https://x.com/ErickSky/status/2116221225055711598",
+   "text": "Por esto es que yo digo que Apple cometió un grave error al no comprar Anthropic cuando tuvo la oportunidad.\n\nSí literal es la misma empresa. https://t.co/FafOZVMXho",
+   "original_en": "Por esto es que yo digo que Apple cometió un grave error al no comprar Anthropic cuando tuvo la oportunidad.\n\nSí literal es la misma empresa. https://t.co/FafOZVMXho",
+   "highlight": true,
+   "created_at": "2026-10-30T17:30:32.000Z",
    "window": "24h"
   },
   {
@@ -328,64 +137,143 @@
    "display_name": "DotCSV",
    "handle": "@DotCSV",
    "area": "ai",
-   "views": 2258,
-   "likes": 26,
-   "replies": 16,
+   "views": 20153,
+   "likes": 192,
+   "replies": 19,
+   "reposts": 5,
+   "url": "https://x.com/DotCSV/status/2116499385978941887",
+   "status_url": "https://x.com/DotCSV/status/2116499385978941887",
+   "text": "He visto esta mañana este anuncio de OpenAI y he pensado: \"está bonito\"\n\nPero en ningún momento me he cuestionado si se trataba de una animación hecha con IA, cosa que me sorprendería muchísimo si fuera cierto.\n\nAún así, en un punto del vídeo hay un error muy sospechoso... https://t.co/9xe87ijoPI",
+   "original_en": "He visto esta mañana este anuncio de OpenAI y he pensado: \"está bonito\"\n\nPero en ningún momento me he cuestionado si se trataba de una animación hecha con IA, cosa que me sorprendería muchísimo si fuera cierto.\n\nAún así, en un punto del vídeo hay un error muy sospechoso... https://t.co/9xe87ijoPI",
+   "highlight": true,
+   "created_at": "2026-10-31T11:55:50.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 18725,
+   "likes": 328,
+   "replies": 31,
+   "reposts": 6,
+   "url": "https://x.com/ErickSky/status/2116199121971216885",
+   "status_url": "https://x.com/ErickSky/status/2116199121971216885",
+   "text": "Los modelos de Claude por fin tiene un harness decente!\n\nRecuerdo que también la puedes usar en Hermes.\n\nAbro debate: se abren a otros harnesses por bondad o porque necesitan data? https://t.co/8QbY2Or9oo",
+   "original_en": "Los modelos de Claude por fin tiene un harness decente!\n\nRecuerdo que también la puedes usar en Hermes.\n\nAbro debate: se abren a otros harnesses por bondad o porque necesitan data? https://t.co/8QbY2Or9oo",
+   "highlight": true,
+   "created_at": "2026-10-30T16:02:42.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "freddier",
+   "display_name": "freddier",
+   "handle": "@freddier",
+   "area": "ai",
+   "views": 9365,
+   "likes": 112,
+   "replies": 11,
    "reposts": 0,
-   "url": "https://x.com/DotCSV/status/2116160239309332870",
-   "status_url": "https://x.com/DotCSV/status/2116160239309332870",
-   "text": "¿Hay alguna tarea que hagáis en frente de una pantalla que aún los modelos actuales NO PUEDAN RESOLVER? \n\nNo digo resolverlas one-shot, pero que con skills y especificándole cómo hacerlas, aún no sean capaces de hacerla correctamente.",
-   "original_en": "¿Hay alguna tarea que hagáis en frente de una pantalla que aún los modelos actuales NO PUEDAN RESOLVER? \n\nNo digo resolverlas one-shot, pero que con skills y especificándole cómo hacerlas, aún no sean capaces de hacerla correctamente.",
-   "highlight": false,
-   "created_at": "2026-10-30T13:28:12.000Z",
+   "url": "https://x.com/freddier/status/2116260424408764441",
+   "status_url": "https://x.com/freddier/status/2116260424408764441",
+   "text": "Why isn’t voice dictation a fixed problem, deeply integrated in a MacBook/iPhone?\n\nIsn’t that the point of all the local “neural engine” chip investment?\n\nLocal models are really good now. https://t.co/H7SVBRu618",
+   "original_en": "Why isn’t voice dictation a fixed problem, deeply integrated in a MacBook/iPhone?\n\nIsn’t that the point of all the local “neural engine” chip investment?\n\nLocal models are really good now. https://t.co/H7SVBRu618",
+   "highlight": true,
+   "created_at": "2026-10-30T20:06:18.000Z",
    "window": "24h",
-   "draft_en": "[R5 · respuesta] Al menos en salud, las que todavía fallan no son de capacidad sino de contexto: tareas donde lo importante no está en la pantalla. Por ejemplo, notar que en una ficha falta un dato que debería estar, o que dos documentos que se ven correctos chocan con algo que el paciente contó en voz alta.\n\nCon skills e instrucciones claras resuelven muy bien lo que está escrito. Lo difícil sigue siendo saber qué no está y decidir cuándo parar a preguntar en vez de completar con lo más probable.\n\nY ese punto es el que más pesa: un modelo que rellena un vacío con algo verosímil es más riesgoso que uno que dice «me falta este dato».",
+   "draft_en": "[R1 · respuesta] For some of us the case for on-device dictation isn't speed, it's privacy. In a clinic, what you dictate is often the most private conversation of someone's week. A note that never leaves the phone is a much easier conversation with patients and with whoever handles data protection.\n\nThe other gap is vocabulary. General dictation still trips on drug names and medical terms, and in a clinical note a wrong word isn't a typo, it can be a different instruction.\n\nA local model that learns your own vocabulary on the device would fix both at once. That feels like the obvious job for all that neural engine silicon.",
    "draft_keywords": [
-    "Lo que aún no resuelven: lo que no está en la pantalla"
+    "On-device dictation: privacy and vocabulary"
    ],
-   "why_hit": "Objetivo de respuesta R5 (Lo que aún no resuelven: lo que no está en la pantalla). Base verificada: Sin cifras.",
-   "hook": "Al menos en salud, las que todavía fallan no son de capacidad sino de contexto: tareas donde lo importante no está en la",
-   "top10_rank": 5
+   "why_hit": "Objetivo de respuesta R1 (On-device dictation: privacy and vocabulary). Base verificada: No figures.",
+   "hook": "For some of us the case for on-device dictation isn't speed, it's privacy. In a clinic, what you dictate is often the mo",
+   "top10_rank": 2
   },
   {
    "name": "ministeriosalud",
    "display_name": "ministeriosalud",
    "handle": "@ministeriosalud",
    "area": "health",
-   "views": 2190,
-   "likes": 14,
-   "replies": 1,
-   "reposts": 14,
-   "url": "https://x.com/ministeriosalud/status/2115810783896461478",
-   "status_url": "https://x.com/ministeriosalud/status/2115810783896461478",
-   "text": "Reconocer los síntomas del ACV y actuar a tiempo puede salvar vidas 🚨\n\nAcude a urgencias si presentas aunque sea uno de ellos o llama al SAMU 131 si no puedes acudir por tu cuenta. https://t.co/0dIRBQZmY1",
-   "original_en": "Reconocer los síntomas del ACV y actuar a tiempo puede salvar vidas 🚨\n\nAcude a urgencias si presentas aunque sea uno de ellos o llama al SAMU 131 si no puedes acudir por tu cuenta. https://t.co/0dIRBQZmY1",
+   "views": 2564,
+   "likes": 6,
+   "replies": 0,
+   "reposts": 12,
+   "url": "https://x.com/ministeriosalud/status/2116176249341009996",
+   "status_url": "https://x.com/ministeriosalud/status/2116176249341009996",
+   "text": "En el Día Mundial del Cáncer de Hígado, ten claros los signos y síntomas a los que estar atentos si se presentan de manera persistentes.\n\nSi presentas alguno de ellos, consulta con tu equipo de salud. https://t.co/8NclqxoNCo",
+   "original_en": "En el Día Mundial del Cáncer de Hígado, ten claros los signos y síntomas a los que estar atentos si se presentan de manera persistentes.\n\nSi presentas alguno de ellos, consulta con tu equipo de salud. https://t.co/8NclqxoNCo",
    "highlight": false,
-   "created_at": "2026-10-29T14:19:35.000Z",
-   "window": "24h",
-   "draft_en": "[R6 · respuesta] Un síntoma que se suele pasar por alto: la pérdida brusca de visión en un ojo, sin dolor. Puede ser una oclusión de la arteria central de la retina, que la American Heart Association define como una forma de ACV.\n\nNecesita el mismo camino que cualquier ACV: ir a urgencias de inmediato, no pedir hora con el oftalmólogo para la semana siguiente. Los tratamientos en estudio tienen una ventana de pocas horas.\n\nY aunque la visión vuelva a los pocos minutos, hay que consultar ese mismo día, porque puede ser el aviso de un ACV cerebral.\n\nFuente: American Heart Association, Stroke 2021 (Mac Grory et al.).\n\nFuente: https://newsroom.heart.org/news/stroke-affecting-the-eye-requires-immediate-treatment-can-signal-future-vascular-events · https://www.ahajournals.org/doi/full/10.1161/STR.0000000000000366",
-   "draft_keywords": [
-    "ACV que afecta al ojo (oclusión de arteria central de la retina)"
-   ],
-   "why_hit": "Objetivo de respuesta R6 (ACV que afecta al ojo (oclusión de arteria central de la retina)). Base verificada: AHA, Stroke 2021 (Mac Grory et al.): la oclusión de la arteria central de la retina es una forma de ACV isquémico agudo y una emergencia; pérdida de visión brusca e indolora; menos de 20% recupera visión funcional; ventana corta de tratamiento.",
-   "hook": "Un síntoma que se suele pasar por alto: la pérdida brusca de visión en un ojo, sin dolor. Puede ser una oclusión de la a",
-   "top10_rank": 6
+   "created_at": "2026-10-30T14:31:49.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 2235,
+   "likes": 16,
+   "replies": 7,
+   "reposts": 0,
+   "url": "https://x.com/ErickSky/status/2116293200323178776",
+   "status_url": "https://x.com/ErickSky/status/2116293200323178776",
+   "text": "No entiendo por qué la gente usa Instinct, o sea, cuál es el masoquismo?? https://t.co/bUrZl0SkMF",
+   "original_en": "No entiendo por qué la gente usa Instinct, o sea, cuál es el masoquismo?? https://t.co/bUrZl0SkMF",
+   "highlight": false,
+   "created_at": "2026-10-30T22:16:32.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 2095,
+   "likes": 7,
+   "replies": 0,
+   "reposts": 7,
+   "url": "https://x.com/adnradiochile/status/2116306654857990241",
+   "status_url": "https://x.com/adnradiochile/status/2116306654857990241",
+   "text": "Familia de menor fallecida tras ser dada de alta lleva a tribunales al Servicio de Salud de Magallanes por $400 millones https://t.co/vgga9xzGch",
+   "original_en": "Familia de menor fallecida tras ser dada de alta lleva a tribunales al Servicio de Salud de Magallanes por $400 millones https://t.co/vgga9xzGch",
+   "highlight": false,
+   "created_at": "2026-10-30T23:10:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "Cooperativa",
+   "display_name": "Cooperativa",
+   "handle": "@Cooperativa",
+   "area": "health",
+   "views": 2004,
+   "likes": 1,
+   "replies": 0,
+   "reposts": 0,
+   "url": "https://x.com/Cooperativa/status/2116494574239506484",
+   "status_url": "https://x.com/Cooperativa/status/2116494574239506484",
+   "text": "Más de cinco mil personas han fallecido por el brote de ébola en RD del Congo https://t.co/RCCilupdqR https://t.co/iXWpjKJwDp",
+   "original_en": "Más de cinco mil personas han fallecido por el brote de ébola en RD del Congo https://t.co/RCCilupdqR https://t.co/iXWpjKJwDp",
+   "highlight": false,
+   "created_at": "2026-10-31T11:36:43.000Z",
+   "window": "24h"
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Seguridad y cripto dominan el volumen (hackeo a Binance), fuera de la línea de RT",
-  "El rol profesional con IA: evaluar criterio en vez de memoria; responsabilidad sobre sistemas críticos",
-  "Agentes de voz full-duplex que actúan mientras la persona habla (Phonic-1)",
-  "El ciclo harness-modelo nuevo: qué conservar entre versiones",
-  "Salud Chile: síntomas de ACV (Minsal), IA en la PAES y en la formación universitaria (ADN), estudio de Google sobre IA personal en el trabajo (Cooperativa)"
+  "Fin de semana: el volumen lo ponen Binance/cripto y el fútbol, fuera de la línea de RT",
+  "IA en la vida cotidiana: software para probar la distribución de tu casa sobre tu propio plano",
+  "Dictado por voz y modelos locales: ¿por qué no está resuelto dentro del equipo?",
+  "¿Se nota si un video es IA? (anuncio de OpenAI comentado por DotCSV)",
+  "Ecosistema de modelos: planes de Claude, harness abiertos, DeepSeek",
+  "Salud Chile: muy poca conversación sanitaria en 24h; ébola en RD del Congo y cáncer de hígado ya descartados por el radar"
  ],
  "no_hits": [
   {
    "handle": "@sergiorocaa",
-   "max_views": 1066,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.066."
+   "max_views": 1444,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.444."
   },
   {
    "handle": "@bilinkis",
@@ -393,14 +281,9 @@
    "reason": "Sin originales en las últimas 24h."
   },
   {
-   "handle": "@Pajarobere",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
-  },
-  {
    "handle": "@juancarlossaid",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "max_views": 726,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 726."
   },
   {
    "handle": "@CatuRojas",
@@ -409,13 +292,8 @@
   },
   {
    "handle": "@HeliaMolina_M",
-   "max_views": 261,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 261."
-  },
-  {
-   "handle": "@Cooperativa",
-   "max_views": 1817,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.817."
+   "max_views": 351,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 351."
   },
   {
    "handle": "@jmanalich",
@@ -425,12 +303,12 @@
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 19,
+ "hits_count": 14,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-10-29",
-  "hits_count": 26,
-  "total_views": 527501
+  "date": "2026-10-30",
+  "hits_count": 14,
+  "total_views": 463183
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -501,8 +379,8 @@
    "handle": "@ErickSky",
    "name": "ErickSky",
    "area": "ai",
-   "views": 143192,
-   "total_views": 322098,
+   "views": 140339,
+   "total_views": 282964,
    "hit": true,
    "window": "24h"
   },
@@ -510,17 +388,8 @@
    "handle": "@midudev",
    "name": "midudev",
    "area": "ai",
-   "views": 97676,
-   "total_views": 163996,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@freddier",
-   "name": "freddier",
-   "area": "ai",
-   "views": 47044,
-   "total_views": 61273,
+   "views": 71457,
+   "total_views": 149094,
    "hit": true,
    "window": "24h"
   },
@@ -528,17 +397,8 @@
    "handle": "@adnradiochile",
    "name": "adnradiochile",
    "area": "health",
-   "views": 9755,
-   "total_views": 17310,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@ministeriosalud",
-   "name": "ministeriosalud",
-   "area": "health",
-   "views": 2296,
-   "total_views": 5352,
+   "views": 70855,
+   "total_views": 427133,
    "hit": true,
    "window": "24h"
   },
@@ -546,8 +406,17 @@
    "handle": "@DotCSV",
    "name": "DotCSV",
    "area": "ai",
-   "views": 2258,
-   "total_views": 2258,
+   "views": 20153,
+   "total_views": 20153,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@Pajarobere",
+   "name": "Pajarobere",
+   "area": "health",
+   "views": 11872,
+   "total_views": 14853,
    "hit": true,
    "window": "24h"
   },
@@ -555,44 +424,35 @@
    "handle": "@Cooperativa",
    "name": "Cooperativa",
    "area": "health",
-   "views": 1817,
-   "total_views": 4889,
-   "hit": false,
+   "views": 11117,
+   "total_views": 200411,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@freddier",
+   "name": "freddier",
+   "area": "ai",
+   "views": 9365,
+   "total_views": 9365,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@ministeriosalud",
+   "name": "ministeriosalud",
+   "area": "health",
+   "views": 2564,
+   "total_views": 4355,
+   "hit": true,
    "window": "24h"
   },
   {
    "handle": "@sergiorocaa",
    "name": "sergiorocaa",
    "area": "ai",
-   "views": 1066,
-   "total_views": 5449,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@HeliaMolina_M",
-   "name": "HeliaMolina_M",
-   "area": "health",
-   "views": 261,
-   "total_views": 261,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@bilinkis",
-   "name": "bilinkis",
-   "area": "ai",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@Pajarobere",
-   "name": "Pajarobere",
-   "area": "health",
-   "views": 0,
-   "total_views": 0,
+   "views": 1444,
+   "total_views": 3127,
    "hit": false,
    "window": "24h"
   },
@@ -600,6 +460,24 @@
    "handle": "@juancarlossaid",
    "name": "juancarlossaid",
    "area": "health",
+   "views": 726,
+   "total_views": 726,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@HeliaMolina_M",
+   "name": "HeliaMolina_M",
+   "area": "health",
+   "views": 351,
+   "total_views": 351,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@bilinkis",
+   "name": "bilinkis",
+   "area": "ai",
    "views": 0,
    "total_views": 0,
    "hit": false,
@@ -688,54 +566,54 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "código"
+    "keyword": "claude"
    },
    {
     "rank": 2,
-    "keyword": "agentes de voz"
+    "keyword": "salud"
    },
    {
     "rank": 3,
-    "keyword": "Claude"
+    "keyword": "dictation"
    },
    {
     "rank": 4,
-    "keyword": "entrevistas técnicas"
+    "keyword": "plano"
    },
    {
     "rank": 5,
-    "keyword": "harness"
+    "keyword": "deepseek"
    },
    {
     "rank": 6,
-    "keyword": "responsabilidad"
+    "keyword": "harness"
    },
    {
     "rank": 7,
-    "keyword": "IA en la PAES"
+    "keyword": "openai"
    },
    {
     "rank": 8,
-    "keyword": "ACV"
+    "keyword": "anthropic"
    },
    {
     "rank": 9,
-    "keyword": "alfabetización en IA"
+    "keyword": "juego"
    },
    {
     "rank": 10,
-    "keyword": "agentes personales (Shadow AI)"
+    "keyword": "cáncer"
    }
   ],
-  "note": "Minadas y depuradas de originales 24h; Binance/cripto y temas político-partidistas excluidos."
+  "note": "Minadas de originales 24h (repetidas ≥2 veces, completadas con términos de los posts de más vistas); temas político-partidistas excluidos."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 30-10-2026: 6 respuestas (R1–R6) y 2 originales (P1–P2) en borrador para aprobación; nada publicado.",
-   "takeaway": "Mayor tracción IA: ErickSky (143,2K, hackeo a Binance; 76K agentes de voz Phonic-1), midudev (97,7K entrevistas de código muertas; 66,3K generar rápido no es asumir un sistema crítico), freddier (47K Binance; 14,2K el ciclo del harness). Salud: ADN con IA en la PAES y en la formación universitaria (2,8–3,1K) y Minsal con síntomas de ACV (2,2K). Sin originales de bilinkis, Pajarobere, juancarlossaid, CatuRojas ni jmanalich en 24h. Binance y cripto quedan fuera de línea."
+   "headline": "Digest 31-10-2026: 2 respuestas (R1–R2) y 2 originales (P1–P2) en borrador para aprobación; nada publicado.",
+   "takeaway": "Mayor tracción IA: ErickSky (140,3K Binance, fuera de línea; 60,8K software para mover ambientes en tu propio plano; 29,7K DeepSeek x10; 26,1K planes de Claude; 18,7K harness), midudev (71,5K juego de terror en el navegador; 39,3K repo DevOps; 38,3K plugin para Claude Code), DotCSV (20,2K ¿anuncio de OpenAI hecho con IA?, descartado hoy por el radar) y freddier (9,4K ¿por qué el dictado por voz no está resuelto en el equipo?). Salud: casi nada en la línea de RT; ébola y cáncer de hígado ya descartados por el radar. Cooperativa y ADN dominan el volumen con política, policial y fútbol (excluidos). Sin originales de bilinkis, CatuRojas ni jmanalich en 24h."
   },
   "corpus": {
-   "posts": 38,
+   "posts": 179,
    "min_views": 2000
   },
   "window": {
@@ -744,104 +622,56 @@
   "topics": [],
   "ideas": [
    {
-    "title": "R1 · respuesta a @midudev",
-    "format": "respuesta",
-    "source": "@midudev",
-    "topic": "Evaluar criterio, no memoria (entrevistas de código)",
-    "hook_en": "En medicina hicimos un cambio parecido hace décadas. La prueba de memoria sigue existiendo, pero para saber si alguien está listo para atender pacientes se usan estaciones con casos simulados: se observa cómo pregunta, cómo razona, qué examina y cómo lo explica.\n\nCon la IA esa idea pesa todavía más. Si cualquiera obtiene una respuesta en segundos, lo que vale la pena evaluar es si la persona sabe qué preguntar, detecta cuando la respuesta está mal y puede explicar por qué eligió un camino.\n\nLo difícil, como dices, es que eso exige tiempo de quien evalúa. Pero es la forma más honesta de medir lo que de verdad se usa en el trabajo.",
-    "angle": "Objetivo: https://x.com/midudev/status/2115806107935412531 (97.676 vistas)",
-    "why": "Base: Sin cifras; el ECOE/OSCE se usa en la formación médica desde los años 70 (Harden, BMJ 1975). Fuente: sin cifras externas",
-    "keywords": [
-     "Evaluar criterio, no memoria (entrevistas de código)"
-    ]
-   },
-   {
-    "title": "R2 · respuesta a @midudev",
-    "format": "respuesta",
-    "source": "@midudev",
-    "topic": "Generar rápido no es responder por el sistema",
-    "hook_en": "La palabra clave del post es «asumir». Generar algo rápido es una capacidad; responder por ello cuando falla es otra, y esa no se acelera con un modelo mejor.\n\nEn un sistema crítico lo que más cuesta no es escribir, es entender por qué las cosas están hechas como están. Muchas de esas decisiones nacieron de un error que alguien ya pagó y que no quedó anotado en ninguna parte.\n\nLa IA ayuda mucho a leer, resumir y proponer cambios. Pero quien firma tiene que poder explicar el sistema sin ella. Con un informe médico pasa igual: lo puede redactar otro, pero lo firma quien responde por él.",
-    "angle": "Objetivo: https://x.com/midudev/status/2115822892839559584 (66.320 vistas)",
-    "why": "Base: Sin cifras. Fuente: sin cifras externas",
-    "keywords": [
-     "Generar rápido no es responder por el sistema"
-    ]
-   },
-   {
-    "title": "R3 · respuesta a @ErickSky",
-    "format": "respuesta",
-    "source": "@ErickSky",
-    "topic": "Agentes de voz full-duplex en la vida real",
-    "hook_en": "Lo de actuar mientras la persona sigue hablando importa mucho fuera del mundo tech. Hay mucha gente que nunca va a usar una app ni un chat escrito, pero sí llama por teléfono: adultos mayores, personas con baja visión, quien va manejando o tiene las manos ocupadas.\n\nPara ellos, un agente de voz que no corta el ritmo puede ser la diferencia entre resolver un trámite y colgar frustrados. Pienso en agendar una hora, confirmar una cita o preguntar por un resultado.\n\nEn esos usos lo clave no es que suene humano, sino que repita en voz alta lo que hizo: «quedó agendado el martes a las 10, ¿correcto?». Esa confirmación, que en salud usamos hace años con las indicaciones verbales, evita muchos malentendidos.",
-    "angle": "Objetivo: https://x.com/ErickSky/status/2115850611258208548 (75.956 vistas)",
-    "why": "Base: Sin cifras propias; datos del demo según el post de Erick (44 min, 123 tool calls). Fuente: sin cifras externas",
-    "keywords": [
-     "Agentes de voz full-duplex en la vida real"
-    ]
-   },
-   {
-    "title": "R4 · respuesta a @freddier",
+    "title": "R1 · respuesta a @freddier",
     "format": "respuesta",
     "source": "@freddier",
-    "topic": "What survives a new model release (harness)",
-    "hook_en": "The part worth keeping between model releases isn't the harness itself. It's what you learned while building it: examples of what \"good\" looks like, the mistakes it kept making, and the checks that caught them.\n\nPrompts and workarounds age fast. A short set of real test cases and a clear definition of done don't. When a new model lands, you run it against those, and within an hour you know which pieces of scaffolding you can drop and which ones still earn their place.\n\nThat's the loop in your post: the magic keeps changing, but the definition of what you actually want shouldn't.",
-    "angle": "Objetivo: https://x.com/freddier/status/2115870208296690154 (14.229 vistas)",
+    "topic": "On-device dictation: privacy and vocabulary",
+    "hook_en": "For some of us the case for on-device dictation isn't speed, it's privacy. In a clinic, what you dictate is often the most private conversation of someone's week. A note that never leaves the phone is a much easier conversation with patients and with whoever handles data protection.\n\nThe other gap is vocabulary. General dictation still trips on drug names and medical terms, and in a clinical note a wrong word isn't a typo, it can be a different instruction.\n\nA local model that learns your own vocabulary on the device would fix both at once. That feels like the obvious job for all that neural engine silicon.",
+    "angle": "Objetivo: https://x.com/freddier/status/2116260424408764441 (9.365 vistas)",
     "why": "Base: No figures. Fuente: sin cifras externas",
     "keywords": [
-     "What survives a new model release (harness)"
+     "On-device dictation: privacy and vocabulary"
     ]
    },
    {
-    "title": "R5 · respuesta a @DotCSV",
+    "title": "R2 · respuesta a @ErickSky",
     "format": "respuesta",
-    "source": "@DotCSV",
-    "topic": "Lo que aún no resuelven: lo que no está en la pantalla",
-    "hook_en": "Al menos en salud, las que todavía fallan no son de capacidad sino de contexto: tareas donde lo importante no está en la pantalla. Por ejemplo, notar que en una ficha falta un dato que debería estar, o que dos documentos que se ven correctos chocan con algo que el paciente contó en voz alta.\n\nCon skills e instrucciones claras resuelven muy bien lo que está escrito. Lo difícil sigue siendo saber qué no está y decidir cuándo parar a preguntar en vez de completar con lo más probable.\n\nY ese punto es el que más pesa: un modelo que rellena un vacío con algo verosímil es más riesgoso que uno que dice «me falta este dato».",
-    "angle": "Objetivo: https://x.com/DotCSV/status/2116160239309332870 (2.258 vistas)",
+    "source": "@ErickSky",
+    "topic": "Probar el plano pensando en la casa de dentro de 15 años",
+    "hook_en": "Lo más útil de probar la distribución antes de construir es imaginar la casa dentro de 10 o 15 años, no solo la de hoy.\n\nAhí aparecen preguntas que casi nadie se hace al remodelar: si hay un baño cerca del dormitorio, si un pasillo deja pasar un andador o una silla de ruedas, si se puede llegar de noche al baño sin cruzar alfombras ni escalones, y dónde queda una luz que se encienda sin buscar el interruptor a oscuras.\n\nSon cambios baratos en el plano y muy caros después de la obra. Una herramienta así le puede servir mucho a una familia que está adaptando la casa de un papá o una mamá que va envejeciendo.",
+    "angle": "Objetivo: https://x.com/ErickSky/status/2116229994754298247 (60.814 vistas)",
     "why": "Base: Sin cifras. Fuente: sin cifras externas",
     "keywords": [
-     "Lo que aún no resuelven: lo que no está en la pantalla"
+     "Probar el plano pensando en la casa de dentro de 15 años"
     ]
    },
    {
-    "title": "R6 · respuesta a @ministeriosalud",
-    "format": "respuesta",
-    "source": "@ministeriosalud",
-    "topic": "ACV que afecta al ojo (oclusión de arteria central de la retina)",
-    "hook_en": "Un síntoma que se suele pasar por alto: la pérdida brusca de visión en un ojo, sin dolor. Puede ser una oclusión de la arteria central de la retina, que la American Heart Association define como una forma de ACV.\n\nNecesita el mismo camino que cualquier ACV: ir a urgencias de inmediato, no pedir hora con el oftalmólogo para la semana siguiente. Los tratamientos en estudio tienen una ventana de pocas horas.\n\nY aunque la visión vuelva a los pocos minutos, hay que consultar ese mismo día, porque puede ser el aviso de un ACV cerebral.\n\nFuente: American Heart Association, Stroke 2021 (Mac Grory et al.).",
-    "angle": "Objetivo: https://x.com/ministeriosalud/status/2115810783896461478 (2.190 vistas)",
-    "why": "Base: AHA, Stroke 2021 (Mac Grory et al.): la oclusión de la arteria central de la retina es una forma de ACV isquémico agudo y una emergencia; pérdida de visión brusca e indolora; menos de 20% recupera visión funcional; ventana corta de tratamiento. Fuente: https://newsroom.heart.org/news/stroke-affecting-the-eye-requires-immediate-treatment-can-signal-future-vascular-events · https://www.ahajournals.org/doi/full/10.1161/STR.0000000000000366",
-    "keywords": [
-     "ACV que afecta al ojo (oclusión de arteria central de la retina)"
-    ]
-   },
-   {
-    "title": "P1 · IA por cuenta propia en el trabajo: el dato chileno y qué significa en salud",
+    "title": "P1 · El celular como apoyo para la baja visión",
     "format": "post largo",
     "source": "original RT",
-    "topic": "uso de IA personal en equipos de salud",
-    "hook_en": "El 47% de los profesionales chilenos de grandes organizaciones usa con regularidad agentes de IA personales en su trabajo, y más de la mitad de ellos no ve riesgos o los considera muy bajos. Lo muestra el estudio Work: InProgress 2026, de IDC y Provokers para Google Workspace, presentado ayer.\n\nEl mismo estudio muestra la otra cara: el 63% quiere delegar tareas en agentes, pero dice que no sabe configurarlos, y el 67% cuenta que su organización no ofrece capacitación regular en IA. La mayoría aprende por su cuenta, probando o con contenido de redes.\n\nEn salud este dato tiene una lectura propia. Cuando alguien usa su cuenta personal para resumir una epicrisis o redactar una respuesta, los datos del paciente salen del sistema de la institución, aunque la intención sea muy buena.\n\nLa respuesta no pasa por prohibir. Pasa por tres cosas simples:\n\n• Herramientas aprobadas dentro de lo que el equipo ya usa (el 58% prefiere los agentes integrados ahí)\n• Reglas claras sobre qué datos se pueden usar y cuáles no\n• Capacitación breve y práctica, con casos reales del servicio\n\nLas ganas de usar IA ya están. Lo que falta es darles un camino seguro.\n\nUn matiz: la muestra chilena fueron 650 profesionales de organizaciones con 500 o más empleados, así que no representa a todo el país ni a las pymes.\n\nFuente: estudio Work: InProgress 2026 (IDC y Provokers para Google Workspace), vía Cooperativa.",
-    "visual": "Video vertical de 30 s: RT a cámara con tres cifras en pantalla (47%, 63%, 67%) y cierre con las tres medidas: herramientas aprobadas, reglas de datos, capacitación breve.",
+    "topic": "IA y accesibilidad para personas con baja visión",
+    "hook_en": "Tu celular ya puede leerte en voz alta la etiqueta de un remedio o describirte lo que tienes al frente. Para una persona con baja visión eso no es un truco tecnológico: es autonomía.\n\nLa OMS estima que al menos 2.200 millones de personas en el mundo tienen algún problema de visión de cerca o de lejos, y que en al menos mil millones de esos casos se pudo prevenir o todavía no se ha tratado.\n\nTres herramientas gratuitas que vale la pena conocer:\n\n• Lupa del iPhone: además de ampliar, su modo de detección lee en voz alta el texto que enfoca la cámara y, en modelos compatibles, avisa de puertas y personas cerca\n• Lookout, de Google, en Android: usa la cámara para reconocer objetos y texto, y te describe lo que ve\n• Be My Eyes: conecta por videollamada con voluntarios y tiene una función de IA que describe fotos y responde preguntas sobre ellas\n\nSirven para cosas muy concretas: leer una boleta, la fecha de vencimiento de un alimento o la dosis en la caja de un remedio.\n\nUn matiz importante: estas apps ayudan a vivir con baja visión, pero no reemplazan el control. Si la visión baja, primero hay que saber por qué. Muchas causas, como la catarata, tienen tratamiento.\n\nSi tienes un familiar mayor que ya no lee bien la letra chica, vale la pena sentarse un rato y dejarle configurada una de estas herramientas.\n\nFuentes: OMS, ficha de ceguera y discapacidad visual; páginas de ayuda de Apple, Google y Be My Eyes.",
+    "visual": "Video vertical de 30–40 s: RT apunta el celular a la caja de un remedio y la app lo lee en voz alta (Lupa en iPhone o Lookout en Android); cierre con «estas apps ayudan, pero si la visión baja, primero hay que saber por qué».",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://cooperativa.cl/noticias/pais/trabajo/profesionales-chilenos-superaron-la-alfabetizacion-basica-en-ia-segun/2026-10-30/080412.html",
+    "why": "Fuentes verificadas hoy: https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment https://support.apple.com/es-cl/guide/iphone/iph77bcdd132/ios https://support.google.com/accessibility/android/answer/9031274?hl=es https://www.bemyeyes.com/bme-app/",
     "keywords": [
-     "uso de IA personal en equipos de salud",
+     "IA y accesibilidad para personas con baja visión",
      "salud"
     ]
    },
    {
-    "title": "P2 · La primera IA autorizada para diagnosticar sola miraba el fondo de ojo",
+    "title": "P2 · Videos de médicos hechos con IA y las gotas que «disuelven las cataratas»",
     "format": "post largo",
     "source": "original RT",
-    "topic": "IA autónoma en tamizaje de retinopatía diabética",
-    "hook_en": "La primera IA autorizada para diagnosticar sola, sin que un médico revise la imagen, no fue un chatbot. Fue un sistema que analiza fotos del fondo de ojo de personas con diabetes, autorizado por la FDA en 2018.\n\nEn el estudio que llevó a esa autorización (Abràmoff et al., npj Digital Medicine 2018) participaron 900 adultos con diabetes en 10 centros de atención primaria. El sistema detectó retinopatía diabética más que leve con 87,2% de sensibilidad y 90,7% de especificidad, y obtuvo una imagen útil en el 96,1% de los casos.\n\nPara quienes gestionan salud, lo más interesante son las condiciones que lo hicieron funcionar:\n\n• Una tarea acotada: responder una sola pregunta, si hay que derivar o no\n• Metas fijadas antes del estudio y evaluadas en atención primaria real, no solo con imágenes de archivo\n• Operadores con un entrenamiento estandarizado para tomar la foto\n• Un camino claro después: el resultado positivo se deriva al oftalmólogo\n\nLa retinopatía diabética se puede detectar antes de que afecte la visión. Por eso un examen que se puede hacer en atención primaria, cerca de la persona, tiene tanto valor.\n\nAhí la IA no reemplaza al especialista: hace que llegue a tiempo quien lo necesita.\n\nFuentes: Abràmoff et al., npj Digital Medicine 2018; FDA, De Novo DEN180001 (IDx-DR).",
-    "visual": "Video vertical de 30–40 s: una foto de fondo de ojo de ejemplo (sin datos de paciente) y las cuatro condiciones en pantalla; cierre con «la IA no reemplaza al especialista, hace que llegue a tiempo quien lo necesita».",
+    "topic": "deepfakes de médicos y falsos tratamientos para la catarata",
+    "hook_en": "Si ves a un médico conocido en un video recomendando unas gotas que «disuelven las cataratas», desconfía dos veces: ese video puede estar hecho con IA, y esas gotas no existen.\n\nEn 2024, The BMJ documentó videos falsos, creados con IA, de médicos muy conocidos de la televisión británica promocionando productos para la presión alta y la diabetes. Ellos nunca los grabaron. Un estudio citado en ese reportaje sugiere que entre 25% y 50% de las personas no logra distinguir un video falso sobre temas científicos de uno real.\n\nEn el caso de los ojos, la evidencia es clara. La Academia Americana de Oftalmología señala que hoy no hay ningún medicamento que elimine una catarata ni que frene su avance. La cirugía sigue siendo el único tratamiento definitivo, y sus resultados son muy buenos.\n\nAlgunas señales para reconocer estas estafas:\n\n• Prometen curar sin cirugía algo que hoy solo se trata operando\n• Hablan de una «cura que los médicos ocultan»\n• Te apuran con «últimas unidades» o un descuento por pocas horas\n• El link no lleva a una institución de salud, sino a una tienda\n\nSi te llega uno de estos videos, mejor no compartirlo y preguntarle a tu oftalmólogo. Y si tus papás usan redes, vale la pena conversarlo con ellos.\n\nFuentes: The BMJ 2024;386:q1319; Academia Americana de Oftalmología (guía de práctica clínica de catarata, 2021, y EyeWiki).",
+    "visual": "Video vertical de 30 s: RT a cámara con las cuatro señales en pantalla, una por una; cierre con «ningún colirio disuelve una catarata; si te llega un video así, pregúntale a tu oftalmólogo».",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://doi.org/10.1038/s41746-018-0040-6 https://www.accessdata.fda.gov/cdrh_docs/pdf18/DEN180001.pdf",
+    "why": "Fuentes verificadas hoy: https://doi.org/10.1136/bmj.q1319 https://www.aaojournal.org/article/S0161-6420%2821%2900750-8/fulltext https://eyewiki.aao.org/Cataract",
     "keywords": [
-     "IA autónoma en tamizaje de retinopatía diabética",
+     "deepfakes de médicos y falsos tratamientos para la catarata",
      "salud"
     ]
    }
