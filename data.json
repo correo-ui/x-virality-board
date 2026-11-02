@@ -1,8 +1,8 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-01 10:30",
- "date": "2026-11-01",
+ "title": "Digest diario — escaneo 24h al 2026-11-02 10:30",
+ "date": "2026-11-02",
  "timezone": "America/Santiago",
- "updated": "2026-11-01T11:15:00-03:00",
+ "updated": "2026-11-02T11:30:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
@@ -11,334 +11,108 @@
    "display_name": "midudev",
    "handle": "@midudev",
    "area": "ai",
-   "views": 78992,
-   "likes": 2583,
-   "replies": 119,
-   "reposts": 218,
-   "url": "https://x.com/midudev/status/2116558120860393483",
-   "status_url": "https://x.com/midudev/status/2116558120860393483",
-   "text": "Sam Altman dice que es \"terrible\" que queramos RAM para nuestros PCs en vez de sus centros de datos.\n\nQué curioso que el que vende IA en la nube quiere que dependamos todavía más de ella...\n\nSam, suéltame del brazo. Mi RAM, mi PC, mi IA local. https://t.co/9YcTHJRPgP",
-   "original_en": "Sam Altman dice que es \"terrible\" que queramos RAM para nuestros PCs en vez de sus centros de datos.\n\nQué curioso que el que vende IA en la nube quiere que dependamos todavía más de ella...\n\nSam, suéltame del brazo. Mi RAM, mi PC, mi IA local. https://t.co/9YcTHJRPgP",
+   "views": 94794,
+   "likes": 1414,
+   "replies": 55,
+   "reposts": 40,
+   "url": "https://x.com/midudev/status/2116967571706835164",
+   "status_url": "https://x.com/midudev/status/2116967571706835164",
+   "text": "El creador de OpenClaw dice que no deberías hacer prompts, si no diseñar bucles que llamen a tus agentes.\n\nAhora imagina hacer esto con tu suscripción de 20$. https://t.co/dtF9nBEIeI",
+   "original_en": "El creador de OpenClaw dice que no deberías hacer prompts, si no diseñar bucles que llamen a tus agentes.\n\nAhora imagina hacer esto con tu suscripción de 20$. https://t.co/dtF9nBEIeI",
    "highlight": true,
-   "created_at": "2026-10-31T15:49:14.000Z",
+   "created_at": "2026-11-01T18:56:15.000Z",
    "window": "24h",
-   "draft_en": "[R1 · respuesta] El argumento de Altman es de utilización: memoria cara que se usa un 5% del tiempo. En salud conocemos bien ese razonamiento, y también su límite.\n\nUn hospital podría guardar todos sus desfibriladores en una sola bodega y usarlos mucho más. Nadie lo hace, porque ese equipo no se mide por cuántas horas trabaja, sino por estar ahí en el minuto en que se necesita.\n\nCon la IA pasa algo parecido. Para muchas tareas, la nube es lo eficiente. Pero hay usos donde importa más la disponibilidad que la utilización: cuando la conexión no es buena, o cuando lo que se procesa no debería salir de donde está.\n\nLo más probable es que terminemos con las dos, cada una donde tiene sentido.",
+   "draft_en": "[R1 · respuesta] Para quien no programa, esa idea se traduce simple: el valor está en que el agente trabaje sin que tengas que pedírselo cada vez.\n\nUn prompt es una conversación. Un bucle es una rutina: revisa algo a una hora fija o cuando pasa un evento, y te avisa solo si hay algo que decidir.\n\nCreo que el próximo salto de los agentes está ahí, más que en modelos más grandes: proactividad. Que no esperen la instrucción, que sepan cuándo actuar y cuándo quedarse callados.",
    "draft_keywords": [
-    "Utilización vs. disponibilidad: IA en la nube o local"
+    "Agentes: de prompts a rutinas (proactividad)"
    ],
-   "why_hit": "Objetivo de respuesta R1 (Utilización vs. disponibilidad: IA en la nube o local). Base verificada: Sin cifras externas (la cifra de 5% es de la cita de Altman en el post citado por midudev).",
-   "hook": "El argumento de Altman es de utilización: memoria cara que se usa un 5% del tiempo. En salud conocemos bien ese razonami",
+   "why_hit": "Objetivo de respuesta R1 (Agentes: de prompts a rutinas (proactividad)). Base verificada: Sin cifras externas.",
+   "hook": "Para quien no programa, esa idea se traduce simple: el valor está en que el agente trabaje sin que tengas que pedírselo ",
    "top10_rank": 1
   },
   {
-   "name": "sergiorocaa",
-   "display_name": "sergiorocaa",
-   "handle": "@sergiorocaa",
+   "name": "DotCSV",
+   "display_name": "DotCSV",
+   "handle": "@DotCSV",
    "area": "ai",
-   "views": 29195,
-   "likes": 513,
+   "views": 32788,
+   "likes": 334,
+   "replies": 30,
+   "reposts": 8,
+   "url": "https://x.com/DotCSV/status/2117021900765372761",
+   "status_url": "https://x.com/DotCSV/status/2117021900765372761",
+   "text": "va duro chatgpt con su roast 😂 https://t.co/aGZNTmfsf9 https://t.co/SvtlNdijBU",
+   "original_en": "va duro chatgpt con su roast 😂 https://t.co/aGZNTmfsf9 https://t.co/SvtlNdijBU",
+   "highlight": true,
+   "created_at": "2026-11-01T22:32:08.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 4093,
+   "likes": 70,
    "replies": 8,
-   "reposts": 98,
-   "url": "https://x.com/sergiorocaa/status/2116530853714989545",
-   "status_url": "https://x.com/sergiorocaa/status/2116530853714989545",
-   "text": "El padrino de la inteligencia artificial: \"Si duermes bien esta noche, puede que no hayas entendido esta conferencia\".\n\nEsta conferencia de 47 minutos es lo mejor que he visto sobre inteligencia artificial en los últimos meses.\n\nDefinitivamente te ayudará a entender cómo funciona",
-   "original_en": "El padrino de la inteligencia artificial: \"Si duermes bien esta noche, puede que no hayas entendido esta conferencia\".\n\nEsta conferencia de 47 minutos es lo mejor que he visto sobre inteligencia artificial en los últimos meses.\n\nDefinitivamente te ayudará a entender cómo funciona",
-   "highlight": true,
-   "created_at": "2026-10-31T14:00:53.000Z",
-   "window": "24h",
-   "draft_en": "[R2 · respuesta] Vale la pena escuchar a Hinton, y también recordar su predicción más citada: en 2016 dijo que había que dejar de formar radiólogos, porque en cinco años la IA lo haría mejor.\n\nNueve años después, la radiología de Mayo Clinic había crecido 55%, a más de 400 radiólogos, y usaba IA a diario para mejorar imágenes y automatizar tareas. El propio Hinton reconoció que se equivocó en los plazos y que habló de forma demasiado amplia: pensaba en el análisis de imágenes, no en todo el trabajo.\n\nLa lección sirve para cualquier profesión: un trabajo no es una sola tarea. La IA puede superar a una persona leyendo una imagen y, aun así, esa persona sigue siendo quien conversa con el paciente, integra su historia y decide qué hacer.\n\nEntender la IA, como dice el post, parte por ahí: saber qué tareas cambia y cuáles no.\n\nFuente: The New York Times, 14 de mayo de 2025.\n\nFuente: https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html",
-   "draft_keywords": [
-    "Hinton y los radiólogos: un trabajo no es una sola tarea"
-   ],
-   "why_hit": "Objetivo de respuesta R2 (Hinton y los radiólogos: un trabajo no es una sola tarea). Base verificada: Hinton 2016 «dejen de formar radiólogos»; Mayo Clinic +55% radiólogos desde 2016, a más de 400; Hinton admite error de plazos (NYT, 14-may-2025).",
-   "hook": "Vale la pena escuchar a Hinton, y también recordar su predicción más citada: en 2016 dijo que había que dejar de formar ",
-   "top10_rank": 2
-  },
-  {
-   "name": "freddier",
-   "display_name": "freddier",
-   "handle": "@freddier",
-   "area": "ai",
-   "views": 24198,
-   "likes": 435,
-   "replies": 38,
-   "reposts": 13,
-   "url": "https://x.com/freddier/status/2116622351928602761",
-   "status_url": "https://x.com/freddier/status/2116622351928602761",
-   "text": "There's no point to code reviews or pull requests anymore.\n\nYou can, however, use your engineering skills to test the code as a user, like no other. Code exists for a reason. Be that reason.",
-   "original_en": "There's no point to code reviews or pull requests anymore.\n\nYou can, however, use your engineering skills to test the code as a user, like no other. Code exists for a reason. Be that reason.",
-   "highlight": true,
-   "created_at": "2026-10-31T20:04:28.000Z",
-   "window": "24h",
-   "draft_en": "[R3 · respuesta] Testing as a user is the right instinct, with one catch: you are not the user.\n\nThe builder tests on a big monitor, rested, knowing where every button is. The real user is often tired, in a hurry, on an old phone, or reading in a second language. In healthcare that gap is everything: software that works perfectly for the people who built it can fail for a nurse at 4 a.m. or for an 80-year-old patient trying to read a dose.\n\nThe most useful test is also the least glamorous: watch a real person use it, and don't help them. Every time you feel the urge to explain something, you've found a bug.",
-   "draft_keywords": [
-    "Testing as a user: you are not the user"
-   ],
-   "why_hit": "Objetivo de respuesta R3 (Testing as a user: you are not the user). Base verificada: No figures.",
-   "hook": "Testing as a user is the right instinct, with one catch: you are not the user.\n\nThe builder tests on a big monitor, rest",
-   "top10_rank": 3
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 16201,
-   "likes": 383,
-   "replies": 5,
-   "reposts": 50,
-   "url": "https://x.com/ErickSky/status/2116540699592249454",
-   "status_url": "https://x.com/ErickSky/status/2116540699592249454",
-   "text": "Los memes de corea del norte van a acabar con mi vida 🤣 https://t.co/GELg7MGVUm",
-   "original_en": "Los memes de corea del norte van a acabar con mi vida 🤣 https://t.co/GELg7MGVUm",
-   "highlight": true,
-   "created_at": "2026-10-31T14:40:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 14861,
-   "likes": 113,
-   "replies": 16,
-   "reposts": 8,
-   "url": "https://x.com/ErickSky/status/2116644885272895714",
-   "status_url": "https://x.com/ErickSky/status/2116644885272895714",
-   "text": "Se acabó el truco de usage casi ilimitado con ChatGPT + Codex.\n\nHasta ahora mucha gente usaba ChatGPT y Codex como cubos separados: trabajo pesado en uno y chat normal en el otro.\n\nComo los límites no se compartían del todo, terminaban con mucho más uso del que el plan pretendía.",
-   "original_en": "Se acabó el truco de usage casi ilimitado con ChatGPT + Codex.\n\nHasta ahora mucha gente usaba ChatGPT y Codex como cubos separados: trabajo pesado en uno y chat normal en el otro.\n\nComo los límites no se compartían del todo, terminaban con mucho más uso del que el plan pretendía.",
-   "highlight": true,
-   "created_at": "2026-10-31T21:34:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 13021,
-   "likes": 150,
-   "replies": 12,
-   "reposts": 3,
-   "url": "https://x.com/ErickSky/status/2116561335760646501",
-   "status_url": "https://x.com/ErickSky/status/2116561335760646501",
-   "text": "Quien lo ha usado en español?\n\nSe le puede poner voz de Bulma en latino?? https://t.co/dkYgvNUgg8",
-   "original_en": "Quien lo ha usado en español?\n\nSe le puede poner voz de Bulma en latino?? https://t.co/dkYgvNUgg8",
-   "highlight": true,
-   "created_at": "2026-10-31T16:02:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 12569,
-   "likes": 442,
-   "replies": 15,
-   "reposts": 29,
-   "url": "https://x.com/ErickSky/status/2116599332493214167",
-   "status_url": "https://x.com/ErickSky/status/2116599332493214167",
-   "text": "Los skills de UI siempre se agradecen un montón!!\n\n[Stageshow]\n\n→ Mejoras claras en faux UI stills.\n→ Animaciones naturales.\n→ Bento grids.\n→ El agente sigue un proceso de diseñador:\n(look → historia → ejemplo → film → correcciones).\n\nREPOOO👇 https://t.co/KeUTD3uE7o",
-   "original_en": "Los skills de UI siempre se agradecen un montón!!\n\n[Stageshow]\n\n→ Mejoras claras en faux UI stills.\n→ Animaciones naturales.\n→ Bento grids.\n→ El agente sigue un proceso de diseñador:\n(look → historia → ejemplo → film → correcciones).\n\nREPOOO👇 https://t.co/KeUTD3uE7o",
-   "highlight": true,
-   "created_at": "2026-10-31T18:33:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 9594,
-   "likes": 230,
-   "replies": 2,
-   "reposts": 8,
-   "url": "https://x.com/ErickSky/status/2116554025583759683",
-   "status_url": "https://x.com/ErickSky/status/2116554025583759683",
-   "text": "La IA es lo peor que le pasó a The Pokemon Company\n\nPero lo mejor que le pasó a los pokefanáticos 😊 https://t.co/RdWiuof6ua",
-   "original_en": "La IA es lo peor que le pasó a The Pokemon Company\n\nPero lo mejor que le pasó a los pokefanáticos 😊 https://t.co/RdWiuof6ua",
-   "highlight": true,
-   "created_at": "2026-10-31T15:32:58.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 9066,
-   "likes": 142,
-   "replies": 25,
-   "reposts": 6,
-   "url": "https://x.com/ErickSky/status/2116628242262306897",
-   "status_url": "https://x.com/ErickSky/status/2116628242262306897",
-   "text": "Grok no es solo actualmente uno de los peores modelos y los mas caros, ahora también tendrán una marca de agua en sus outputs.\n\nEs la forma más rápida de matar al modelo.\n\nCreo que Elon ha abandonado la carrera. https://t.co/GkXx5n4127",
-   "original_en": "Grok no es solo actualmente uno de los peores modelos y los mas caros, ahora también tendrán una marca de agua en sus outputs.\n\nEs la forma más rápida de matar al modelo.\n\nCreo que Elon ha abandonado la carrera. https://t.co/GkXx5n4127",
-   "highlight": true,
-   "created_at": "2026-10-31T20:27:52.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "sergiorocaa",
-   "display_name": "sergiorocaa",
-   "handle": "@sergiorocaa",
-   "area": "ai",
-   "views": 9065,
-   "likes": 101,
-   "replies": 3,
-   "reposts": 13,
-   "url": "https://x.com/sergiorocaa/status/2116578366258372919",
-   "status_url": "https://x.com/sergiorocaa/status/2116578366258372919",
-   "text": "El ingeniero que construyó Claude Code acaba de lanzar un video sobre cómo escribir prompts que realmente funcionan.\n\nHe visto cursos de $300 que no cubren lo que él muestra en los primeros 5 minutos.\n\nTodo en un solo video, completamente gratis. https://t.co/t4MFIpbpwd",
-   "original_en": "El ingeniero que construyó Claude Code acaba de lanzar un video sobre cómo escribir prompts que realmente funcionan.\n\nHe visto cursos de $300 que no cubren lo que él muestra en los primeros 5 minutos.\n\nTodo en un solo video, completamente gratis. https://t.co/t4MFIpbpwd",
-   "highlight": true,
-   "created_at": "2026-10-31T17:09:41.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 5925,
-   "likes": 147,
-   "replies": 9,
-   "reposts": 9,
-   "url": "https://x.com/ErickSky/status/2116729813335482746",
-   "status_url": "https://x.com/ErickSky/status/2116729813335482746",
-   "text": "Díganme ustedes cual banco repone el dinero en menos de 48 horas???\n\nAquí se hackearon 10 millones de dolares de un banco y 6 meses después fue que supuestamente el seguro repuso los fondos, pero como es un banco y no la blockchain, nadie realmente puede saber. https://t.co/oJCInMmDEs",
-   "original_en": "Díganme ustedes cual banco repone el dinero en menos de 48 horas???\n\nAquí se hackearon 10 millones de dolares de un banco y 6 meses después fue que supuestamente el seguro repuso los fondos, pero como es un banco y no la blockchain, nadie realmente puede saber. https://t.co/oJCInMmDEs",
-   "highlight": true,
-   "created_at": "2026-11-01T03:11:29.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 4359,
-   "likes": 88,
-   "replies": 6,
-   "reposts": 9,
-   "url": "https://x.com/ErickSky/status/2116524551295127653",
-   "status_url": "https://x.com/ErickSky/status/2116524551295127653",
-   "text": "Ahora sí entiendo por qué viven quemando todo https://t.co/gf7eQVc0rt",
-   "original_en": "Ahora sí entiendo por qué viven quemando todo https://t.co/gf7eQVc0rt",
-   "highlight": false,
-   "created_at": "2026-10-31T13:35:50.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 3953,
-   "likes": 15,
-   "replies": 0,
-   "reposts": 10,
-   "url": "https://x.com/adnradiochile/status/2116731957078024540",
-   "status_url": "https://x.com/adnradiochile/status/2116731957078024540",
-   "text": "República Democrática del Congo enfrenta grave brote de ébola con 5 mil fallecidos y más de 10 mil infectados https://t.co/7La13rxkGY",
-   "original_en": "República Democrática del Congo enfrenta grave brote de ébola con 5 mil fallecidos y más de 10 mil infectados https://t.co/7La13rxkGY",
-   "highlight": false,
-   "created_at": "2026-11-01T03:20:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 3718,
-   "likes": 75,
-   "replies": 7,
-   "reposts": 2,
-   "url": "https://x.com/ErickSky/status/2116833373671022634",
-   "status_url": "https://x.com/ErickSky/status/2116833373671022634",
-   "text": "El /goal en OpenCode logró lo imposible https://t.co/lc6Tb43Xk0",
-   "original_en": "El /goal en OpenCode logró lo imposible https://t.co/lc6Tb43Xk0",
-   "highlight": false,
-   "created_at": "2026-11-01T10:02:59.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ministeriosalud",
-   "display_name": "ministeriosalud",
-   "handle": "@ministeriosalud",
-   "area": "health",
-   "views": 3087,
-   "likes": 12,
-   "replies": 1,
    "reposts": 5,
-   "url": "https://x.com/ministeriosalud/status/2116532097426895294",
-   "status_url": "https://x.com/ministeriosalud/status/2116532097426895294",
-   "text": "Cerramos #OctubreRosa con grandes noticias sobre salud digital y prevención 🩷✨.\n\nDesde 2019, más de 875.000 mamografías han sido interpretadas e informadas a distancia gracias a la estrategia del Hospital Digital, permitiendo acercar especialistas y acelerar la detección precoz https://t.co/Os6iwySwur",
-   "original_en": "Cerramos #OctubreRosa con grandes noticias sobre salud digital y prevención 🩷✨.\n\nDesde 2019, más de 875.000 mamografías han sido interpretadas e informadas a distancia gracias a la estrategia del Hospital Digital, permitiendo acercar especialistas y acelerar la detección precoz https://t.co/Os6iwySwur",
+   "url": "https://x.com/ErickSky/status/2116930817444233223",
+   "status_url": "https://x.com/ErickSky/status/2116930817444233223",
+   "text": "Dije que se harán películas y si no las hace Hollywood las hago yo https://t.co/5BM3OUzhTl",
+   "original_en": "Dije que se harán películas y si no las hace Hollywood las hago yo https://t.co/5BM3OUzhTl",
    "highlight": false,
-   "created_at": "2026-10-31T14:05:49.000Z",
-   "window": "24h",
-   "draft_en": "[R4 · respuesta] Gran noticia. Más de 875.000 mamografías informadas a distancia significa que una mujer lejos de un radiólogo recibe el mismo informe especializado que en una gran ciudad.\n\nEsa red ya armada es la base para el siguiente paso. En Suecia, el ensayo MASAI, con unas 106.000 mujeres, usó IA para ordenar las mamografías y marcar hallazgos sospechosos, siempre con radiólogos a cargo. Detectó 29% más cánceres sin aumentar los falsos positivos, redujo 44% la carga de lectura y tuvo 12% menos cánceres de intervalo (82 frente a 93).\n\nCon imágenes ya digitales y centralizadas, Chile está muy bien posicionado para evaluarlo.\n\nFuente: ensayo MASAI, The Lancet 2026 (Universidad de Lund).\n\nFuente: https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases · https://doi.org/10.1016/S0140-6736(25)02464-X · https://portalsaluddigital.minsal.cl/celula-de-mamografia/",
-   "draft_keywords": [
-    "Hospital Digital y el siguiente paso: IA como apoyo en mamografía (MASAI)"
-   ],
-   "why_hit": "Objetivo de respuesta R4 (Hospital Digital y el siguiente paso: IA como apoyo en mamografía (MASAI)). Base verificada: MASAI (Suecia, ~106.000 mujeres): +29% cánceres detectados, sin más falsos positivos, −44% carga de lectura, 12% menos cánceres de intervalo (82 vs 93); The Lancet 2026 / Universidad de Lund, 30-ene-2026.",
-   "hook": "Gran noticia. Más de 875.000 mamografías informadas a distancia significa que una mujer lejos de un radiólogo recibe el ",
-   "top10_rank": 4
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 2580,
-   "likes": 8,
-   "replies": 2,
-   "reposts": 13,
-   "url": "https://x.com/adnradiochile/status/2116585995336392704",
-   "status_url": "https://x.com/adnradiochile/status/2116585995336392704",
-   "text": "Más de 144 mil niños no han completado su vacunación contra el sarampión: alertan por riesgo en Chile https://t.co/Y0KoF1WY0D",
-   "original_en": "Más de 144 mil niños no han completado su vacunación contra el sarampión: alertan por riesgo en Chile https://t.co/Y0KoF1WY0D",
-   "highlight": false,
-   "created_at": "2026-10-31T17:40:00.000Z",
+   "created_at": "2026-11-01T16:30:12.000Z",
    "window": "24h"
   },
   {
-   "name": "sergiorocaa",
-   "display_name": "sergiorocaa",
-   "handle": "@sergiorocaa",
+   "name": "jmanalich",
+   "display_name": "jmanalich",
+   "handle": "@jmanalich",
+   "area": "health",
+   "views": 3177,
+   "likes": 18,
+   "replies": 3,
+   "reposts": 4,
+   "url": "https://x.com/jmanalich/status/2117017439477387738",
+   "status_url": "https://x.com/jmanalich/status/2117017439477387738",
+   "text": "Paradojalmente, lo más relevante para la política chilena se juega este martes. https://t.co/kTb0QAemHS",
+   "original_en": "Paradojalmente, lo más relevante para la política chilena se juega este martes. https://t.co/kTb0QAemHS",
+   "highlight": false,
+   "created_at": "2026-11-01T22:14:24.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
    "area": "ai",
-   "views": 2336,
-   "likes": 35,
+   "views": 2617,
+   "likes": 23,
    "replies": 1,
    "reposts": 0,
-   "url": "https://x.com/sergiorocaa/status/2116654764070977553",
-   "status_url": "https://x.com/sergiorocaa/status/2116654764070977553",
-   "text": "tú dentro de 4 años yendo al trabajo a las 6am porque seguiste scrolleando y no viste el vídeo más importante de Claude del año https://t.co/hK1mv0ER59 https://t.co/fXiiEEfHU7",
-   "original_en": "tú dentro de 4 años yendo al trabajo a las 6am porque seguiste scrolleando y no viste el vídeo más importante de Claude del año https://t.co/hK1mv0ER59 https://t.co/fXiiEEfHU7",
+   "url": "https://x.com/ErickSky/status/2116931300477055336",
+   "status_url": "https://x.com/ErickSky/status/2116931300477055336",
+   "text": "Ahora notchepuede puede vivir sin la IA 🤭🤭 https://t.co/e6nw9NqMQO",
+   "original_en": "Ahora notchepuede puede vivir sin la IA 🤭🤭 https://t.co/e6nw9NqMQO",
    "highlight": false,
-   "created_at": "2026-10-31T22:13:15.000Z",
+   "created_at": "2026-11-01T16:32:07.000Z",
    "window": "24h"
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Domingo: el volumen de los medios es farándula, fútbol y política; poca salud en la línea de RT",
-  "IA local vs. nube: Altman dice que la inferencia local desperdicia memoria (midudev 79K)",
-  "¿Qué tareas cambia la IA?: la conferencia de Hinton y el caso de los radiólogos",
-  "Calidad de software sin code review: probar como usuario (freddier)",
-  "Salud digital Chile: 875.000 mamografías informadas a distancia por Hospital Digital",
-  "Ecosistema de modelos: límites de ChatGPT+Codex, Grok con marca de agua, DeepSeek Super-agent"
+  "Agentes: de escribir prompts a diseñar rutinas que trabajan solas (midudev 94,8K)",
+  "Hermes Agent vs Grok Bot y la nueva app móvil de Hermes: el debate se mueve a coordinación y proactividad",
+  "Humor con IA domina el volumen (roast de ChatGPT, memes de ErickSky)",
+  "Salud Chile: 4 de cada 10 usan IA para orientación personal; ciencia local (parche USM con miel de ulmo)",
+  "Lunes con poco material de salud en el watchlist; medios con fútbol, farándula y política (excluidos)"
  ],
  "no_hits": [
   {
-   "handle": "@DotCSV",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "handle": "@sergiorocaa",
+   "max_views": 266,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 266."
   },
   {
    "handle": "@bilinkis",
@@ -346,7 +120,12 @@
    "reason": "Sin originales en las últimas 24h."
   },
   {
-   "handle": "@Pajarobere",
+   "handle": "@ministeriosalud",
+   "max_views": 0,
+   "reason": "Sin originales en las últimas 24h."
+  },
+  {
+   "handle": "@juancarlossaid",
    "max_views": 0,
    "reason": "Sin originales en las últimas 24h."
   },
@@ -359,21 +138,16 @@
    "handle": "@HeliaMolina_M",
    "max_views": 0,
    "reason": "Sin originales en las últimas 24h."
-  },
-  {
-   "handle": "@jmanalich",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
   }
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 17,
+ "hits_count": 5,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-10-31",
-  "hits_count": 17,
-  "total_views": 242720
+  "date": "2026-11-01",
+  "hits_count": 5,
+  "total_views": 137469
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -441,11 +215,11 @@
  },
  "day_roster": [
   {
-   "handle": "@adnradiochile",
-   "name": "adnradiochile",
-   "area": "health",
-   "views": 125638,
-   "total_views": 761093,
+   "handle": "@ErickSky",
+   "name": "ErickSky",
+   "area": "ai",
+   "views": 508566,
+   "total_views": 515276,
    "hit": true,
    "window": "24h"
   },
@@ -453,62 +227,8 @@
    "handle": "@midudev",
    "name": "midudev",
    "area": "ai",
-   "views": 78992,
-   "total_views": 78992,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@Cooperativa",
-   "name": "Cooperativa",
-   "area": "health",
-   "views": 44675,
-   "total_views": 449023,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@sergiorocaa",
-   "name": "sergiorocaa",
-   "area": "ai",
-   "views": 29195,
-   "total_views": 40596,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@freddier",
-   "name": "freddier",
-   "area": "ai",
-   "views": 24198,
-   "total_views": 24198,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@ErickSky",
-   "name": "ErickSky",
-   "area": "ai",
-   "views": 16201,
-   "total_views": 97638,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@juancarlossaid",
-   "name": "juancarlossaid",
-   "area": "health",
-   "views": 7563,
-   "total_views": 12494,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@ministeriosalud",
-   "name": "ministeriosalud",
-   "area": "health",
-   "views": 3087,
-   "total_views": 5061,
+   "views": 94794,
+   "total_views": 94794,
    "hit": true,
    "window": "24h"
   },
@@ -516,8 +236,62 @@
    "handle": "@DotCSV",
    "name": "DotCSV",
    "area": "ai",
-   "views": 0,
-   "total_views": 0,
+   "views": 32788,
+   "total_views": 32788,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@freddier",
+   "name": "freddier",
+   "area": "ai",
+   "views": 29631,
+   "total_views": 29631,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@Cooperativa",
+   "name": "Cooperativa",
+   "area": "health",
+   "views": 10404,
+   "total_views": 14560,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@adnradiochile",
+   "name": "adnradiochile",
+   "area": "health",
+   "views": 4048,
+   "total_views": 4048,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@jmanalich",
+   "name": "jmanalich",
+   "area": "health",
+   "views": 3177,
+   "total_views": 3177,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@Pajarobere",
+   "name": "Pajarobere",
+   "area": "health",
+   "views": 2117,
+   "total_views": 2117,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@sergiorocaa",
+   "name": "sergiorocaa",
+   "area": "ai",
+   "views": 266,
+   "total_views": 266,
    "hit": false,
    "window": "24h"
   },
@@ -531,8 +305,17 @@
    "window": "24h"
   },
   {
-   "handle": "@Pajarobere",
-   "name": "Pajarobere",
+   "handle": "@ministeriosalud",
+   "name": "ministeriosalud",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@juancarlossaid",
+   "name": "juancarlossaid",
    "area": "health",
    "views": 0,
    "total_views": 0,
@@ -551,15 +334,6 @@
   {
    "handle": "@HeliaMolina_M",
    "name": "HeliaMolina_M",
-   "area": "health",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@jmanalich",
-   "name": "jmanalich",
    "area": "health",
    "views": 0,
    "total_views": 0,
@@ -631,62 +405,46 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "salud"
+    "keyword": "openclaw"
    },
    {
     "rank": 2,
-    "keyword": "skills"
+    "keyword": "bucles"
    },
    {
     "rank": 3,
-    "keyword": "code"
+    "keyword": "agentes"
    },
    {
     "rank": 4,
-    "keyword": "trabajo"
+    "keyword": "prompts"
    },
    {
     "rank": 5,
-    "keyword": "claude"
+    "keyword": "chatgpt"
    },
    {
     "rank": 6,
-    "keyword": "chile"
+    "keyword": "roast"
    },
    {
     "rank": 7,
-    "keyword": "altman"
+    "keyword": "películas"
    },
    {
     "rank": 8,
-    "keyword": "local"
-   },
-   {
-    "rank": 9,
-    "keyword": "mamografías"
-   },
-   {
-    "rank": 10,
-    "keyword": "codex"
-   },
-   {
-    "rank": 11,
-    "keyword": "deepseek"
-   },
-   {
-    "rank": 12,
-    "keyword": "grok"
+    "keyword": "hollywood"
    }
   ],
   "note": "Minadas de originales 24h (repetidas ≥2 veces, completadas con términos de los posts de más vistas); temas político-partidistas excluidos."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 01-11-2026: 4 respuestas (R1–R4) y 2 originales (P1–P2) en borrador para aprobación; nada publicado.",
-   "takeaway": "Mayor tracción IA: midudev (79,0K Altman: la inferencia local sería mala asignación de memoria), sergiorocaa (29,2K conferencia de Hinton; 9,1K video de prompts de Claude Code), freddier (24,2K «ya no tiene sentido el code review; prueba como usuario») y ErickSky (16,2K memes; 14,9K límites ChatGPT+Codex; 13,0K voz; 12,6K skills de UI; 9,1K Grok y marca de agua, ya descartado por el radar). Salud: ministeriosalud (3,1K, 875.000 mamografías informadas a distancia por Hospital Digital), ADN sarampión (2,6K, tema ya publicado por RT) y juancarlossaid (7,6K citando lactancia APS, descartado). Cooperativa y ADN dominan el volumen con farándula, fútbol, política y policial (excluidos). Sin originales de DotCSV, bilinkis, Pajarobere, CatuRojas, HeliaMolina_M ni jmanalich en 24h."
+   "headline": "Digest 02-11-2026: 8 respuestas (R1–R8: 4 de agentes de IA y 4 de salud en Chile) y 2 originales (P1–P2) en borrador para aprobación; nada publicado.",
+   "takeaway": "Mayor tracción IA en el watchlist: midudev (94,8K: el creador de OpenClaw propone diseñar bucles que llamen a tus agentes en vez de escribir prompts), DotCSV (32,8K roast de ChatGPT) y ErickSky (508,6K «Elon va a abandonar la carrera», excluido; 4,1K y 2,6K memes de IA). Fuera del watchlist, hilos de agentes con tracción: Hermes Agent vs Grok Bot (@Da7_Tech, 57,8K) y la beta móvil de Hermes (@MichaelGannotti). Salud: el watchlist trajo poco (ébola de ADN ya descartado por el radar, Medel/fútbol, política); se completó con hilos de salud en Chile: IA como orientación personal (@Tercera_Dosis, 78K), parche USM con miel de ulmo (@EnsedeCiencia, 21,8K), trato digno (@colmedchile) y Eloísa Díaz (@MemoriaHisto). Sin originales de bilinkis, ministeriosalud, juancarlossaid, CatuRojas ni HeliaMolina_M en 24h."
   },
   "corpus": {
-   "posts": 238,
+   "posts": 13,
    "min_views": 2000
   },
   "window": {
@@ -698,77 +456,125 @@
     "title": "R1 · respuesta a @midudev",
     "format": "respuesta",
     "source": "@midudev",
-    "topic": "Utilización vs. disponibilidad: IA en la nube o local",
-    "hook_en": "El argumento de Altman es de utilización: memoria cara que se usa un 5% del tiempo. En salud conocemos bien ese razonamiento, y también su límite.\n\nUn hospital podría guardar todos sus desfibriladores en una sola bodega y usarlos mucho más. Nadie lo hace, porque ese equipo no se mide por cuántas horas trabaja, sino por estar ahí en el minuto en que se necesita.\n\nCon la IA pasa algo parecido. Para muchas tareas, la nube es lo eficiente. Pero hay usos donde importa más la disponibilidad que la utilización: cuando la conexión no es buena, o cuando lo que se procesa no debería salir de donde está.\n\nLo más probable es que terminemos con las dos, cada una donde tiene sentido.",
-    "angle": "Objetivo: https://x.com/midudev/status/2116558120860393483 (78.992 vistas)",
-    "why": "Base: Sin cifras externas (la cifra de 5% es de la cita de Altman en el post citado por midudev). Fuente: sin cifras externas",
+    "topic": "Agentes: de prompts a rutinas (proactividad)",
+    "hook_en": "Para quien no programa, esa idea se traduce simple: el valor está en que el agente trabaje sin que tengas que pedírselo cada vez.\n\nUn prompt es una conversación. Un bucle es una rutina: revisa algo a una hora fija o cuando pasa un evento, y te avisa solo si hay algo que decidir.\n\nCreo que el próximo salto de los agentes está ahí, más que en modelos más grandes: proactividad. Que no esperen la instrucción, que sepan cuándo actuar y cuándo quedarse callados.",
+    "angle": "Objetivo: https://x.com/midudev/status/2116967571706835164 (94.794 vistas)",
+    "why": "Base: Sin cifras externas. Fuente: sin cifras externas",
     "keywords": [
-     "Utilización vs. disponibilidad: IA en la nube o local"
+     "Agentes: de prompts a rutinas (proactividad)"
     ]
    },
    {
-    "title": "R2 · respuesta a @sergiorocaa",
+    "title": "R2 · respuesta a @virginiog",
     "format": "respuesta",
-    "source": "@sergiorocaa",
-    "topic": "Hinton y los radiólogos: un trabajo no es una sola tarea",
-    "hook_en": "Vale la pena escuchar a Hinton, y también recordar su predicción más citada: en 2016 dijo que había que dejar de formar radiólogos, porque en cinco años la IA lo haría mejor.\n\nNueve años después, la radiología de Mayo Clinic había crecido 55%, a más de 400 radiólogos, y usaba IA a diario para mejorar imágenes y automatizar tareas. El propio Hinton reconoció que se equivocó en los plazos y que habló de forma demasiado amplia: pensaba en el análisis de imágenes, no en todo el trabajo.\n\nLa lección sirve para cualquier profesión: un trabajo no es una sola tarea. La IA puede superar a una persona leyendo una imagen y, aun así, esa persona sigue siendo quien conversa con el paciente, integra su historia y decide qué hacer.\n\nEntender la IA, como dice el post, parte por ahí: saber qué tareas cambia y cuáles no.\n\nFuente: The New York Times, 14 de mayo de 2025.",
-    "angle": "Objetivo: https://x.com/sergiorocaa/status/2116530853714989545 (29.195 vistas)",
-    "why": "Base: Hinton 2016 «dejen de formar radiólogos»; Mayo Clinic +55% radiólogos desde 2016, a más de 400; Hinton admite error de plazos (NYT, 14-may-2025). Fuente: https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html",
+    "source": "@virginiog",
+    "topic": "Agentes personales con nombre y rol: memoria compartida",
+    "hook_en": "Ponerles nombre ayuda más de lo que parece: obliga a darle a cada uno un rol claro, como en un equipo.\n\nLo que más falta, en mi experiencia, no es que sean más inteligentes, sino que se coordinen entre ellos de forma simple: que lo que uno aprende lo sepan los demás, y que no tengas que repetir lo mismo en cada conversación.\n\nQue hables más con ellos que con tus colegas no me parece tan raro. Lo raro sería tener un equipo que no se habla entre sí.",
+    "angle": "Objetivo: https://x.com/virginiog/status/2117207591801778611",
+    "why": "Base: Sin cifras externas. Ojo: RT ya respondió a @virginiog el 20-oct (otro tema). Fuente: sin cifras externas",
     "keywords": [
-     "Hinton y los radiólogos: un trabajo no es una sola tarea"
+     "Agentes personales con nombre y rol: memoria compartida"
     ]
    },
    {
-    "title": "R3 · respuesta a @freddier",
+    "title": "R3 · respuesta a @Da7_Tech",
     "format": "respuesta",
-    "source": "@freddier",
-    "topic": "Testing as a user: you are not the user",
-    "hook_en": "Testing as a user is the right instinct, with one catch: you are not the user.\n\nThe builder tests on a big monitor, rested, knowing where every button is. The real user is often tired, in a hurry, on an old phone, or reading in a second language. In healthcare that gap is everything: software that works perfectly for the people who built it can fail for a nurse at 4 a.m. or for an 80-year-old patient trying to read a dose.\n\nThe most useful test is also the least glamorous: watch a real person use it, and don't help them. Every time you feel the urge to explain something, you've found a bug.",
-    "angle": "Objetivo: https://x.com/freddier/status/2116622351928602761 (24.198 vistas)",
-    "why": "Base: No figures. Fuente: sin cifras externas",
+    "source": "@Da7_Tech",
+    "topic": "Hermes vs Grok Bot: coordinación entre agentes",
+    "hook_en": "I use both, and I don't think it's either-or.\n\nHermes is already very powerful. What it's missing isn't more power, it's simple coordination: agents that hand work to each other, share what they learn, and come to you only when there's a decision to make. Today Grok Bot does that part more simply.\n\nWhichever gets that right first will matter more than whichever has the longest feature list.",
+    "angle": "Objetivo: https://x.com/Da7_Tech/status/2117020625571344394",
+    "why": "Base: Sin cifras externas (RT dijo públicamente que usa ambos). Fuente: sin cifras externas",
     "keywords": [
-     "Testing as a user: you are not the user"
+     "Hermes vs Grok Bot: coordinación entre agentes"
     ]
    },
    {
-    "title": "R4 · respuesta a @ministeriosalud",
+    "title": "R4 · respuesta a @MichaelGannotti",
     "format": "respuesta",
-    "source": "@ministeriosalud",
-    "topic": "Hospital Digital y el siguiente paso: IA como apoyo en mamografía (MASAI)",
-    "hook_en": "Gran noticia. Más de 875.000 mamografías informadas a distancia significa que una mujer lejos de un radiólogo recibe el mismo informe especializado que en una gran ciudad.\n\nEsa red ya armada es la base para el siguiente paso. En Suecia, el ensayo MASAI, con unas 106.000 mujeres, usó IA para ordenar las mamografías y marcar hallazgos sospechosos, siempre con radiólogos a cargo. Detectó 29% más cánceres sin aumentar los falsos positivos, redujo 44% la carga de lectura y tuvo 12% menos cánceres de intervalo (82 frente a 93).\n\nCon imágenes ya digitales y centralizadas, Chile está muy bien posicionado para evaluarlo.\n\nFuente: ensayo MASAI, The Lancet 2026 (Universidad de Lund).",
-    "angle": "Objetivo: https://x.com/ministeriosalud/status/2116532097426895294 (3.087 vistas)",
-    "why": "Base: MASAI (Suecia, ~106.000 mujeres): +29% cánceres detectados, sin más falsos positivos, −44% carga de lectura, 12% menos cánceres de intervalo (82 vs 93); The Lancet 2026 / Universidad de Lund, 30-ene-2026. Fuente: https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases · https://doi.org/10.1016/S0140-6736(25)02464-X · https://portalsaluddigital.minsal.cl/celula-de-mamografia/",
+    "source": "@MichaelGannotti",
+    "topic": "App móvil de Hermes: pulida pero muy parecida a Cadu",
+    "hook_en": "I'm in the beta too. It's very polished, but it feels a lot like Cadu, and I expected something more original from the official app.\n\nHermes is already powerful underneath. The app was the chance to show a new way of working with agents, not to repeat a control panel we've already seen.",
+    "angle": "Objetivo: https://x.com/MichaelGannotti/status/2116885018245054754",
+    "why": "Base: Postura de RT (beta privada; no decir cómo entró). Fuente: sin cifras externas",
     "keywords": [
-     "Hospital Digital y el siguiente paso: IA como apoyo en mamografía (MASAI)"
+     "App móvil de Hermes: pulida pero muy parecida a Cadu"
     ]
    },
    {
-    "title": "P1 · Los 40 y tus ojos: presbicia, glaucoma y el examen de base",
+    "title": "R5 · respuesta a @Tercera_Dosis",
+    "format": "respuesta",
+    "source": "@Tercera_Dosis",
+    "topic": "Preguntar por el uso de IA en la consulta",
+    "hook_en": "Coincido con el cierre, y lo llevaría a algo muy concreto: preguntar por la IA en la consulta debería ser tan natural como preguntar qué remedios toma la persona.\n\nNo para retarla, sino para saber qué le dijeron, qué entendió y qué decidió con eso. Si no se pregunta, esa conversación queda fuera de la ficha y nadie la puede corregir ni aprovechar.\n\nCon 4 de cada 10 personas usándola, ya no es un tema del futuro: es parte de la historia clínica.",
+    "angle": "Objetivo: https://x.com/Tercera_Dosis/status/2116870966156341250",
+    "why": "Base: Cifras del propio post (39% en Chile usó IA para orientación personal). Fuente: sin cifras externas",
+    "keywords": [
+     "Preguntar por el uso de IA en la consulta"
+    ]
+   },
+   {
+    "title": "R6 · respuesta a @EnsedeCiencia",
+    "format": "respuesta",
+    "source": "@EnsedeCiencia",
+    "topic": "Parche de nanofibras con miel de ulmo (USM): falta etapa clínica",
+    "hook_en": "Buena noticia, y vale la pena contarla completa: según la propia USM, el material ya está fabricado, pero falta esterilizarlo, probarlo en animales y luego en estudios clínicos antes de usarlo en pacientes.\n\nEse camino es largo, y es justamente lo que da confianza. Las heridas que cuestan cicatrizar, como las quemaduras extensas o las del pie diabético, son un problema enorme para pacientes y equipos de salud. Una alternativa hecha en Chile, con un recurso tan nuestro como la miel de ulmo, tiene mucho sentido.\n\nOjalá llegue pronto a la etapa clínica.",
+    "angle": "Objetivo: https://x.com/EnsedeCiencia/status/2116686610523689001",
+    "why": "Base: USM 23-oct-2026: nanofibras biodegradables con miel de ulmo por electrohilado (Dr. Tomás Corrales, Física USM); material fabricado, pendiente esterilización, estudios en animales y luego clínicos. Fuente: https://usm.cl/noticias/usm-desarrolla-parche-de-nanofibras-con-miel-de-ulmo-para-regenerar-heridas/",
+    "keywords": [
+     "Parche de nanofibras con miel de ulmo (USM): falta etapa clínica"
+    ]
+   },
+   {
+    "title": "R7 · respuesta a @colmedchile",
+    "format": "respuesta",
+    "source": "@colmedchile",
+    "topic": "Trato digno: presentarse y nombrar al paciente (y baja visión)",
+    "hook_en": "Muy de acuerdo. Presentarse y llamar a la persona por su nombre toma segundos y cambia la consulta: el paciente suele preguntar más y entender mejor lo que viene.\n\nY hay un detalle que se olvida: si el paciente tiene baja visión, mirarlo a los ojos no basta. Hay que decir quién eres al entrar, explicar en voz alta lo que vas a hacer antes de tocarlo y avisar cuando sales de la sala.\n\nEso también es trato digno.",
+    "angle": "Objetivo: https://x.com/colmedchile/status/2117011297892200561",
+    "why": "Base: Sin cifras externas. Fuente: sin cifras externas",
+    "keywords": [
+     "Trato digno: presentarse y nombrar al paciente (y baja visión)"
+    ]
+   },
+   {
+    "title": "R8 · respuesta a @MemoriaHisto",
+    "format": "respuesta",
+    "source": "@MemoriaHisto",
+    "topic": "Eloísa Díaz, primera médica de Chile",
+    "hook_en": "Qué buen recordatorio. Eloísa Díaz no se quedó en el logro de ser la primera: puso su carrera al servicio de la salud de los niños en las escuelas, al frente del Servicio Médico Escolar.\n\nEso dice mucho de lo que es la salud pública: llegar a las personas donde están, antes de que enfermen.\n\nSu nombre merece ser mucho más conocido por quienes hoy estudian medicina.",
+    "angle": "Objetivo: https://x.com/MemoriaHisto/status/2117000181728108792",
+    "why": "Base: Eloísa Díaz: titulada en 1887, murió el 1-nov-1950; dirigió el Servicio Médico Escolar. Fuente: sin cifras externas",
+    "keywords": [
+     "Eloísa Díaz, primera médica de Chile"
+    ]
+   },
+   {
+    "title": "P1 · Lentes de contacto y agua: antes de la piscina",
     "format": "post largo",
     "source": "original RT",
-    "topic": "examen oftalmológico de base a los 40 y glaucoma silencioso",
-    "hook_en": "Si tienes alrededor de 40 años y ya alejas el celular para leer, no es mala suerte: es presbicia, parte normal de los años. Y es una buena excusa para algo más importante: el examen de ojos completo de los 40.\n\nLa Academia Americana de Oftalmología recomienda un examen oftalmológico completo alrededor de los 40, aunque veas bien, porque a esa edad empiezan a aparecer señales tempranas de enfermedades que no avisan.\n\nLa principal es el glaucoma. En su forma más común no duele ni cambia la visión al principio, y cuando la persona nota algo, el daño ya es importante. Por eso se estima que la mitad de quienes tienen glaucoma no lo sabe. Lo perdido no se recupera, pero si se detecta a tiempo, el tratamiento puede frenar la pérdida de visión.\n\nConviene controlarse antes o más seguido si:\n\n• Tienes un familiar con glaucoma, aunque le haya aparecido de adulto mayor\n• Tienes diabetes o presión alta\n• Eres miope o hipermétrope\n• Usas corticoides por tiempo prolongado\n• Tuviste un golpe fuerte en un ojo\n\nUn detalle: medir solo la presión del ojo no basta para descartar glaucoma. El examen completo incluye revisar el nervio óptico.\n\n¿Y los lentes de farmacia para leer? Pueden servir si ves bien de lejos y no tienes astigmatismo, pero no reemplazan ese examen.\n\nSi este año cumples 40, o ya los pasaste sin control, agéndalo. Y si alguien de tu familia tiene glaucoma, cuéntaselo a tus hermanos.\n\nFuentes: Academia Americana de Oftalmología; CDC de Estados Unidos.",
-    "visual": "Video vertical de 30 s: RT aleja el celular para leer (gesto de presbicia) y dice «esto es normal a los 40; lo que no se ve es lo que hay que controlar»; cierre con la lista de factores de riesgo en pantalla.",
+    "topic": "lentes de contacto, agua y queratitis por Acanthamoeba",
+    "hook_en": "Se vienen la piscina, el mar y los ríos, y hay un hábito que conviene cambiar antes del verano: nadar o ducharse con lentes de contacto.\n\nEl agua no es estéril. En el agua de la llave, de ríos, lagos y otras fuentes puede haber una ameba llamada Acanthamoeba. Si queda atrapada entre el lente y el ojo, puede causar una infección de la córnea poco frecuente, pero muy dolorosa y difícil de tratar: a veces el tratamiento dura un año o más, y en casos graves puede requerir un trasplante de córnea o causar pérdida de visión.\n\nPor eso los CDC y la FDA de Estados Unidos recomiendan:\n\n• Sacarse los lentes antes de nadar, ducharse o entrar a un jacuzzi\n• Si el lente se mojó, sacarlo apenas se pueda y botarlo, o limpiarlo y desinfectarlo durante la noche antes de volver a usarlo\n• Nunca enjuagar ni guardar los lentes con agua de la llave; solo con solución para lentes\n• Para quien necesita ver bien en el agua, existen antiparras con aumento\n\nY una regla para todo el año: si un ojo con lente se pone rojo, duele o ves peor, sácate el lente y consulta pronto.\n\nFuentes: CDC y FDA de Estados Unidos.",
+    "visual": "Video vertical de 30 s: RT junto a una piscina o con antiparras en la mano: «Si usas lentes de contacto, esto es lo primero que te sacas antes de nadar»; cierre con los 4 consejos en pantalla.",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.aao.org/eye-health/diseases/what-is-glaucoma https://www.aao.org/eye-health/ask-ophthalmologist-q/how-do-i-select-reading-glasses-before-i-have-eye- https://www.cdc.gov/vision-health/about-eye-disorders/glaucoma.html",
+    "why": "Fuentes verificadas hoy: https://www.cdc.gov/contact-lenses/about/healthy-habits-keeping-water-away-from-contact-lenses.html https://www.cdc.gov/acanthamoeba/about/about-acanthamoeba-keratitis.html https://www.fda.gov/medical-devices/contact-lenses/contact-lens-risks",
     "keywords": [
-     "examen oftalmológico de base a los 40 y glaucoma silencioso",
+     "lentes de contacto, agua y queratitis por Acanthamoeba",
      "salud"
     ]
    },
    {
-    "title": "P2 · Con el calor que viene, cuida también tus remedios",
+    "title": "P2 · La mitad de las lesiones de ojos ocurre en la casa",
     "format": "post largo",
     "source": "original RT",
-    "topic": "calor extremo, personas mayores y almacenamiento de medicamentos",
-    "hook_en": "Se viene el verano y, además del agua y la sombra, hay algo que casi nadie revisa: dónde están guardados los remedios.\n\nEl Minsal recomienda a las personas mayores y a quienes tienen enfermedades crónicas guardar los medicamentos en un lugar fresco y seco, lejos del sol directo, y no suspender controles ni tratamientos en verano. Pide especial atención a quienes tienen hipertensión, diabetes, asma, EPOC, enfermedad renal crónica o epilepsia, porque son más susceptibles al calor extremo.\n\nUn ejemplo de mi especialidad: el latanoprost, unas gotas muy usadas para el glaucoma, se guarda en el refrigerador mientras el frasco está cerrado. Una vez abierto puede quedar a temperatura ambiente, hasta 25 °C, y se usa por un máximo de 6 semanas. En una cocina en enero o en la guantera del auto, esa temperatura se supera con facilidad.\n\nTres hábitos simples:\n\n• Nada de remedios en el auto, en el marco de la ventana ni junto a la cocina\n• Si la caja dice «refrigerar», respétalo\n• Ante cualquier duda sobre cómo guardar uno, pregunta en la farmacia\n\nY lo básico para los días de más calor: evitar salir entre las 11 y las 17 horas, tomar agua durante todo el día y estar atentos a la piel caliente y enrojecida, el pulso acelerado, el dolor de cabeza, el mareo o las náuseas, que pueden ser un golpe de calor.\n\nSi tu papá o tu mamá toma varios remedios, este es un buen momento para revisar juntos dónde los guarda.\n\nFuentes: Minsal, campaña Altas Temperaturas; ficha del producto (DailyMed, Biblioteca Nacional de Medicina de EE. UU.).",
-    "visual": "Video vertical de 30 s: RT abre la guantera de un auto al sol y saca una caja de remedios; luego muestra un frasco de gotas en la puerta del refrigerador; cierre con «revisa hoy dónde guarda sus remedios tu papá o tu mamá».",
+    "topic": "lesiones oculares en el hogar: limpieza, herramientas, cortar el pasto",
+    "hook_en": "La mitad de las lesiones de los ojos no ocurre en el trabajo ni haciendo deporte: ocurre en la casa.\n\nLo dice la Academia Americana de Oftalmología, y las causas son muy cotidianas: productos de limpieza como el cloro, clavos que saltan al martillar, herramientas eléctricas y, en esta época, cortar el pasto o podar, cuando la máquina lanza piedras, tierra o ramas.\n\nLa buena noticia es que protegerse es simple. Según la misma Academia, usar lentes protectores puede reducir el riesgo de lesión en 90%, pero solo unas 3 de cada 10 personas los usan en estos trabajos.\n\nTres consejos:\n\n• Tener en la casa al menos un par de lentes de seguridad de policarbonato\n• Los lentes ópticos comunes no protegen de un golpe\n• Quien mira también se expone: los niños deben estar lejos mientras alguien corta el pasto\n\nSi entra un químico al ojo, lavar de inmediato con abundante agua y consultar. Si algo se clavó, no sacarlo ni frotar: cubrir el ojo sin presionar e ir a urgencia.\n\nFuente: Academia Americana de Oftalmología.",
+    "visual": "Video vertical de 30 s: RT con unos lentes de seguridad de policarbonato junto a una cortadora de pasto o un frasco de cloro: «La mitad de las lesiones de ojos ocurren en la casa»; cierre con «90% menos riesgo».",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.minsal.cl/campana-verano-2025-2026-altas-temperaturas/ https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4e73059-5ba0-4d73-9ea1-09d8d654e844",
+    "why": "Fuentes verificadas hoy: https://www.aao.org/eye-health/tips-prevention/injuries-in-home https://www.aao.org/eye-health/tips-prevention/injuries-protective-eyewear",
     "keywords": [
-     "calor extremo, personas mayores y almacenamiento de medicamentos",
+     "lesiones oculares en el hogar: limpieza, herramientas, cortar el pasto",
      "salud"
     ]
    }
