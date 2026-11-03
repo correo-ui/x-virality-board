@@ -1,8 +1,8 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-02 10:30",
- "date": "2026-11-02",
+ "title": "Digest diario — escaneo 24h al 2026-11-03 10:30",
+ "date": "2026-11-03",
  "timezone": "America/Santiago",
- "updated": "2026-11-02T11:30:00-03:00",
+ "updated": "2026-11-03T11:30:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
@@ -11,40 +11,33 @@
    "display_name": "midudev",
    "handle": "@midudev",
    "area": "ai",
-   "views": 94794,
-   "likes": 1414,
-   "replies": 55,
-   "reposts": 40,
-   "url": "https://x.com/midudev/status/2116967571706835164",
-   "status_url": "https://x.com/midudev/status/2116967571706835164",
-   "text": "El creador de OpenClaw dice que no deberías hacer prompts, si no diseñar bucles que llamen a tus agentes.\n\nAhora imagina hacer esto con tu suscripción de 20$. https://t.co/dtF9nBEIeI",
-   "original_en": "El creador de OpenClaw dice que no deberías hacer prompts, si no diseñar bucles que llamen a tus agentes.\n\nAhora imagina hacer esto con tu suscripción de 20$. https://t.co/dtF9nBEIeI",
+   "views": 38642,
+   "likes": 1055,
+   "replies": 42,
+   "reposts": 78,
+   "url": "https://x.com/midudev/status/2117256324832485542",
+   "status_url": "https://x.com/midudev/status/2117256324832485542",
+   "text": "¡Muy interesante esto de DeepSeek! Ha lanzado de código abierto DSH SuperAgent\n\nUn agente de código que escucha eventos de un repo de GitHub y crea Pull Request de forma autónoma\n\nLo mejor es que explica paso a paso cómo está montado:\nhttps://t.co/0SuYsIfOkf https://t.co/NraA79mryg",
+   "original_en": "¡Muy interesante esto de DeepSeek! Ha lanzado de código abierto DSH SuperAgent\n\nUn agente de código que escucha eventos de un repo de GitHub y crea Pull Request de forma autónoma\n\nLo mejor es que explica paso a paso cómo está montado:\nhttps://t.co/0SuYsIfOkf https://t.co/NraA79mryg",
    "highlight": true,
-   "created_at": "2026-11-01T18:56:15.000Z",
-   "window": "24h",
-   "draft_en": "[R1 · respuesta] Para quien no programa, esa idea se traduce simple: el valor está en que el agente trabaje sin que tengas que pedírselo cada vez.\n\nUn prompt es una conversación. Un bucle es una rutina: revisa algo a una hora fija o cuando pasa un evento, y te avisa solo si hay algo que decidir.\n\nCreo que el próximo salto de los agentes está ahí, más que en modelos más grandes: proactividad. Que no esperen la instrucción, que sepan cuándo actuar y cuándo quedarse callados.",
-   "draft_keywords": [
-    "Agentes: de prompts a rutinas (proactividad)"
-   ],
-   "why_hit": "Objetivo de respuesta R1 (Agentes: de prompts a rutinas (proactividad)). Base verificada: Sin cifras externas.",
-   "hook": "Para quien no programa, esa idea se traduce simple: el valor está en que el agente trabaje sin que tengas que pedírselo ",
-   "top10_rank": 1
+   "created_at": "2026-11-02T14:03:39.000Z",
+   "window": "24h"
   },
   {
    "name": "DotCSV",
    "display_name": "DotCSV",
    "handle": "@DotCSV",
    "area": "ai",
-   "views": 32788,
-   "likes": 334,
-   "replies": 30,
+   "views": 23006,
+   "likes": 570,
+   "replies": 36,
    "reposts": 8,
-   "url": "https://x.com/DotCSV/status/2117021900765372761",
-   "status_url": "https://x.com/DotCSV/status/2117021900765372761",
-   "text": "va duro chatgpt con su roast 😂 https://t.co/aGZNTmfsf9 https://t.co/SvtlNdijBU",
-   "original_en": "va duro chatgpt con su roast 😂 https://t.co/aGZNTmfsf9 https://t.co/SvtlNdijBU",
+   "url": "https://x.com/DotCSV/status/2117286797809954969",
+   "status_url": "https://x.com/DotCSV/status/2117286797809954969",
+   "text": "Esta semana no estaré activo en redes y si nos falla el Starlink, sin mucho internet en general. Me voy a Socotra, Yemen!\n\nSeguro que será una semana tranquilita sin Fable 5.5, ni GPT 6.2, ni AGI 👍\n\nProcedo a subir a un largo vuelo, disfrutad ;) https://t.co/paaEuWd5xr",
+   "original_en": "Esta semana no estaré activo en redes y si nos falla el Starlink, sin mucho internet en general. Me voy a Socotra, Yemen!\n\nSeguro que será una semana tranquilita sin Fable 5.5, ni GPT 6.2, ni AGI 👍\n\nProcedo a subir a un largo vuelo, disfrutad ;) https://t.co/paaEuWd5xr",
    "highlight": true,
-   "created_at": "2026-11-01T22:32:08.000Z",
+   "created_at": "2026-11-02T16:04:44.000Z",
    "window": "24h"
   },
   {
@@ -52,33 +45,57 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 4093,
-   "likes": 70,
-   "replies": 8,
-   "reposts": 5,
-   "url": "https://x.com/ErickSky/status/2116930817444233223",
-   "status_url": "https://x.com/ErickSky/status/2116930817444233223",
-   "text": "Dije que se harán películas y si no las hace Hollywood las hago yo https://t.co/5BM3OUzhTl",
-   "original_en": "Dije que se harán películas y si no las hace Hollywood las hago yo https://t.co/5BM3OUzhTl",
-   "highlight": false,
-   "created_at": "2026-11-01T16:30:12.000Z",
+   "views": 16740,
+   "likes": 544,
+   "replies": 22,
+   "reposts": 20,
+   "url": "https://x.com/ErickSky/status/2117270222486810681",
+   "status_url": "https://x.com/ErickSky/status/2117270222486810681",
+   "text": "Chicos ya los dejé descansar un rato de mis arrebatos de fan boy de DeepSeek\n\nMe permiten hypearme por este update??? 😍 https://t.co/UMDdSwVMAM",
+   "original_en": "Chicos ya los dejé descansar un rato de mis arrebatos de fan boy de DeepSeek\n\nMe permiten hypearme por este update??? 😍 https://t.co/UMDdSwVMAM",
+   "highlight": true,
+   "created_at": "2026-11-02T14:58:52.000Z",
    "window": "24h"
   },
   {
-   "name": "jmanalich",
-   "display_name": "jmanalich",
-   "handle": "@jmanalich",
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
    "area": "health",
-   "views": 3177,
-   "likes": 18,
+   "views": 13767,
+   "likes": 7,
+   "replies": 0,
+   "reposts": 1,
+   "url": "https://x.com/adnradiochile/status/2117434083609649356",
+   "status_url": "https://x.com/adnradiochile/status/2117434083609649356",
+   "text": "“Cara de ferritina”: la peligrosa tendencia viral de TikTok que preocupa a los médicos chilenos\n\nhttps://t.co/3qqaBvA0M9",
+   "original_en": "“Cara de ferritina”: la peligrosa tendencia viral de TikTok que preocupa a los médicos chilenos\n\nhttps://t.co/3qqaBvA0M9",
+   "highlight": true,
+   "created_at": "2026-11-03T01:50:00.000Z",
+   "window": "24h",
+   "draft_en": "[R5 · respuesta] Vale la pena repetirlo: la ferritina no se ve en el espejo. Las ojeras o la palidez tienen muchas causas, como la genética, las alergias o la falta de sueño, y el déficit de hierro se confirma con un examen de sangre.\n\nEl problema existe: en Chile, 6,4% de las mujeres de 15 a 49 años tiene anemia según la Encuesta Nacional de Salud. Justamente por eso merece un diagnóstico bien hecho.\n\nLo que más preocupa es tomar hierro por cuenta propia. Además de las molestias digestivas, tapa la pregunta importante: por qué falta hierro. Puede ser una pérdida de sangre o un problema de absorción que hay que buscar.\n\nSi hay un cansancio que no se pasa, consultar y medir. No adivinar.\n\nFuente: https://www.adnradio.cl/2026/11/02/cara-de-ferritina-la-peligrosa-tendencia-viral-de-tiktok-que-preocupa-a-los-medicos-chilenos/",
+   "draft_keywords": [
+    "«Cara de ferritina»: el hierro no se ve en el espejo"
+   ],
+   "why_hit": "Objetivo de respuesta R5 («Cara de ferritina»: el hierro no se ve en el espejo). Base verificada: ADN 2-nov-2026: la ferritina no se determina mirando el rostro (Dr. Sebastián Berroeta, nutriólogo); anemia 6,4% en mujeres de 15 a 49 años (ENS, informe INTA 2022); hierro sin indicación causa estreñimiento y dolor abdominal.",
+   "hook": "Vale la pena repetirlo: la ferritina no se ve en el espejo. Las ojeras o la palidez tienen muchas causas, como la genéti",
+   "top10_rank": 1
+  },
+  {
+   "name": "midudev",
+   "display_name": "midudev",
+   "handle": "@midudev",
+   "area": "ai",
+   "views": 10407,
+   "likes": 121,
    "replies": 3,
-   "reposts": 4,
-   "url": "https://x.com/jmanalich/status/2117017439477387738",
-   "status_url": "https://x.com/jmanalich/status/2117017439477387738",
-   "text": "Paradojalmente, lo más relevante para la política chilena se juega este martes. https://t.co/kTb0QAemHS",
-   "original_en": "Paradojalmente, lo más relevante para la política chilena se juega este martes. https://t.co/kTb0QAemHS",
-   "highlight": false,
-   "created_at": "2026-11-01T22:14:24.000Z",
+   "reposts": 8,
+   "url": "https://x.com/midudev/status/2117301433724731466",
+   "status_url": "https://x.com/midudev/status/2117301433724731466",
+   "text": "Noticias Dev: ¡OpenAI quiere tu RAM y dinero! + Se hunde la bolsa de USA + Brutal hackeo Crypto + Node 26 + las pruebas técnicas https://t.co/0kzCSMNojE",
+   "original_en": "Noticias Dev: ¡OpenAI quiere tu RAM y dinero! + Se hunde la bolsa de USA + Brutal hackeo Crypto + Node 26 + las pruebas técnicas https://t.co/0kzCSMNojE",
+   "highlight": true,
+   "created_at": "2026-11-02T17:02:54.000Z",
    "window": "24h"
   },
   {
@@ -86,33 +103,176 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 2617,
-   "likes": 23,
-   "replies": 1,
-   "reposts": 0,
-   "url": "https://x.com/ErickSky/status/2116931300477055336",
-   "status_url": "https://x.com/ErickSky/status/2116931300477055336",
-   "text": "Ahora notchepuede puede vivir sin la IA 🤭🤭 https://t.co/e6nw9NqMQO",
-   "original_en": "Ahora notchepuede puede vivir sin la IA 🤭🤭 https://t.co/e6nw9NqMQO",
-   "highlight": false,
-   "created_at": "2026-11-01T16:32:07.000Z",
+   "views": 10361,
+   "likes": 183,
+   "replies": 18,
+   "reposts": 9,
+   "url": "https://x.com/ErickSky/status/2117252563871441341",
+   "status_url": "https://x.com/ErickSky/status/2117252563871441341",
+   "text": "Hoy fueron las neveras (creo que habían hecho esto en otro país hace poco).\n\nMañana pueden ser hospitales, agua, energía o transporte.\n\nSi nos queremos defender de los ataques informáticos que sin duda vendrán con más frecuencia, vamos a tener que depender de los modelos Chinos? https://t.co/4umi4V83Z1",
+   "original_en": "Hoy fueron las neveras (creo que habían hecho esto en otro país hace poco).\n\nMañana pueden ser hospitales, agua, energía o transporte.\n\nSi nos queremos defender de los ataques informáticos que sin duda vendrán con más frecuencia, vamos a tener que depender de los modelos Chinos? https://t.co/4umi4V83Z1",
+   "highlight": true,
+   "created_at": "2026-11-02T13:48:42.000Z",
    "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 5833,
+   "likes": 104,
+   "replies": 15,
+   "reposts": 3,
+   "url": "https://x.com/ErickSky/status/2117266007832023380",
+   "status_url": "https://x.com/ErickSky/status/2117266007832023380",
+   "text": "Me han convencido gente, voy a instalar Hex en Paseo y a dejar descansar el teclado 😊 https://t.co/Fh4p17EGBR",
+   "original_en": "Me han convencido gente, voy a instalar Hex en Paseo y a dejar descansar el teclado 😊 https://t.co/Fh4p17EGBR",
+   "highlight": true,
+   "created_at": "2026-11-02T14:42:07.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "sergiorocaa",
+   "display_name": "sergiorocaa",
+   "handle": "@sergiorocaa",
+   "area": "ai",
+   "views": 5662,
+   "likes": 114,
+   "replies": 2,
+   "reposts": 13,
+   "url": "https://x.com/sergiorocaa/status/2117282370759876866",
+   "status_url": "https://x.com/sergiorocaa/status/2117282370759876866",
+   "text": "ALGUIEN LLEVA MESES DOCUMENTANDO CÓMO USA CLAUDE CODE EL EQUIPO QUE LO CONSTRUYÓ, Y LO TIENE TODO EN UN REPO GRATIS\n\n83 tips recogidos de Boris Cherny, Thariq y el resto de Anthropic.\n\nNo teoría. Cada concepto viene con su implementación funcionando dentro del repo.\n\n→",
+   "original_en": "ALGUIEN LLEVA MESES DOCUMENTANDO CÓMO USA CLAUDE CODE EL EQUIPO QUE LO CONSTRUYÓ, Y LO TIENE TODO EN UN REPO GRATIS\n\n83 tips recogidos de Boris Cherny, Thariq y el resto de Anthropic.\n\nNo teoría. Cada concepto viene con su implementación funcionando dentro del repo.\n\n→",
+   "highlight": true,
+   "created_at": "2026-11-02T15:47:09.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 4100,
+   "likes": 63,
+   "replies": 15,
+   "reposts": 2,
+   "url": "https://x.com/ErickSky/status/2117308802949099858",
+   "status_url": "https://x.com/ErickSky/status/2117308802949099858",
+   "text": "Quién más usa ChatGPT (o cualquiera sea su agente) como si fuera Google?\n\nA mí hasta se me olvidó googlear. https://t.co/kv4GcCvoEC",
+   "original_en": "Quién más usa ChatGPT (o cualquiera sea su agente) como si fuera Google?\n\nA mí hasta se me olvidó googlear. https://t.co/kv4GcCvoEC",
+   "highlight": false,
+   "created_at": "2026-11-02T17:32:10.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 3618,
+   "likes": 46,
+   "replies": 3,
+   "reposts": 3,
+   "url": "https://x.com/ErickSky/status/2117312834560528482",
+   "status_url": "https://x.com/ErickSky/status/2117312834560528482",
+   "text": "Literalmente hace nada dije que se iban a hacer películas sin Hollywood y aquí está un perfecto ejemplo!!\n\n87% actuación real, cero sets y US$15 mil.\n\nHollywood tiene que estar nervioso 😭 https://t.co/2H0yuHSpGG",
+   "original_en": "Literalmente hace nada dije que se iban a hacer películas sin Hollywood y aquí está un perfecto ejemplo!!\n\n87% actuación real, cero sets y US$15 mil.\n\nHollywood tiene que estar nervioso 😭 https://t.co/2H0yuHSpGG",
+   "highlight": false,
+   "created_at": "2026-11-02T17:48:12.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "sergiorocaa",
+   "display_name": "sergiorocaa",
+   "handle": "@sergiorocaa",
+   "area": "ai",
+   "views": 3322,
+   "likes": 82,
+   "replies": 1,
+   "reposts": 4,
+   "url": "https://x.com/sergiorocaa/status/2117320369468035456",
+   "status_url": "https://x.com/sergiorocaa/status/2117320369468035456",
+   "text": "Deja de hablar con Claude Opus 5.5 como si fuera un editor de video junior → conviértelo en un estudio de motion premier.  \n\n10 habilidades y repos imprescindibles que cubren figuras explicativas, 3D, física, motion y sonido:\n\n*Habilidades*\n\n1. /anatomy-reveal - vistas de https://t.co/wGirUhsZMy",
+   "original_en": "Deja de hablar con Claude Opus 5.5 como si fuera un editor de video junior → conviértelo en un estudio de motion premier.  \n\n10 habilidades y repos imprescindibles que cubren figuras explicativas, 3D, física, motion y sonido:\n\n*Habilidades*\n\n1. /anatomy-reveal - vistas de https://t.co/wGirUhsZMy",
+   "highlight": false,
+   "created_at": "2026-11-02T18:18:08.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 2538,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "url": "https://x.com/adnradiochile/status/2117264990520418746",
+   "status_url": "https://x.com/adnradiochile/status/2117264990520418746",
+   "text": "📻 EN VIVO | ¿Cómo es vivir con deudas? 💸 En #CiudadanoADN es momento de nuestro espacio de Salud Mental, y conversamos con Sergio González, psicólogo y antropólogo, académico Usach. https://t.co/iqheQwJL3E",
+   "original_en": "📻 EN VIVO | ¿Cómo es vivir con deudas? 💸 En #CiudadanoADN es momento de nuestro espacio de Salud Mental, y conversamos con Sergio González, psicólogo y antropólogo, académico Usach. https://t.co/iqheQwJL3E",
+   "highlight": false,
+   "created_at": "2026-11-02T14:38:05.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 2440,
+   "likes": 40,
+   "replies": 2,
+   "reposts": 1,
+   "url": "https://x.com/ErickSky/status/2117279558672027918",
+   "status_url": "https://x.com/ErickSky/status/2117279558672027918",
+   "text": "Ehh gracias por seguirlo chicos! Está muy emocionado el pana jajsjs https://t.co/wMAHqSOCp7 https://t.co/NaqZNngEM5",
+   "original_en": "Ehh gracias por seguirlo chicos! Está muy emocionado el pana jajsjs https://t.co/wMAHqSOCp7 https://t.co/NaqZNngEM5",
+   "highlight": false,
+   "created_at": "2026-11-02T15:35:58.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 2104,
+   "likes": 2,
+   "replies": 0,
+   "reposts": 3,
+   "url": "https://x.com/adnradiochile/status/2117336691723977024",
+   "status_url": "https://x.com/adnradiochile/status/2117336691723977024",
+   "text": "Detectan presencia de metales tóxicos en joyas compradas por internet: advierten posibles riesgos para la salud\n\nhttps://t.co/quzKPkxiTK",
+   "original_en": "Detectan presencia de metales tóxicos en joyas compradas por internet: advierten posibles riesgos para la salud\n\nhttps://t.co/quzKPkxiTK",
+   "highlight": false,
+   "created_at": "2026-11-02T19:23:00.000Z",
+   "window": "24h",
+   "draft_en": "[R7 · respuesta] Dato que impresiona: según el análisis de la Usach, unos aros de cerca de $2.000 tenían 26% de cadmio, cuando la Unión Europea permite 0,01% en este tipo de productos. Y cinco piezas tenían plomo.\n\nPara tranquilizar a quien ya las usa: a través de la piel casi no se absorben. El riesgo real es llevárselas a la boca, morderlas o tragarlas, y por eso los más expuestos son los niños pequeños.\n\nMientras Chile no tenga una norma específica, la recomendación práctica es simple: desconfiar de la «plata 925» demasiado barata y no dejar joyas de fantasía al alcance de los niños. Si un niño se traga una, ir a urgencia.\n\nFuente: https://www.adnradio.cl/2026/11/02/detectan-presencia-de-metales-toxicos-en-joyas-compradas-por-internet-advierten-posibles-riesgos-para-la-salud/ · https://cdc.gov/lead-prevention/prevention/consumer-products.html · https://www.health.ny.gov/environmental/chemicals/cadmium/cadmium_jewelry.htm",
+   "draft_keywords": [
+    "Metales tóxicos en joyas compradas por internet: el riesgo es llevarlas a la boca"
+   ],
+   "why_hit": "Objetivo de respuesta R7 (Metales tóxicos en joyas compradas por internet: el riesgo es llevarlas a la boca). Base verificada: Análisis Usach para Chilevisión (ADN 2-nov-2026): solo 2 piezas eran plata 925; 5 con plomo; aros de ~$2.000 con 26% de cadmio vs límite UE 0,01%; Chile sin norma específica. CDC y Depto. de Salud de Nueva York: el contacto con la piel casi no expone; el riesgo es chupar, morder o tragar, sobre todo menores de 6 años.",
+   "hook": "Dato que impresiona: según el análisis de la Usach, unos aros de cerca de $2.000 tenían 26% de cadmio, cuando la Unión E",
+   "top10_rank": 2
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Agentes: de escribir prompts a diseñar rutinas que trabajan solas (midudev 94,8K)",
-  "Hermes Agent vs Grok Bot y la nueva app móvil de Hermes: el debate se mueve a coordinación y proactividad",
-  "Humor con IA domina el volumen (roast de ChatGPT, memes de ErickSky)",
-  "Salud Chile: 4 de cada 10 usan IA para orientación personal; ciencia local (parche USM con miel de ulmo)",
-  "Lunes con poco material de salud en el watchlist; medios con fútbol, farándula y política (excluidos)"
+  "Agentes: Open Duet (clon abierto de Claude Duet) se viraliza en cuentas de hype; la conversación real va a reglas y coordinación entre agentes",
+  "App móvil de Hermes: primera actualización de la beta (23 cambios); el debate pasa a confianza y proactividad",
+  "DeepSeek domina el volumen IA del watchlist (DSH SuperAgent, midudev 38,6K)",
+  "Salud Chile: tendencias de redes que llevan a automedicarse («cara de ferritina», ADN 13,8K) y productos sin norma (metales en joyas)",
+  "IA en salud con datos chilenos: Hospital Digital y el banco de prueba de mamografías"
  ],
  "no_hits": [
   {
-   "handle": "@sergiorocaa",
-   "max_views": 266,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 266."
+   "handle": "@freddier",
+   "max_views": 0,
+   "reason": "Sin originales en las últimas 24h."
   },
   {
    "handle": "@bilinkis",
@@ -121,8 +281,8 @@
   },
   {
    "handle": "@ministeriosalud",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "max_views": 1988,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.988."
   },
   {
    "handle": "@juancarlossaid",
@@ -131,23 +291,28 @@
   },
   {
    "handle": "@CatuRojas",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "max_views": 163,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 163."
   },
   {
    "handle": "@HeliaMolina_M",
    "max_views": 0,
    "reason": "Sin originales en las últimas 24h."
+  },
+  {
+   "handle": "@jmanalich",
+   "max_views": 411,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 411."
   }
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 5,
+ "hits_count": 14,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-11-01",
-  "hits_count": 5,
-  "total_views": 137469
+  "date": "2026-11-02",
+  "hits_count": 14,
+  "total_views": 142540
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -215,20 +380,11 @@
  },
  "day_roster": [
   {
-   "handle": "@ErickSky",
-   "name": "ErickSky",
-   "area": "ai",
-   "views": 508566,
-   "total_views": 515276,
-   "hit": true,
-   "window": "24h"
-  },
-  {
    "handle": "@midudev",
    "name": "midudev",
    "area": "ai",
-   "views": 94794,
-   "total_views": 94794,
+   "views": 38642,
+   "total_views": 49049,
    "hit": true,
    "window": "24h"
   },
@@ -236,26 +392,17 @@
    "handle": "@DotCSV",
    "name": "DotCSV",
    "area": "ai",
-   "views": 32788,
-   "total_views": 32788,
+   "views": 23006,
+   "total_views": 23006,
    "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@freddier",
-   "name": "freddier",
+   "handle": "@ErickSky",
+   "name": "ErickSky",
    "area": "ai",
-   "views": 29631,
-   "total_views": 29631,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@Cooperativa",
-   "name": "Cooperativa",
-   "area": "health",
-   "views": 10404,
-   "total_views": 14560,
+   "views": 16740,
+   "total_views": 48329,
    "hit": true,
    "window": "24h"
   },
@@ -263,26 +410,8 @@
    "handle": "@adnradiochile",
    "name": "adnradiochile",
    "area": "health",
-   "views": 4048,
-   "total_views": 4048,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@jmanalich",
-   "name": "jmanalich",
-   "area": "health",
-   "views": 3177,
-   "total_views": 3177,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@Pajarobere",
-   "name": "Pajarobere",
-   "area": "health",
-   "views": 2117,
-   "total_views": 2117,
+   "views": 13767,
+   "total_views": 45753,
    "hit": true,
    "window": "24h"
   },
@@ -290,8 +419,62 @@
    "handle": "@sergiorocaa",
    "name": "sergiorocaa",
    "area": "ai",
-   "views": 266,
-   "total_views": 266,
+   "views": 5662,
+   "total_views": 12536,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@Pajarobere",
+   "name": "Pajarobere",
+   "area": "health",
+   "views": 3303,
+   "total_views": 3303,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@Cooperativa",
+   "name": "Cooperativa",
+   "area": "health",
+   "views": 2147,
+   "total_views": 17801,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@ministeriosalud",
+   "name": "ministeriosalud",
+   "area": "health",
+   "views": 1988,
+   "total_views": 3275,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@jmanalich",
+   "name": "jmanalich",
+   "area": "health",
+   "views": 411,
+   "total_views": 411,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@CatuRojas",
+   "name": "CatuRojas",
+   "area": "health",
+   "views": 163,
+   "total_views": 163,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@freddier",
+   "name": "freddier",
+   "area": "ai",
+   "views": 0,
+   "total_views": 0,
    "hit": false,
    "window": "24h"
   },
@@ -305,26 +488,8 @@
    "window": "24h"
   },
   {
-   "handle": "@ministeriosalud",
-   "name": "ministeriosalud",
-   "area": "health",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
    "handle": "@juancarlossaid",
    "name": "juancarlossaid",
-   "area": "health",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@CatuRojas",
-   "name": "CatuRojas",
    "area": "health",
    "views": 0,
    "total_views": 0,
@@ -405,46 +570,62 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "openclaw"
+    "keyword": "salud"
    },
    {
     "rank": 2,
-    "keyword": "bucles"
+    "keyword": "claude"
    },
    {
     "rank": 3,
-    "keyword": "agentes"
+    "keyword": "deepseek"
    },
    {
     "rank": 4,
-    "keyword": "prompts"
+    "keyword": "agente"
    },
    {
     "rank": 5,
-    "keyword": "chatgpt"
+    "keyword": "fuera"
    },
    {
     "rank": 6,
-    "keyword": "roast"
+    "keyword": "gratis"
    },
    {
     "rank": 7,
-    "keyword": "películas"
+    "keyword": "code"
    },
    {
     "rank": 8,
-    "keyword": "hollywood"
+    "keyword": "construyó"
+   },
+   {
+    "rank": 9,
+    "keyword": "equipo"
+   },
+   {
+    "rank": 10,
+    "keyword": "tips"
+   },
+   {
+    "rank": 11,
+    "keyword": "chatgpt"
+   },
+   {
+    "rank": 12,
+    "keyword": "conversamos"
    }
   ],
   "note": "Minadas de originales 24h (repetidas ≥2 veces, completadas con términos de los posts de más vistas); temas político-partidistas excluidos."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 02-11-2026: 8 respuestas (R1–R8: 4 de agentes de IA y 4 de salud en Chile) y 2 originales (P1–P2) en borrador para aprobación; nada publicado.",
-   "takeaway": "Mayor tracción IA en el watchlist: midudev (94,8K: el creador de OpenClaw propone diseñar bucles que llamen a tus agentes en vez de escribir prompts), DotCSV (32,8K roast de ChatGPT) y ErickSky (508,6K «Elon va a abandonar la carrera», excluido; 4,1K y 2,6K memes de IA). Fuera del watchlist, hilos de agentes con tracción: Hermes Agent vs Grok Bot (@Da7_Tech, 57,8K) y la beta móvil de Hermes (@MichaelGannotti). Salud: el watchlist trajo poco (ébola de ADN ya descartado por el radar, Medel/fútbol, política); se completó con hilos de salud en Chile: IA como orientación personal (@Tercera_Dosis, 78K), parche USM con miel de ulmo (@EnsedeCiencia, 21,8K), trato digno (@colmedchile) y Eloísa Díaz (@MemoriaHisto). Sin originales de bilinkis, ministeriosalud, juancarlossaid, CatuRojas ni HeliaMolina_M en 24h."
+   "headline": "Digest 03-11-2026: 8 respuestas (R1–R8: 4 de agentes de IA y 4 de salud en Chile) y 2 originales (P1–P2) en borrador para aprobación; nada publicado.",
+   "takeaway": "Mayor tracción IA en el watchlist: midudev (38,6K: DeepSeek lanza DSH SuperAgent, agente de código autónomo), DotCSV (23K, aviso de viaje), ErickSky (16,7K hype DeepSeek; 10,4K ciberataques y modelos chinos) y sergiorocaa (5,7K tips de Claude Code). Fuera del watchlist, la conversación de agentes la dominan Open Duet (clon abierto de Claude Duet, decenas de miles de vistas en cuentas de hype) y la primera actualización de la app móvil de Hermes (@HermesWatcher 21,7K, @fl_rn_st 19,2K); se eligieron hilos con conversación real: utilidad de los agentes (@marcos_builds 17,7K), reglas para equipos de agentes (@oaranda 5K) y Grok Bot hablando con Hermes (@diego_defi). Salud: «cara de ferritina» de ADN (13,8K), metales tóxicos en joyas (ADN 2,1K), vacuna KRAS en páncreas (La Tercera 3,6K) y 875 mil mamografías de Hospital Digital (Minsal). Sin originales de freddier, bilinkis, juancarlossaid ni HeliaMolina_M en 24h; medios con política (Rabat, rebaja de penas), fútbol y farándula, excluidos."
   },
   "corpus": {
-   "posts": 13,
+   "posts": 53,
    "min_views": 2000
   },
   "window": {
@@ -453,128 +634,128 @@
   "topics": [],
   "ideas": [
    {
-    "title": "R1 · respuesta a @midudev",
+    "title": "R1 · respuesta a @marcos_builds",
     "format": "respuesta",
-    "source": "@midudev",
-    "topic": "Agentes: de prompts a rutinas (proactividad)",
-    "hook_en": "Para quien no programa, esa idea se traduce simple: el valor está en que el agente trabaje sin que tengas que pedírselo cada vez.\n\nUn prompt es una conversación. Un bucle es una rutina: revisa algo a una hora fija o cuando pasa un evento, y te avisa solo si hay algo que decidir.\n\nCreo que el próximo salto de los agentes está ahí, más que en modelos más grandes: proactividad. Que no esperen la instrucción, que sepan cuándo actuar y cuándo quedarse callados.",
-    "angle": "Objetivo: https://x.com/midudev/status/2116967571706835164 (94.794 vistas)",
-    "why": "Base: Sin cifras externas. Fuente: sin cifras externas",
+    "source": "@marcos_builds",
+    "topic": "¿Para qué sirven los agentes? Usos reales y aburridos",
+    "hook_en": "Te entiendo. La utilidad no está en las demos, está en lo aburrido.\n\nSoy médico y no programo. Los uso para correo, agenda y para preparar la consulta: que la información del paciente esté ordenada antes de que llegue. Nada espectacular, pero son tareas que se repiten todos los días.\n\nMi consejo: parte por una sola tarea repetitiva que no te guste hacer. Si el agente la hace bien una semana seguida, ahí se entiende el resto. Y si no te ahorra nada, probablemente todavía no lo necesitas, y está bien.",
+    "angle": "Objetivo: https://x.com/marcos_builds/status/2117325679452721453 (17.681 vistas)",
+    "why": "Base: Sin cifras externas. Usos ya contados en público por RT (correo, agenda, preconsulta). Fuente: sin cifras externas",
     "keywords": [
-     "Agentes: de prompts a rutinas (proactividad)"
+     "¿Para qué sirven los agentes? Usos reales y aburridos"
     ]
    },
    {
-    "title": "R2 · respuesta a @virginiog",
+    "title": "R2 · respuesta a @oaranda",
     "format": "respuesta",
-    "source": "@virginiog",
-    "topic": "Agentes personales con nombre y rol: memoria compartida",
-    "hook_en": "Ponerles nombre ayuda más de lo que parece: obliga a darle a cada uno un rol claro, como en un equipo.\n\nLo que más falta, en mi experiencia, no es que sean más inteligentes, sino que se coordinen entre ellos de forma simple: que lo que uno aprende lo sepan los demás, y que no tengas que repetir lo mismo en cada conversación.\n\nQue hables más con ellos que con tus colegas no me parece tan raro. Lo raro sería tener un equipo que no se habla entre sí.",
-    "angle": "Objetivo: https://x.com/virginiog/status/2117207591801778611",
-    "why": "Base: Sin cifras externas. Ojo: RT ya respondió a @virginiog el 20-oct (otro tema). Fuente: sin cifras externas",
+    "source": "@oaranda",
+    "topic": "Reglas para un equipo de agentes: nada a tu nombre sin tu OK",
+    "hook_en": "La 1 me parece la más importante de tu lista, y vale igual para personas: nadie debería dar por terminado su propio trabajo.\n\nLe agregaría una: nada sale a tu nombre sin tu OK. Correos, mensajes o publicaciones: el agente prepara el borrador y tú decides si se envía. En salud, por ejemplo, eso no es negociable.\n\nCuando un agente se equivoca en algo que ya salió, el costo no es técnico. Es de confianza.",
+    "angle": "Objetivo: https://x.com/oaranda/status/2117447212212850977 (5.008 vistas)",
+    "why": "Base: Sin cifras externas (el post pide «¿cuál le agregarían?»). Fuente: sin cifras externas",
     "keywords": [
-     "Agentes personales con nombre y rol: memoria compartida"
+     "Reglas para un equipo de agentes: nada a tu nombre sin tu OK"
     ]
    },
    {
-    "title": "R3 · respuesta a @Da7_Tech",
+    "title": "R3 · respuesta a @diego_defi",
     "format": "respuesta",
-    "source": "@Da7_Tech",
-    "topic": "Hermes vs Grok Bot: coordinación entre agentes",
-    "hook_en": "I use both, and I don't think it's either-or.\n\nHermes is already very powerful. What it's missing isn't more power, it's simple coordination: agents that hand work to each other, share what they learn, and come to you only when there's a decision to make. Today Grok Bot does that part more simply.\n\nWhichever gets that right first will matter more than whichever has the longest feature list.",
-    "angle": "Objetivo: https://x.com/Da7_Tech/status/2117020625571344394",
-    "why": "Base: Sin cifras externas (RT dijo públicamente que usa ambos). Fuente: sin cifras externas",
+    "source": "@diego_defi",
+    "topic": "Grok Bot y Hermes hablando entre sí: coordinación sin mensajero",
+    "hook_en": "Ese es el avance que más me interesa, más que cualquier función nueva: que los agentes se pasen el trabajo entre ellos sin que uno tenga que hacer de mensajero.\n\nHoy casi siempre la coordinación la hace la persona: copias lo que dijo uno y se lo pegas al otro. Cuando cualquiera de los dos pueda iniciar la conversación y cerrar la tarea, ahí va a cambiar de verdad cómo trabajamos con ellos.",
+    "angle": "Objetivo: https://x.com/diego_defi/status/2117318293807595972 (1.470 vistas)",
+    "why": "Base: Sin cifras externas. Ojo: RT ya respondió a @diego_defi el 1-nov (otro post, app de Hermes). Fuente: sin cifras externas",
     "keywords": [
-     "Hermes vs Grok Bot: coordinación entre agentes"
+     "Grok Bot y Hermes hablando entre sí: coordinación sin mensajero"
     ]
    },
    {
-    "title": "R4 · respuesta a @MichaelGannotti",
+    "title": "R4 · respuesta a @HermesWatcher",
     "format": "respuesta",
-    "source": "@MichaelGannotti",
-    "topic": "App móvil de Hermes: pulida pero muy parecida a Cadu",
-    "hook_en": "I'm in the beta too. It's very polished, but it feels a lot like Cadu, and I expected something more original from the official app.\n\nHermes is already powerful underneath. The app was the chance to show a new way of working with agents, not to repeat a control panel we've already seen.",
-    "angle": "Objetivo: https://x.com/MichaelGannotti/status/2116885018245054754",
-    "why": "Base: Postura de RT (beta privada; no decir cómo entró). Fuente: sin cifras externas",
+    "source": "@HermesWatcher",
+    "topic": "Primera actualización de la app móvil de Hermes: falta proactividad",
+    "hook_en": "That last one matters more than it looks. Knowing whether an agent is actually working or just stuck is what makes you trust it.\n\nFast updates are great, and Hermes is already powerful underneath. What I'd love to see next isn't another control screen but proactivity: the app telling me when an agent needs a decision, instead of me opening it to check.",
+    "angle": "Objetivo: https://x.com/HermesWatcher/status/2117497031514378248 (21.745 vistas)",
+    "why": "Base: Postura de RT (Hermes ya es potente; falta proactividad, no otra interfaz de control). Sin mencionar Cadu ni la beta para no repetir el R4 de ayer. Fuente: sin cifras externas",
     "keywords": [
-     "App móvil de Hermes: pulida pero muy parecida a Cadu"
+     "Primera actualización de la app móvil de Hermes: falta proactividad"
     ]
    },
    {
-    "title": "R5 · respuesta a @Tercera_Dosis",
+    "title": "R5 · respuesta a @adnradiochile",
     "format": "respuesta",
-    "source": "@Tercera_Dosis",
-    "topic": "Preguntar por el uso de IA en la consulta",
-    "hook_en": "Coincido con el cierre, y lo llevaría a algo muy concreto: preguntar por la IA en la consulta debería ser tan natural como preguntar qué remedios toma la persona.\n\nNo para retarla, sino para saber qué le dijeron, qué entendió y qué decidió con eso. Si no se pregunta, esa conversación queda fuera de la ficha y nadie la puede corregir ni aprovechar.\n\nCon 4 de cada 10 personas usándola, ya no es un tema del futuro: es parte de la historia clínica.",
-    "angle": "Objetivo: https://x.com/Tercera_Dosis/status/2116870966156341250",
-    "why": "Base: Cifras del propio post (39% en Chile usó IA para orientación personal). Fuente: sin cifras externas",
+    "source": "@adnradiochile",
+    "topic": "«Cara de ferritina»: el hierro no se ve en el espejo",
+    "hook_en": "Vale la pena repetirlo: la ferritina no se ve en el espejo. Las ojeras o la palidez tienen muchas causas, como la genética, las alergias o la falta de sueño, y el déficit de hierro se confirma con un examen de sangre.\n\nEl problema existe: en Chile, 6,4% de las mujeres de 15 a 49 años tiene anemia según la Encuesta Nacional de Salud. Justamente por eso merece un diagnóstico bien hecho.\n\nLo que más preocupa es tomar hierro por cuenta propia. Además de las molestias digestivas, tapa la pregunta importante: por qué falta hierro. Puede ser una pérdida de sangre o un problema de absorción que hay que buscar.\n\nSi hay un cansancio que no se pasa, consultar y medir. No adivinar.",
+    "angle": "Objetivo: https://x.com/adnradiochile/status/2117434083609649356 (13.767 vistas)",
+    "why": "Base: ADN 2-nov-2026: la ferritina no se determina mirando el rostro (Dr. Sebastián Berroeta, nutriólogo); anemia 6,4% en mujeres de 15 a 49 años (ENS, informe INTA 2022); hierro sin indicación causa estreñimiento y dolor abdominal. Fuente: https://www.adnradio.cl/2026/11/02/cara-de-ferritina-la-peligrosa-tendencia-viral-de-tiktok-que-preocupa-a-los-medicos-chilenos/",
     "keywords": [
-     "Preguntar por el uso de IA en la consulta"
+     "«Cara de ferritina»: el hierro no se ve en el espejo"
     ]
    },
    {
-    "title": "R6 · respuesta a @EnsedeCiencia",
+    "title": "R6 · respuesta a @latercera",
     "format": "respuesta",
-    "source": "@EnsedeCiencia",
-    "topic": "Parche de nanofibras con miel de ulmo (USM): falta etapa clínica",
-    "hook_en": "Buena noticia, y vale la pena contarla completa: según la propia USM, el material ya está fabricado, pero falta esterilizarlo, probarlo en animales y luego en estudios clínicos antes de usarlo en pacientes.\n\nEse camino es largo, y es justamente lo que da confianza. Las heridas que cuestan cicatrizar, como las quemaduras extensas o las del pie diabético, son un problema enorme para pacientes y equipos de salud. Una alternativa hecha en Chile, con un recurso tan nuestro como la miel de ulmo, tiene mucho sentido.\n\nOjalá llegue pronto a la etapa clínica.",
-    "angle": "Objetivo: https://x.com/EnsedeCiencia/status/2116686610523689001",
-    "why": "Base: USM 23-oct-2026: nanofibras biodegradables con miel de ulmo por electrohilado (Dr. Tomás Corrales, Física USM); material fabricado, pendiente esterilización, estudios en animales y luego clínicos. Fuente: https://usm.cl/noticias/usm-desarrolla-parche-de-nanofibras-con-miel-de-ulmo-para-regenerar-heridas/",
+    "source": "@latercera",
+    "topic": "Vacuna contra KRAS en cáncer de páncreas: respuesta inmune no es aún beneficio clínico",
+    "hook_en": "Buena noticia, y vale la pena leerla completa. En el ensayo de fase 2, con 144 pacientes, casi todos los vacunados desarrollaron respuesta inmune contra el KRAS mutado. Pero el objetivo principal, más tiempo sin recaída en todo el grupo, no se cumplió: 23,8 versus 21,2 meses, sin diferencia significativa.\n\nUna respuesta inmune es una señal prometedora, todavía no un beneficio para el paciente. Por eso viene una fase 3.\n\nEn un cáncer tan difícil como el de páncreas, avanzar así, con los resultados contados completos, es justamente lo que da confianza.",
+    "angle": "Objetivo: https://x.com/latercera/status/2117247862232805727 (3.597 vistas)",
+    "why": "Base: AMPLIFY-7P fase 2 (Nature Medicine, oct-2026): 144 pacientes (96 vacuna, 48 observación); 98,9% (89/90) con respuesta de células T contra KRAS mutado; objetivo principal no cumplido: sobrevida libre de enfermedad mediana 23,8 vs 21,2 meses, sin diferencia significativa; se planea fase 3. Fuente: https://www.latercera.com/tendencias/noticia/la-vacuna-que-desencadeno-respuestas-inmunitarias-en-el-99-de-pacientes-con-cancer-de-pancreas/ · https://newsnetwork.mayoclinic.org/discussion/investigational-vaccine-generates-immune-response-to-kras-mutations-in-pancreatic-cancer-study/ · https://www.nature.com/articles/s41591-026-04734-7",
     "keywords": [
-     "Parche de nanofibras con miel de ulmo (USM): falta etapa clínica"
+     "Vacuna contra KRAS en cáncer de páncreas: respuesta inmune no es aún beneficio clínico"
     ]
    },
    {
-    "title": "R7 · respuesta a @colmedchile",
+    "title": "R7 · respuesta a @adnradiochile",
     "format": "respuesta",
-    "source": "@colmedchile",
-    "topic": "Trato digno: presentarse y nombrar al paciente (y baja visión)",
-    "hook_en": "Muy de acuerdo. Presentarse y llamar a la persona por su nombre toma segundos y cambia la consulta: el paciente suele preguntar más y entender mejor lo que viene.\n\nY hay un detalle que se olvida: si el paciente tiene baja visión, mirarlo a los ojos no basta. Hay que decir quién eres al entrar, explicar en voz alta lo que vas a hacer antes de tocarlo y avisar cuando sales de la sala.\n\nEso también es trato digno.",
-    "angle": "Objetivo: https://x.com/colmedchile/status/2117011297892200561",
-    "why": "Base: Sin cifras externas. Fuente: sin cifras externas",
+    "source": "@adnradiochile",
+    "topic": "Metales tóxicos en joyas compradas por internet: el riesgo es llevarlas a la boca",
+    "hook_en": "Dato que impresiona: según el análisis de la Usach, unos aros de cerca de $2.000 tenían 26% de cadmio, cuando la Unión Europea permite 0,01% en este tipo de productos. Y cinco piezas tenían plomo.\n\nPara tranquilizar a quien ya las usa: a través de la piel casi no se absorben. El riesgo real es llevárselas a la boca, morderlas o tragarlas, y por eso los más expuestos son los niños pequeños.\n\nMientras Chile no tenga una norma específica, la recomendación práctica es simple: desconfiar de la «plata 925» demasiado barata y no dejar joyas de fantasía al alcance de los niños. Si un niño se traga una, ir a urgencia.",
+    "angle": "Objetivo: https://x.com/adnradiochile/status/2117336691723977024 (2.104 vistas)",
+    "why": "Base: Análisis Usach para Chilevisión (ADN 2-nov-2026): solo 2 piezas eran plata 925; 5 con plomo; aros de ~$2.000 con 26% de cadmio vs límite UE 0,01%; Chile sin norma específica. CDC y Depto. de Salud de Nueva York: el contacto con la piel casi no expone; el riesgo es chupar, morder o tragar, sobre todo menores de 6 años. Fuente: https://www.adnradio.cl/2026/11/02/detectan-presencia-de-metales-toxicos-en-joyas-compradas-por-internet-advierten-posibles-riesgos-para-la-salud/ · https://cdc.gov/lead-prevention/prevention/consumer-products.html · https://www.health.ny.gov/environmental/chemicals/cadmium/cadmium_jewelry.htm",
     "keywords": [
-     "Trato digno: presentarse y nombrar al paciente (y baja visión)"
+     "Metales tóxicos en joyas compradas por internet: el riesgo es llevarlas a la boca"
     ]
    },
    {
-    "title": "R8 · respuesta a @MemoriaHisto",
+    "title": "R8 · respuesta a @ministeriosalud",
     "format": "respuesta",
-    "source": "@MemoriaHisto",
-    "topic": "Eloísa Díaz, primera médica de Chile",
-    "hook_en": "Qué buen recordatorio. Eloísa Díaz no se quedó en el logro de ser la primera: puso su carrera al servicio de la salud de los niños en las escuelas, al frente del Servicio Médico Escolar.\n\nEso dice mucho de lo que es la salud pública: llegar a las personas donde están, antes de que enfermen.\n\nSu nombre merece ser mucho más conocido por quienes hoy estudian medicina.",
-    "angle": "Objetivo: https://x.com/MemoriaHisto/status/2117000181728108792",
-    "why": "Base: Eloísa Díaz: titulada en 1887, murió el 1-nov-1950; dirigió el Servicio Médico Escolar. Fuente: sin cifras externas",
+    "source": "@ministeriosalud",
+    "topic": "Hospital Digital y mamografías: base para validar IA con datos chilenos",
+    "hook_en": "Muy buena noticia, y tiene un segundo valor que se conoce menos: esas mamografías informadas a distancia también van a servir para probar IA con datos chilenos.\n\nEl banco de prueba anunciado en octubre reunirá 166.569 mamografías de 75.461 mujeres de la red pública, con cinco años de seguimiento y biopsia cuando hubo cáncer. Eso permite medir de verdad cuántos cánceres detecta un algoritmo y cuántas falsas alarmas genera, antes de usarlo en pacientes.\n\nAsí se debería incorporar la IA en salud: validada en nuestra población, no solo en la de otros países.",
+    "angle": "Objetivo: https://x.com/ministeriosalud/status/2117341883944902789 (1.988 vistas)",
+    "why": "Base: Minsal: más de 875.000 mamografías informadas a distancia desde 2019 (77 establecimientos, 64 comunas, 15 regiones, informe en máx. 5 días). Sandbox anunciado el 18-oct-2026 (Corfo, Minsal, MinCiencia, Fonasa, Fundación País Digital): 166.569 mamografías de 75.461 mujeres, seguimiento a 5 años con cáncer confirmado por biopsia, disponible 2º semestre 2027. Post del watchlist con 1.988 vistas (bajo el umbral, pero tema en la línea de RT). Fuente: https://es.linkedin.com/posts/departamento-de-salud-digital-chile_en-el-d%C3%ADa-internacional-del-c%C3%A1ncer-de-activity-7517938765814788096-PRF1 · https://transformasalud.cl/ia-cancer-de-mama/",
     "keywords": [
-     "Eloísa Díaz, primera médica de Chile"
+     "Hospital Digital y mamografías: base para validar IA con datos chilenos"
     ]
    },
    {
-    "title": "P1 · Lentes de contacto y agua: antes de la piscina",
+    "title": "P1 · Primavera, ojos que pican y por qué no frotarlos",
     "format": "post largo",
     "source": "original RT",
-    "topic": "lentes de contacto, agua y queratitis por Acanthamoeba",
-    "hook_en": "Se vienen la piscina, el mar y los ríos, y hay un hábito que conviene cambiar antes del verano: nadar o ducharse con lentes de contacto.\n\nEl agua no es estéril. En el agua de la llave, de ríos, lagos y otras fuentes puede haber una ameba llamada Acanthamoeba. Si queda atrapada entre el lente y el ojo, puede causar una infección de la córnea poco frecuente, pero muy dolorosa y difícil de tratar: a veces el tratamiento dura un año o más, y en casos graves puede requerir un trasplante de córnea o causar pérdida de visión.\n\nPor eso los CDC y la FDA de Estados Unidos recomiendan:\n\n• Sacarse los lentes antes de nadar, ducharse o entrar a un jacuzzi\n• Si el lente se mojó, sacarlo apenas se pueda y botarlo, o limpiarlo y desinfectarlo durante la noche antes de volver a usarlo\n• Nunca enjuagar ni guardar los lentes con agua de la llave; solo con solución para lentes\n• Para quien necesita ver bien en el agua, existen antiparras con aumento\n\nY una regla para todo el año: si un ojo con lente se pone rojo, duele o ves peor, sácate el lente y consulta pronto.\n\nFuentes: CDC y FDA de Estados Unidos.",
-    "visual": "Video vertical de 30 s: RT junto a una piscina o con antiparras en la mano: «Si usas lentes de contacto, esto es lo primero que te sacas antes de nadar»; cierre con los 4 consejos en pantalla.",
+    "topic": "alergia ocular de primavera, frotarse los ojos y queratocono",
+    "hook_en": "Llegó la primavera y con ella los ojos que pican, lagrimean y se ponen rojos. Es la alergia ocular, y lo primero que conviene saber es lo que no hay que hacer: frotarse los ojos.\n\nFrotarlos alivia unos segundos, pero empeora la alergia y puede rayar la córnea. Y cuando se vuelve un hábito de años, se asocia al queratocono, una enfermedad en que la córnea se adelgaza y se deforma, y la visión se vuelve borrosa e irregular.\n\nLo que sí ayuda, según la Academia Americana de Oftalmología:\n\n• Compresas frías sobre los ojos cerrados\n• Lágrimas artificiales, idealmente sin preservantes, para lavar el polen\n• Lentes de sol al aire libre, sobre todo en días de viento\n• Ventanas cerradas en las horas de más polen, a media mañana y al atardecer\n• Si la mascota da alergia, que no entre al dormitorio\n\nCuidado con las gotas que «sacan lo rojo»: no deberían usarse más de dos o tres días seguidos, porque su uso prolongado termina empeorando los síntomas.\n\nY si hay dolor, mucha molestia con la luz o ves peor, no es solo alergia: consulta.\n\nFuente: Academia Americana de Oftalmología.",
+    "visual": "Video vertical de 30 s: RT al aire libre con árboles en flor, haciendo el gesto de frotarse un ojo y deteniéndose: «Si te pican los ojos esta primavera, esto es lo primero que no tienes que hacer»; cierre con los consejos en pantalla y una compresa fría.",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.cdc.gov/contact-lenses/about/healthy-habits-keeping-water-away-from-contact-lenses.html https://www.cdc.gov/acanthamoeba/about/about-acanthamoeba-keratitis.html https://www.fda.gov/medical-devices/contact-lenses/contact-lens-risks",
+    "why": "Fuentes verificadas hoy: https://www.aao.org/eye-health/tips-prevention/is-it-ok-to-rub-your-eyes https://www.aao.org/eye-health/ask-ophthalmologist-q/itchy-eyes-treatment https://www.aao.org/salud-ocular/consejos/allergies-diagnosis https://doi.org/10.1111/ceo.14215",
     "keywords": [
-     "lentes de contacto, agua y queratitis por Acanthamoeba",
+     "alergia ocular de primavera, frotarse los ojos y queratocono",
      "salud"
     ]
    },
    {
-    "title": "P2 · La mitad de las lesiones de ojos ocurre en la casa",
+    "title": "P2 · Cuatro mitos sobre la visión que conviene soltar",
     "format": "post largo",
     "source": "original RT",
-    "topic": "lesiones oculares en el hogar: limpieza, herramientas, cortar el pasto",
-    "hook_en": "La mitad de las lesiones de los ojos no ocurre en el trabajo ni haciendo deporte: ocurre en la casa.\n\nLo dice la Academia Americana de Oftalmología, y las causas son muy cotidianas: productos de limpieza como el cloro, clavos que saltan al martillar, herramientas eléctricas y, en esta época, cortar el pasto o podar, cuando la máquina lanza piedras, tierra o ramas.\n\nLa buena noticia es que protegerse es simple. Según la misma Academia, usar lentes protectores puede reducir el riesgo de lesión en 90%, pero solo unas 3 de cada 10 personas los usan en estos trabajos.\n\nTres consejos:\n\n• Tener en la casa al menos un par de lentes de seguridad de policarbonato\n• Los lentes ópticos comunes no protegen de un golpe\n• Quien mira también se expone: los niños deben estar lejos mientras alguien corta el pasto\n\nSi entra un químico al ojo, lavar de inmediato con abundante agua y consultar. Si algo se clavó, no sacarlo ni frotar: cubrir el ojo sin presionar e ir a urgencia.\n\nFuente: Academia Americana de Oftalmología.",
-    "visual": "Video vertical de 30 s: RT con unos lentes de seguridad de policarbonato junto a una cortadora de pasto o un frasco de cloro: «La mitad de las lesiones de ojos ocurren en la casa»; cierre con «90% menos riesgo».",
+    "topic": "mitos de la visión: lentes, graduación, poca luz, zanahorias; excepción ambliopía",
+    "hook_en": "Hay mitos sobre la visión que pasan de generación en generación. Cuatro que conviene soltar:\n\n• «Si uso lentes, mis ojos se vuelven dependientes». No. Los lentes no cambian el ojo, solo corrigen la imagen. Lo que pasa es que uno se acostumbra a ver bien.\n\n• «Usar lentes con la graduación equivocada daña los ojos». Tampoco. Puede dar dolor de cabeza, cansancio o visión borrosa, que se pasan al sacárselos. No produce daño, aunque igual vale la pena actualizar la receta.\n\n• «Leer con poca luz daña la visión». No la daña, cansa más. Una buena luz hace la lectura más cómoda.\n\n• «Comer zanahorias mejora la visión». La vitamina A es necesaria, pero el cuerpo necesita poca y está en muchos alimentos, como verduras de hoja verde, lácteos y pescado. Comer más zanahoria no evita necesitar lentes.\n\nUna excepción importante: en niños con ojo flojo (ambliopía) o estrabismo, los lentes indicados son parte del tratamiento, y no usarlos puede dejar una visión baja para siempre. Ahí, el lente se usa tal como lo indicó el oftalmólogo.\n\nFuentes: Academia Americana de Oftalmología y Mayo Clinic Health System.",
+    "visual": "Video vertical de 30 s: RT con unos lentes en la mano y una zanahoria en la otra: «¿Los lentes te hacen dependiente? ¿La zanahoria mejora la visión?»; respuesta rápida «mito» a cada uno y cierre con la excepción de los niños con ojo flojo.",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.aao.org/eye-health/tips-prevention/injuries-in-home https://www.aao.org/eye-health/tips-prevention/injuries-protective-eyewear",
+    "why": "Fuentes verificadas hoy: https://www.aao.org/eye-health/tips-prevention/common-eye-vision-myths-facts https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/eye-health-myths-and-facts",
     "keywords": [
-     "lesiones oculares en el hogar: limpieza, herramientas, cortar el pasto",
+     "mitos de la visión: lentes, graduación, poca luz, zanahorias; excepción ambliopía",
      "salud"
     ]
    }
