@@ -1,912 +1,590 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-04 10:30",
- "date": "2026-11-04",
- "timezone": "America/Santiago",
- "updated": "2026-11-04T11:30:00-03:00",
- "brand_title": "Grok Bot X Virality Score",
- "brand_handle": "@Drrubentorrest",
- "hits": [
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 137111,
-   "likes": 3623,
-   "replies": 52,
-   "reposts": 250,
-   "url": "https://x.com/ErickSky/status/2117627505326842177",
-   "status_url": "https://x.com/ErickSky/status/2117627505326842177",
-   "text": "Encontré el repo que potencialmente revivirá el formato de CDs y DVDs 😍\n\n→ Tomas cualquier imagen \n→ La conviertes en datos \n→ La grabas \n→ El disco muestra la imagen a simple vista en la superficie reflectante.\n\nOjo, no es la etiqueta. Es la capa de datos.\n\nREPOOO👇 https://t.co/MT2YFS0GHN",
-   "original_en": "Encontré el repo que potencialmente revivirá el formato de CDs y DVDs 😍\n\n→ Tomas cualquier imagen \n→ La conviertes en datos \n→ La grabas \n→ El disco muestra la imagen a simple vista en la superficie reflectante.\n\nOjo, no es la etiqueta. Es la capa de datos.\n\nREPOOO👇 https://t.co/MT2YFS0GHN",
-   "highlight": true,
-   "created_at": "2026-11-03T14:38:35.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 80022,
-   "likes": 2329,
-   "replies": 32,
-   "reposts": 271,
-   "url": "https://x.com/midudev/status/2117634091327557893",
-   "status_url": "https://x.com/midudev/status/2117634091327557893",
-   "text": "Si quieres hacer scraping y extracción de datos de webs, usa este framework open source.\n\n✓ Peticiones que imita la huella de Chrome\n✓ Navegador con JS y Captcha de Cloudflare\n✓ MCP y Agent Skill para usar con IA\n\n→ https://t.co/qv6ykvPvg7 https://t.co/igyh5SbCq5",
-   "original_en": "Si quieres hacer scraping y extracción de datos de webs, usa este framework open source.\n\n✓ Peticiones que imita la huella de Chrome\n✓ Navegador con JS y Captcha de Cloudflare\n✓ MCP y Agent Skill para usar con IA\n\n→ https://t.co/qv6ykvPvg7 https://t.co/igyh5SbCq5",
-   "highlight": true,
-   "created_at": "2026-11-03T15:04:45.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 77784,
-   "likes": 372,
-   "replies": 17,
-   "reposts": 18,
-   "url": "https://x.com/adnradiochile/status/2117712339332161868",
-   "status_url": "https://x.com/adnradiochile/status/2117712339332161868",
-   "text": "¿El tamaño importa?\n\nEsta es una de las preguntas más recurrentes que recibe el doctor Andrés Tapia Mingo, urólogo que se ha convertido en un verdadero influencer de la salud masculina.\n\nEn un nuevo capítulo de Tecnociencia, el podcast, conversa con la periodista científica https://t.co/EWuGzQXbkC",
-   "original_en": "¿El tamaño importa?\n\nEsta es una de las preguntas más recurrentes que recibe el doctor Andrés Tapia Mingo, urólogo que se ha convertido en un verdadero influencer de la salud masculina.\n\nEn un nuevo capítulo de Tecnociencia, el podcast, conversa con la periodista científica https://t.co/EWuGzQXbkC",
-   "highlight": true,
-   "created_at": "2026-11-03T20:15:41.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 75215,
-   "likes": 1084,
-   "replies": 80,
-   "reposts": 15,
-   "url": "https://x.com/ErickSky/status/2117807019943920039",
-   "status_url": "https://x.com/ErickSky/status/2117807019943920039",
-   "text": "Me voy al DeepSeek harness chicos.\n\nNo porque el de OpenCode sea malo, de hecho, cuesta mucho despegarse de 12B de tokens por $10.\n\nPero necesito descubrir por mi mismo si es cierto que la diferencia en calidad es real.\n\nTengo días sin dormir pensando en eso...",
-   "original_en": "Me voy al DeepSeek harness chicos.\n\nNo porque el de OpenCode sea malo, de hecho, cuesta mucho despegarse de 12B de tokens por $10.\n\nPero necesito descubrir por mi mismo si es cierto que la diferencia en calidad es real.\n\nTengo días sin dormir pensando en eso...",
-   "highlight": true,
-   "created_at": "2026-11-04T02:31:55.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 74754,
-   "likes": 88,
-   "replies": 16,
-   "reposts": 18,
-   "url": "https://x.com/ErickSky/status/2117634054094745886",
-   "status_url": "https://x.com/ErickSky/status/2117634054094745886",
-   "text": "Siempre he pensado que la MEJOR tecnología en términos de seguridad es la que no te obliga a usarla justo cuando estás en peligro.\n\nMe explico: la mayoría de las soluciones actuales dependen de que puedas sacar el teléfono, desbloquearlo, abrir una app, pulsar un botón o llamar a https://t.co/uMYx5pnG3w",
-   "original_en": "Siempre he pensado que la MEJOR tecnología en términos de seguridad es la que no te obliga a usarla justo cuando estás en peligro.\n\nMe explico: la mayoría de las soluciones actuales dependen de que puedas sacar el teléfono, desbloquearlo, abrir una app, pulsar un botón o llamar a https://t.co/uMYx5pnG3w",
-   "highlight": true,
-   "created_at": "2026-11-03T15:04:36.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 40866,
-   "likes": 655,
-   "replies": 26,
-   "reposts": 40,
-   "url": "https://x.com/midudev/status/2117618298103930950",
-   "status_url": "https://x.com/midudev/status/2117618298103930950",
-   "text": "¡OpenAI reinventa Git por dentro! Y es muy interesante.\n\nEn lugar de cambiar Git, han creado Pando: un backend que procesa ramas en paralelo y reutiliza datos.\n\nAsí usan los mismos comandos de siempre pero, por ejemplo, los git push mejora un 80% la latencia. https://t.co/mcGviVPUgr",
-   "original_en": "¡OpenAI reinventa Git por dentro! Y es muy interesante.\n\nEn lugar de cambiar Git, han creado Pando: un backend que procesa ramas en paralelo y reutiliza datos.\n\nAsí usan los mismos comandos de siempre pero, por ejemplo, los git push mejora un 80% la latencia. https://t.co/mcGviVPUgr",
-   "highlight": true,
-   "created_at": "2026-11-03T14:02:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 18410,
-   "likes": 497,
-   "replies": 3,
-   "reposts": 59,
-   "url": "https://x.com/midudev/status/2117649381272727753",
-   "status_url": "https://x.com/midudev/status/2117649381272727753",
-   "text": "¡Cursos y certificaciones gratis de Python, SQL, Ingeniería de IA, Análisis de datos y más!\n\nDataCamp no tiene coste del 2 al 8 de noviembre y no necesita tarjeta de crédito.\n\nSi eres aspirante a programador:\n→ Aprende Python desde cero\nhttps://t.co/WgPyW5Kvyy \n\n→ Conviértete https://t.co/Spcr0fyreV",
-   "original_en": "¡Cursos y certificaciones gratis de Python, SQL, Ingeniería de IA, Análisis de datos y más!\n\nDataCamp no tiene coste del 2 al 8 de noviembre y no necesita tarjeta de crédito.\n\nSi eres aspirante a programador:\n→ Aprende Python desde cero\nhttps://t.co/WgPyW5Kvyy \n\n→ Conviértete https://t.co/Spcr0fyreV",
-   "highlight": true,
-   "created_at": "2026-11-03T16:05:31.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 9419,
-   "likes": 134,
-   "replies": 12,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2117719161677734090",
-   "status_url": "https://x.com/ErickSky/status/2117719161677734090",
-   "text": "Chicos si lo usan me avisan porque yo ya no puedo con mi vida https://t.co/hpuxV7sssP",
-   "original_en": "Chicos si lo usan me avisan porque yo ya no puedo con mi vida https://t.co/hpuxV7sssP",
-   "highlight": true,
-   "created_at": "2026-11-03T20:42:48.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 9050,
-   "likes": 133,
-   "replies": 4,
-   "reposts": 14,
-   "url": "https://x.com/ErickSky/status/2117677978721091898",
-   "status_url": "https://x.com/ErickSky/status/2117677978721091898",
-   "text": "Qué estupidez...\n\nMe encanta! https://t.co/UXpP4EwtZ6",
-   "original_en": "Qué estupidez...\n\nMe encanta! https://t.co/UXpP4EwtZ6",
-   "highlight": true,
-   "created_at": "2026-11-03T17:59:09.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "sergiorocaa",
-   "display_name": "sergiorocaa",
-   "handle": "@sergiorocaa",
-   "area": "ai",
-   "views": 5116,
-   "likes": 127,
-   "replies": 4,
-   "reposts": 14,
-   "url": "https://x.com/sergiorocaa/status/2117666170677395893",
-   "status_url": "https://x.com/sergiorocaa/status/2117666170677395893",
-   "text": "🚨 GOOGLE ACABA DE DEJAR OBSOLETAS LAS APPS DE ESCANEO\n\nGoogle Drive acaba de mejorar su escáner nativo con funciones que antes requerían apps de terceros:\n\n→ Escaneo multipágina en tiempo real\n→ Detecta duplicados automáticamente\n→ Modo continuo para escanear sin parar\n→",
-   "original_en": "🚨 GOOGLE ACABA DE DEJAR OBSOLETAS LAS APPS DE ESCANEO\n\nGoogle Drive acaba de mejorar su escáner nativo con funciones que antes requerían apps de terceros:\n\n→ Escaneo multipágina en tiempo real\n→ Detecta duplicados automáticamente\n→ Modo continuo para escanear sin parar\n→",
-   "highlight": true,
-   "created_at": "2026-11-03T17:12:14.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 4883,
-   "likes": 54,
-   "replies": 5,
-   "reposts": 4,
-   "url": "https://x.com/midudev/status/2117966169902571620",
-   "status_url": "https://x.com/midudev/status/2117966169902571620",
-   "text": "¡Juega con tu biblioteca de Steam en macOS!\n\nEste proyecto de código abierto promete ejecutar SteamOS en los procesadores Apple Sillicon.\n\nPermite jugar a títulos de Windows con soporte a DirectX y aceleración de GPU.\n\n→ https://t.co/aO44MmRCMi https://t.co/Xd0AmexXqF",
-   "original_en": "¡Juega con tu biblioteca de Steam en macOS!\n\nEste proyecto de código abierto promete ejecutar SteamOS en los procesadores Apple Sillicon.\n\nPermite jugar a títulos de Windows con soporte a DirectX y aceleración de GPU.\n\n→ https://t.co/aO44MmRCMi https://t.co/Xd0AmexXqF",
-   "highlight": false,
-   "created_at": "2026-11-04T13:04:19.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 4472,
-   "likes": 18,
-   "replies": 12,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2117835233823187185",
-   "status_url": "https://x.com/ErickSky/status/2117835233823187185",
-   "text": "Esto qué significa en términos de IA gente??? https://t.co/uIJobUGRrl",
-   "original_en": "Esto qué significa en términos de IA gente??? https://t.co/uIJobUGRrl",
-   "highlight": false,
-   "created_at": "2026-11-04T04:24:01.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 3615,
-   "likes": 80,
-   "replies": 7,
-   "reposts": 6,
-   "url": "https://x.com/ErickSky/status/2117815028992671882",
-   "status_url": "https://x.com/ErickSky/status/2117815028992671882",
-   "text": "Si usas Real-Debrid, AllDebrid o cualquier debrid, esto te interesa.\n\nTorBox (un debrid súper Saiyajin) acaba de meter actualizaciones que dejan a la competencia atrás:\n\n→ CDN +30% más rápido (empiezas a bajar casi al instante)\n→ Mega 4x más rápido\n→ Telegram 3x más rápido\n→ https://t.co/3XORMxRij1",
-   "original_en": "Si usas Real-Debrid, AllDebrid o cualquier debrid, esto te interesa.\n\nTorBox (un debrid súper Saiyajin) acaba de meter actualizaciones que dejan a la competencia atrás:\n\n→ CDN +30% más rápido (empiezas a bajar casi al instante)\n→ Mega 4x más rápido\n→ Telegram 3x más rápido\n→ https://t.co/3XORMxRij1",
-   "highlight": false,
-   "created_at": "2026-11-04T03:03:44.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "Cooperativa",
-   "display_name": "Cooperativa",
-   "handle": "@Cooperativa",
-   "area": "health",
-   "views": 3399,
-   "likes": 183,
-   "replies": 0,
-   "reposts": 76,
-   "url": "https://x.com/Cooperativa/status/2117644576488141012",
-   "status_url": "https://x.com/Cooperativa/status/2117644576488141012",
-   "text": "Ley Ricarte Soto: pacientes evalúan marcha ante posible recorte del 14% https://t.co/e2GYc2KU06",
-   "original_en": "Ley Ricarte Soto: pacientes evalúan marcha ante posible recorte del 14% https://t.co/e2GYc2KU06",
-   "highlight": false,
-   "created_at": "2026-11-03T15:46:25.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 3163,
-   "likes": 55,
-   "replies": 3,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2117827100606443625",
-   "status_url": "https://x.com/ErickSky/status/2117827100606443625",
-   "text": "DIABLO QUÉ DIFÍCIL ME LA PUSISTE https://t.co/xR0aFTm7Rw",
-   "original_en": "DIABLO QUÉ DIFÍCIL ME LA PUSISTE https://t.co/xR0aFTm7Rw",
-   "highlight": false,
-   "created_at": "2026-11-04T03:51:42.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ministeriosalud",
-   "display_name": "ministeriosalud",
-   "handle": "@ministeriosalud",
-   "area": "health",
-   "views": 3090,
-   "likes": 18,
-   "replies": 3,
-   "reposts": 6,
-   "url": "https://x.com/ministeriosalud/status/2117660762239869280",
-   "status_url": "https://x.com/ministeriosalud/status/2117660762239869280",
-   "text": "Una sola salud, un solo país 🤝\n\nLos Ministerios de Salud, Agricultura, Medio Ambiente y Economía conformaron una mesa interministerial para la coordinación de respuestas ante el desafío que representan la gestión de amenazas sanitarias en la interfaz entre personas, animales y https://t.co/5ekpxbzS21",
-   "original_en": "Una sola salud, un solo país 🤝\n\nLos Ministerios de Salud, Agricultura, Medio Ambiente y Economía conformaron una mesa interministerial para la coordinación de respuestas ante el desafío que representan la gestión de amenazas sanitarias en la interfaz entre personas, animales y https://t.co/5ekpxbzS21",
-   "highlight": false,
-   "created_at": "2026-11-03T16:50:44.000Z",
-   "window": "24h",
-   "draft_en": "[R6 · respuesta] Muy buena noticia. Según la Subsecretaría de Salud Pública, el 60% de los patógenos humanos es de origen zoonótico y el 75% de las enfermedades emergentes viene de la fauna silvestre. Que Salud, Agricultura, Medio Ambiente y Economía se sienten en la misma mesa responde a eso.\n\nHantavirus, influenza aviar o el mosquito del dengue no respetan los límites entre ministerios. Lo más valioso del acuerdo está en lo práctico: que Salud, el SAG y Sernapesca se avisen a tiempo y compartan información.\n\nPara quienes trabajamos en la clínica, el beneficio es concreto: saber antes lo que viene.\n\nFuente: https://www.minsal.cl/ministerios-de-salud-m-ambiente-economia-y-agricultura-forman-mesa-intersectorial-para-delinear-accion-frente-a-las-amenazas-sanitarias-del-futuro/ · https://www.elmorrocotudo.cl/noticia/sociedad/dengue-hantavirus-e-influenza-aviar-gobierno-anuncia-nueva-estrategia-para-anticipa",
-   "draft_keywords": [
-    "Mesa intersectorial Una Salud: personas, animales y ambiente"
-   ],
-   "why_hit": "Objetivo de respuesta R6 (Mesa intersectorial Una Salud: personas, animales y ambiente). Base verificada: Minsal 3-nov-2026: mesa Salud, Agricultura, Medio Ambiente y Economía; notificación recíproca Salud–SAG–MMA–Sernapesca, análisis de riesgo conjunto para influenza aviar H5N1 y hantavirus, interoperabilidad. Subsecretaria de Salud Pública: 60% de los patógenos humanos es de origen zoonótico y 75% de las enfermedades emergentes proviene de la fauna silvestre.",
-   "hook": "Muy buena noticia. Según la Subsecretaría de Salud Pública, el 60% de los patógenos humanos es de origen zoonótico y el ",
-   "top10_rank": 1
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2966,
-   "likes": 36,
-   "replies": 3,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2117868338533593385",
-   "status_url": "https://x.com/ErickSky/status/2117868338533593385",
-   "text": "Ok, confirmamos que están haciendo red teaming con DeepSeek abliterado.\n\nNo me extrañaría que en el futuro próximo debamos pagar esos servicios con criptos porque van a comenzar a ser muy regulados/prohibidos. https://t.co/DOAu52uP4x",
-   "original_en": "Ok, confirmamos que están haciendo red teaming con DeepSeek abliterado.\n\nNo me extrañaría que en el futuro próximo debamos pagar esos servicios con criptos porque van a comenzar a ser muy regulados/prohibidos. https://t.co/DOAu52uP4x",
-   "highlight": false,
-   "created_at": "2026-11-04T06:35:34.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2596,
-   "likes": 10,
-   "replies": 3,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2117824707089092687",
-   "status_url": "https://x.com/ErickSky/status/2117824707089092687",
-   "text": "La papeada que le están dando aquí a CZ chicos????\n\nSe ve que este cabrón de OKX se estaba guardando esta mouseke-herramienta para este preciso momento.\n\nUn genio. https://t.co/rIZZ3YTAYg",
-   "original_en": "La papeada que le están dando aquí a CZ chicos????\n\nSe ve que este cabrón de OKX se estaba guardando esta mouseke-herramienta para este preciso momento.\n\nUn genio. https://t.co/rIZZ3YTAYg",
-   "highlight": false,
-   "created_at": "2026-11-04T03:42:12.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 2539,
-   "likes": 4,
-   "replies": 0,
-   "reposts": 5,
-   "url": "https://x.com/adnradiochile/status/2117809054420721671",
-   "status_url": "https://x.com/adnradiochile/status/2117809054420721671",
-   "text": "Minsal alerta por aumento de contagios de sarampión y llama a vacunar a los niños: “Una persona puede contagiar a otras 18” https://t.co/hX9upMfMqF",
-   "original_en": "Minsal alerta por aumento de contagios de sarampión y llama a vacunar a los niños: “Una persona puede contagiar a otras 18” https://t.co/hX9upMfMqF",
-   "highlight": false,
-   "created_at": "2026-11-04T02:40:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 2510,
-   "likes": 4,
-   "replies": 2,
-   "reposts": 2,
-   "url": "https://x.com/adnradiochile/status/2117770047812677804",
-   "status_url": "https://x.com/adnradiochile/status/2117770047812677804",
-   "text": "El desajuste económico genera un agobio permanente en las familias. En Salud Mental en Ciudadano ADN te damos consejos prácticos pare enfrentar la situación\n\nhttps://t.co/oRrohREOY9",
-   "original_en": "El desajuste económico genera un agobio permanente en las familias. En Salud Mental en Ciudadano ADN te damos consejos prácticos pare enfrentar la situación\n\nhttps://t.co/oRrohREOY9",
-   "highlight": false,
-   "created_at": "2026-11-04T00:05:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 2475,
-   "likes": 9,
-   "replies": 0,
-   "reposts": 4,
-   "url": "https://x.com/adnradiochile/status/2117691530005610947",
-   "status_url": "https://x.com/adnradiochile/status/2117691530005610947",
-   "text": "Seremi de Salud prohíbe funcionamiento de supermercado asiático tras detectar graves irregularidades sanitarias https://t.co/s0FcLHw3Ad",
-   "original_en": "Seremi de Salud prohíbe funcionamiento de supermercado asiático tras detectar graves irregularidades sanitarias https://t.co/s0FcLHw3Ad",
-   "highlight": false,
-   "created_at": "2026-11-03T18:53:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "sergiorocaa",
-   "display_name": "sergiorocaa",
-   "handle": "@sergiorocaa",
-   "area": "ai",
-   "views": 2043,
-   "likes": 40,
-   "replies": 5,
-   "reposts": 4,
-   "url": "https://x.com/sergiorocaa/status/2117650169592209584",
-   "status_url": "https://x.com/sergiorocaa/status/2117650169592209584",
-   "text": "Don't waste 2 years learning to become an AI agentic engineer in 2026.  \n\nAndrew Ng, the godfather of AI, gave the complete playbook to become one from scratch.  \n\n1 hour course. Free:  \n\n• 00:00 - AI agent basics \n• 12:12 - AI Agentic workflows &amp; design patterns \n• 53:27 -",
-   "original_en": "Don't waste 2 years learning to become an AI agentic engineer in 2026.  \n\nAndrew Ng, the godfather of AI, gave the complete playbook to become one from scratch.  \n\n1 hour course. Free:  \n\n• 00:00 - AI agent basics \n• 12:12 - AI Agentic workflows &amp; design patterns \n• 53:27 -",
-   "highlight": false,
-   "created_at": "2026-11-03T16:08:39.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 2015,
-   "likes": 0,
-   "replies": 2,
-   "reposts": 0,
-   "url": "https://x.com/adnradiochile/status/2117637458313482433",
-   "status_url": "https://x.com/adnradiochile/status/2117637458313482433",
-   "text": "📻 EN VIVO | 💧🫧 ¿Agua con gas o sin gas? ¿Cuál es mejor para hidratarse y cuidar la salud?\n\nEn #CiudadanoADN conversamos con Óscar Barrera Marengo, conocido como Doctor Chef Músculo, sobre los mitos y verdades del agua con gas, sus efectos en el organismo y qué debemos",
-   "original_en": "📻 EN VIVO | 💧🫧 ¿Agua con gas o sin gas? ¿Cuál es mejor para hidratarse y cuidar la salud?\n\nEn #CiudadanoADN conversamos con Óscar Barrera Marengo, conocido como Doctor Chef Músculo, sobre los mitos y verdades del agua con gas, sus efectos en el organismo y qué debemos",
-   "highlight": false,
-   "created_at": "2026-11-03T15:18:08.000Z",
-   "window": "24h"
-  }
- ],
- "virals": [],
- "outsiders": [],
- "patterns": [
-  "App móvil de Hermes: la conversación pasa de la novedad al control granular y a reemplazar otras suscripciones",
-  "Team agents vs agentes personales: agentes que viven en el chat de grupo con memoria compartida (campaña de Teamily)",
-  "Claude Duet, Dots, Grok Bot y Muse: rankings de agentes personales y migración de rutinas entre plataformas",
-  "IA en salud con evidencia: fracción de eyección medida por IA en segundos (The Lancet Digital Health)",
-  "Salud Chile: Una Salud (zoonosis), Mes Azul (próstata) y edadismo; Ricarte Soto y presupuesto, excluidos por ser discusión presupuestaria"
- ],
- "no_hits": [
-  {
-   "handle": "@DotCSV",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
-  },
-  {
-   "handle": "@freddier",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
-  },
-  {
-   "handle": "@bilinkis",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
-  },
-  {
-   "handle": "@Pajarobere",
-   "max_views": 208,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 208."
-  },
-  {
-   "handle": "@juancarlossaid",
-   "max_views": 482,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 482."
-  },
-  {
-   "handle": "@CatuRojas",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
-  },
-  {
-   "handle": "@HeliaMolina_M",
-   "max_views": 1058,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.058."
-  }
- ],
- "virals_window": "last ~48h",
- "virals_target": 20,
- "hits_count": 23,
- "outsiders_count": 0,
- "previous_day": {
-  "date": "2026-11-03",
-  "hits_count": 23,
-  "total_views": 567513
- },
- "leaderboards": {
-  "as_of": "2026-09-15",
-  "tracking_start": "2026-09-13",
-  "days_included": [
-   "2026-09-09",
-   "2026-09-10",
-   "2026-09-11",
-   "2026-09-12",
-   "2026-09-13",
-   "2026-09-14",
-   "2026-09-15"
+  "generated_at": "2026-11-05T13:35:00-03:00",
+  "timezone": "America/Santiago",
+  "window": "2026-11-04T13:30:00.000Z → 2026-11-05T13:30:00.000Z (4-nov 10:30 → 5-nov 10:30 America/Santiago)",
+  "min_views": 2000,
+  "star_views": 5000,
+  "watchlist": [
+    "ErickSky",
+    "DotCSV",
+    "freddier",
+    "midudev",
+    "sergiorocaa",
+    "bilinkis",
+    "ministeriosalud",
+    "adnradiochile",
+    "Pajarobere",
+    "juancarlossaid",
+    "CatuRojas",
+    "HeliaMolina_M",
+    "Cooperativa",
+    "jmanalich"
   ],
-  "month_days_included": [
-   "2026-09-13",
-   "2026-09-14",
-   "2026-09-15"
-  ],
-  "week": {
-   "label": "Rolling week · Sep 9–Sep 15",
-   "range": [
-    "2026-09-09",
-    "2026-09-15"
-   ],
-   "entries": []
-  },
-  "month": {
-   "label": "September 2026 · from Sep 13",
-   "range": [
-    "2026-09-13",
-    "2026-09-15"
-   ],
-   "entries": []
-  }
- },
- "board_features": {
-  "count_up": true,
-  "live_pulse": true,
-  "theme_toggle": true,
-  "themes": [
-   "night",
-   "day"
-  ],
-  "grok_ambient": true,
-  "week_month_boards": true,
-  "day_roster_best_total": true,
-  "day_compare_chart": true,
-  "week_strip": true,
-  "no_hits_reasons": true,
-  "marker_class": "xvs-dash-2026",
-  "top10_drafts_v4": true,
-  "trend_keywords": true,
-  "trend_radar": true,
-  "x_keyword_table": true,
-  "experiment": true,
-  "self_quote_badge": true
- },
- "operator": {
-  "handle": "@Drrubentorrest",
-  "name": "Dr. Rubén Torres | Oftalmólogo",
-  "profile_url": "https://x.com/Drrubentorrest"
- },
- "ui": {
-  "default_theme": "night"
- },
- "day_roster": [
-  {
-   "handle": "@ErickSky",
-   "name": "ErickSky",
-   "area": "ai",
-   "views": 974462,
-   "total_views": 1306914,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@midudev",
-   "name": "midudev",
-   "area": "ai",
-   "views": 80022,
-   "total_views": 144181,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@adnradiochile",
-   "name": "adnradiochile",
-   "area": "health",
-   "views": 77784,
-   "total_views": 100015,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@sergiorocaa",
-   "name": "sergiorocaa",
-   "area": "ai",
-   "views": 5116,
-   "total_views": 9873,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@Cooperativa",
-   "name": "Cooperativa",
-   "area": "health",
-   "views": 3399,
-   "total_views": 3399,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@ministeriosalud",
-   "name": "ministeriosalud",
-   "area": "health",
-   "views": 3090,
-   "total_views": 3090,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@jmanalich",
-   "name": "jmanalich",
-   "area": "health",
-   "views": 2705,
-   "total_views": 3843,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@HeliaMolina_M",
-   "name": "HeliaMolina_M",
-   "area": "health",
-   "views": 1058,
-   "total_views": 1520,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@juancarlossaid",
-   "name": "juancarlossaid",
-   "area": "health",
-   "views": 482,
-   "total_views": 482,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@Pajarobere",
-   "name": "Pajarobere",
-   "area": "health",
-   "views": 208,
-   "total_views": 208,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@DotCSV",
-   "name": "DotCSV",
-   "area": "ai",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@freddier",
-   "name": "freddier",
-   "area": "ai",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@bilinkis",
-   "name": "bilinkis",
-   "area": "ai",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@CatuRojas",
-   "name": "CatuRojas",
-   "area": "health",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  }
- ],
- "you_rank": null,
- "trend_input_only_posts": [],
- "watchlist": [
-  {
-   "handle": "@ErickSky",
-   "area": "ai"
-  },
-  {
-   "handle": "@DotCSV",
-   "area": "ai"
-  },
-  {
-   "handle": "@freddier",
-   "area": "ai"
-  },
-  {
-   "handle": "@midudev",
-   "area": "ai"
-  },
-  {
-   "handle": "@sergiorocaa",
-   "area": "ai"
-  },
-  {
-   "handle": "@bilinkis",
-   "area": "ai"
-  },
-  {
-   "handle": "@ministeriosalud",
-   "area": "health"
-  },
-  {
-   "handle": "@adnradiochile",
-   "area": "health"
-  },
-  {
-   "handle": "@Pajarobere",
-   "area": "health"
-  },
-  {
-   "handle": "@juancarlossaid",
-   "area": "health"
-  },
-  {
-   "handle": "@CatuRojas",
-   "area": "health"
-  },
-  {
-   "handle": "@HeliaMolina_M",
-   "area": "health"
-  },
-  {
-   "handle": "@Cooperativa",
-   "area": "health"
-  },
-  {
-   "handle": "@jmanalich",
-   "area": "health"
-  }
- ],
- "trend_keywords": {
-  "keywords": [
-   {
-    "rank": 1,
-    "keyword": "hermes mobile"
-   },
-   {
-    "rank": 2,
-    "keyword": "team agents"
-   },
-   {
-    "rank": 3,
-    "keyword": "claude duet"
-   },
-   {
-    "rank": 4,
-    "keyword": "deepseek"
-   },
-   {
-    "rank": 5,
-    "keyword": "agente personal"
-   },
-   {
-    "rank": 6,
-    "keyword": "scraping"
-   },
-   {
-    "rank": 7,
-    "keyword": "pando (git)"
-   },
-   {
-    "rank": 8,
-    "keyword": "salud masculina"
-   },
-   {
-    "rank": 9,
-    "keyword": "una salud"
-   },
-   {
-    "rank": 10,
-    "keyword": "fracción de eyección"
-   },
-   {
-    "rank": 11,
-    "keyword": "mes azul"
-   },
-   {
-    "rank": 12,
-    "keyword": "sarampión"
-   }
-  ],
-  "note": "Minadas de originales 24h del watchlist y de las búsquedas de agentes y salud Chile (curadas a mano: el conteo automático lo dominaba un post duplicado de ADN); temas político-partidistas excluidos."
- },
- "trend_radar": {
   "summary": {
-   "headline": "Digest 04-11-2026: 8 respuestas (R1–R8: 4 de agentes de IA y 4 de salud en Chile) y 2 originales (P1–P2) en borrador para aprobación; nada publicado.",
-   "takeaway": "Watchlist IA: ErickSky domina el volumen (974K en un meme de Binance, 137K repo de CDs, 75K «me voy al DeepSeek harness»), midudev 80K (scraping) y 41K (Pando de OpenAI). Fuera del watchlist, la conversación de agentes gira en torno a la app móvil de Hermes (@alexcovo_eth 22,6K, @arkqhantom 10K), los team agents de Teamily (campaña en @aresotik 43,7K y @MiguelMaestroIA 49,7K), Claude Duet vs Dots vs Grok Bot (@nvandewetering 8,9K) y la optimización de Hermes de @MrHydeDev (3,3K). Salud: IA que mide la fracción de eyección (BioBio 12,4K, The Lancet Digital Health), mesa intersectorial Una Salud (Minsal 3,1K), Mes Azul y cáncer de próstata (24 Horas) y edadismo (@HeliaMolina_M). Ley Ricarte Soto (Cooperativa 3,4K) y presupuesto de salud quedan fuera por ser discusión presupuestaria; sarampión ya publicado por RT. Sin originales de freddier, DotCSV ni bilinkis en 24h."
+    "originals_scanned": 52,
+    "hits_ge_2000": 24,
+    "stars_ge_5000": 14,
+    "watchlist_hits": [
+      "ErickSky",
+      "adnradiochile",
+      "freddier",
+      "juancarlossaid",
+      "midudev",
+      "ministeriosalud",
+      "sergiorocaa"
+    ],
+    "watchlist_posted_under": [
+      "Cooperativa",
+      "HeliaMolina_M",
+      "jmanalich"
+    ],
+    "watchlist_no_originals": [
+      "CatuRojas",
+      "DotCSV",
+      "Pajarobere",
+      "bilinkis"
+    ],
+    "replies_drafted": 8,
+    "originals_drafted": 2
   },
-  "corpus": {
-   "posts": 46,
-   "min_views": 2000
-  },
-  "window": {
-   "label48": "24h"
-  },
-  "topics": [],
-  "ideas": [
-   {
-    "title": "R1 · respuesta a @aresotik",
-    "format": "respuesta",
-    "source": "@aresotik",
-    "topic": "Agentes en equipo: el valor está en no perder contexto en los traspasos",
-    "hook_en": "Lo de «nadie vuelve a explicarle todo desde cero» es la clave, y no solo para agentes.\n\nEn medicina lo aprendimos hace mucho: la información se pierde en los traspasos. Entre turnos, entre equipos, entre la urgencia y la sala. Por eso se trabaja tanto en que la entrega sea ordenada y quede escrita.\n\nCon agentes en un grupo pasa lo mismo. El valor no está en tener muchos, sino en que se pasen el trabajo sin perder el hilo y que quede claro quién decide al final. Si eso funciona, el grupo rinde más. Si no, solo suma ruido.",
-    "angle": "Objetivo: https://x.com/aresotik/status/2117627043361730874 (43.703 vistas)",
-    "why": "Base: Sin cifras externas. Ojo: el post parece parte de una campaña de Teamily AI (mismo mensaje en @MiguelMaestroIA, 49,7K); la respuesta no nombra la marca. Fuente: sin cifras externas",
-    "keywords": [
-     "Agentes en equipo: el valor está en no perder contexto en los traspasos"
-    ]
-   },
-   {
-    "title": "R2 · respuesta a @MrHydeDev",
-    "format": "respuesta",
-    "source": "@MrHydeDev",
-    "topic": "Hermes: «asistir a mi asistente» y lo que de verdad falta",
-    "hook_en": "«Acababa dedicando más tiempo asistiendo a mi asistente que usándolo». Esa frase resume el problema mejor que cualquier comparación de velocidad.\n\nHermes ya es potente por debajo, y tu trabajo de medición lo muestra. Pero para quienes no somos técnicos la pregunta no es cuánto se puede ajustar, sino cuánto hay que cuidarlo.\n\nLo que falta no es más configuración. Es que el agente se haga cargo del trabajo de principio a fin y te busque solo cuando hay una decisión que es tuya.",
-    "angle": "Objetivo: https://x.com/MrHydeDev/status/2117909505501454835 (3.302 vistas)",
-    "why": "Base: Sin cifras externas (las mediciones son del autor). Postura de RT: Hermes ya es potente; falta proactividad. Sin Cadu ni beta. Fuente: sin cifras externas",
-    "keywords": [
-     "Hermes: «asistir a mi asistente» y lo que de verdad falta"
-    ]
-   },
-   {
-    "title": "R3 · respuesta a @Tony_Lantes",
-    "format": "respuesta",
-    "source": "@Tony_Lantes",
-    "topic": "Dirigir agentes: delegar la tarea no es delegar la responsabilidad",
-    "hook_en": "De acuerdo, y la medicina da una pista de cómo se aprende: un buen médico no lo hace todo él, pero sí sabe dar una indicación clara, con objetivo y límites, y después revisar que se cumplió.\n\nCon agentes es parecido. Delegar la tarea no es delegar la responsabilidad. Lo que cambia es dónde pones tu tiempo: menos en hacer y más en definir bien lo que quieres y en revisar el resultado.\n\nY agregaría la habilidad que menos se nombra: saber qué no delegar.",
-    "angle": "Objetivo: https://x.com/Tony_Lantes/status/2117796325299245399 (246 vistas)",
-    "why": "Base: Sin cifras externas. Post con poca tracción (246 vistas, 4 respuestas) pero en español y en el centro del tema. Fuente: sin cifras externas",
-    "keywords": [
-     "Dirigir agentes: delegar la tarea no es delegar la responsabilidad"
-    ]
-   },
-   {
-    "title": "R4 · respuesta a @alexcovo_eth",
-    "format": "respuesta",
-    "source": "@alexcovo_eth",
-    "topic": "Hermes mobile y el control granular: para el usuario no técnico falta coordinación",
-    "hook_en": "Granular control makes total sense if you build your own stack, and that's where Hermes really shines.\n\nFrom the other side, as a doctor who doesn't code, control isn't what I'm missing. I don't want more knobs. I want agents that coordinate with each other and only come to me when a decision is actually mine.\n\nVoice is a good step in that direction, because it makes handing off work feel natural.",
-    "angle": "Objetivo: https://x.com/alexcovo_eth/status/2117707344469770288 (22.582 vistas)",
-    "why": "Base: Sin cifras externas. Postura de RT: lo que falta no es otra interfaz de control sino coordinación real. Sin Cadu ni beta (ya usados el 1, 2 y 3-nov). Fuente: sin cifras externas",
-    "keywords": [
-     "Hermes mobile y el control granular: para el usuario no técnico falta coordinación"
-    ]
-   },
-   {
-    "title": "R5 · respuesta a @biobio",
-    "format": "respuesta",
-    "source": "@biobio",
-    "topic": "IA mide la fracción de eyección en segundos: el titular y lo que dice el estudio",
-    "hook_en": "Lo más interesante del estudio no es el «supera a los médicos». La IA midió la fracción de eyección en 2 a 3 segundos por paciente, contra unos 13 minutos de un especialista, y en más de 27 mil resonancias su medición se relacionó un poco mejor con la sobrevida.\n\nY el mejor resultado fue la suma: agregar la medición de la IA a la del médico mejoró bastante la predicción.\n\nLos propios autores piden mantener la supervisión humana (hubo errores en cerca del 1% de los pacientes) y estudios prospectivos para ver si cambia el tratamiento. Bien usada, es tiempo de especialista que vuelve al paciente.",
-    "angle": "Objetivo: https://x.com/biobio/status/2117665598318813386 (12.366 vistas)",
-    "why": "Base: The Lancet Digital Health (UCL/City St George's, 3-nov-2026): 27.382 resonancias cardíacas (Reino Unido y EE.UU.), 3.458 muertes en más de 5 años; IA 2–3 s por paciente vs ~13 min de un especialista; ventaja pequeña pero significativa en predecir mortalidad; IA sumada a la medición clínica mejora bastante el modelo; error ~1% de pacientes; piden supervisión humana y estudios prospectivos. Fuente: https://www.biobiochile.cl/noticias/salud-y-bienestar/tratamientos/2026/11/03/investigacion-revela-que-la-ia-supera-a-medicos-al-evaluar-indicador-clave-del-corazon.shtml · https://www.ucl.ac.uk/news/2026/nov/ai-heart-scan-measurements-better-predict-survival · https://www.ibtimes.com.au/ai-cardiac-mri-ejection-fraction-mortality-risk-1877847",
-    "keywords": [
-     "IA mide la fracción de eyección en segundos: el titular y lo que dice el estudio"
-    ]
-   },
-   {
-    "title": "R6 · respuesta a @ministeriosalud",
-    "format": "respuesta",
-    "source": "@ministeriosalud",
-    "topic": "Mesa intersectorial Una Salud: personas, animales y ambiente",
-    "hook_en": "Muy buena noticia. Según la Subsecretaría de Salud Pública, el 60% de los patógenos humanos es de origen zoonótico y el 75% de las enfermedades emergentes viene de la fauna silvestre. Que Salud, Agricultura, Medio Ambiente y Economía se sienten en la misma mesa responde a eso.\n\nHantavirus, influenza aviar o el mosquito del dengue no respetan los límites entre ministerios. Lo más valioso del acuerdo está en lo práctico: que Salud, el SAG y Sernapesca se avisen a tiempo y compartan información.\n\nPara quienes trabajamos en la clínica, el beneficio es concreto: saber antes lo que viene.",
-    "angle": "Objetivo: https://x.com/ministeriosalud/status/2117660762239869280 (3.090 vistas)",
-    "why": "Base: Minsal 3-nov-2026: mesa Salud, Agricultura, Medio Ambiente y Economía; notificación recíproca Salud–SAG–MMA–Sernapesca, análisis de riesgo conjunto para influenza aviar H5N1 y hantavirus, interoperabilidad. Subsecretaria de Salud Pública: 60% de los patógenos humanos es de origen zoonótico y 75% de las enfermedades emergentes proviene de la fauna silvestre. Fuente: https://www.minsal.cl/ministerios-de-salud-m-ambiente-economia-y-agricultura-forman-mesa-intersectorial-para-delinear-accion-frente-a-las-amenazas-sanitarias-del-futuro/ · https://www.elmorrocotudo.cl/noticia/sociedad/dengue-hantavirus-e-influenza-aviar-gobierno-anuncia-nueva-estrategia-para-anticipa",
-    "keywords": [
-     "Mesa intersectorial Una Salud: personas, animales y ambiente"
-    ]
-   },
-   {
-    "title": "R7 · respuesta a @24HorasTVN",
-    "format": "respuesta",
-    "source": "@24HorasTVN",
-    "topic": "Mes Azul: cáncer de próstata en Chile y cuándo conversar el control",
-    "hook_en": "Para dimensionarlo: en 2025 murieron 2.474 hombres por cáncer de próstata en Chile, y cada año se diagnostican cerca de 9.700 casos nuevos. Es el cáncer más frecuente en los hombres chilenos.\n\nLo difícil es que al principio no da síntomas. Cuando aparecen, muchas veces ya está avanzado.\n\nPor eso vale la pena conversarlo con el médico desde los 50 años, o desde los 45 si el padre o un hermano lo tuvo. El PSA es un examen de sangre simple, pero un valor alto no confirma un cáncer: hay que interpretarlo con un especialista.\n\nEste Mes Azul, la invitación es a no esperar molestias para consultar.",
-    "angle": "Objetivo: https://x.com/24HorasTVN/status/2117733556885581930 (1.763 vistas)",
-    "why": "Base: Minsal vía 24horas: 2.474 muertes por cáncer de próstata en 2025 (~7 al día), tasa 24,81/100.000, ~9.700 casos nuevos al año; asintomático al inicio; PSA alto no confirma cáncer. CONAC: control desde los 50; desde los 45 si padre o hermanos lo tuvieron. Fuente: https://www.24horas.cl/te-sirve/salud/cancer-de-prostata-mata-a-casi-7-hombres-al-dia-en-chile-expertos-controles · https://conac.cl/campana-prostata/",
-    "keywords": [
-     "Mes Azul: cáncer de próstata en Chile y cuándo conversar el control"
-    ]
-   },
-   {
-    "title": "R8 · respuesta a @HeliaMolina_M",
-    "format": "respuesta",
-    "source": "@HeliaMolina_M",
-    "topic": "Edadismo en salud: no todo es «por la edad»",
-    "hook_en": "Merecido reconocimiento, felicitaciones. Y qué importante poner el edadismo en la conversación de salud.\n\nLa OMS estima que una de cada dos personas tiene actitudes edadistas. Y en una revisión de 149 estudios, la edad definió quién recibía ciertos tratamientos en el 85% de ellos.\n\nEn lo cotidiano se nota cuando se atribuyen «a la edad» síntomas que tienen causa y tratamiento. Ver menos, oír menos o caminar peor no son una parte obligatoria de envejecer, y merecen la misma evaluación que a cualquier edad.",
-    "angle": "Objetivo: https://x.com/HeliaMolina_M/status/2117777658972873053 (1.058 vistas)",
-    "why": "Base: OMS/ONU, Informe mundial sobre el edadismo (2021): una de cada dos personas tiene actitudes edadistas (encuesta a 83.034 personas en 57 países); en una revisión de 149 estudios, la edad determinó quién recibía ciertos procedimientos o tratamientos en el 85%. Fuente: https://www.who.int/es/news/item/18-03-2021-ageism-is-a-global-challenge-un",
-    "keywords": [
-     "Edadismo en salud: no todo es «por la edad»"
-    ]
-   },
-   {
-    "title": "P1 · Un bulto en el párpado: orzuelo o chalazión, y por qué no apretarlo",
-    "format": "post largo",
-    "source": "original RT",
-    "topic": "orzuelo y chalazión: compresas tibias, no apretar, cuándo consultar",
-    "hook_en": "Un bulto en el párpado suele ser un orzuelo o un chalazión. Y lo primero que conviene saber es lo que no hay que hacer: apretarlo o tratar de reventarlo, porque la infección se puede extender al párpado.\n\nLa diferencia: el orzuelo es un bulto rojo y doloroso en el borde del párpado, y la mayoría se debe a una infección en la base de una pestaña. El chalazión aparece cuando se tapa una glándula de grasa del párpado.\n\nLo que ayuda, según la Academia Americana de Oftalmología:\n\n• Compresas tibias: un paño limpio mojado en agua caliente, con cuidado de no quemar la piel, de 10 a 15 minutos, entre 3 y 5 veces al día\n• Un masaje suave alrededor, con el dedo limpio\n• Nada de maquillaje ni lentes de contacto mientras dure\n\nConsulta si te afecta la visión, si no se va o si vuelve una y otra vez. A veces hay que drenarlo, en la consulta y con anestesia local, o estudiarlo mejor.\n\nFuente: Academia Americana de Oftalmología.",
-    "visual": "Video vertical de 25–30 s: RT frente a un espejo, acercando los dedos a un párpado y deteniéndose: «Si te sale un bulto en el párpado, esto es lo primero que no tienes que hacer»; luego un paño tibio sobre el ojo cerrado y los tres consejos en pantalla.",
-    "visual_type": "video",
-    "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.aao.org/eye-health/diseases/what-are-chalazia-styes",
-    "keywords": [
-     "orzuelo y chalazión: compresas tibias, no apretar, cuándo consultar",
-     "salud"
-    ]
-   },
-   {
-    "title": "P2 · Cómo ponerse gotas en los ojos para que funcionen",
-    "format": "post largo",
-    "source": "original RT",
-    "topic": "técnica correcta para aplicar colirios",
-    "hook_en": "Ponerse gotas en los ojos parece fácil, pero hay detalles que hacen la diferencia entre que el remedio funcione o se pierda:\n\n• Lávate las manos antes y después\n• Inclina la cabeza hacia atrás y tira suave del párpado inferior hacia abajo: se forma un bolsillo donde cae la gota\n• No toques el ojo ni las pestañas con la punta del frasco, para no contaminarlo\n• Después, cierra los ojos y presiona suave el lagrimal, en el ángulo junto a la nariz, por uno o dos minutos. Así la gota se queda en el ojo y no se va a la nariz\n• Si usas más de un colirio, espera entre 3 y 5 minutos entre uno y otro\n• Si usas lentes de contacto, sácatelos antes, salvo que tu oftalmólogo te indique otra cosa\n\nUn truco si te cuesta mantener el ojo abierto: con la cabeza hacia atrás y los ojos cerrados, pon la gota en el ángulo interno, junto a la nariz. Luego abre los ojos y parpadea para que entre sola.\n\nY lo más importante: úsalas exactamente como te las indicaron, sobre todo en tratamientos largos.\n\nFuente: Academia Americana de Oftalmología.",
-    "visual": "Video vertical de 30 s: RT mostrando la técnica con un frasco de lágrimas artificiales: cabeza atrás, bolsillo en el párpado inferior, frasco sin tocar el ojo y presión suave en el lagrimal; cierre con el truco del ángulo interno para quien no logra mantener el ojo abierto.",
-    "visual_type": "video",
-    "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.aao.org/eye-health/treatments/how-to-put-in-eye-drops",
-    "keywords": [
-     "técnica correcta para aplicar colirios",
-     "salud"
-    ]
-   }
+  "keywords_patterns": [
+    "Hermes Agent mobile/desktop sync gap",
+    "Grok Bot phone calls with prior authorization",
+    "Grok Bot inbox-zero / admin work",
+    "OpenAI Dot proactive unsolicited nuggets",
+    "araña de rincón primavera-verano Chile",
+    "enfermedad del beso / mononucleosis EBV",
+    "IA + datos DEIS/INE mortalidad Chile",
+    "El Niño y salud gastrointestinal",
+    "blefaritis higiene párpado",
+    "fatiga visual digital 20-20-20"
   ],
-  "why_hit": [],
-  "legend": "Escaneo solo lectura vía API X. Originales (sin RT/respuestas), últimas 24h. Hit ≥2.000 vistas, estrella ≥5.000. Temas partidistas excluidos de hits, keywords y borradores."
- }
+  "hits": [
+    {
+      "id": "2118005081308082202",
+      "h": "sergiorocaa",
+      "views": 396180,
+      "likes": 556,
+      "replies": 13,
+      "url": "https://x.com/sergiorocaa/status/2118005081308082202",
+      "text": "Estás perdiendo 2 horas al día en cosas que Claude hace en 3 minutos.\n\nNo exagero. Son tareas que haces TODOS los días. Y ni sabías que la IA las puede hacer.\n\n10 cosas que deberías delegarle YA 👇🧵",
+      "created_at": "2026-11-04T15:38:56.000Z"
+    },
+    {
+      "id": "2117997295480213560",
+      "h": "midudev",
+      "views": 105442,
+      "likes": 7050,
+      "replies": 130,
+      "url": "https://x.com/midudev/status/2117997295480213560",
+      "text": "Está tan mal el mercado de memoria RAM que Microsoft se ha visto obligado a mejorar Windows 11 y que funcione mejor en máquinas con 8GB. 🤷‍♂️",
+      "created_at": "2026-11-04T15:08:00.000Z"
+    },
+    {
+      "id": "2117981377878524133",
+      "h": "midudev",
+      "views": 80701,
+      "likes": 2239,
+      "replies": 42,
+      "url": "https://x.com/midudev/status/2117981377878524133",
+      "text": "¡Esta skill te ayuda a evitar diseños IA Slop!\n\nSe llama Impeccable y revisa layout, usabilidad, contraste y accesibilidad y mucho más",
+      "created_at": "2026-11-04T14:04:45.000Z"
+    },
+    {
+      "id": "2118057543998033936",
+      "h": "midudev",
+      "views": 52202,
+      "likes": 1529,
+      "replies": 46,
+      "url": "https://x.com/midudev/status/2118057543998033936",
+      "text": "Quieren matar a los programadores y todavía hay periodistas que no saben escribir Anthropic. 😅",
+      "created_at": "2026-11-04T19:07:24.000Z"
+    },
+    {
+      "id": "2117979261957288438",
+      "h": "ErickSky",
+      "views": 23478,
+      "likes": 256,
+      "replies": 37,
+      "url": "https://x.com/ErickSky/status/2117979261957288438",
+      "text": "Chicos, usar el plan de OpenCode Go en DSH es ir a la mitad de velocidad.\n\nPor si les interesa ese datito",
+      "created_at": "2026-11-04T13:56:20.000Z"
+    },
+    {
+      "id": "2118145472929894731",
+      "h": "firstadopter",
+      "views": 15777,
+      "likes": 177,
+      "replies": 42,
+      "url": "https://x.com/firstadopter/status/2118145472929894731",
+      "text": "My OpenAI Dot agent started sending me useful nuggets from tech earnings calls ON ITS OWN because it thought I might appreciate them given our prior conversations. It is awesome. Thank you, Dot! \n\nAI agents are going to be a mega trend and they will only improve as they gain",
+      "created_at": "2026-11-05T00:56:48.000Z",
+      "draft_en": "That's the kind of proactivity that actually matters.\n\nNot more dashboards. An agent that notices something useful from the context it already has, and brings it to you without being asked.\n\nAs a doctor, that's the bar I use: take the work end to end, and only ping me when a decision is mine. Your Dot example is exactly that instinct.",
+      "intent": "https://x.com/intent/post?text=That%27s%20the%20kind%20of%20proactivity%20that%20actually%20matters.%0A%0ANot%20more%20dashboards.%20An%20agent%20that%20notices%20something%20useful%20from%20the%20context%20it%20already%20has%2C%20and%20brings%20it%20to%20you%20without%20being%20asked.%0A%0AAs%20a%20doctor%2C%20that%27s%20the%20bar%20I%20use%3A%20take%20the%20work%20end%20to%20end%2C%20and%20only%20ping%20me%20when%20a%20decision%20is%20mine.%20Your%20Dot%20example%20is%20exactly%20that%20instinct.&in_reply_to=2118145472929894731",
+      "draft_id": "R4",
+      "area": "ai",
+      "topic": "Dot proactivo: el agente que llega con algo útil sin que se lo pidas"
+    },
+    {
+      "id": "2118004741502280033",
+      "h": "biobio",
+      "views": 14066,
+      "likes": 24,
+      "replies": 12,
+      "url": "https://x.com/biobio/status/2118004741502280033",
+      "text": "Qué es la enfermedad del beso y cómo podría afectar a tu salud: conoce los síntomas y el tratamiento",
+      "created_at": "2026-11-04T15:37:35.000Z",
+      "draft_en": "El nombre popular confunde. La «enfermedad del beso» es mononucleosis infecciosa, casi siempre por el virus de Epstein-Barr, y se transmite por saliva: besos, pero también vasos o cubiertos compartidos.\n\nLos síntomas suelen aparecer entre 4 y 6 semanas después: fiebre, dolor de garganta, ganglios y un cansancio que a veces dura más que el resto. La mayoría mejora en 2 a 4 semanas.\n\nImportante: los antibióticos no matan virus. El manejo es reposo, hidratación y aliviar fiebre o dolor, según indiq",
+      "intent": "https://x.com/intent/post?text=El%20nombre%20popular%20confunde.%20La%20%C2%ABenfermedad%20del%20beso%C2%BB%20es%20mononucleosis%20infecciosa%2C%20casi%20siempre%20por%20el%20virus%20de%20Epstein-Barr%2C%20y%20se%20transmite%20por%20saliva%3A%20besos%2C%20pero%20tambi%C3%A9n%20vasos%20o%20cubiertos%20compartidos.%0A%0ALos%20s%C3%ADntomas%20suelen%20aparecer%20entre%204%20y%206%20semanas%20despu%C3%A9s%3A%20fiebre%2C%20dolor%20de%20garganta%2C%20ganglios%20y%20un%20cansancio%20que%20a%20veces%20dura%20m%C3%A1s%20que%20el%20resto.%20La%20mayor%C3%ADa%20mejora%20en%202%20a%204%20semanas.%0A%0AImportante%3A%20los%20antibi%C3%B3ticos%20no%20matan%20virus.%20El%20manejo%20es%20reposo%2C%20hidrataci%C3%B3n%20y%20aliviar%20fiebre%20o%20dolor%2C%20seg%C3%BAn%20indique%20el%20m%C3%A9dico.%20Y%20mientras%20dure%2C%20mejor%20evitar%20deporte%20de%20contacto%3A%20el%20bazo%20puede%20estar%20agrandado.&in_reply_to=2118004741502280033",
+      "draft_id": "R6",
+      "area": "health",
+      "topic": "Enfermedad del beso: EBV, fatiga y por qué no bastan los antibióticos"
+    },
+    {
+      "id": "2118130739086798899",
+      "h": "freddier",
+      "views": 13342,
+      "likes": 89,
+      "replies": 6,
+      "url": "https://x.com/freddier/status/2118130739086798899",
+      "text": "Reference calls will save your life",
+      "created_at": "2026-11-04T23:58:15.000Z"
+    },
+    {
+      "id": "2118037514627797103",
+      "h": "sergiorocaa",
+      "views": 11265,
+      "likes": 184,
+      "replies": 4,
+      "url": "https://x.com/sergiorocaa/status/2118037514627797103",
+      "text": "🚨 ANTHROPIC ACABA DE LANZAR CURSOS GRATIS DE IA.\n\nCon certificado incluido. Sin pagar nada. $0.00.",
+      "created_at": "2026-11-04T17:47:49.000Z"
+    },
+    {
+      "id": "2118178629385642380",
+      "h": "elaval",
+      "views": 6224,
+      "likes": 87,
+      "replies": 5,
+      "url": "https://x.com/elaval/status/2118178629385642380",
+      "text": "No deja de sorprenderme como el trabajo con IA me ha transformado (facilitado) tareas como el análisis y visualización de datos.\n\nComparto un hilo que armé con Claude Cowork sobre cómo ha evolucionado la mortalidad en Chile, con datos oficiales del DEIS-Minsal y el INE 🧵\n\n1/",
+      "created_at": "2026-11-05T03:08:33.000Z",
+      "draft_en": "Muy bueno el enfoque: partir de datos abiertos del DEIS y del INE, y usar la IA para armar el análisis y la visualización, no para inventar la cifra.\n\nEn salud pública eso cambia el ritmo. Lo que antes pedía días de tablas, hoy se puede explorar en horas, siempre que la fuente sea oficial y el criterio humano revise el resultado.\n\nLa IA no reemplaza la epidemiología. Acorta el camino entre el dato público y una pregunta clara.",
+      "intent": "https://x.com/intent/post?text=Muy%20bueno%20el%20enfoque%3A%20partir%20de%20datos%20abiertos%20del%20DEIS%20y%20del%20INE%2C%20y%20usar%20la%20IA%20para%20armar%20el%20an%C3%A1lisis%20y%20la%20visualizaci%C3%B3n%2C%20no%20para%20inventar%20la%20cifra.%0A%0AEn%20salud%20p%C3%BAblica%20eso%20cambia%20el%20ritmo.%20Lo%20que%20antes%20ped%C3%ADa%20d%C3%ADas%20de%20tablas%2C%20hoy%20se%20puede%20explorar%20en%20horas%2C%20siempre%20que%20la%20fuente%20sea%20oficial%20y%20el%20criterio%20humano%20revise%20el%20resultado.%0A%0ALa%20IA%20no%20reemplaza%20la%20epidemiolog%C3%ADa.%20Acorta%20el%20camino%20entre%20el%20dato%20p%C3%BAblico%20y%20una%20pregunta%20clara.&in_reply_to=2118178629385642380",
+      "draft_id": "R7",
+      "area": "health",
+      "topic": "IA + datos DEIS/INE: ver la mortalidad de Chile con evidencia abierta"
+    },
+    {
+      "id": "2118069298900135958",
+      "h": "franperez_fp",
+      "views": 5770,
+      "likes": 61,
+      "replies": 10,
+      "url": "https://x.com/franperez_fp/status/2118069298900135958",
+      "text": "Ahora Grok Bot puede hacer llamadas por vos.\n\nImaginate que tenés una reunión, pero tenes un imprevisto y no llegás. Tu Bot entra en tu lugar, escucha la conversación, toma notas, comparte info relevante con autorización previa, después te pasa un resumen con los puntos",
+      "created_at": "2026-11-04T19:54:07.000Z",
+      "draft_en": "La clave está en lo que escribiste: «con autorización previa» y después el resumen.\n\nEn la consulta pasa algo parecido. Puedo delegar mucha preparación, pero hay momentos en que nadie más puede decidir por mí: qué se opera, qué se espera, qué se le dice al paciente.\n\nCon un agente que llama, el valor no es que hable por ti. Es que avance con lo que ya autorizaste y te busque solo cuando aparece una decisión que es tuya.",
+      "intent": "https://x.com/intent/post?text=La%20clave%20est%C3%A1%20en%20lo%20que%20escribiste%3A%20%C2%ABcon%20autorizaci%C3%B3n%20previa%C2%BB%20y%20despu%C3%A9s%20el%20resumen.%0A%0AEn%20la%20consulta%20pasa%20algo%20parecido.%20Puedo%20delegar%20mucha%20preparaci%C3%B3n%2C%20pero%20hay%20momentos%20en%20que%20nadie%20m%C3%A1s%20puede%20decidir%20por%20m%C3%AD%3A%20qu%C3%A9%20se%20opera%2C%20qu%C3%A9%20se%20espera%2C%20qu%C3%A9%20se%20le%20dice%20al%20paciente.%0A%0ACon%20un%20agente%20que%20llama%2C%20el%20valor%20no%20es%20que%20hable%20por%20ti.%20Es%20que%20avance%20con%20lo%20que%20ya%20autorizaste%20y%20te%20busque%20solo%20cuando%20aparece%20una%20decisi%C3%B3n%20que%20es%20tuya.&in_reply_to=2118069298900135958",
+      "draft_id": "R1",
+      "area": "ai",
+      "topic": "Grok Bot hace llamadas: autorización previa y cuándo debe parar"
+    },
+    {
+      "id": "2118024998841377215",
+      "h": "nothingto12",
+      "views": 5446,
+      "likes": 29,
+      "replies": 15,
+      "url": "https://x.com/nothingto12/status/2118024998841377215",
+      "text": "Day 3: Hermes Agent by @NousResearch \n\nAs I get deeper, some things are starting to become buggy. A conversation with a bot I start on my mobile becomes unavailable on the webapp/desktop app. I open the same conversation with the bot in mobile but do not see it on webapp.\n\nNot",
+      "created_at": "2026-11-04T16:58:05.000Z",
+      "draft_en": "That sync gap is a real blocker, and not only for developers.\n\nHermes is already powerful underneath. As a doctor who doesn't code, what I need is continuity: start something on the phone, pick it up on the desktop, and not lose the thread.\n\nIf the work lives in one place and disappears in another, the agent stops feeling like a teammate and starts feeling like another app to babysit.",
+      "intent": "https://x.com/intent/post?text=That%20sync%20gap%20is%20a%20real%20blocker%2C%20and%20not%20only%20for%20developers.%0A%0AHermes%20is%20already%20powerful%20underneath.%20As%20a%20doctor%20who%20doesn%27t%20code%2C%20what%20I%20need%20is%20continuity%3A%20start%20something%20on%20the%20phone%2C%20pick%20it%20up%20on%20the%20desktop%2C%20and%20not%20lose%20the%20thread.%0A%0AIf%20the%20work%20lives%20in%20one%20place%20and%20disappears%20in%20another%2C%20the%20agent%20stops%20feeling%20like%20a%20teammate%20and%20starts%20feeling%20like%20another%20app%20to%20babysit.&in_reply_to=2118024998841377215",
+      "draft_id": "R3",
+      "area": "ai",
+      "topic": "Hermes mobile vs desktop: sin continuidad entre pantallas se rompe el trabajo"
+    },
+    {
+      "id": "2118328376532275372",
+      "h": "midudev",
+      "views": 5240,
+      "likes": 83,
+      "replies": 3,
+      "url": "https://x.com/midudev/status/2118328376532275372",
+      "text": "¡ChatGPT ahora puede crear GIFs! Y quedan de lujo:",
+      "created_at": "2026-11-05T13:03:36.000Z"
+    },
+    {
+      "id": "2118005600135037104",
+      "h": "24HorasTVN",
+      "views": 5234,
+      "likes": 4,
+      "replies": 1,
+      "url": "https://x.com/24HorasTVN/status/2118005600135037104",
+      "text": "💟 #Bienestar \n\nEl desconocido efecto de El Niño que está afectando la salud gastrointestinal \n\nMás detalles ⬇",
+      "created_at": "2026-11-04T15:41:00.000Z",
+      "draft_en": "Tiene sentido mirar el clima cuando hablamos de infecciones digestivas. Los años con El Niño suelen traer más calor y cambios en lluvias, y eso puede alterar la calidad del agua y de los alimentos.\n\nEn la consulta se nota cuando suben las diarreas y los cuadros gastrointestinales en temporadas anómalas. No es magia: es exposición, higiene y acceso a agua segura.\n\nLa prevención práctica sigue siendo la misma: lavado de manos, agua potable y cuidado con alimentos mal refrigerados. El clima solo ha",
+      "intent": "https://x.com/intent/post?text=Tiene%20sentido%20mirar%20el%20clima%20cuando%20hablamos%20de%20infecciones%20digestivas.%20Los%20a%C3%B1os%20con%20El%20Ni%C3%B1o%20suelen%20traer%20m%C3%A1s%20calor%20y%20cambios%20en%20lluvias%2C%20y%20eso%20puede%20alterar%20la%20calidad%20del%20agua%20y%20de%20los%20alimentos.%0A%0AEn%20la%20consulta%20se%20nota%20cuando%20suben%20las%20diarreas%20y%20los%20cuadros%20gastrointestinales%20en%20temporadas%20an%C3%B3malas.%20No%20es%20magia%3A%20es%20exposici%C3%B3n%2C%20higiene%20y%20acceso%20a%20agua%20segura.%0A%0ALa%20prevenci%C3%B3n%20pr%C3%A1ctica%20sigue%20siendo%20la%20misma%3A%20lavado%20de%20manos%2C%20agua%20potable%20y%20cuidado%20con%20alimentos%20mal%20refrigerados.%20El%20clima%20solo%20hace%20que%20eso%20importe%20m%C3%A1s.&in_reply_to=2118005600135037104",
+      "draft_id": "R8",
+      "area": "health",
+      "topic": "El Niño y salud gastrointestinal: el clima también llega a la consulta"
+    },
+    {
+      "id": "2118071878472679859",
+      "h": "biobio",
+      "views": 4183,
+      "likes": 2,
+      "replies": 0,
+      "url": "https://x.com/biobio/status/2118071878472679859",
+      "text": "ELVIR, la plataforma chilena con IA que prepara a personas con discapacidad para entrevistas laborales",
+      "created_at": "2026-11-04T20:04:22.000Z"
+    },
+    {
+      "id": "2118310524202991823",
+      "h": "adnradiochile",
+      "views": 3920,
+      "likes": 156,
+      "replies": 1,
+      "url": "https://x.com/adnradiochile/status/2118310524202991823",
+      "text": "🔴 AHORA | Taco kilométrico en Concón: protesta de trabajadores de ENAP corta el tránsito y obliga a desvíos",
+      "created_at": "2026-11-05T11:52:39.000Z"
+    },
+    {
+      "id": "2118010884710928790",
+      "h": "adnradiochile",
+      "views": 3817,
+      "likes": 74,
+      "replies": 3,
+      "url": "https://x.com/adnradiochile/status/2118010884710928790",
+      "text": "Emotivo reencuentro en Viña del Mar: paciente tetrapléjico recibió la visita de su perro con cáncer terminal",
+      "created_at": "2026-11-04T16:02:00.000Z"
+    },
+    {
+      "id": "2118125253079544208",
+      "h": "juancarlossaid",
+      "views": 3370,
+      "likes": 283,
+      "replies": 1,
+      "url": "https://x.com/juancarlossaid/status/2118125253079544208",
+      "text": "Por primera vez en 30 años, muere un niño de sarampión en nueva york (no vacunado). Por primera vez tb , podemos decir que la responsabilidad recae en un gobierno y su ministro de salud que ha hecho campaña CONTRA la vacunación. Lamentable.",
+      "created_at": "2026-11-04T23:36:27.000Z"
+    },
+    {
+      "id": "2118019692451508671",
+      "h": "adnradiochile",
+      "views": 2998,
+      "likes": 0,
+      "replies": 0,
+      "url": "https://x.com/adnradiochile/status/2118019692451508671",
+      "text": "VIDEO | Viagra y salud mental: experto advierte sobre el peligroso y desconocido efecto en hombres jóvenes",
+      "created_at": "2026-11-04T16:37:00.000Z"
+    },
+    {
+      "id": "2118118594114650544",
+      "h": "adnradiochile",
+      "views": 2604,
+      "likes": 2,
+      "replies": 0,
+      "url": "https://x.com/adnradiochile/status/2118118594114650544",
+      "text": "Picadura de araña de rincón: 38% de los ataques ocurre mientras duermes y un 32% cuando te vistes",
+      "created_at": "2026-11-04T23:10:00.000Z"
+    },
+    {
+      "id": "2118117377984336038",
+      "h": "ministeriosalud",
+      "views": 2248,
+      "likes": 5,
+      "replies": 1,
+      "url": "https://x.com/ministeriosalud/status/2118117377984336038",
+      "text": "El aumento de las temperaturas puede incrementar la actividad y la visibilidad de la araña de rincón🕷️\n\nEstos son los síntomas a los que estar atentos en caso de una mordedura. Recuerda que la prioridad siempre es acudir oportunamente a su servicios de salud.",
+      "created_at": "2026-11-04T23:05:10.000Z",
+      "draft_en": "Buen recordatorio con el calor que viene. En la Región Metropolitana, el 46% de los egresos anuales por mordedura de araña de rincón se concentra en primavera y verano.\n\nSegún Minsal, los cuadros graves son pocos (cerca del 10 al 15%), pero cuando aparecen suelen hacerlo entre las 12 y las 24 horas: fiebre, malestar, orina oscura o una mancha que se va poniendo negra.\n\nSi hay sospecha, no esperes en casa: hielo en la zona y ve a un servicio de urgencia. Si puedes llevar la araña, ayuda al diagnó",
+      "intent": "https://x.com/intent/post?text=Buen%20recordatorio%20con%20el%20calor%20que%20viene.%20En%20la%20Regi%C3%B3n%20Metropolitana%2C%20el%2046%25%20de%20los%20egresos%20anuales%20por%20mordedura%20de%20ara%C3%B1a%20de%20rinc%C3%B3n%20se%20concentra%20en%20primavera%20y%20verano.%0A%0ASeg%C3%BAn%20Minsal%2C%20los%20cuadros%20graves%20son%20pocos%20%28cerca%20del%2010%20al%2015%25%29%2C%20pero%20cuando%20aparecen%20suelen%20hacerlo%20entre%20las%2012%20y%20las%2024%20horas%3A%20fiebre%2C%20malestar%2C%20orina%20oscura%20o%20una%20mancha%20que%20se%20va%20poniendo%20negra.%0A%0ASi%20hay%20sospecha%2C%20no%20esperes%20en%20casa%3A%20hielo%20en%20la%20zona%20y%20ve%20a%20un%20servicio%20de%20urgencia.%20Si%20puedes%20llevar%20la%20ara%C3%B1a%2C%20ayuda%20al%20diagn%C3%B3stico.&in_reply_to=2118117377984336038",
+      "draft_id": "R5",
+      "area": "health",
+      "topic": "Araña de rincón: con el calor, síntomas y cuándo ir a urgencias"
+    },
+    {
+      "id": "2118029926792146950",
+      "h": "adnradiochile",
+      "views": 2107,
+      "likes": 4,
+      "replies": 0,
+      "url": "https://x.com/adnradiochile/status/2118029926792146950",
+      "text": "🍄 En un hito para la investigación científica nacional, el Instituto de Salud Pública (ISP) autorizó el primer ensayo clínico en Chile con psilocibina, sustancia presente en hongos alucinógenos, enfocado en el tratamiento de la depresión.",
+      "created_at": "2026-11-04T17:17:40.000Z"
+    },
+    {
+      "id": "2118099059604885540",
+      "h": "ErickSky",
+      "views": 2088,
+      "likes": 54,
+      "replies": 2,
+      "url": "https://x.com/ErickSky/status/2118099059604885540",
+      "text": "Tenía que hacerlo chicos, este regalo lo consideraré de todos ustedes ❤️\n\nLos quiero muchooooo",
+      "created_at": "2026-11-04T21:52:22.000Z"
+    },
+    {
+      "id": "2118125758858080630",
+      "h": "ErickSky",
+      "views": 2000,
+      "likes": 44,
+      "replies": 2,
+      "url": "https://x.com/ErickSky/status/2118125758858080630",
+      "text": "Si hay algo que hace bien OpenAI son las imágenes, es increíble que todo comenzó con todo el mundo haciéndose su foto de perfil con estilo Ghibli 🤭",
+      "created_at": "2026-11-04T23:38:28.000Z"
+    }
+  ],
+  "stars": [
+    {
+      "id": "2118005081308082202",
+      "h": "sergiorocaa",
+      "views": 396180,
+      "url": "https://x.com/sergiorocaa/status/2118005081308082202",
+      "text": "Estás perdiendo 2 horas al día en cosas que Claude hace en 3 minutos.\n\nNo exagero. Son tareas que haces TODOS los días. Y ni sabías que la IA las puede hacer.\n\n10 cosas que deberías delegarle YA 👇🧵"
+    },
+    {
+      "id": "2117997295480213560",
+      "h": "midudev",
+      "views": 105442,
+      "url": "https://x.com/midudev/status/2117997295480213560",
+      "text": "Está tan mal el mercado de memoria RAM que Microsoft se ha visto obligado a mejorar Windows 11 y que funcione mejor en máquinas con 8GB. 🤷‍♂️"
+    },
+    {
+      "id": "2117981377878524133",
+      "h": "midudev",
+      "views": 80701,
+      "url": "https://x.com/midudev/status/2117981377878524133",
+      "text": "¡Esta skill te ayuda a evitar diseños IA Slop!\n\nSe llama Impeccable y revisa layout, usabilidad, contraste y accesibilidad y mucho más"
+    },
+    {
+      "id": "2118057543998033936",
+      "h": "midudev",
+      "views": 52202,
+      "url": "https://x.com/midudev/status/2118057543998033936",
+      "text": "Quieren matar a los programadores y todavía hay periodistas que no saben escribir Anthropic. 😅"
+    },
+    {
+      "id": "2117979261957288438",
+      "h": "ErickSky",
+      "views": 23478,
+      "url": "https://x.com/ErickSky/status/2117979261957288438",
+      "text": "Chicos, usar el plan de OpenCode Go en DSH es ir a la mitad de velocidad.\n\nPor si les interesa ese datito"
+    },
+    {
+      "id": "2118145472929894731",
+      "h": "firstadopter",
+      "views": 15777,
+      "url": "https://x.com/firstadopter/status/2118145472929894731",
+      "text": "My OpenAI Dot agent started sending me useful nuggets from tech earnings calls ON ITS OWN because it thought I might appreciate them given our prior conversations. It is awesome. Thank you, Dot! \n\nAI agents are going to be a mega trend and they will only improve as they gain"
+    },
+    {
+      "id": "2118004741502280033",
+      "h": "biobio",
+      "views": 14066,
+      "url": "https://x.com/biobio/status/2118004741502280033",
+      "text": "Qué es la enfermedad del beso y cómo podría afectar a tu salud: conoce los síntomas y el tratamiento"
+    },
+    {
+      "id": "2118130739086798899",
+      "h": "freddier",
+      "views": 13342,
+      "url": "https://x.com/freddier/status/2118130739086798899",
+      "text": "Reference calls will save your life"
+    },
+    {
+      "id": "2118037514627797103",
+      "h": "sergiorocaa",
+      "views": 11265,
+      "url": "https://x.com/sergiorocaa/status/2118037514627797103",
+      "text": "🚨 ANTHROPIC ACABA DE LANZAR CURSOS GRATIS DE IA.\n\nCon certificado incluido. Sin pagar nada. $0.00."
+    },
+    {
+      "id": "2118178629385642380",
+      "h": "elaval",
+      "views": 6224,
+      "url": "https://x.com/elaval/status/2118178629385642380",
+      "text": "No deja de sorprenderme como el trabajo con IA me ha transformado (facilitado) tareas como el análisis y visualización de datos.\n\nComparto un hilo que armé con Claude Cowork sobre cómo ha evolucionado la mortalidad en Chile, con datos oficiales del DEIS-Minsal y el INE 🧵\n\n1/"
+    },
+    {
+      "id": "2118069298900135958",
+      "h": "franperez_fp",
+      "views": 5770,
+      "url": "https://x.com/franperez_fp/status/2118069298900135958",
+      "text": "Ahora Grok Bot puede hacer llamadas por vos.\n\nImaginate que tenés una reunión, pero tenes un imprevisto y no llegás. Tu Bot entra en tu lugar, escucha la conversación, toma notas, comparte info relevante con autorización previa, después te pasa un resumen con los puntos"
+    },
+    {
+      "id": "2118024998841377215",
+      "h": "nothingto12",
+      "views": 5446,
+      "url": "https://x.com/nothingto12/status/2118024998841377215",
+      "text": "Day 3: Hermes Agent by @NousResearch \n\nAs I get deeper, some things are starting to become buggy. A conversation with a bot I start on my mobile becomes unavailable on the webapp/desktop app. I open the same conversation with the bot in mobile but do not see it on webapp.\n\nNot"
+    },
+    {
+      "id": "2118328376532275372",
+      "h": "midudev",
+      "views": 5240,
+      "url": "https://x.com/midudev/status/2118328376532275372",
+      "text": "¡ChatGPT ahora puede crear GIFs! Y quedan de lujo:"
+    },
+    {
+      "id": "2118005600135037104",
+      "h": "24HorasTVN",
+      "views": 5234,
+      "url": "https://x.com/24HorasTVN/status/2118005600135037104",
+      "text": "💟 #Bienestar \n\nEl desconocido efecto de El Niño que está afectando la salud gastrointestinal \n\nMás detalles ⬇"
+    }
+  ],
+  "ideas": [
+    {
+      "id": "R1",
+      "type": "reply",
+      "area": "ai",
+      "lang": "es",
+      "handle": "franperez_fp",
+      "views": 5770,
+      "topic": "Grok Bot hace llamadas: autorización previa y cuándo debe parar",
+      "url": "https://x.com/franperez_fp/status/2118069298900135958",
+      "text": "La clave está en lo que escribiste: «con autorización previa» y después el resumen.\n\nEn la consulta pasa algo parecido. Puedo delegar mucha preparación, pero hay momentos en que nadie más puede decidir por mí: qué se opera, qué se espera, qué se le dice al paciente.\n\nCon un agente que llama, el valor no es que hable por ti. Es que avance con lo que ya autorizaste y te busque solo cuando aparece una decisión que es tuya.",
+      "intent": "https://x.com/intent/post?text=La%20clave%20est%C3%A1%20en%20lo%20que%20escribiste%3A%20%C2%ABcon%20autorizaci%C3%B3n%20previa%C2%BB%20y%20despu%C3%A9s%20el%20resumen.%0A%0AEn%20la%20consulta%20pasa%20algo%20parecido.%20Puedo%20delegar%20mucha%20preparaci%C3%B3n%2C%20pero%20hay%20momentos%20en%20que%20nadie%20m%C3%A1s%20puede%20decidir%20por%20m%C3%AD%3A%20qu%C3%A9%20se%20opera%2C%20qu%C3%A9%20se%20espera%2C%20qu%C3%A9%20se%20le%20dice%20al%20paciente.%0A%0ACon%20un%20agente%20que%20llama%2C%20el%20valor%20no%20es%20que%20hable%20por%20ti.%20Es%20que%20avance%20con%20lo%20que%20ya%20autorizaste%20y%20te%20busque%20solo%20cuando%20aparece%20una%20decisi%C3%B3n%20que%20es%20tuya.&in_reply_to=2118069298900135958",
+      "src": "",
+      "fig": "Sin cifras externas. Postura de RT: el agente actúa con OK previo y te busca solo cuando la decisión es tuya. Ángulo fresco (llamadas), sin Cadu ni beta"
+    },
+    {
+      "id": "R2",
+      "type": "reply",
+      "area": "ai",
+      "lang": "es",
+      "handle": "TodosElectricos",
+      "views": 767,
+      "topic": "Inbox en cero con Grok Bot: el trabajo aburrido que libera tiempo clínico",
+      "url": "https://x.com/TodosElectricos/status/2118260775693230444",
+      "text": "Eso de llegar a cero correos sin leer suena simple, y es justo lo que más tiempo se come fuera de la consulta.\n\nSoy oftalmólogo: una buena parte del día no es clínica, es correo, agenda y papeles. Si un bot ordena eso y deja listo lo que hay que revisar, ganas tiempo para lo que sí requiere criterio médico.\n\nLo útil no es tener más herramientas. Es que el trabajo aburrido deje de pedirte atención.",
+      "intent": "https://x.com/intent/post?text=Eso%20de%20llegar%20a%20cero%20correos%20sin%20leer%20suena%20simple%2C%20y%20es%20justo%20lo%20que%20m%C3%A1s%20tiempo%20se%20come%20fuera%20de%20la%20consulta.%0A%0ASoy%20oftalm%C3%B3logo%3A%20una%20buena%20parte%20del%20d%C3%ADa%20no%20es%20cl%C3%ADnica%2C%20es%20correo%2C%20agenda%20y%20papeles.%20Si%20un%20bot%20ordena%20eso%20y%20deja%20listo%20lo%20que%20hay%20que%20revisar%2C%20ganas%20tiempo%20para%20lo%20que%20s%C3%AD%20requiere%20criterio%20m%C3%A9dico.%0A%0ALo%20%C3%BAtil%20no%20es%20tener%20m%C3%A1s%20herramientas.%20Es%20que%20el%20trabajo%20aburrido%20deje%20de%20pedirte%20atenci%C3%B3n.&in_reply_to=2118260775693230444",
+      "src": "",
+      "fig": "Sin cifras externas. Post bajo umbral (767 vistas) pero en español y con un uso concreto (correo). Ángulo: trabajo administrativo, no proactividad ni Cadu"
+    },
+    {
+      "id": "R3",
+      "type": "reply",
+      "area": "ai",
+      "lang": "en",
+      "handle": "nothingto12",
+      "views": 5446,
+      "topic": "Hermes mobile vs desktop: sin continuidad entre pantallas se rompe el trabajo",
+      "url": "https://x.com/nothingto12/status/2118024998841377215",
+      "text": "That sync gap is a real blocker, and not only for developers.\n\nHermes is already powerful underneath. As a doctor who doesn't code, what I need is continuity: start something on the phone, pick it up on the desktop, and not lose the thread.\n\nIf the work lives in one place and disappears in another, the agent stops feeling like a teammate and starts feeling like another app to babysit.",
+      "intent": "https://x.com/intent/post?text=That%20sync%20gap%20is%20a%20real%20blocker%2C%20and%20not%20only%20for%20developers.%0A%0AHermes%20is%20already%20powerful%20underneath.%20As%20a%20doctor%20who%20doesn%27t%20code%2C%20what%20I%20need%20is%20continuity%3A%20start%20something%20on%20the%20phone%2C%20pick%20it%20up%20on%20the%20desktop%2C%20and%20not%20lose%20the%20thread.%0A%0AIf%20the%20work%20lives%20in%20one%20place%20and%20disappears%20in%20another%2C%20the%20agent%20stops%20feeling%20like%20a%20teammate%20and%20starts%20feeling%20like%20another%20app%20to%20babysit.&in_reply_to=2118024998841377215",
+      "src": "",
+      "fig": "Sin cifras externas (reporte del autor). Postura: Hermes ya es potente; lo que falta para el usuario no técnico es continuidad entre dispositivos, no más controles. Sin Cadu ni beta"
+    },
+    {
+      "id": "R4",
+      "type": "reply",
+      "area": "ai",
+      "lang": "en",
+      "handle": "firstadopter",
+      "views": 15777,
+      "topic": "Dot proactivo: el agente que llega con algo útil sin que se lo pidas",
+      "url": "https://x.com/firstadopter/status/2118145472929894731",
+      "text": "That's the kind of proactivity that actually matters.\n\nNot more dashboards. An agent that notices something useful from the context it already has, and brings it to you without being asked.\n\nAs a doctor, that's the bar I use: take the work end to end, and only ping me when a decision is mine. Your Dot example is exactly that instinct.",
+      "intent": "https://x.com/intent/post?text=That%27s%20the%20kind%20of%20proactivity%20that%20actually%20matters.%0A%0ANot%20more%20dashboards.%20An%20agent%20that%20notices%20something%20useful%20from%20the%20context%20it%20already%20has%2C%20and%20brings%20it%20to%20you%20without%20being%20asked.%0A%0AAs%20a%20doctor%2C%20that%27s%20the%20bar%20I%20use%3A%20take%20the%20work%20end%20to%20end%2C%20and%20only%20ping%20me%20when%20a%20decision%20is%20mine.%20Your%20Dot%20example%20is%20exactly%20that%20instinct.&in_reply_to=2118145472929894731",
+      "src": "",
+      "fig": "Sin cifras externas. Ángulo fresco sobre proactividad con Dot (no Hermes): el agente aporta por sí solo a partir del contexto. Sin Cadu ni beta; no clona el R2/R4 de ayer"
+    },
+    {
+      "id": "R5",
+      "type": "reply",
+      "area": "health",
+      "lang": "es",
+      "handle": "ministeriosalud",
+      "views": 2248,
+      "topic": "Araña de rincón: con el calor, síntomas y cuándo ir a urgencias",
+      "url": "https://x.com/ministeriosalud/status/2118117377984336038",
+      "text": "Buen recordatorio con el calor que viene. En la Región Metropolitana, el 46% de los egresos anuales por mordedura de araña de rincón se concentra en primavera y verano.\n\nSegún Minsal, los cuadros graves son pocos (cerca del 10 al 15%), pero cuando aparecen suelen hacerlo entre las 12 y las 24 horas: fiebre, malestar, orina oscura o una mancha que se va poniendo negra.\n\nSi hay sospecha, no esperes en casa: hielo en la zona y ve a un servicio de urgencia. Si puedes llevar la araña, ayuda al diagnóstico.",
+      "intent": "https://x.com/intent/post?text=Buen%20recordatorio%20con%20el%20calor%20que%20viene.%20En%20la%20Regi%C3%B3n%20Metropolitana%2C%20el%2046%25%20de%20los%20egresos%20anuales%20por%20mordedura%20de%20ara%C3%B1a%20de%20rinc%C3%B3n%20se%20concentra%20en%20primavera%20y%20verano.%0A%0ASeg%C3%BAn%20Minsal%2C%20los%20cuadros%20graves%20son%20pocos%20%28cerca%20del%2010%20al%2015%25%29%2C%20pero%20cuando%20aparecen%20suelen%20hacerlo%20entre%20las%2012%20y%20las%2024%20horas%3A%20fiebre%2C%20malestar%2C%20orina%20oscura%20o%20una%20mancha%20que%20se%20va%20poniendo%20negra.%0A%0ASi%20hay%20sospecha%2C%20no%20esperes%20en%20casa%3A%20hielo%20en%20la%20zona%20y%20ve%20a%20un%20servicio%20de%20urgencia.%20Si%20puedes%20llevar%20la%20ara%C3%B1a%2C%20ayuda%20al%20diagn%C3%B3stico.&in_reply_to=2118117377984336038",
+      "src": "https://saludresponde.minsal.cl/arana-de-rincon/ · https://seremi13.redsalud.gob.cl/46-de-los-egresos-anuales-por-mordedora-de-arana-de-rincon-se-producen-en-primavera-verano/",
+      "fig": "Minsal Salud Responde: cuadros graves 10–15%, manifestaciones 12–24 h (hasta 48 h); fiebre, náuseas, orina oscura, ictericia. Seremi RM 4-nov-2026: 46% de egresos anuales por mordedura en primavera-verano; DEIS 2020–2025: 937 egresos en RM; dolor punzante, edema, mancha que se oscurece; hielo + urgencias; ideal llevar la araña"
+    },
+    {
+      "id": "R6",
+      "type": "reply",
+      "area": "health",
+      "lang": "es",
+      "handle": "biobio",
+      "views": 14066,
+      "topic": "Enfermedad del beso: EBV, fatiga y por qué no bastan los antibióticos",
+      "url": "https://x.com/biobio/status/2118004741502280033",
+      "text": "El nombre popular confunde. La «enfermedad del beso» es mononucleosis infecciosa, casi siempre por el virus de Epstein-Barr, y se transmite por saliva: besos, pero también vasos o cubiertos compartidos.\n\nLos síntomas suelen aparecer entre 4 y 6 semanas después: fiebre, dolor de garganta, ganglios y un cansancio que a veces dura más que el resto. La mayoría mejora en 2 a 4 semanas.\n\nImportante: los antibióticos no matan virus. El manejo es reposo, hidratación y aliviar fiebre o dolor, según indique el médico. Y mientras dure, mejor evitar deporte de contacto: el bazo puede estar agrandado.",
+      "intent": "https://x.com/intent/post?text=El%20nombre%20popular%20confunde.%20La%20%C2%ABenfermedad%20del%20beso%C2%BB%20es%20mononucleosis%20infecciosa%2C%20casi%20siempre%20por%20el%20virus%20de%20Epstein-Barr%2C%20y%20se%20transmite%20por%20saliva%3A%20besos%2C%20pero%20tambi%C3%A9n%20vasos%20o%20cubiertos%20compartidos.%0A%0ALos%20s%C3%ADntomas%20suelen%20aparecer%20entre%204%20y%206%20semanas%20despu%C3%A9s%3A%20fiebre%2C%20dolor%20de%20garganta%2C%20ganglios%20y%20un%20cansancio%20que%20a%20veces%20dura%20m%C3%A1s%20que%20el%20resto.%20La%20mayor%C3%ADa%20mejora%20en%202%20a%204%20semanas.%0A%0AImportante%3A%20los%20antibi%C3%B3ticos%20no%20matan%20virus.%20El%20manejo%20es%20reposo%2C%20hidrataci%C3%B3n%20y%20aliviar%20fiebre%20o%20dolor%2C%20seg%C3%BAn%20indique%20el%20m%C3%A9dico.%20Y%20mientras%20dure%2C%20mejor%20evitar%20deporte%20de%20contacto%3A%20el%20bazo%20puede%20estar%20agrandado.&in_reply_to=2118004741502280033",
+      "src": "https://www.biobiochile.cl/noticias/servicios/explicado/2026/11/04/que-es-la-enfermedad-del-beso-y-como-podria-afectar-a-tu-salud-conoce-los-sintomas-y-el-tratamiento.shtml · https://www.cdc.gov/epstein-barr/es/about/acerca-de-la-mononucleosis-infecciosa.html · https://www.who.int/es/news-room/questions-and-answers/item/mononucleosis-(glandular-fever)",
+      "fig": "BioBio 4-nov-2026 + CDC/OMS: mononucleosis por virus de Epstein-Barr; saliva (besos y objetos compartidos); síntomas a las 4–6 semanas (fiebre, garganta, ganglios, fatiga); mejora en 2–4 semanas, cansancio puede seguir; no hay antiviral específico; antibióticos no sirven contra el virus; evitar deporte de contacto por riesgo de bazo agrandado; consultar si dolor abdominal intenso o dificultad para tragar/respirar"
+    },
+    {
+      "id": "R7",
+      "type": "reply",
+      "area": "health",
+      "lang": "es",
+      "handle": "elaval",
+      "views": 6224,
+      "topic": "IA + datos DEIS/INE: ver la mortalidad de Chile con evidencia abierta",
+      "url": "https://x.com/elaval/status/2118178629385642380",
+      "text": "Muy bueno el enfoque: partir de datos abiertos del DEIS y del INE, y usar la IA para armar el análisis y la visualización, no para inventar la cifra.\n\nEn salud pública eso cambia el ritmo. Lo que antes pedía días de tablas, hoy se puede explorar en horas, siempre que la fuente sea oficial y el criterio humano revise el resultado.\n\nLa IA no reemplaza la epidemiología. Acorta el camino entre el dato público y una pregunta clara.",
+      "intent": "https://x.com/intent/post?text=Muy%20bueno%20el%20enfoque%3A%20partir%20de%20datos%20abiertos%20del%20DEIS%20y%20del%20INE%2C%20y%20usar%20la%20IA%20para%20armar%20el%20an%C3%A1lisis%20y%20la%20visualizaci%C3%B3n%2C%20no%20para%20inventar%20la%20cifra.%0A%0AEn%20salud%20p%C3%BAblica%20eso%20cambia%20el%20ritmo.%20Lo%20que%20antes%20ped%C3%ADa%20d%C3%ADas%20de%20tablas%2C%20hoy%20se%20puede%20explorar%20en%20horas%2C%20siempre%20que%20la%20fuente%20sea%20oficial%20y%20el%20criterio%20humano%20revise%20el%20resultado.%0A%0ALa%20IA%20no%20reemplaza%20la%20epidemiolog%C3%ADa.%20Acorta%20el%20camino%20entre%20el%20dato%20p%C3%BAblico%20y%20una%20pregunta%20clara.&in_reply_to=2118178629385642380",
+      "src": "",
+      "fig": "Sin cifras clínicas externas propias. El hilo usa datos oficiales DEIS-Minsal e INE con Claude Cowork para visualizar mortalidad en Chile. Ángulo: IA como apoyo al análisis de datos públicos, con fuente verificable"
+    },
+    {
+      "id": "R8",
+      "type": "reply",
+      "area": "health",
+      "lang": "es",
+      "handle": "24HorasTVN",
+      "views": 5234,
+      "topic": "El Niño y salud gastrointestinal: el clima también llega a la consulta",
+      "url": "https://x.com/24HorasTVN/status/2118005600135037104",
+      "text": "Tiene sentido mirar el clima cuando hablamos de infecciones digestivas. Los años con El Niño suelen traer más calor y cambios en lluvias, y eso puede alterar la calidad del agua y de los alimentos.\n\nEn la consulta se nota cuando suben las diarreas y los cuadros gastrointestinales en temporadas anómalas. No es magia: es exposición, higiene y acceso a agua segura.\n\nLa prevención práctica sigue siendo la misma: lavado de manos, agua potable y cuidado con alimentos mal refrigerados. El clima solo hace que eso importe más.",
+      "intent": "https://x.com/intent/post?text=Tiene%20sentido%20mirar%20el%20clima%20cuando%20hablamos%20de%20infecciones%20digestivas.%20Los%20a%C3%B1os%20con%20El%20Ni%C3%B1o%20suelen%20traer%20m%C3%A1s%20calor%20y%20cambios%20en%20lluvias%2C%20y%20eso%20puede%20alterar%20la%20calidad%20del%20agua%20y%20de%20los%20alimentos.%0A%0AEn%20la%20consulta%20se%20nota%20cuando%20suben%20las%20diarreas%20y%20los%20cuadros%20gastrointestinales%20en%20temporadas%20an%C3%B3malas.%20No%20es%20magia%3A%20es%20exposici%C3%B3n%2C%20higiene%20y%20acceso%20a%20agua%20segura.%0A%0ALa%20prevenci%C3%B3n%20pr%C3%A1ctica%20sigue%20siendo%20la%20misma%3A%20lavado%20de%20manos%2C%20agua%20potable%20y%20cuidado%20con%20alimentos%20mal%20refrigerados.%20El%20clima%20solo%20hace%20que%20eso%20importe%20m%C3%A1s.&in_reply_to=2118005600135037104",
+      "src": "",
+      "fig": "Nota 24 Horas sobre efecto de El Niño en salud gastrointestinal (sin paper citado en el tuit). Respuesta prudente: no inventa mecanismo; destaca que climas extremos cambian riesgos infecciosos e hidrológicos y conviene higiene del agua/alimentos"
+    },
+    {
+      "id": "P1",
+      "type": "original",
+      "area": "health",
+      "lang": "es",
+      "handle": "Drrubentorrest",
+      "views": null,
+      "topic": "blefaritis: compresas tibias e higiene del borde del párpado",
+      "url": null,
+      "text": "Si te despiertas con los párpados pegajosos, costras en las pestañas o sensación de arenilla, puede ser blefaritis: una inflamación del borde del párpado. Es frecuente y suele ser crónica, pero se puede controlar.\n\nSegún la Academia Americana de Oftalmología, lo básico es higiene diaria:\n\n• Compresas tibias: un paño limpio con agua tibia (no caliente) sobre los ojos cerrados, al menos un minuto, y vuelve a mojarlo para que no se enfríe\n• Limpieza suave de la base de las pestañas, unos 15 segundos, con shampoo neutro diluido en agua tibia o con un limpiador de párpados\n• Mantén limpios también cejas, cara y cuero cabelludo\n\nNo es un arreglo de un día. Si dejas la higiene, los síntomas suelen volver. Consulta si duele mucho, si baja la visión o si se inflama de más: a veces hay que sumar lágrimas artificiales u otro tratamiento.\n\nFuente: Academia Americana de Oftalmología.",
+      "intent": "https://x.com/intent/post?text=Si%20te%20despiertas%20con%20los%20p%C3%A1rpados%20pegajosos%2C%20costras%20en%20las%20pesta%C3%B1as%20o%20sensaci%C3%B3n%20de%20arenilla%2C%20puede%20ser%20blefaritis%3A%20una%20inflamaci%C3%B3n%20del%20borde%20del%20p%C3%A1rpado.%20Es%20frecuente%20y%20suele%20ser%20cr%C3%B3nica%2C%20pero%20se%20puede%20controlar.%0A%0ASeg%C3%BAn%20la%20Academia%20Americana%20de%20Oftalmolog%C3%ADa%2C%20lo%20b%C3%A1sico%20es%20higiene%20diaria%3A%0A%0A%E2%80%A2%20Compresas%20tibias%3A%20un%20pa%C3%B1o%20limpio%20con%20agua%20tibia%20%28no%20caliente%29%20sobre%20los%20ojos%20cerrados%2C%20al%20menos%20un%20minuto%2C%20y%20vuelve%20a%20mojarlo%20para%20que%20no%20se%20enfr%C3%ADe%0A%E2%80%A2%20Limpieza%20suave%20de%20la%20base%20de%20las%20pesta%C3%B1as%2C%20unos%2015%20segundos%2C%20con%20shampoo%20neutro%20diluido%20en%20agua%20tibia%20o%20con%20un%20limpiador%20de%20p%C3%A1rpados%0A%E2%80%A2%20Mant%C3%A9n%20limpios%20tambi%C3%A9n%20cejas%2C%20cara%20y%20cuero%20cabelludo%0A%0ANo%20es%20un%20arreglo%20de%20un%20d%C3%ADa.%20Si%20dejas%20la%20higiene%2C%20los%20s%C3%ADntomas%20suelen%20volver.%20Consulta%20si%20duele%20mucho%2C%20si%20baja%20la%20visi%C3%B3n%20o%20si%20se%20inflama%20de%20m%C3%A1s%3A%20a%20veces%20hay%20que%20sumar%20l%C3%A1grimas%20artificiales%20u%20otro%20tratamiento.%0A%0AFuente%3A%20Academia%20Americana%20de%20Oftalmolog%C3%ADa.",
+      "src": "https://www.aao.org/eye-health/diseases/what-is-blepharitis",
+      "fig": "Video vertical de 25–30 s: RT con un paño tibio sobre el ojo cerrado y luego mostrando un scrub suave en la base de las pestañas con dilución de shampoo neutro; texto en pantalla: «Si te despiertas con costras en las pestañas, empieza por esto».",
+      "title": "Párpados irritados: blefaritis y la higiene que sí ayuda"
+    },
+    {
+      "id": "P2",
+      "type": "original",
+      "area": "health",
+      "lang": "es",
+      "handle": "Drrubentorrest",
+      "views": null,
+      "topic": "fatiga visual digital: parpadeo, 20-20-20 y distancia a la pantalla",
+      "url": null,
+      "text": "Si después de horas frente al computador sientes los ojos secos, borrosos o con ardor, casi seguro es fatiga visual digital. La buena noticia: no daña de forma permanente la visión, y se puede aliviar.\n\nSegún la Academia Americana de Oftalmología:\n\n• Parpadeamos menos frente a la pantalla (unas 5 a 7 veces por minuto, frente a unas 15 en reposo). Por eso se secan los ojos\n• Regla 20-20-20: cada 20 minutos, mira algo a unos 6 metros (20 pies) durante al menos 20 segundos\n• Siéntate a unos 60–65 cm de la pantalla y mira un poco hacia abajo, no hacia arriba\n• Si sientes sequedad, lágrimas artificiales sin preservantes ayudan\n\nY un mito útil de derribar: la Academia no recomienda lentes que «bloquean la luz azul» para el uso de computador; la evidencia no muestra que mejoren esos síntomas.\n\nFuente: Academia Americana de Oftalmología.",
+      "intent": "https://x.com/intent/post?text=Si%20despu%C3%A9s%20de%20horas%20frente%20al%20computador%20sientes%20los%20ojos%20secos%2C%20borrosos%20o%20con%20ardor%2C%20casi%20seguro%20es%20fatiga%20visual%20digital.%20La%20buena%20noticia%3A%20no%20da%C3%B1a%20de%20forma%20permanente%20la%20visi%C3%B3n%2C%20y%20se%20puede%20aliviar.%0A%0ASeg%C3%BAn%20la%20Academia%20Americana%20de%20Oftalmolog%C3%ADa%3A%0A%0A%E2%80%A2%20Parpadeamos%20menos%20frente%20a%20la%20pantalla%20%28unas%205%20a%207%20veces%20por%20minuto%2C%20frente%20a%20unas%2015%20en%20reposo%29.%20Por%20eso%20se%20secan%20los%20ojos%0A%E2%80%A2%20Regla%2020-20-20%3A%20cada%2020%20minutos%2C%20mira%20algo%20a%20unos%206%20metros%20%2820%20pies%29%20durante%20al%20menos%2020%20segundos%0A%E2%80%A2%20Si%C3%A9ntate%20a%20unos%2060%E2%80%9365%20cm%20de%20la%20pantalla%20y%20mira%20un%20poco%20hacia%20abajo%2C%20no%20hacia%20arriba%0A%E2%80%A2%20Si%20sientes%20sequedad%2C%20l%C3%A1grimas%20artificiales%20sin%20preservantes%20ayudan%0A%0AY%20un%20mito%20%C3%BAtil%20de%20derribar%3A%20la%20Academia%20no%20recomienda%20lentes%20que%20%C2%ABbloquean%20la%20luz%20azul%C2%BB%20para%20el%20uso%20de%20computador%3B%20la%20evidencia%20no%20muestra%20que%20mejoren%20esos%20s%C3%ADntomas.%0A%0AFuente%3A%20Academia%20Americana%20de%20Oftalmolog%C3%ADa.",
+      "src": "https://www.aao.org/eye-health/tips-prevention/computer-usage · https://www.aao.org/eye-health/tips-prevention/should-you-be-worried-about-blue-light",
+      "fig": "Video vertical de 20–25 s: RT frente al computador, mirando a lo lejos por la ventana al decir «20-20-20»; cierre: «No necesitas lentes de luz azul para esto».",
+      "title": "Pantallas y ojos cansados: la regla 20-20-20 (y lo que no hace falta)"
+    }
+  ],
+  "notes": [
+    "X label lifted ~1-nov evening; activity resumed 2-nov. Drafts go to Wally.",
+    "AI stance: avoid Cadu/beta/proactividad clones from Nov 1–4; fresh angles (calls+OK, device continuity, Dot, inbox admin).",
+    "Skipped: juancarlossaid sarampión (RT already published), Ricarte/presupuesto, San Borja, partisan politics, pure tech, fernanda8208.",
+    "R2 TodosElectricos under threshold (767) kept as Spanish gem (admin inbox).",
+    "P topics avoid orzuelo, gotas, alergia, mitos, lentes+agua, lesiones casa, sarampión, ferritina, moscas, diabetes/retinopatía, tabaco."
+  ]
 }
