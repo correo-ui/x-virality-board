@@ -1,445 +1,454 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-06 10:30",
- "date": "2026-11-06",
+ "title": "Digest diario — escaneo 24h al 2026-11-07 10:30",
+ "date": "2026-11-07",
  "timezone": "America/Santiago",
- "updated": "2026-11-06T10:40:00-03:00",
+ "updated": "2026-11-07T10:40:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
   {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 95192,
-   "likes": 2515,
-   "replies": 39,
-   "reposts": 280,
-   "url": "https://x.com/midudev/status/2118343634525323438",
-   "status_url": "https://x.com/midudev/status/2118343634525323438",
-   "text": "Cloudflare tiene de código abierto su Skill para encontrar vulnerabilidades en tu proyecto.\n\nLo que hace paso a paso:\n① Revisa tu código\n② Encuentra todos los bugs\n③ Envía lo que encuentra a un agente de IA\n④ Crea el informe, verifica y escribe un reporte final\n\nPasos para https://t.co/RTXXbanPKV",
-   "original_en": "Cloudflare tiene de código abierto su Skill para encontrar vulnerabilidades en tu proyecto.\n\nLo que hace paso a paso:\n① Revisa tu código\n② Encuentra todos los bugs\n③ Envía lo que encuentra a un agente de IA\n④ Crea el informe, verifica y escribe un reporte final\n\nPasos para https://t.co/RTXXbanPKV",
-   "highlight": true,
-   "created_at": "2026-11-05T14:04:14.000Z",
-   "window": "24h"
-  },
-  {
    "name": "ErickSky",
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 64273,
-   "likes": 115,
-   "replies": 23,
-   "reposts": 28,
-   "url": "https://x.com/ErickSky/status/2118398660992262158",
-   "status_url": "https://x.com/ErickSky/status/2118398660992262158",
-   "text": "Por qué se habla tan poco del precio de \"entender\" un documento cuando estás buildeando agentes??\n\nMe explico: el modelo ya puede razonar, extraer y decidir, pero si cada PDF, contrato o reporte te sale caro de procesar bien (tablas, figuras, formato y todo), terminas limitando https://t.co/sQunD8Skb5",
-   "original_en": "Por qué se habla tan poco del precio de \"entender\" un documento cuando estás buildeando agentes??\n\nMe explico: el modelo ya puede razonar, extraer y decidir, pero si cada PDF, contrato o reporte te sale caro de procesar bien (tablas, figuras, formato y todo), terminas limitando https://t.co/sQunD8Skb5",
+   "views": 124486,
+   "likes": 2065,
+   "replies": 44,
+   "reposts": 139,
+   "url": "https://x.com/ErickSky/status/2118823186133311758",
+   "status_url": "https://x.com/ErickSky/status/2118823186133311758",
+   "text": "Esta vaina de que Claude duerma y sueñe para almacenar recuerdos como lo hacen humanos es lo que más me cuesta procesar.\n\nEl \"Dreaming\" es súper curioso, porque no es que Claude esté soñando de verdad, pero cuando no está haciendo nada, se pone a revisar solo todo lo que hizo en",
+   "original_en": "Esta vaina de que Claude duerma y sueñe para almacenar recuerdos como lo hacen humanos es lo que más me cuesta procesar.\n\nEl \"Dreaming\" es súper curioso, porque no es que Claude esté soñando de verdad, pero cuando no está haciendo nada, se pone a revisar solo todo lo que hizo en",
    "highlight": true,
-   "created_at": "2026-11-05T17:42:53.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 57485,
-   "likes": 1716,
-   "replies": 53,
-   "reposts": 74,
-   "url": "https://x.com/midudev/status/2118418918842708331",
-   "status_url": "https://x.com/midudev/status/2118418918842708331",
-   "text": "Recuerda que hace poco los programadores nos peleábamos por espacio o tabulador, frameworks y el uso del punto y coma.",
-   "original_en": "Recuerda que hace poco los programadores nos peleábamos por espacio o tabulador, frameworks y el uso del punto y coma.",
-   "highlight": true,
-   "created_at": "2026-11-05T19:03:23.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "Sar_Barshem",
-   "display_name": "Sar_Barshem",
-   "handle": "@Sar_Barshem",
-   "area": "ai",
-   "views": 51256,
-   "likes": 14,
-   "replies": 4,
-   "reposts": 3,
-   "url": "https://x.com/Sar_Barshem/status/2118343933218508970",
-   "status_url": "https://x.com/Sar_Barshem/status/2118343933218508970",
-   "text": "My Grok Bot teams have their own 3D campus. \n\nI walk into any team's room, see what every bot is working on, and approve their work right there, without opening a single chat.\n\nPeople keep assuming it's a built-in Grok Bot feature, but Mika, my main Grok Bot, built it, and I kept https://t.co/5GgOCjmNTw https://t.co/ynPVkh9WqQ",
-   "original_en": "My Grok Bot teams have their own 3D campus. \n\nI walk into any team's room, see what every bot is working on, and approve their work right there, without opening a single chat.\n\nPeople keep assuming it's a built-in Grok Bot feature, but Mika, my main Grok Bot, built it, and I kept https://t.co/5GgOCjmNTw https://t.co/ynPVkh9WqQ",
-   "highlight": true,
-   "created_at": "2026-11-05T14:05:25.000Z",
+   "created_at": "2026-11-06T21:49:48.000Z",
    "window": "24h",
-   "draft_en": "[R3 · respuesta] The best line here is \"approve their work right there, without opening a single chat.\"\n\nFor people who don't code, that's the whole point: the agents do the work, and you only step in where a decision is actually yours. Seeing everything in one place makes that approval quick instead of tedious.\n\nWhat I'd love next is for the system to come to you with the decision already framed, so you don't have to walk into the room to check.",
+   "draft_en": "[R1 · respuesta] Lo que más me interesa de esto no es la metáfora del sueño, es lo práctico: que el agente revise lo que hizo y llegue a la siguiente sesión un poco más ordenado.\n\nPara quienes no programamos, esa continuidad es el punto. Un agente útil no te pide que le repitas el contexto cada mañana: recuerda qué quedó pendiente y qué decidiste.\n\nAntes que más pantallas de control, yo miraría eso: que el trabajo de ayer le sirva de verdad hoy.\n\nFuente: https://www.anthropic.com/research/components-of-agent-memory · https://claude.com/resources/articles/new-in-claude-managed-agents",
    "draft_keywords": [
-    "Equipos de bots con un «campus» para aprobar el trabajo: la decisión llega ya enmarcada"
+    "Claude «Dreaming»: memoria entre sesiones y continuidad de contexto"
    ],
-   "why_hit": "Objetivo de respuesta R3 (Equipos de bots con un «campus» para aprobar el trabajo: la decisión llega ya enmarcada). Base verificada: Sin cifras externas (reporte del autor). Post de 51,3K vistas (5-nov 14:05Z) sobre un panel 3D para ver y aprobar el trabajo de equipos de bots desde el teléfono. Ángulo: el usuario no técnico solo debe intervenir donde la decisión es suya; lo siguiente es que el sistema venga a ti. Sin detalles de la configuración de RT.",
-   "hook": "The best line here is \"approve their work right there, without opening a single chat.\"\n\nFor people who don't code, that'",
+   "why_hit": "Objetivo de respuesta R1 (Claude «Dreaming»: memoria entre sesiones y continuidad de contexto). Base verificada: Anthropic (research preview Managed Agents + post «components of agent memory»): «dreaming» revisa sesiones y el almacén de memoria entre turnos, corrige entradas viejas o contradictorias, extrae patrones y reorganiza lo útil para la siguiente sesión. Hilo ES de ErickSky (124,5K vistas, 6-nov 21:49Z). Ángulo: para quien no programa, lo que pesa es la continuidad (que el agente no empiece de cero). Sin Cadu ni beta; sin cifras inventadas ni infra de RT.",
+   "hook": "Lo que más me interesa de esto no es la metáfora del sueño, es lo práctico: que el agente revise lo que hizo y llegue a ",
    "top10_rank": 1
   },
   {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
+   "name": "midudev",
+   "display_name": "midudev",
+   "handle": "@midudev",
    "area": "ai",
-   "views": 50793,
-   "likes": 1330,
-   "replies": 23,
+   "views": 53841,
+   "likes": 724,
+   "replies": 47,
    "reposts": 49,
-   "url": "https://x.com/ErickSky/status/2118426347106156585",
-   "status_url": "https://x.com/ErickSky/status/2118426347106156585",
-   "text": "todo debería estar en Rust\n\nHasta la cena, TODOOOO https://t.co/lsvVufaDB3",
-   "original_en": "todo debería estar en Rust\n\nHasta la cena, TODOOOO https://t.co/lsvVufaDB3",
+   "url": "https://x.com/midudev/status/2118706403216908396",
+   "status_url": "https://x.com/midudev/status/2118706403216908396",
+   "text": "¡Claude Code ha estado filtrando tu email!\n\nAl visitar ciertas webs, el agente envia tu correo personal en la cabecera User-Agent sin permiso.\n\nAnthropic lo ha reconocido y en la versión 2.1.317 ha implementado una solución pero...\n\nLos usuarios ya han demostrado que no funciona",
+   "original_en": "¡Claude Code ha estado filtrando tu email!\n\nAl visitar ciertas webs, el agente envia tu correo personal en la cabecera User-Agent sin permiso.\n\nAnthropic lo ha reconocido y en la versión 2.1.317 ha implementado una solución pero...\n\nLos usuarios ya han demostrado que no funciona",
    "highlight": true,
-   "created_at": "2026-11-05T19:32:54.000Z",
+   "created_at": "2026-11-06T14:05:44.000Z",
    "window": "24h"
   },
   {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 40565,
-   "likes": 1731,
-   "replies": 19,
-   "reposts": 147,
-   "url": "https://x.com/midudev/status/2118359597152899253",
-   "status_url": "https://x.com/midudev/status/2118359597152899253",
-   "text": "¡POR FIN! Animaciones por Scroll en CSS disponible en todos los navegadores modernos.\n\nChrome, Edge, Safari y Firefox ya tienen soporte.\n\nYa no tendrás que usar JavaScript para hacer esto. https://t.co/2DtFp1X6oy",
-   "original_en": "¡POR FIN! Animaciones por Scroll en CSS disponible en todos los navegadores modernos.\n\nChrome, Edge, Safari y Firefox ya tienen soporte.\n\nYa no tendrás que usar JavaScript para hacer esto. https://t.co/2DtFp1X6oy",
-   "highlight": true,
-   "created_at": "2026-11-05T15:07:39.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 22221,
-   "likes": 447,
-   "replies": 16,
-   "reposts": 33,
-   "url": "https://x.com/ErickSky/status/2118463569201074505",
-   "status_url": "https://x.com/ErickSky/status/2118463569201074505",
-   "text": "Hicieron lo que siempre hemos hablado en esta cuenta: meter Hermes a un Echo Dot viejo!\n\nEs hora de deshacerse de la mierda que es Alexa.\n\nEso sí, para hacer esto hay que flashear el Dot y montar el Assist, pero el repo está bien documentado y ya tienen el skill para armarlo más",
-   "original_en": "Hicieron lo que siempre hemos hablado en esta cuenta: meter Hermes a un Echo Dot viejo!\n\nEs hora de deshacerse de la mierda que es Alexa.\n\nEso sí, para hacer esto hay que flashear el Dot y montar el Assist, pero el repo está bien documentado y ya tienen el skill para armarlo más",
-   "highlight": true,
-   "created_at": "2026-11-05T22:00:48.000Z",
-   "window": "24h",
-   "draft_en": "[R1 · respuesta] Lo interesante no es el parlante, es lo que cambia cuando el agente vive en algo que ya tienes en casa.\n\nHoy le hablas y responde. El siguiente paso, para quienes no somos técnicos, es que además aprenda tu rutina y te avise a tiempo: el control que toca, el remedio que se acaba, el trámite que vence.\n\nUn asistente que solo contesta depende de que te acuerdes de preguntarle. Uno proactivo trabaja contigo aunque no le hables.",
-   "draft_keywords": [
-    "Hermes en un Echo Dot viejo: un asistente que solo contesta vs uno proactivo"
-   ],
-   "why_hit": "Objetivo de respuesta R1 (Hermes en un Echo Dot viejo: un asistente que solo contesta vs uno proactivo). Base verificada: Sin cifras externas. Hilo en español de ErickSky (22,2K vistas, 5-nov 22:00Z) sobre una comunidad que convirtió un Echo Dot viejo en parlante con Hermes. Ángulo: lo que importa al usuario no técnico es la proactividad (que avise a tiempo), no solo responder a la voz. Sin Cadu ni beta; sin detalles de la infraestructura de RT.",
-   "hook": "Lo interesante no es el parlante, es lo que cambia cuando el agente vive en algo que ya tienes en casa.\n\nHoy le hablas y",
-   "top10_rank": 2
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 11854,
-   "likes": 279,
-   "replies": 27,
-   "reposts": 4,
-   "url": "https://x.com/ErickSky/status/2118352281129406466",
-   "status_url": "https://x.com/ErickSky/status/2118352281129406466",
-   "text": "Chicos acabo de tener una reunión y facturado el primer cliente que nos llega por recomendación de ChatGPT 😍",
-   "original_en": "Chicos acabo de tener una reunión y facturado el primer cliente que nos llega por recomendación de ChatGPT 😍",
-   "highlight": true,
-   "created_at": "2026-11-05T14:38:35.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "alexcovo_eth",
-   "display_name": "alexcovo_eth",
-   "handle": "@alexcovo_eth",
-   "area": "ai",
-   "views": 11701,
-   "likes": 117,
-   "replies": 20,
-   "reposts": 1,
-   "url": "https://x.com/alexcovo_eth/status/2118410049139994667",
-   "status_url": "https://x.com/alexcovo_eth/status/2118410049139994667",
-   "text": "Hermes Mobile App Update\n\nYeah, I’m going to have to make some videos about Hermes Mobile App soon. It’s just too good. So many features. I have all my bots from all my servers at my fingertips. \n\nNGL, I’m probably not going to use the desktop app much anymore. I have access to https://t.co/EDCQ5k5qZy",
-   "original_en": "Hermes Mobile App Update\n\nYeah, I’m going to have to make some videos about Hermes Mobile App soon. It’s just too good. So many features. I have all my bots from all my servers at my fingertips. \n\nNGL, I’m probably not going to use the desktop app much anymore. I have access to https://t.co/EDCQ5k5qZy",
-   "highlight": true,
-   "created_at": "2026-11-05T18:28:08.000Z",
-   "window": "24h",
-   "draft_en": "[R4 · respuesta] Great to hear. Having every bot at your fingertips is exactly what a mobile app should give you.\n\nHermes is already powerful, so I don't think the next step is another way to control it. It's the agent coming to you: noticing what matters and bringing it up before you open anything.\n\nThat's the part I'd love to see: less remote control, more initiative.",
-   "draft_keywords": [
-    "App móvil de Hermes: todo a mano, y lo que falta es iniciativa del agente"
-   ],
-   "why_hit": "Objetivo de respuesta R4 (App móvil de Hermes: todo a mano, y lo que falta es iniciativa del agente). Base verificada: Sin cifras externas. Post de 11,7K vistas (5-nov 18:28Z) de alexcovo_eth sobre la app móvil de Hermes. Postura de RT usada: solo el punto 4 (Hermes ya es potente; falta proactividad, no otra interfaz de control). OJO: RT ya le respondió 3 veces a alexcovo_eth el 4-nov; opcional, descartar si se ve repetitivo.",
-   "hook": "Great to hear. Having every bot at your fingertips is exactly what a mobile app should give you.\n\nHermes is already powe",
-   "top10_rank": 3
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 8487,
-   "likes": 252,
-   "replies": 18,
-   "reposts": 2,
-   "url": "https://x.com/ErickSky/status/2118668885868339642",
-   "status_url": "https://x.com/ErickSky/status/2118668885868339642",
-   "text": "Ya están dando $220 usage por $10 en DeepSeek V4.1 Flash (1017) en un harness de diseño.\n\nPronto $300 por los $10 de OpenCode Go.\n\nEn las universidades deberían enseñar a trabajar con ese modelo y no mal acostumbrarse a Claude o GPT.",
-   "original_en": "Ya están dando $220 usage por $10 en DeepSeek V4.1 Flash (1017) en un harness de diseño.\n\nPronto $300 por los $10 de OpenCode Go.\n\nEn las universidades deberían enseñar a trabajar con ese modelo y no mal acostumbrarse a Claude o GPT.",
-   "highlight": true,
-   "created_at": "2026-11-06T11:36:40.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 8152,
-   "likes": 117,
-   "replies": 0,
-   "reposts": 3,
-   "url": "https://x.com/ErickSky/status/2118487339563663868",
-   "status_url": "https://x.com/ErickSky/status/2118487339563663868",
-   "text": "Chicos vean esto que hizo el crack de nico👇 https://t.co/cK1Jvir7xK",
-   "original_en": "Chicos vean esto que hizo el crack de nico👇 https://t.co/cK1Jvir7xK",
-   "highlight": true,
-   "created_at": "2026-11-05T23:35:16.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 6703,
-   "likes": 115,
-   "replies": 4,
-   "reposts": 6,
-   "url": "https://x.com/ErickSky/status/2118391719675019550",
-   "status_url": "https://x.com/ErickSky/status/2118391719675019550",
-   "text": "Dentro de toda esta ola de hackeos OpenAI lanza GPT-6 Cyber!\n\nYa lo usaron para investigar el kernel de Linux y empresas como Cisco, Mozilla y Palo Alto lo están metiendo en sus flujos ahora mismo.\n\nA ver si no se pone delicadito si le dices que te están atacando desde DPRK. https://t.co/JJE0SK8AAx",
-   "original_en": "Dentro de toda esta ola de hackeos OpenAI lanza GPT-6 Cyber!\n\nYa lo usaron para investigar el kernel de Linux y empresas como Cisco, Mozilla y Palo Alto lo están metiendo en sus flujos ahora mismo.\n\nA ver si no se pone delicadito si le dices que te están atacando desde DPRK. https://t.co/JJE0SK8AAx",
-   "highlight": true,
-   "created_at": "2026-11-05T17:15:18.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "CerebrosG",
-   "display_name": "CerebrosG",
-   "handle": "@CerebrosG",
-   "area": "ai",
-   "views": 6515,
-   "likes": 151,
-   "replies": 1,
-   "reposts": 6,
-   "url": "https://x.com/CerebrosG/status/2118454722600538320",
-   "status_url": "https://x.com/CerebrosG/status/2118454722600538320",
-   "text": "Muse ha llegado oficialmente a México…un agente personal que hace las cosas por ti.\n\nEn pocas palabras es el ChatGpt de Meta/Facebook.\n\nEs un agente de IA personal que se encarga de todas las tareas en cada aspecto de tu vida. https://t.co/obufNZ4t0B",
-   "original_en": "Muse ha llegado oficialmente a México…un agente personal que hace las cosas por ti.\n\nEn pocas palabras es el ChatGpt de Meta/Facebook.\n\nEs un agente de IA personal que se encarga de todas las tareas en cada aspecto de tu vida. https://t.co/obufNZ4t0B",
-   "highlight": true,
-   "created_at": "2026-11-05T21:25:39.000Z",
-   "window": "24h",
-   "draft_en": "[R2 · respuesta] «Un agente que hace las cosas por ti» suena bien, y la pregunta que más pesa es otra: ¿qué recuerda de ti entre una tarea y la siguiente?\n\nUn agente útil no empieza de cero cada vez. Sabe qué decidiste la semana pasada y qué quedó pendiente, y eso le permite actuar sin que se lo repitas todo.\n\nAntes que más funciones, yo miraría la continuidad: que el contexto te acompañe de verdad.",
-   "draft_keywords": [
-    "Muse llega a México: «un agente que hace las cosas por ti» y la continuidad de contexto"
-   ],
-   "why_hit": "Objetivo de respuesta R2 (Muse llega a México: «un agente que hace las cosas por ti» y la continuidad de contexto). Base verificada: Sin cifras externas. Hilo en español (6,5K vistas, 5-nov 21:25Z) sobre Muse de Meta llegando a México como agente personal. Ángulo: continuidad/contexto entre tareas, no más funciones. No dice que RT use Muse.",
-   "hook": "«Un agente que hace las cosas por ti» suena bien, y la pregunta que más pesa es otra: ¿qué recuerda de ti entre una tare",
-   "top10_rank": 4
-  },
-  {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 6056,
-   "likes": 90,
-   "replies": 2,
-   "reposts": 12,
-   "url": "https://x.com/midudev/status/2118690887672664438",
-   "status_url": "https://x.com/midudev/status/2118690887672664438",
-   "text": "Hasta Microsoft Paint tiene vulnerabilidades graves. Aquí no se salva nadie. https://t.co/LesthEtJwe https://t.co/leXRYGd98x",
-   "original_en": "Hasta Microsoft Paint tiene vulnerabilidades graves. Aquí no se salva nadie. https://t.co/LesthEtJwe https://t.co/leXRYGd98x",
-   "highlight": true,
-   "created_at": "2026-11-06T13:04:05.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 5902,
-   "likes": 88,
-   "replies": 9,
-   "reposts": 2,
-   "url": "https://x.com/ErickSky/status/2118426205385101461",
-   "status_url": "https://x.com/ErickSky/status/2118426205385101461",
-   "text": "No tiene sentido crear apps de finanzas personales en países donde exista Plaid.\n\nLo que hay que crear es un Open Banking en países donde no haya nada.\n\nO un Plaid latino, algo así... https://t.co/wnYxvHV8VD",
-   "original_en": "No tiene sentido crear apps de finanzas personales en países donde exista Plaid.\n\nLo que hay que crear es un Open Banking en países donde no haya nada.\n\nO un Plaid latino, algo así... https://t.co/wnYxvHV8VD",
-   "highlight": true,
-   "created_at": "2026-11-05T19:32:20.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "24HorasTVN",
-   "display_name": "24HorasTVN",
-   "handle": "@24HorasTVN",
+   "name": "Da7_Tech",
+   "display_name": "Da7_Tech",
+   "handle": "@Da7_Tech",
    "area": "health",
-   "views": 3441,
-   "likes": 38,
-   "replies": 0,
-   "reposts": 54,
-   "url": "https://x.com/24HorasTVN/status/2118638440472289336",
-   "status_url": "https://x.com/24HorasTVN/status/2118638440472289336",
-   "text": "📈 #Economía \n\nDramático panorama de salud: 7 de cada 10 chilenos debieron postergar atenciones por costos \n\nMás detalles ⬇️\nhttps://t.co/ZLzsbEVMTa",
-   "original_en": "📈 #Economía \n\nDramático panorama de salud: 7 de cada 10 chilenos debieron postergar atenciones por costos \n\nMás detalles ⬇️\nhttps://t.co/ZLzsbEVMTa",
-   "highlight": false,
-   "created_at": "2026-11-06T09:35:41.000Z",
-   "window": "24h",
-   "draft_en": "[R5 · respuesta] Según el estudio de Bci Seguros e Ipsos presentado esta semana, el 64% de las personas postergó o dejó una atención médica en el último año por su costo, y el 71% pagó una atención privada para evitar las esperas del sistema público.\n\nEn oftalmología hay enfermedades que no dan síntomas al comienzo, como el glaucoma o la retinopatía diabética. Cuando por fin aparecen, a veces ya hay visión perdida que no se recupera.\n\nPor eso vale la pena saber qué atenciones tienen garantía GES y reclamar si no se cumplen: postergar un control puede costar visión.\n\nFuente: https://novena.cl/costo-atencion-medica-estudio-chile/ · https://www.radioagricultura.cl/noticias/economia/estudio-revela-que-8-de-cada-10-chilenos-no-podrian-pagar-una-emergencia-medica-de-1-millon_20261105/",
-   "draft_keywords": [
-    "Postergar atenciones por costo: lo que se pierde cuando la enfermedad no da síntomas"
-   ],
-   "why_hit": "Objetivo de respuesta R5 (Postergar atenciones por costo: lo que se pierde cuando la enfermedad no da síntomas). Base verificada: Estudio «¿Quién me protege?» de Bci Seguros e Ipsos (presentado 5-nov-2026, 18–70 años): 64% postergó o dejó una atención médica por costo en los últimos 12 meses; 71% pagó atención privada (total o parcial) para evitar las esperas del sistema público; 74% postergó, se endeudó o pidió dinero prestado. OJO: el tuit de 24 Horas dice «7 de cada 10»; la cifra que se pudo verificar en el estudio es 64%, por eso el texto cita el estudio y no repite el «7 de cada 10». Glaucoma y retinopatía diabética: sin síntomas al inicio (AAO/NEI), sin cifras.",
-   "hook": "Según el estudio de Bci Seguros e Ipsos presentado esta semana, el 64% de las personas postergó o dejó una atención médi",
-   "top10_rank": 5
+   "views": 18167,
+   "likes": 316,
+   "replies": 53,
+   "reposts": 7,
+   "url": "https://x.com/Da7_Tech/status/2118886221229285407",
+   "status_url": "https://x.com/Da7_Tech/status/2118886221229285407",
+   "text": "Hermes Agent >>>>>>>>>> Grok Bot.",
+   "original_en": "Hermes Agent >>>>>>>>>> Grok Bot.",
+   "highlight": true,
+   "created_at": "2026-11-07T02:00:16.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 15772,
+   "likes": 127,
+   "replies": 2,
+   "reposts": 7,
+   "url": "https://x.com/adnradiochile/status/2118931649278677491",
+   "status_url": "https://x.com/adnradiochile/status/2118931649278677491",
+   "text": "Iaán Calderón, niño embajador de la Teletón 2026, vivió un divertido momento junto a uno de los jurados de MasterChef Chile.",
+   "original_en": "Iaán Calderón, niño embajador de la Teletón 2026, vivió un divertido momento junto a uno de los jurados de MasterChef Chile.",
+   "highlight": true,
+   "created_at": "2026-11-07T05:00:47.000Z",
+   "window": "24h"
   },
   {
    "name": "sergiorocaa",
    "display_name": "sergiorocaa",
    "handle": "@sergiorocaa",
    "area": "ai",
-   "views": 3363,
-   "likes": 106,
+   "views": 12767,
+   "likes": 130,
+   "replies": 12,
+   "reposts": 14,
+   "url": "https://x.com/sergiorocaa/status/2118811154256674875",
+   "status_url": "https://x.com/sergiorocaa/status/2118811154256674875",
+   "text": "This could completely change the way we edit videos.",
+   "original_en": "This could completely change the way we edit videos.",
+   "highlight": true,
+   "created_at": "2026-11-06T21:01:59.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 10658,
+   "likes": 230,
+   "replies": 9,
+   "reposts": 5,
+   "url": "https://x.com/ErickSky/status/2118737968735162567",
+   "status_url": "https://x.com/ErickSky/status/2118737968735162567",
+   "text": "Es lo más precioso que he visto😍",
+   "original_en": "Es lo más precioso que he visto😍",
+   "highlight": true,
+   "created_at": "2026-11-06T16:11:10.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "alexhvnsen",
+   "display_name": "alexhvnsen",
+   "handle": "@alexhvnsen",
+   "area": "ai",
+   "views": 8396,
+   "likes": 61,
    "replies": 3,
-   "reposts": 10,
-   "url": "https://x.com/sergiorocaa/status/2118380485126570199",
-   "status_url": "https://x.com/sergiorocaa/status/2118380485126570199",
-   "text": "35 SITIOS WEB QUE REALMENTE SON ÚTILES\n\n1. https://t.co/H3HmmaaokU — acceder a contenido antiguo\n2. https://t.co/p6z6fIE5bE — resolver cualquier cosa\n3. https://t.co/1H4otM9VQy — eliminar fondo de imagen\n4. https://t.co/JVukU6BZlV — comprimir imágenes gratis\n5.",
-   "original_en": "35 SITIOS WEB QUE REALMENTE SON ÚTILES\n\n1. https://t.co/H3HmmaaokU — acceder a contenido antiguo\n2. https://t.co/p6z6fIE5bE — resolver cualquier cosa\n3. https://t.co/1H4otM9VQy — eliminar fondo de imagen\n4. https://t.co/JVukU6BZlV — comprimir imágenes gratis\n5.",
-   "highlight": false,
-   "created_at": "2026-11-05T16:30:39.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2919,
-   "likes": 37,
-   "replies": 7,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2118467075488555518",
-   "status_url": "https://x.com/ErickSky/status/2118467075488555518",
-   "text": "Desde qué momento se pueden programar mensajes en WhatsApp, aló????? https://t.co/rP2Juba4Q1",
-   "original_en": "Desde qué momento se pueden programar mensajes en WhatsApp, aló????? https://t.co/rP2Juba4Q1",
-   "highlight": false,
-   "created_at": "2026-11-05T22:14:44.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2871,
-   "likes": 56,
-   "replies": 5,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2118380741394370926",
-   "status_url": "https://x.com/ErickSky/status/2118380741394370926",
-   "text": "BRO MI PANA ACABA DE CANCELAR UNA PEGA QUE LE SALIÓ PORQUE ERA EL MISMO DÍA QUE SALÍA GTA VI DIOSSSSSSSSSSSSS",
-   "original_en": "BRO MI PANA ACABA DE CANCELAR UNA PEGA QUE LE SALIÓ PORQUE ERA EL MISMO DÍA QUE SALÍA GTA VI DIOSSSSSSSSSSSSS",
-   "highlight": false,
-   "created_at": "2026-11-05T16:31:41.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2702,
-   "likes": 38,
-   "replies": 5,
    "reposts": 2,
-   "url": "https://x.com/ErickSky/status/2118462041195192502",
-   "status_url": "https://x.com/ErickSky/status/2118462041195192502",
-   "text": "Este feature de vibecodear algo y compartir el link a alguien se usa mucho más de lo que ustedes creen.\n\nHe visto gente que hace algo tipo allmylinks y lo monta en sus perfiles de redes sociales, no es meme. https://t.co/DEbwJkw3md",
-   "original_en": "Este feature de vibecodear algo y compartir el link a alguien se usa mucho más de lo que ustedes creen.\n\nHe visto gente que hace algo tipo allmylinks y lo monta en sus perfiles de redes sociales, no es meme. https://t.co/DEbwJkw3md",
+   "url": "https://x.com/alexhvnsen/status/2118936438704386173",
+   "status_url": "https://x.com/alexhvnsen/status/2118936438704386173",
+   "text": "Bye-bye telegram!\n\nLast month we shipped Hermes \"Alan's Way\". \n\nA simplified workspace that used Telegram to make chatting with hermes feel like the chatgpt or grokbot app. \n\nAlan's Way also comes with a plugin and MCP to handle Lightning-fast computer use, and seamless handoff",
+   "original_en": "Bye-bye telegram!\n\nLast month we shipped Hermes \"Alan's Way\". \n\nA simplified workspace that used Telegram to make chatting with hermes feel like the chatgpt or grokbot app. \n\nAlan's Way also comes with a plugin and MCP to handle Lightning-fast computer use, and seamless handoff",
+   "highlight": true,
+   "created_at": "2026-11-07T05:19:49.000Z",
+   "window": "24h",
+   "draft_en": "[R2 · respuesta] I'm in the private beta of the Hermes mobile app, and this direction makes sense: talking to your agents should feel as simple as opening a normal chat app.\n\nHermes is already powerful underneath. What I'd love next isn't another way to control it, but the agent coming to you: noticing what matters and bringing a decision already framed, so you only approve.\n\nLess remote control. More initiative.",
+   "draft_keywords": [
+    "Hermes «Alan's Way»: chat tipo app, y lo que falta es iniciativa del agente"
+   ],
+   "why_hit": "Objetivo de respuesta R2 (Hermes «Alan's Way»: chat tipo app, y lo que falta es iniciativa del agente). Base verificada: Sin cifras externas. Post EN de alexhvnsen (8,4K vistas, 7-nov 05:19Z) sobre Hermes «Alan's Way»: workspace simplificado vía Telegram que se siente como la app de ChatGPT/Grok Bot, con plugin/MCP y handoff. Postura de RT: solo 1–2 puntos — Hermes ya es potente; lo que falta es proactividad/continuidad, no otra interfaz de chat. Menciona beta privada sin decir cómo entró. Sin detalles de infra.",
+   "hook": "I'm in the private beta of the Hermes mobile app, and this direction makes sense: talking to your agents should feel as ",
+   "top10_rank": 2
+  },
+  {
+   "name": "biobio",
+   "display_name": "biobio",
+   "handle": "@biobio",
+   "area": "health",
+   "views": 6607,
+   "likes": 6,
+   "replies": 0,
+   "reposts": 5,
+   "url": "https://x.com/biobio/status/2118698884960518606",
+   "status_url": "https://x.com/biobio/status/2118698884960518606",
+   "text": "Bono para PAD cirugía bariátrica: revisa las 2 opciones que tiene Fonasa para costear la intervención",
+   "original_en": "Bono para PAD cirugía bariátrica: revisa las 2 opciones que tiene Fonasa para costear la intervención",
+   "highlight": true,
+   "created_at": "2026-11-06T13:35:52.000Z",
+   "window": "24h",
+   "draft_en": "[R6 · respuesta] El Bono PAD de Fonasa sirve justo para eso: saber de antemano cuánto vas a pagar por un paquete quirúrgico en un centro privado en convenio.\n\nEn oftalmología también existe. Por el arancel 2026, por ejemplo, el PAD de cataratas (código 2501021) tiene un copago de $560.510 y no incluye el valor del lente intraocular; el de cirugía de glaucoma aparece con copago de $406.670. Incluye el equipo, el pabellón y los controles del paquete según las reglas de Fonasa.\n\nSi te ofrecieron operar por PAD, pide el código, el copago exacto y qué queda fuera del bono antes de firmar.\n\nFuente: https://www.fonasa.gob.cl/bonos-pad/ · https://nuevo.fonasa.gob.cl/coberturas-de-salud/cataratas-no-incluye-lente-intraocular/",
+   "draft_keywords": [
+    "Bonos PAD de Fonasa: precio conocido también en cirugías oftalmológicas"
+   ],
+   "why_hit": "Objetivo de respuesta R6 (Bonos PAD de Fonasa: precio conocido también en cirugías oftalmológicas). Base verificada: BioBio (6-nov, 6,6K vistas) informa PAD de cirugía bariátrica. Ángulo oftalmológico verificado en Fonasa: el Bono PAD aplica a paquetes con precio fijo conocido en prestadores MLE en convenio; en oftalmología el arancel 2026 incluye, entre otros, Cataratas código 2501021 (total $1.121.030 / copago $560.510; no incluye valor del lente intraocular) y Glaucoma tratamiento quirúrgico (total $813.350 / copago $406.670). El texto no repite el GES de cataratas del lote 6-nov; se centra en PAD = precio conocido.",
+   "hook": "El Bono PAD de Fonasa sirve justo para eso: saber de antemano cuánto vas a pagar por un paquete quirúrgico en un centro ",
+   "top10_rank": 3
+  },
+  {
+   "name": "HermesWatcher",
+   "display_name": "HermesWatcher",
+   "handle": "@HermesWatcher",
+   "area": "ai",
+   "views": 6249,
+   "likes": 38,
+   "replies": 4,
+   "reposts": 2,
+   "url": "https://x.com/HermesWatcher/status/2118856039475089682",
+   "status_url": "https://x.com/HermesWatcher/status/2118856039475089682",
+   "text": "This shouldn't be this easy.\n\nAsk Hermes for a website. It builds one, live, right beside the chat.\n\nHermes Desktop has its own live preview. Describe the site you want and Hermes picks a look, writes the code and opens it next to the conversation.",
+   "original_en": "This shouldn't be this easy.\n\nAsk Hermes for a website. It builds one, live, right beside the chat.\n\nHermes Desktop has its own live preview. Describe the site you want and Hermes picks a look, writes the code and opens it next to the conversation.",
+   "highlight": true,
+   "created_at": "2026-11-07T00:00:20.000Z",
+   "window": "24h",
+   "draft_en": "[R4 · respuesta] The live preview is impressive for builders.\n\nFor people who don't code, the win looks a little different: you shouldn't have to watch the work happen. The agent does it, and you only step in when a decision is actually yours.\n\nThat's the piece I'd still push for: less demo of control, more of the system coming to you with the result ready to approve.",
+   "draft_keywords": [
+    "Hermes Desktop con vista en vivo: útil para builders; para el resto, la aprobación"
+   ],
+   "why_hit": "Objetivo de respuesta R4 (Hermes Desktop con vista en vivo: útil para builders; para el resto, la aprobación). Base verificada: Sin cifras externas. Post EN de HermesWatcher (6,2K vistas, 7-nov 00:00Z) mostrando preview en vivo: pides un sitio y Hermes lo construye al lado del chat. Ángulo: para no técnicos el valor no es ver el código aparecer, sino recibir el resultado listo para aprobar. Postura: Hermes ya potente; falta que venga a ti. Sin inventar uso de la feature.",
+   "hook": "The live preview is impressive for builders.\n\nFor people who don't code, the win looks a little different: you shouldn't",
+   "top10_rank": 4
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 5747,
+   "likes": 100,
+   "replies": 4,
+   "reposts": 8,
+   "url": "https://x.com/ErickSky/status/2118771355139309735",
+   "status_url": "https://x.com/ErickSky/status/2118771355139309735",
+   "text": "Zuckerberg sabe que al menos mil millones de personas usarán su agente.\n\nNo se puede dar el lujo de que sea una mierda.",
+   "original_en": "Zuckerberg sabe que al menos mil millones de personas usarán su agente.\n\nNo se puede dar el lujo de que sea una mierda.",
+   "highlight": true,
+   "created_at": "2026-11-06T18:23:50.000Z",
+   "window": "24h",
+   "draft_en": "[R3 · respuesta] Tiene sentido. Si un agente lo van a usar cientos de millones de personas, no puede depender de que cada una sepa «manejarlo».\n\nPara quien no es técnico, la calidad se siente en dos cosas: que el contexto te acompañe de una tarea a la siguiente, y que te traiga la decisión ya enmarcada para que solo apruebes.\n\nAhí se nota si el agente trabaja contigo o te deja el trabajo de orquestarlo.",
+   "draft_keywords": [
+    "Agente de Meta a escala: calidad = contexto que acompaña y decisión ya enmarcada"
+   ],
+   "why_hit": "Objetivo de respuesta R3 (Agente de Meta a escala: calidad = contexto que acompaña y decisión ya enmarcada). Base verificada: Sin cifras externas. Post ES de ErickSky (5,7K vistas, 6-nov 18:23Z) sobre que Zuckerberg no puede darse el lujo de que su agente falle si lo usarán cientos de millones. Ángulo no técnico: a esa escala lo que falla primero para el usuario es la continuidad y que la decisión no llegue ya enmarcada. Sin Cadu; sin decir que RT use Muse.",
+   "hook": "Tiene sentido. Si un agente lo van a usar cientos de millones de personas, no puede depender de que cada una sepa «manej",
+   "top10_rank": 5
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 4269,
+   "likes": 122,
+   "replies": 6,
+   "reposts": 4,
+   "url": "https://x.com/ErickSky/status/2118900543422710240",
+   "status_url": "https://x.com/ErickSky/status/2118900543422710240",
+   "text": "Hay una guerra que no mucha gente le presta atención y es el de los exploradores.\n\nSí bien Google domina, todo puede cambiar en esta era agéntica.",
+   "original_en": "Hay una guerra que no mucha gente le presta atención y es el de los exploradores.\n\nSí bien Google domina, todo puede cambiar en esta era agéntica.",
    "highlight": false,
-   "created_at": "2026-11-05T21:54:44.000Z",
+   "created_at": "2026-11-07T02:57:11.000Z",
    "window": "24h"
   },
   {
-   "name": "Cooperativa",
-   "display_name": "Cooperativa",
-   "handle": "@Cooperativa",
-   "area": "health",
-   "views": 2535,
-   "likes": 40,
-   "replies": 1,
-   "reposts": 0,
-   "url": "https://x.com/Cooperativa/status/2118433725868577163",
-   "status_url": "https://x.com/Cooperativa/status/2118433725868577163",
-   "text": "Paciente tetrapléjico recibió la visita de su perrito con cáncer en hospital de Viña del Mar https://t.co/SeoObeLLVd https://t.co/ikSyuiaV0R",
-   "original_en": "Paciente tetrapléjico recibió la visita de su perrito con cáncer en hospital de Viña del Mar https://t.co/SeoObeLLVd https://t.co/ikSyuiaV0R",
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 4059,
+   "likes": 66,
+   "replies": 3,
+   "reposts": 3,
+   "url": "https://x.com/ErickSky/status/2118828792009412748",
+   "status_url": "https://x.com/ErickSky/status/2118828792009412748",
+   "text": "Google NO está dispuesto a morir.\n\nPero tampoco está dispuesto a tomar la iniciativa.\n\nGoogle es como tu novio bb",
+   "original_en": "Google NO está dispuesto a morir.\n\nPero tampoco está dispuesto a tomar la iniciativa.\n\nGoogle es como tu novio bb",
    "highlight": false,
-   "created_at": "2026-11-05T20:02:13.000Z",
+   "created_at": "2026-11-06T22:12:04.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ministeriosalud",
+   "display_name": "ministeriosalud",
+   "handle": "@ministeriosalud",
+   "area": "health",
+   "views": 3904,
+   "likes": 103,
+   "replies": 2,
+   "reposts": 49,
+   "url": "https://x.com/ministeriosalud/status/2118784493741871459",
+   "status_url": "https://x.com/ministeriosalud/status/2118784493741871459",
+   "text": "Justicia y equidad para los hospitales y sus pacientes.\n\nAsí describió la ministra de Salud, May Chomali, el avance de la interoperabilidad en los hospitales de la red pública, que permite una trazabilidad en sus sistemas de abastecimiento de medicamentos a través de Cenabast,",
+   "original_en": "Justicia y equidad para los hospitales y sus pacientes.\n\nAsí describió la ministra de Salud, May Chomali, el avance de la interoperabilidad en los hospitales de la red pública, que permite una trazabilidad en sus sistemas de abastecimiento de medicamentos a través de Cenabast,",
+   "highlight": false,
+   "created_at": "2026-11-06T19:16:03.000Z",
    "window": "24h",
-   "draft_en": "[R8 · respuesta] Qué bien que el Hospital Fricke tenga un programa de visitas de mascotas. Para alguien que está internado, volver a ver a su compañero de siempre se siente como un pedazo de vida normal.\n\nEstas visitas no reemplazan ningún tratamiento, pero cuidan algo que en un hospital se pierde fácil: la sensación de seguir siendo uno mismo. Y se pueden hacer con las medidas de higiene y seguridad que corresponden.\n\nOjalá más hospitales de Chile puedan ofrecerlo.\n\nFuente: https://www.cooperativa.cl/noticias/pais/salud/paciente-tetraplejico-recibio-la-visita-de-su-perrito-con-cancer-en/2026-11-05/164937.html",
+   "draft_en": "[R5 · respuesta] Buena noticia para los pacientes: según Cenabast y el Minsal, ya hay 115 hospitales públicos conectados al sistema de interoperabilidad de medicamentos.\n\nEn la práctica, eso permite ver stock y movimientos en red, anticipar quiebres y redistribuir cuando a un hospital le falta y a otro le sobra. La proyección publicada es optimizar hasta $35 mil millones en 24 meses, con meta de 200 hospitales en 2027.\n\nPara quien espera un tratamiento, lo concreto es simple: que el remedio esté cuando lo necesita.\n\nFuente: https://www.latercera.com/nacional/noticia/115-hospitales-ya-forman-parte-del-sistema-de-abastecimiento-unico-de-medicamentos-de-cenabast/ · https://www.radioagricultura.cl/noticias/nacional/cenabast-proyecta-ahorro-de-35-mil-millones-en-hospitales-publicos-asi-funcionara-el-nuevo-sistema_20261106/ · https://www.cenabast.cl/interoperabilidad-cenabast/",
    "draft_keywords": [
-    "Visitas de mascotas a pacientes hospitalizados (Hospital Fricke, Viña del Mar): humanizar el cuidado"
+    "Interoperabilidad Cenabast: 115 hospitales conectados para que no falten medicamentos"
    ],
-   "why_hit": "Objetivo de respuesta R8 (Visitas de mascotas a pacientes hospitalizados (Hospital Fricke, Viña del Mar): humanizar el cuidado). Base verificada: Cooperativa (5-nov-2026): paciente tetrapléjico internado en el Hospital Dr. Gustavo Fricke recibió la visita de su perro (15 años, cáncer terminal), posible gracias al programa «Visitas de Acompañamiento de Mascotas» (nombre según reportes de ADN/Página 7). Sin cifras; tono positivo y prudente.",
-   "hook": "Qué bien que el Hospital Fricke tenga un programa de visitas de mascotas. Para alguien que está internado, volver a ver ",
+   "why_hit": "Objetivo de respuesta R5 (Interoperabilidad Cenabast: 115 hospitales conectados para que no falten medicamentos). Base verificada: La Tercera y Radio Agricultura (6-nov-2026): 115 hospitales públicos en el Sistema de interoperabilidad de Cenabast (82 se sumaron en octubre); plataforma conecta bodegas hospitalarias con Cenabast para ver stock y movimientos (pronto lotes y vencimientos); proyección de optimizar hasta $35 mil millones en 24 meses; meta 200 hospitales en 2027 y red completa (incluida APS) hacia 2029. Post Minsal 3,9K vistas.",
+   "hook": "Buena noticia para los pacientes: según Cenabast y el Minsal, ya hay 115 hospitales públicos conectados al sistema de in",
    "top10_rank": 6
   },
   {
+   "name": "0xJokker",
+   "display_name": "0xJokker",
+   "handle": "@0xJokker",
+   "area": "health",
+   "views": 3886,
+   "likes": 34,
+   "replies": 12,
+   "reposts": 9,
+   "url": "https://x.com/0xJokker/status/2118942096207823018",
+   "status_url": "https://x.com/0xJokker/status/2118942096207823018",
+   "text": "Anthropic acaba de explicar como Claude sueña para recordar mejor\n\nel proceso se llama dreaming\n\ny es super curioso porque cuando Claude no esta haciendo nada, se pone a revisar solo todo lo que hizo en sesiones anteriores:",
+   "original_en": "Anthropic acaba de explicar como Claude sueña para recordar mejor\n\nel proceso se llama dreaming\n\ny es super curioso porque cuando Claude no esta haciendo nada, se pone a revisar solo todo lo que hizo en sesiones anteriores:",
+   "highlight": false,
+   "created_at": "2026-11-07T05:42:18.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "biobio",
+   "display_name": "biobio",
+   "handle": "@biobio",
+   "area": "health",
+   "views": 3865,
+   "likes": 5,
+   "replies": 0,
+   "reposts": 1,
+   "url": "https://x.com/biobio/status/2118731185937690948",
+   "status_url": "https://x.com/biobio/status/2118731185937690948",
+   "text": "OPINIÓN | La inclusión no dura sólo 48 horas: Cuando termina la Teletón nuestras necesidades siguen ahí",
+   "original_en": "OPINIÓN | La inclusión no dura sólo 48 horas: Cuando termina la Teletón nuestras necesidades siguen ahí",
+   "highlight": false,
+   "created_at": "2026-11-06T15:44:13.000Z",
+   "window": "24h",
+   "draft_en": "[R8 · respuesta] De acuerdo con el fondo: la solidaridad de este fin de semana importa, y lo que sigue el lunes también.\n\nEn rehabilitación hay algo que a veces se deja para después: el control de la visión. Un niño o una niña que está en terapia necesita ver bien el material, la pizarra o la pantalla con la que practica. Un adulto también.\n\nUn chequeo oftalmológico a tiempo no reemplaza nada de lo que hace la Teletón. Lo complementa, todo el año.",
+   "draft_keywords": [
+    "Inclusión después de la Teletón: el cuidado de la visión también es continuo"
+   ],
+   "why_hit": "Objetivo de respuesta R8 (Inclusión después de la Teletón: el cuidado de la visión también es continuo). Base verificada: BioBio (6-nov, 3,9K vistas) opinión/nota: la inclusión no dura solo 48 horas; cuando termina la Teletón las necesidades siguen. Ángulo oftalmológico prudente y positivo: niños y adultos en rehabilitación también necesitan controles de visión periódicos (ambliopía, defectos refractivos, seguimiento). Sin cifras inventadas; sin política partidista; sin nombrar clínicas.",
+   "hook": "De acuerdo con el fondo: la solidaridad de este fin de semana importa, y lo que sigue el lunes también.\n\nEn rehabilitaci",
+   "top10_rank": 7
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 2952,
+   "likes": 2,
+   "replies": 0,
+   "reposts": 3,
+   "url": "https://x.com/adnradiochile/status/2118868535464312928",
+   "status_url": "https://x.com/adnradiochile/status/2118868535464312928",
+   "text": "Alerta por contaminación en salones de uñas: estudio detecta peligrosos niveles de sustancias químicas en el aire",
+   "original_en": "Alerta por contaminación en salones de uñas: estudio detecta peligrosos niveles de sustancias químicas en el aire",
+   "highlight": false,
+   "created_at": "2026-11-07T00:50:00.000Z",
+   "window": "24h",
+   "draft_en": "[R7 · respuesta] Vale la pena tomarlo en serio, sobre todo si trabajas muchas horas en un salón.\n\nLos solventes de esmaltes y removedores irritan ojos y vías respiratorias cuando la ventilación es mala. Si te entra un químico al ojo, lo primero es irrigar con agua limpia de inmediato y consultar: no «esperar a ver si se pasa».\n\nEn el día a día: ventilar bien, tapar los frascos y usar protección si manipulas productos concentrados. Cuidar el aire del local también es cuidar la visión de quienes trabajan ahí.\n\nFuente: https://www.adnradio.cl/2026/11/06/alerta-por-contaminacion-en-salones-de-unas-estudio-detecta-peligrosos-niveles-de-sustancias-quimicas-en-el-aire/ · https://www.aao.org/eye-health/tips-prevention/injuries-burning-chemicals",
+   "draft_keywords": [
+    "Químicos en el aire de salones de uñas: ventilación y cuidado de los ojos"
+   ],
+   "why_hit": "Objetivo de respuesta R7 (Químicos en el aire de salones de uñas: ventilación y cuidado de los ojos). Base verificada: ADN (6-nov, ~3K vistas) resume estudio en salones de manicura de Nueva York: COVs (acetona, acetatos) y trazas de benceno; promedio ~15,1 ppm con pico reportado de 113 ppm; recomiendan ventilación y cerrar productos. AAO: salpicaduras o vapores químicos en el ojo son urgencia (irrigar de inmediato y consultar). Sin alarmismo; enfoque ocupacional práctico.",
+   "hook": "Vale la pena tomarlo en serio, sobre todo si trabajas muchas horas en un salón.\n\nLos solventes de esmaltes y removedores",
+   "top10_rank": 8
+  },
+  {
    "name": "ErickSky",
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 2217,
-   "likes": 93,
-   "replies": 8,
-   "reposts": 2,
-   "url": "https://x.com/ErickSky/status/2118392376871825495",
-   "status_url": "https://x.com/ErickSky/status/2118392376871825495",
-   "text": "Chicos por cierto!!\n\nMuchas gracias a toda la gente chingona de México ya que son mi audiencia máxima en estos momentos.\n\nDe hecho, en una evaluación de una marca a mis estadísticas, que estuviera ahí de primeros, me ayudó a cerrar una promo 😊\n\nVIVA MÉXICO CABRONESSSS https://t.co/J4Z0nUt15H",
-   "original_en": "Chicos por cierto!!\n\nMuchas gracias a toda la gente chingona de México ya que son mi audiencia máxima en estos momentos.\n\nDe hecho, en una evaluación de una marca a mis estadísticas, que estuviera ahí de primeros, me ayudó a cerrar una promo 😊\n\nVIVA MÉXICO CABRONESSSS https://t.co/J4Z0nUt15H",
+   "views": 2622,
+   "likes": 46,
+   "replies": 2,
+   "reposts": 0,
+   "url": "https://x.com/ErickSky/status/2118821107469849083",
+   "status_url": "https://x.com/ErickSky/status/2118821107469849083",
+   "text": "Tú tan Chrome y yo tan Brave...",
+   "original_en": "Tú tan Chrome y yo tan Brave...",
    "highlight": false,
-   "created_at": "2026-11-05T17:17:55.000Z",
+   "created_at": "2026-11-06T21:41:32.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "freddier",
+   "display_name": "freddier",
+   "handle": "@freddier",
+   "area": "ai",
+   "views": 2535,
+   "likes": 2,
+   "replies": 1,
+   "reposts": 0,
+   "url": "https://x.com/freddier/status/2119035224772301125",
+   "status_url": "https://x.com/freddier/status/2119035224772301125",
+   "text": "Amazing",
+   "original_en": "Amazing",
+   "highlight": false,
+   "created_at": "2026-11-07T11:52:22.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 2471,
+   "likes": 40,
+   "replies": 10,
+   "reposts": 0,
+   "url": "https://x.com/ErickSky/status/2118772376003629073",
+   "status_url": "https://x.com/ErickSky/status/2118772376003629073",
+   "text": "SI TÚ QUIERES DIOR\nME HAGO TRAFICANTE\nAQUI HAY PLATA SEGURAAAAA",
+   "original_en": "SI TÚ QUIERES DIOR\nME HAGO TRAFICANTE\nAQUI HAY PLATA SEGURAAAAA",
+   "highlight": false,
+   "created_at": "2026-11-06T18:27:53.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ministeriosalud",
+   "display_name": "ministeriosalud",
+   "handle": "@ministeriosalud",
+   "area": "health",
+   "views": 2249,
+   "likes": 18,
+   "replies": 2,
+   "reposts": 10,
+   "url": "https://x.com/ministeriosalud/status/2118748391807025350",
+   "status_url": "https://x.com/ministeriosalud/status/2118748391807025350",
+   "text": "Seguimos avanzando en la interoperabilidad 📈🏥\n\nLlegamos a 115 hospitales de la red pública interoperando sus sistemas de abastecimiento de medicamentos a través de Cenabast, triplicando la cobertura en comparación a 2025.",
+   "original_en": "Seguimos avanzando en la interoperabilidad 📈🏥\n\nLlegamos a 115 hospitales de la red pública interoperando sus sistemas de abastecimiento de medicamentos a través de Cenabast, triplicando la cobertura en comparación a 2025.",
+   "highlight": false,
+   "created_at": "2026-11-06T16:52:35.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "HermesAgentTips",
+   "display_name": "HermesAgentTips",
+   "handle": "@HermesAgentTips",
+   "area": "health",
+   "views": 2150,
+   "likes": 21,
+   "replies": 2,
+   "reposts": 1,
+   "url": "https://x.com/HermesAgentTips/status/2118758668443214142",
+   "status_url": "https://x.com/HermesAgentTips/status/2118758668443214142",
+   "text": "built a catalog of cool things made by Hermes where you can add yours to be showcased too!\n\nIn addition to this there is a section called \"Bots\" where you will find an easy pathway to migrate all of your Grokbots over to Hermes",
+   "original_en": "built a catalog of cool things made by Hermes where you can add yours to be showcased too!\n\nIn addition to this there is a section called \"Bots\" where you will find an easy pathway to migrate all of your Grokbots over to Hermes",
+   "highlight": false,
+   "created_at": "2026-11-06T17:33:25.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 2010,
+   "likes": 42,
+   "replies": 2,
+   "reposts": 0,
+   "url": "https://x.com/ErickSky/status/2118921028823117853",
+   "status_url": "https://x.com/ErickSky/status/2118921028823117853",
+   "text": "Gente, armen su propio dashboard para la venta de bodega de @SPDigital_Chile del 9 y 10 de noviembre.\n\nPasaron un gsheets como si estuviéramos viviendo en 2024 🥲\n\nSe pueden armar una PC 1 palito con las cositas de ahí.",
+   "original_en": "Gente, armen su propio dashboard para la venta de bodega de @SPDigital_Chile del 9 y 10 de noviembre.\n\nPasaron un gsheets como si estuviéramos viviendo en 2024 🥲\n\nSe pueden armar una PC 1 palito con las cositas de ahí.",
+   "highlight": false,
+   "created_at": "2026-11-07T04:18:35.000Z",
    "window": "24h"
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Agentes: el valor está en que el sistema venga a ti (proactividad y continuidad), no en otra interfaz de control",
-  "Agentes personales llegan a más mercados (Muse en México): la pregunta útil es qué recuerdan entre tareas",
-  "Salud Chile y costo: 64% postergó una atención por su costo (Bci Seguros-Ipsos)",
-  "Oftalmología en la agenda: cumbre WAEH en Santiago, miopía infantil y cataratas con garantía GES",
-  "Salud pública práctica: hantavirus todo el año (Minsal) y humanización del cuidado en hospitales"
+  "Agentes: continuidad de memoria entre sesiones (Claude Dreaming) pesa más que otra UI de chat",
+  "Hermes: workspaces tipo app (Alan's Way) y preview en vivo; para no técnicos lo que falta es proactividad",
+  "Salud Chile: interoperabilidad de medicamentos Cenabast (115 hospitales) y PAD con precio conocido",
+  "Oftalmología práctica: moscas/destellos (urgencia) y ojo seco (cuándo consultar)",
+  "Teletón: la inclusión y el cuidado visual son de todo el año, no solo del fin de semana"
  ],
  "no_hits": [
   {
    "handle": "@DotCSV",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
-  },
-  {
-   "handle": "@freddier",
    "max_views": 0,
    "reason": "Sin originales en las últimas 24h."
   },
@@ -449,34 +458,29 @@
    "reason": "Sin originales en las últimas 24h."
   },
   {
-   "handle": "@ministeriosalud",
-   "max_views": 1905,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.905."
-  },
-  {
    "handle": "@Pajarobere",
    "max_views": 0,
    "reason": "Sin originales en las últimas 24h."
   },
   {
    "handle": "@juancarlossaid",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "max_views": 1829,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.829."
   },
   {
    "handle": "@CatuRojas",
-   "max_views": 115,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 115."
+   "max_views": 0,
+   "reason": "Sin originales en las últimas 24h."
   },
   {
    "handle": "@HeliaMolina_M",
-   "max_views": 186,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 186."
+   "max_views": 555,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 555."
   },
   {
    "handle": "@jmanalich",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "max_views": 715,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 715."
   }
  ],
  "virals_window": "last ~48h",
@@ -484,9 +488,9 @@
  "hits_count": 22,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-11-05",
-  "hits_count": 23,
-  "total_views": 800189
+  "date": "2026-11-06",
+  "hits_count": 22,
+  "total_views": 467203
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -554,20 +558,20 @@
  },
  "day_roster": [
   {
-   "handle": "@midudev",
-   "name": "midudev",
+   "handle": "@ErickSky",
+   "name": "ErickSky",
    "area": "ai",
-   "views": 95192,
-   "total_views": 200229,
+   "views": 124486,
+   "total_views": 249958,
    "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@ErickSky",
-   "name": "ErickSky",
+   "handle": "@midudev",
+   "name": "midudev",
    "area": "ai",
-   "views": 64273,
-   "total_views": 192743,
+   "views": 53841,
+   "total_views": 53841,
    "hit": true,
    "window": "24h"
   },
@@ -575,17 +579,8 @@
    "handle": "@adnradiochile",
    "name": "adnradiochile",
    "area": "health",
-   "views": 9317,
-   "total_views": 57826,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@Cooperativa",
-   "name": "Cooperativa",
-   "area": "health",
-   "views": 8952,
-   "total_views": 56695,
+   "views": 40178,
+   "total_views": 78306,
    "hit": true,
    "window": "24h"
   },
@@ -593,8 +588,17 @@
    "handle": "@sergiorocaa",
    "name": "sergiorocaa",
    "area": "ai",
-   "views": 3363,
-   "total_views": 6028,
+   "views": 12767,
+   "total_views": 14837,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@Cooperativa",
+   "name": "Cooperativa",
+   "area": "health",
+   "views": 9611,
+   "total_views": 15661,
    "hit": true,
    "window": "24h"
   },
@@ -602,8 +606,35 @@
    "handle": "@ministeriosalud",
    "name": "ministeriosalud",
    "area": "health",
-   "views": 1905,
-   "total_views": 5001,
+   "views": 3904,
+   "total_views": 7254,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@freddier",
+   "name": "freddier",
+   "area": "ai",
+   "views": 2535,
+   "total_views": 2535,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@juancarlossaid",
+   "name": "juancarlossaid",
+   "area": "health",
+   "views": 1829,
+   "total_views": 2880,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@jmanalich",
+   "name": "jmanalich",
+   "area": "health",
+   "views": 715,
+   "total_views": 715,
    "hit": false,
    "window": "24h"
   },
@@ -611,32 +642,14 @@
    "handle": "@HeliaMolina_M",
    "name": "HeliaMolina_M",
    "area": "health",
-   "views": 186,
-   "total_views": 521,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@CatuRojas",
-   "name": "CatuRojas",
-   "area": "health",
-   "views": 115,
-   "total_views": 115,
+   "views": 555,
+   "total_views": 555,
    "hit": false,
    "window": "24h"
   },
   {
    "handle": "@DotCSV",
    "name": "DotCSV",
-   "area": "ai",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@freddier",
-   "name": "freddier",
    "area": "ai",
    "views": 0,
    "total_views": 0,
@@ -662,17 +675,8 @@
    "window": "24h"
   },
   {
-   "handle": "@juancarlossaid",
-   "name": "juancarlossaid",
-   "area": "health",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@jmanalich",
-   "name": "jmanalich",
+   "handle": "@CatuRojas",
+   "name": "CatuRojas",
    "area": "health",
    "views": 0,
    "total_views": 0,
@@ -744,19 +748,19 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "Hermes en Echo Dot"
+    "keyword": "Claude Dreaming memoria agentes"
    },
    {
     "rank": 2,
-    "keyword": "agente personal Muse"
+    "keyword": "Hermes Alan's Way"
    },
    {
     "rank": 3,
-    "keyword": "equipos de bots aprobar trabajo"
+    "keyword": "agente Meta escala"
    },
    {
     "rank": 4,
-    "keyword": "Hermes mobile app"
+    "keyword": "Hermes Desktop preview"
    },
    {
     "rank": 5,
@@ -764,42 +768,42 @@
    },
    {
     "rank": 6,
-    "keyword": "postergar atención por costo"
+    "keyword": "continuidad de contexto"
    },
    {
     "rank": 7,
-    "keyword": "cumbre mundial oftalmología"
+    "keyword": "Cenabast interoperabilidad 115"
    },
    {
     "rank": 8,
-    "keyword": "hantavirus todo el año"
+    "keyword": "Fonasa PAD oftalmología"
    },
    {
     "rank": 9,
-    "keyword": "visitas de mascotas hospital"
+    "keyword": "químicos salones de uñas"
    },
    {
     "rank": 10,
-    "keyword": "miopía infantil"
+    "keyword": "inclusión post Teletón"
    },
    {
     "rank": 11,
-    "keyword": "cataratas GES"
+    "keyword": "moscas volantes urgencia"
    },
    {
     "rank": 12,
-    "keyword": "agentes personales"
+    "keyword": "ojo seco"
    }
   ],
-  "note": "Minadas de originales 24h del watchlist y búsquedas de agentes/salud Chile (curadas a mano). Temas político-partidistas (Cesfam/seguridad, Presupuesto 2027, Rabat), sarampión (ya publicado) y tecnología pura (Rust, CSS, costos de tokens) excluidos."
+  "note": "Minadas de originales 24h del watchlist y búsquedas de agentes/salud Chile (curadas a mano). Temas político-partidistas (Kast/Teletón, Cesfam/seguridad, ley laboral), entretenimiento puro Teletón y tecnología pura (OpenCode, CSS, costos de tokens) excluidos."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 06-11-2026: 8 respuestas (R1–R8: 4 de agentes de IA y 4 de salud en Chile) y 2 originales (P1–P2) en borrador para aprobación; nada publicado.",
-   "takeaway": "Watchlist IA: ErickSky (7 originales sobre 5.000 vistas) y midudev (4) concentran el alcance, casi todo tecnología pura; sergiorocaa 1 sobre 2.000; DotCSV, freddier y bilinkis sin originales en 24h. De la ventana, lo útil para la línea de RT: Hermes en un Echo Dot (ErickSky 22,2K), Muse llega a México (@CerebrosG 6,5K), el panel para aprobar el trabajo de equipos de bots (@Sar_Barshem 51,3K) y la app móvil de Hermes (@alexcovo_eth 11,7K). Salud Chile: estudio Bci Seguros-Ipsos de postergación por costo (24 Horas 3,4K), cumbre mundial de hospitales oftalmológicos en Santiago (ADN 1,9K), hantavirus (Minsal 1,9K) y visitas de mascotas en el Hospital Fricke (Cooperativa 2,5K). Los grandes de ADN/Cooperativa/Minsal fueron política, seguridad en Cesfam, Presupuesto 2027, economía o deportes: excluidos. Sarampión (ya publicado) excluido."
+   "headline": "Digest 07-11-2026: 8 respuestas (R1–R8: 4 de agentes de IA y 4 de salud en Chile) y 2 originales (P1–P2) en borrador para aprobación; nada publicado.",
+   "takeaway": "Watchlist IA: ErickSky concentra el alcance (Claude Dreaming 124K; varios >5K); midudev 1 original (Claude Code email 53K, tech/seguridad); sergiorocaa 1 sobre 5K (video); freddier 1 sobre 2K; DotCSV y bilinkis sin originales en 24h. Útiles para la línea de RT: Dreaming/memoria (ErickSky), Hermes Alan's Way (@alexhvnsen 8,4K), agente Meta a escala (ErickSky 5,7K) y Hermes Desktop preview (@HermesWatcher 6,2K). Salud Chile: interoperabilidad Cenabast 115 hospitales (Minsal 3,9K), PAD Fonasa (BioBio 6,6K), contaminación salones de uñas (ADN ~3K) e inclusión post-Teletón (BioBio 3,9K). Gran parte de ADN/Cooperativa fue Teletón entretenimiento, Kast o seguridad en Cesfam: excluidos."
   },
   "corpus": {
-   "posts": 90,
+   "posts": 45,
    "min_views": 2000
   },
   "window": {
@@ -811,125 +815,125 @@
     "title": "R1 · respuesta a @ErickSky",
     "format": "respuesta",
     "source": "@ErickSky",
-    "topic": "Hermes en un Echo Dot viejo: un asistente que solo contesta vs uno proactivo",
-    "hook_en": "Lo interesante no es el parlante, es lo que cambia cuando el agente vive en algo que ya tienes en casa.\n\nHoy le hablas y responde. El siguiente paso, para quienes no somos técnicos, es que además aprenda tu rutina y te avise a tiempo: el control que toca, el remedio que se acaba, el trámite que vence.\n\nUn asistente que solo contesta depende de que te acuerdes de preguntarle. Uno proactivo trabaja contigo aunque no le hables.",
-    "angle": "Objetivo: https://x.com/ErickSky/status/2118463569201074505 (22.221 vistas)",
-    "why": "Base: Sin cifras externas. Hilo en español de ErickSky (22,2K vistas, 5-nov 22:00Z) sobre una comunidad que convirtió un Echo Dot viejo en parlante con Hermes. Ángulo: lo que importa al usuario no técnico es la proactividad (que avise a tiempo), no solo responder a la voz. Sin Cadu ni beta; sin detalles de la infraestructura de RT. Fuente: sin cifras externas",
+    "topic": "Claude «Dreaming»: memoria entre sesiones y continuidad de contexto",
+    "hook_en": "Lo que más me interesa de esto no es la metáfora del sueño, es lo práctico: que el agente revise lo que hizo y llegue a la siguiente sesión un poco más ordenado.\n\nPara quienes no programamos, esa continuidad es el punto. Un agente útil no te pide que le repitas el contexto cada mañana: recuerda qué quedó pendiente y qué decidiste.\n\nAntes que más pantallas de control, yo miraría eso: que el trabajo de ayer le sirva de verdad hoy.",
+    "angle": "Objetivo: https://x.com/ErickSky/status/2118823186133311758 (124.486 vistas)",
+    "why": "Base: Anthropic (research preview Managed Agents + post «components of agent memory»): «dreaming» revisa sesiones y el almacén de memoria entre turnos, corrige entradas viejas o contradictorias, extrae patrones y reorganiza lo útil para la siguiente sesión. Hilo ES de ErickSky (124,5K vistas, 6-nov 21:49Z). Ángulo: para quien no programa, lo que pesa es la continuidad (que el agente no empiece de cero). Sin Cadu ni beta; sin cifras inventadas ni infra de RT. Fuente: https://www.anthropic.com/research/components-of-agent-memory · https://claude.com/resources/articles/new-in-claude-managed-agents",
     "keywords": [
-     "Hermes en un Echo Dot viejo: un asistente que solo contesta vs uno proactivo"
+     "Claude «Dreaming»: memoria entre sesiones y continuidad de contexto"
     ]
    },
    {
-    "title": "R2 · respuesta a @CerebrosG",
+    "title": "R2 · respuesta a @alexhvnsen",
     "format": "respuesta",
-    "source": "@CerebrosG",
-    "topic": "Muse llega a México: «un agente que hace las cosas por ti» y la continuidad de contexto",
-    "hook_en": "«Un agente que hace las cosas por ti» suena bien, y la pregunta que más pesa es otra: ¿qué recuerda de ti entre una tarea y la siguiente?\n\nUn agente útil no empieza de cero cada vez. Sabe qué decidiste la semana pasada y qué quedó pendiente, y eso le permite actuar sin que se lo repitas todo.\n\nAntes que más funciones, yo miraría la continuidad: que el contexto te acompañe de verdad.",
-    "angle": "Objetivo: https://x.com/CerebrosG/status/2118454722600538320 (6.515 vistas)",
-    "why": "Base: Sin cifras externas. Hilo en español (6,5K vistas, 5-nov 21:25Z) sobre Muse de Meta llegando a México como agente personal. Ángulo: continuidad/contexto entre tareas, no más funciones. No dice que RT use Muse. Fuente: sin cifras externas",
+    "source": "@alexhvnsen",
+    "topic": "Hermes «Alan's Way»: chat tipo app, y lo que falta es iniciativa del agente",
+    "hook_en": "I'm in the private beta of the Hermes mobile app, and this direction makes sense: talking to your agents should feel as simple as opening a normal chat app.\n\nHermes is already powerful underneath. What I'd love next isn't another way to control it, but the agent coming to you: noticing what matters and bringing a decision already framed, so you only approve.\n\nLess remote control. More initiative.",
+    "angle": "Objetivo: https://x.com/alexhvnsen/status/2118936438704386173 (8.396 vistas)",
+    "why": "Base: Sin cifras externas. Post EN de alexhvnsen (8,4K vistas, 7-nov 05:19Z) sobre Hermes «Alan's Way»: workspace simplificado vía Telegram que se siente como la app de ChatGPT/Grok Bot, con plugin/MCP y handoff. Postura de RT: solo 1–2 puntos — Hermes ya es potente; lo que falta es proactividad/continuidad, no otra interfaz de chat. Menciona beta privada sin decir cómo entró. Sin detalles de infra. Fuente: sin cifras externas",
     "keywords": [
-     "Muse llega a México: «un agente que hace las cosas por ti» y la continuidad de contexto"
+     "Hermes «Alan's Way»: chat tipo app, y lo que falta es iniciativa del agente"
     ]
    },
    {
-    "title": "R3 · respuesta a @Sar_Barshem",
+    "title": "R3 · respuesta a @ErickSky",
     "format": "respuesta",
-    "source": "@Sar_Barshem",
-    "topic": "Equipos de bots con un «campus» para aprobar el trabajo: la decisión llega ya enmarcada",
-    "hook_en": "The best line here is \"approve their work right there, without opening a single chat.\"\n\nFor people who don't code, that's the whole point: the agents do the work, and you only step in where a decision is actually yours. Seeing everything in one place makes that approval quick instead of tedious.\n\nWhat I'd love next is for the system to come to you with the decision already framed, so you don't have to walk into the room to check.",
-    "angle": "Objetivo: https://x.com/Sar_Barshem/status/2118343933218508970 (51.256 vistas)",
-    "why": "Base: Sin cifras externas (reporte del autor). Post de 51,3K vistas (5-nov 14:05Z) sobre un panel 3D para ver y aprobar el trabajo de equipos de bots desde el teléfono. Ángulo: el usuario no técnico solo debe intervenir donde la decisión es suya; lo siguiente es que el sistema venga a ti. Sin detalles de la configuración de RT. Fuente: sin cifras externas",
+    "source": "@ErickSky",
+    "topic": "Agente de Meta a escala: calidad = contexto que acompaña y decisión ya enmarcada",
+    "hook_en": "Tiene sentido. Si un agente lo van a usar cientos de millones de personas, no puede depender de que cada una sepa «manejarlo».\n\nPara quien no es técnico, la calidad se siente en dos cosas: que el contexto te acompañe de una tarea a la siguiente, y que te traiga la decisión ya enmarcada para que solo apruebes.\n\nAhí se nota si el agente trabaja contigo o te deja el trabajo de orquestarlo.",
+    "angle": "Objetivo: https://x.com/ErickSky/status/2118771355139309735 (5.747 vistas)",
+    "why": "Base: Sin cifras externas. Post ES de ErickSky (5,7K vistas, 6-nov 18:23Z) sobre que Zuckerberg no puede darse el lujo de que su agente falle si lo usarán cientos de millones. Ángulo no técnico: a esa escala lo que falla primero para el usuario es la continuidad y que la decisión no llegue ya enmarcada. Sin Cadu; sin decir que RT use Muse. Fuente: sin cifras externas",
     "keywords": [
-     "Equipos de bots con un «campus» para aprobar el trabajo: la decisión llega ya enmarcada"
+     "Agente de Meta a escala: calidad = contexto que acompaña y decisión ya enmarcada"
     ]
    },
    {
-    "title": "R4 · respuesta a @alexcovo_eth",
+    "title": "R4 · respuesta a @HermesWatcher",
     "format": "respuesta",
-    "source": "@alexcovo_eth",
-    "topic": "App móvil de Hermes: todo a mano, y lo que falta es iniciativa del agente",
-    "hook_en": "Great to hear. Having every bot at your fingertips is exactly what a mobile app should give you.\n\nHermes is already powerful, so I don't think the next step is another way to control it. It's the agent coming to you: noticing what matters and bringing it up before you open anything.\n\nThat's the part I'd love to see: less remote control, more initiative.",
-    "angle": "Objetivo: https://x.com/alexcovo_eth/status/2118410049139994667 (11.701 vistas)",
-    "why": "Base: Sin cifras externas. Post de 11,7K vistas (5-nov 18:28Z) de alexcovo_eth sobre la app móvil de Hermes. Postura de RT usada: solo el punto 4 (Hermes ya es potente; falta proactividad, no otra interfaz de control). OJO: RT ya le respondió 3 veces a alexcovo_eth el 4-nov; opcional, descartar si se ve repetitivo. Fuente: sin cifras externas",
+    "source": "@HermesWatcher",
+    "topic": "Hermes Desktop con vista en vivo: útil para builders; para el resto, la aprobación",
+    "hook_en": "The live preview is impressive for builders.\n\nFor people who don't code, the win looks a little different: you shouldn't have to watch the work happen. The agent does it, and you only step in when a decision is actually yours.\n\nThat's the piece I'd still push for: less demo of control, more of the system coming to you with the result ready to approve.",
+    "angle": "Objetivo: https://x.com/HermesWatcher/status/2118856039475089682 (6.249 vistas)",
+    "why": "Base: Sin cifras externas. Post EN de HermesWatcher (6,2K vistas, 7-nov 00:00Z) mostrando preview en vivo: pides un sitio y Hermes lo construye al lado del chat. Ángulo: para no técnicos el valor no es ver el código aparecer, sino recibir el resultado listo para aprobar. Postura: Hermes ya potente; falta que venga a ti. Sin inventar uso de la feature. Fuente: sin cifras externas",
     "keywords": [
-     "App móvil de Hermes: todo a mano, y lo que falta es iniciativa del agente"
+     "Hermes Desktop con vista en vivo: útil para builders; para el resto, la aprobación"
     ]
    },
    {
-    "title": "R5 · respuesta a @24HorasTVN",
-    "format": "respuesta",
-    "source": "@24HorasTVN",
-    "topic": "Postergar atenciones por costo: lo que se pierde cuando la enfermedad no da síntomas",
-    "hook_en": "Según el estudio de Bci Seguros e Ipsos presentado esta semana, el 64% de las personas postergó o dejó una atención médica en el último año por su costo, y el 71% pagó una atención privada para evitar las esperas del sistema público.\n\nEn oftalmología hay enfermedades que no dan síntomas al comienzo, como el glaucoma o la retinopatía diabética. Cuando por fin aparecen, a veces ya hay visión perdida que no se recupera.\n\nPor eso vale la pena saber qué atenciones tienen garantía GES y reclamar si no se cumplen: postergar un control puede costar visión.",
-    "angle": "Objetivo: https://x.com/24HorasTVN/status/2118638440472289336 (3.441 vistas)",
-    "why": "Base: Estudio «¿Quién me protege?» de Bci Seguros e Ipsos (presentado 5-nov-2026, 18–70 años): 64% postergó o dejó una atención médica por costo en los últimos 12 meses; 71% pagó atención privada (total o parcial) para evitar las esperas del sistema público; 74% postergó, se endeudó o pidió dinero prestado. OJO: el tuit de 24 Horas dice «7 de cada 10»; la cifra que se pudo verificar en el estudio es 64%, por eso el texto cita el estudio y no repite el «7 de cada 10». Glaucoma y retinopatía diabética: sin síntomas al inicio (AAO/NEI), sin cifras. Fuente: https://novena.cl/costo-atencion-medica-estudio-chile/ · https://www.radioagricultura.cl/noticias/economia/estudio-revela-que-8-de-cada-10-chilenos-no-podrian-pagar-una-emergencia-medica-de-1-millon_20261105/",
-    "keywords": [
-     "Postergar atenciones por costo: lo que se pierde cuando la enfermedad no da síntomas"
-    ]
-   },
-   {
-    "title": "R6 · respuesta a @adnradiochile",
-    "format": "respuesta",
-    "source": "@adnradiochile",
-    "topic": "Cumbre de la World Association of Eye Hospitals en Santiago: envejecimiento y formación de especialistas",
-    "hook_en": "Buena noticia para la especialidad que la reunión de la World Association of Eye Hospitals llegue a Chile, con representantes de centros como Moorfields y el Singapore National Eye Centre.\n\nDe los temas anunciados, el que más pesa para los pacientes es el envejecimiento de la población: más cataratas, más glaucoma, más degeneración macular, y una demanda que solo se ordena con buena formación de especialistas y trabajo conjunto entre el sector público y el privado.\n\nOjalá de estas conversaciones salgan ideas que lleguen también a la consulta de regiones.",
-    "angle": "Objetivo: https://x.com/adnradiochile/status/2118361695865503879 (1.940 vistas)",
-    "why": "Base: 24horas (4-nov-2026) y ADN (5-nov): reunión de la WAEH en Santiago el lunes 16-nov-2026, parte del 20.º encuentro anual (São Paulo 10–13 nov); participan representantes de Moorfields Eye Hospital (Reino Unido) y Singapore National Eye Centre; ejes: envejecimiento de la población, transformación digital, seguridad del paciente; formación de especialistas en colaboración público-privada. Post bajo umbral (1.940 vistas). OJO: anfitriona es una clínica privada y La Tercera lo publicó como publirreportaje; el texto no nombra ni elogia a la clínica. Fuente: https://www.adnradio.cl/2026/11/05/chile-sera-sede-de-inedita-cumbre-mundial-de-oftalmologia-con-expertos-de-centros-lideres/ · https://www.24horas.cl/tendencias/tecnologia-y-ciencias/chile-sera-sede-por-primera-vez-de-encuentro-mundial-de-hospitales · https://www.waeh.org/20th-annual-waeh-meeting-2026/",
-    "keywords": [
-     "Cumbre de la World Association of Eye Hospitals en Santiago: envejecimiento y formación de especialistas"
-    ]
-   },
-   {
-    "title": "R7 · respuesta a @ministeriosalud",
+    "title": "R5 · respuesta a @ministeriosalud",
     "format": "respuesta",
     "source": "@ministeriosalud",
-    "topic": "Hantavirus: no es solo del verano; qué hacer antes de abrir una bodega o cabaña",
-    "hook_en": "Un punto que se olvida: el hanta no es solo del verano. Según el Minsal, el ratón colilargo está presente todo el año.\n\nLo práctico, de su propia guía: ventilar 30 minutos antes de entrar a una bodega o cabaña cerrada, rociar con agua y cloro antes de limpiar y barrer, guardar los alimentos en envases cerrados y mantener la basura tapada.\n\nY si aparecen fiebre, dolor muscular intenso o dificultad para respirar después de estar en una zona rural o semirural, consultar de inmediato e informar de esa visita al equipo de salud. Ayuda a pensar en el diagnóstico a tiempo.",
-    "angle": "Objetivo: https://x.com/ministeriosalud/status/2118456985947439570 (1.905 vistas)",
-    "why": "Base: Minsal (medidas de prevención y alerta sanitaria preventiva por hantavirus, vigente hasta 31-jul-2027): ratón colilargo presente todo el año; ventilar 30 min antes de entrar a lugares cerrados, rociar con agua y cloro y luego limpiar/barrer, alimentos en envases herméticos, basura tapada; síntomas: fiebre, dolor muscular intenso y dificultad respiratoria; consultar de inmediato e informar la visita a zona rural/semirural. Post bajo umbral (1.905 vistas). Fuente: https://www.minsal.cl/hanta_medidas_prevencion/ · https://www.minsal.cl/ministerio-de-salud-declara-alerta-sanitaria-por-hantavirus-desde-atacama-a-magallanes/",
+    "topic": "Interoperabilidad Cenabast: 115 hospitales conectados para que no falten medicamentos",
+    "hook_en": "Buena noticia para los pacientes: según Cenabast y el Minsal, ya hay 115 hospitales públicos conectados al sistema de interoperabilidad de medicamentos.\n\nEn la práctica, eso permite ver stock y movimientos en red, anticipar quiebres y redistribuir cuando a un hospital le falta y a otro le sobra. La proyección publicada es optimizar hasta $35 mil millones en 24 meses, con meta de 200 hospitales en 2027.\n\nPara quien espera un tratamiento, lo concreto es simple: que el remedio esté cuando lo necesita.",
+    "angle": "Objetivo: https://x.com/ministeriosalud/status/2118784493741871459 (3.904 vistas)",
+    "why": "Base: La Tercera y Radio Agricultura (6-nov-2026): 115 hospitales públicos en el Sistema de interoperabilidad de Cenabast (82 se sumaron en octubre); plataforma conecta bodegas hospitalarias con Cenabast para ver stock y movimientos (pronto lotes y vencimientos); proyección de optimizar hasta $35 mil millones en 24 meses; meta 200 hospitales en 2027 y red completa (incluida APS) hacia 2029. Post Minsal 3,9K vistas. Fuente: https://www.latercera.com/nacional/noticia/115-hospitales-ya-forman-parte-del-sistema-de-abastecimiento-unico-de-medicamentos-de-cenabast/ · https://www.radioagricultura.cl/noticias/nacional/cenabast-proyecta-ahorro-de-35-mil-millones-en-hospitales-publicos-asi-funcionara-el-nuevo-sistema_20261106/ · https://www.cenabast.cl/interoperabilidad-cenabast/",
     "keywords": [
-     "Hantavirus: no es solo del verano; qué hacer antes de abrir una bodega o cabaña"
+     "Interoperabilidad Cenabast: 115 hospitales conectados para que no falten medicamentos"
     ]
    },
    {
-    "title": "R8 · respuesta a @Cooperativa",
+    "title": "R6 · respuesta a @biobio",
     "format": "respuesta",
-    "source": "@Cooperativa",
-    "topic": "Visitas de mascotas a pacientes hospitalizados (Hospital Fricke, Viña del Mar): humanizar el cuidado",
-    "hook_en": "Qué bien que el Hospital Fricke tenga un programa de visitas de mascotas. Para alguien que está internado, volver a ver a su compañero de siempre se siente como un pedazo de vida normal.\n\nEstas visitas no reemplazan ningún tratamiento, pero cuidan algo que en un hospital se pierde fácil: la sensación de seguir siendo uno mismo. Y se pueden hacer con las medidas de higiene y seguridad que corresponden.\n\nOjalá más hospitales de Chile puedan ofrecerlo.",
-    "angle": "Objetivo: https://x.com/Cooperativa/status/2118433725868577163 (2.535 vistas)",
-    "why": "Base: Cooperativa (5-nov-2026): paciente tetrapléjico internado en el Hospital Dr. Gustavo Fricke recibió la visita de su perro (15 años, cáncer terminal), posible gracias al programa «Visitas de Acompañamiento de Mascotas» (nombre según reportes de ADN/Página 7). Sin cifras; tono positivo y prudente. Fuente: https://www.cooperativa.cl/noticias/pais/salud/paciente-tetraplejico-recibio-la-visita-de-su-perrito-con-cancer-en/2026-11-05/164937.html",
+    "source": "@biobio",
+    "topic": "Bonos PAD de Fonasa: precio conocido también en cirugías oftalmológicas",
+    "hook_en": "El Bono PAD de Fonasa sirve justo para eso: saber de antemano cuánto vas a pagar por un paquete quirúrgico en un centro privado en convenio.\n\nEn oftalmología también existe. Por el arancel 2026, por ejemplo, el PAD de cataratas (código 2501021) tiene un copago de $560.510 y no incluye el valor del lente intraocular; el de cirugía de glaucoma aparece con copago de $406.670. Incluye el equipo, el pabellón y los controles del paquete según las reglas de Fonasa.\n\nSi te ofrecieron operar por PAD, pide el código, el copago exacto y qué queda fuera del bono antes de firmar.",
+    "angle": "Objetivo: https://x.com/biobio/status/2118698884960518606 (6.607 vistas)",
+    "why": "Base: BioBio (6-nov, 6,6K vistas) informa PAD de cirugía bariátrica. Ángulo oftalmológico verificado en Fonasa: el Bono PAD aplica a paquetes con precio fijo conocido en prestadores MLE en convenio; en oftalmología el arancel 2026 incluye, entre otros, Cataratas código 2501021 (total $1.121.030 / copago $560.510; no incluye valor del lente intraocular) y Glaucoma tratamiento quirúrgico (total $813.350 / copago $406.670). El texto no repite el GES de cataratas del lote 6-nov; se centra en PAD = precio conocido. Fuente: https://www.fonasa.gob.cl/bonos-pad/ · https://nuevo.fonasa.gob.cl/coberturas-de-salud/cataratas-no-incluye-lente-intraocular/",
     "keywords": [
-     "Visitas de mascotas a pacientes hospitalizados (Hospital Fricke, Viña del Mar): humanizar el cuidado"
+     "Bonos PAD de Fonasa: precio conocido también en cirugías oftalmológicas"
     ]
    },
    {
-    "title": "P1 · Miopía infantil: más tiempo al aire libre y cuándo consultar",
+    "title": "R7 · respuesta a @adnradiochile",
+    "format": "respuesta",
+    "source": "@adnradiochile",
+    "topic": "Químicos en el aire de salones de uñas: ventilación y cuidado de los ojos",
+    "hook_en": "Vale la pena tomarlo en serio, sobre todo si trabajas muchas horas en un salón.\n\nLos solventes de esmaltes y removedores irritan ojos y vías respiratorias cuando la ventilación es mala. Si te entra un químico al ojo, lo primero es irrigar con agua limpia de inmediato y consultar: no «esperar a ver si se pasa».\n\nEn el día a día: ventilar bien, tapar los frascos y usar protección si manipulas productos concentrados. Cuidar el aire del local también es cuidar la visión de quienes trabajan ahí.",
+    "angle": "Objetivo: https://x.com/adnradiochile/status/2118868535464312928 (2.952 vistas)",
+    "why": "Base: ADN (6-nov, ~3K vistas) resume estudio en salones de manicura de Nueva York: COVs (acetona, acetatos) y trazas de benceno; promedio ~15,1 ppm con pico reportado de 113 ppm; recomiendan ventilación y cerrar productos. AAO: salpicaduras o vapores químicos en el ojo son urgencia (irrigar de inmediato y consultar). Sin alarmismo; enfoque ocupacional práctico. Fuente: https://www.adnradio.cl/2026/11/06/alerta-por-contaminacion-en-salones-de-unas-estudio-detecta-peligrosos-niveles-de-sustancias-quimicas-en-el-aire/ · https://www.aao.org/eye-health/tips-prevention/injuries-burning-chemicals",
+    "keywords": [
+     "Químicos en el aire de salones de uñas: ventilación y cuidado de los ojos"
+    ]
+   },
+   {
+    "title": "R8 · respuesta a @biobio",
+    "format": "respuesta",
+    "source": "@biobio",
+    "topic": "Inclusión después de la Teletón: el cuidado de la visión también es continuo",
+    "hook_en": "De acuerdo con el fondo: la solidaridad de este fin de semana importa, y lo que sigue el lunes también.\n\nEn rehabilitación hay algo que a veces se deja para después: el control de la visión. Un niño o una niña que está en terapia necesita ver bien el material, la pizarra o la pantalla con la que practica. Un adulto también.\n\nUn chequeo oftalmológico a tiempo no reemplaza nada de lo que hace la Teletón. Lo complementa, todo el año.",
+    "angle": "Objetivo: https://x.com/biobio/status/2118731185937690948 (3.865 vistas)",
+    "why": "Base: BioBio (6-nov, 3,9K vistas) opinión/nota: la inclusión no dura solo 48 horas; cuando termina la Teletón las necesidades siguen. Ángulo oftalmológico prudente y positivo: niños y adultos en rehabilitación también necesitan controles de visión periódicos (ambliopía, defectos refractivos, seguimiento). Sin cifras inventadas; sin política partidista; sin nombrar clínicas. Fuente: sin cifras externas",
+    "keywords": [
+     "Inclusión después de la Teletón: el cuidado de la visión también es continuo"
+    ]
+   },
+   {
+    "title": "P1 · Moscas volantes y destellos: cuándo es urgente",
     "format": "post largo",
     "source": "original RT",
-    "topic": "miopía en niños: tiempo al aire libre, señales y tratamientos para frenar el avance",
-    "hook_en": "Si tu hijo o hija se acerca mucho al pizarrón, entrecierra los ojos o se sienta cada vez más cerca del televisor, puede ser miopía. Y hay algo simple que ayuda: más tiempo al aire libre.\n\nQué dice la evidencia:\n\n• Según la Academia Americana de Oftalmología, los niños que pasan más tiempo adentro en actividades de cerca (pantallas, videojuegos, lectura) tienen más miopía que quienes pasan más tiempo afuera. No hay un vínculo directo probado, pero la investigación apunta en esa dirección\n• En un ensayo aleatorizado en Guangzhou (JAMA 2015), con más de 1.900 niños de 6 años, agregar 40 minutos de actividad al aire libre cada día de colegio redujo la aparición de miopía a 3 años: 30,4% frente a 39,5% en los colegios que no lo hicieron\n\nCon las vacaciones de verano a la vuelta de la esquina, es una buena excusa para salir a jugar, con protección solar, y equilibrar las pantallas con descansos.\n\nSi ya hay señales, conviene un control con el oftalmólogo. La miopía no se revierte, pero hoy se puede frenar su avance: gotas de atropina en dosis bajas, lentes especiales o lentes de contacto, siempre indicados y controlados por el especialista. Y importa porque tener miopía puede aumentar la probabilidad de problemas posteriores, como cataratas, glaucoma y desprendimiento de retina.\n\nFuentes: Academia Americana de Oftalmología (control de la miopía en niños y EyeWiki); JAMA 2015 (He et al., ensayo en Guangzhou).",
-    "visual": "Video vertical de 30 s: RT en un parque con tres tarjetas en pantalla: «Se acerca mucho a la pantalla o al pizarrón», «Entrecierra los ojos», «40 min más afuera: 30,4% vs 39,5% de miopía a 3 años»; cierre: «La miopía no se revierte, pero se puede frenar».",
+    "topic": "floaters y flashes: lo habitual vs señales de desprendimiento de retina",
+    "hook_en": "Si ves «moscas», hilos o destellos de luz en la visión, en muchos casos es el vítreo que cambia con la edad. Y conviene saber cuándo no es «solo eso».\n\nSegún la Academia Americana de Oftalmología:\n\n• Las moscas volantes suelen ser condensaciones del gel vítreo; con el tiempo se notan menos\n• Los destellos aparecen cuando el vítreo tira de la retina\n• Hay que consultar de inmediato si aparecen muchas moscas nuevas de golpe, destellos repetidos, una sombra en la visión lateral, o una «cortina» gris/oscura que tapa parte del campo visual\n\nEsas señales pueden indicar un desgarro o un desprendimiento de retina. Mientras antes se evalúe, más chance de proteger la visión.\n\nQuién tiene más riesgo: miopía, cirugía ocular previa, traumatismo, desprendimiento en el otro ojo o familiar. Si te pasa, no esperes al control de rutina: llama al oftalmólogo o acude a urgencia oftalmológica.\n\nFuente: Academia Americana de Oftalmología (floaters/flashes y detached retina).",
+    "visual": "Video vertical de 30 s: RT a cámara con tres tarjetas: «Muchas moscas nuevas de golpe», «Destellos repetidos», «Cortina o sombra en la visión»; cierre: «Eso es urgencia oftalmológica».",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.aao.org/eye-health/diseases/myopia-control-in-children https://jamanetwork.com/journals/jama/fullarticle/2441261 https://eyewiki.aao.org/Myopia",
+    "why": "Fuentes verificadas hoy: https://www.aao.org/eye-health/diseases/what-are-floaters-flashes https://www.aao.org/eye-health/diseases/detached-torn-retina",
     "keywords": [
-     "miopía en niños: tiempo al aire libre, señales y tratamientos para frenar el avance",
+     "floaters y flashes: lo habitual vs señales de desprendimiento de retina",
      "salud"
     ]
    },
    {
-    "title": "P2 · Cataratas en Fonasa: la cirugía está garantizada por el GES, con copago $0",
+    "title": "P2 · Ojo seco: ardor, arenilla y cuándo consultar",
     "format": "post largo",
     "source": "original RT",
-    "topic": "cirugía de cataratas: garantía GES n.º 11, plazos, copago y qué esperar",
-    "hook_en": "Si estás en Fonasa y tienes cataratas, conviene saber que la cirugía está garantizada por el GES (problema de salud n.º 11) y que, según Fonasa, el copago es $0 en los tramos A, B, C y D.\n\nLo que dice la garantía:\n\n• Con sospecha, tienes derecho a confirmación diagnóstica, en un máximo de 180 días\n• Para acceder a la cirugía se pide una agudeza visual igual o inferior a 0,3 con corrección óptica\n• Plazo máximo para operar: 90 días desde la confirmación si la agudeza visual es 0,1 o menos en el mejor ojo, y 180 días si es 0,3 o menos\n• Si no se cumple, se puede reclamar en Fonasa (600 360 3000). En Isapre, el GES tiene un copago de 20%\n\nSegún la Academia Americana de Oftalmología, la única forma de sacar una catarata es con cirugía, y se recomienda cuando te impide hacer lo que quieres o necesitas hacer. Si tu visión es mejor que 0,3 pero igual te molesta, conversa con tu oftalmólogo. Suele hacerse de forma ambulatoria, con anestesia local, y después se descansa unos 15 a 30 minutos antes de volver a casa.\n\nUn matiz importante: la cirugía no recupera la visión perdida por otras enfermedades, como glaucoma, degeneración macular o retinopatía diabética. Por eso el control sigue siendo clave.\n\nSi notas visión borrosa, colores apagados o molestia con las luces de noche, consulta.\n\nFuentes: Minsal (GES n.º 11, tratamiento quirúrgico de cataratas); Fonasa; Academia Americana de Oftalmología.",
-    "visual": "Video vertical de 30 s: RT a cámara con tres tarjetas en pantalla: «Fonasa: copago $0», «Plazo máximo: 90 o 180 días», «Si no se cumple, reclama en Fonasa»; cierre: «Pregunta por el GES de cataratas».",
+    "topic": "ojo seco: síntomas, lágrimas artificiales y cuándo ver al oftalmólogo",
+    "hook_en": "Si sientes ardor, arenilla, enrojecimiento o visión borrosa al leer o usar pantallas, puede ser ojo seco. Suena menor, y a veces no lo es.\n\nQué dice la Academia Americana de Oftalmología:\n\n• Síntomas frecuentes: ardor, sensación de cuerpo extraño, mucosidad en hebras, enrojecimiento, molestia con lentes de contacto… y a veces lagrimeo reflejo (el ojo seco también puede «llorar»)\n• Para molestias leves y ocasionales, las lágrimas artificiales de venta libre suelen ayudar\n• Si necesitas lubricante más de unas pocas veces al día, o los síntomas no ceden, conviene una evaluación: el gotero alivia, pero hay que tratar la causa (párpados, calidad de la lágrima, medicamentos, ambiente)\n\nConsulta pronto si hay dolor importante, baja de visión, ojo muy rojo o secreción. El ojo seco crónico se puede manejar; lo peor es normalizar la molestia meses enteros.\n\nFuente: Academia Americana de Oftalmología (What is dry eye; lubricating drops).",
+    "visual": "Video vertical de 30 s: RT con tres tarjetas: «Ardor o arenilla», «Visión borrosa al leer», «Si usas gotas varias veces al día, consulta»; cierre: «El ojo seco se puede tratar».",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://auge.minsal.cl/problemasdesalud/index/11 https://www.fonasa.gob.cl/coberturas-de-salud/tratamiento-quirurgico-de-cataratas/ https://www.aao.org/eye-health/diseases/cataract-surgery https://www.aao.org/eye-health/diseases/what-are-cataracts",
+    "why": "Fuentes verificadas hoy: https://www.aao.org/eye-health/diseases/what-is-dry-eye https://www.aao.org/eye-health/drugs/how-to-choose-lubricant-drops-dry-eyes",
     "keywords": [
-     "cirugía de cataratas: garantía GES n.º 11, plazos, copago y qué esperar",
+     "ojo seco: síntomas, lágrimas artificiales y cuándo ver al oftalmólogo",
      "salud"
     ]
    }
