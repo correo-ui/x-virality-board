@@ -1,164 +1,341 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-08 10:30",
- "date": "2026-11-08",
+ "title": "Digest diario — escaneo 24h al 2026-11-09 10:30",
+ "date": "2026-11-09",
  "timezone": "America/Santiago",
- "updated": "2026-11-08T10:50:00-03:00",
+ "updated": "2026-11-09T10:55:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
   {
-   "name": "brian_armstrong",
-   "display_name": "brian_armstrong",
-   "handle": "@brian_armstrong",
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
    "area": "ai",
-   "views": 901777,
-   "likes": 7548,
-   "replies": 652,
-   "reposts": 322,
-   "url": "https://x.com/brian_armstrong/status/2119112609223827547",
-   "status_url": "https://x.com/brian_armstrong/status/2119112609223827547",
-   "text": "I've changed how I work over the last few weeks.\n\nI now have one lead agent for each area of focus, running all the time, and a chief of staff agent that oversees them.",
-   "original_en": "I've changed how I work over the last few weeks.\n\nI now have one lead agent for each area of focus, running all the time, and a chief of staff agent that oversees them.",
+   "views": 156034,
+   "likes": 1963,
+   "replies": 18,
+   "reposts": 24,
+   "url": "https://x.com/ErickSky/status/2119580086420521450",
+   "status_url": "https://x.com/ErickSky/status/2119580086420521450",
+   "text": "Hay gente que aún escribe \"actúa como un XXXX y hazme YYYY\"\n\nQuiero asesinarlos. https://t.co/xvJsjSvKW5",
+   "original_en": "Hay gente que aún escribe \"actúa como un XXXX y hazme YYYY\"\n\nQuiero asesinarlos. https://t.co/xvJsjSvKW5",
    "highlight": true,
-   "created_at": "2026-11-07T16:59:51.000Z",
+   "created_at": "2026-11-08T23:57:27.000Z",
    "window": "24h",
-   "draft_en": "[R3 · respuesta] The part that stays with me is the queue: everything that needs your judgment arrives in one place, already framed, and you still make the call.\n\nThat's the difference between having many agents and having to manage them. You shouldn't have to be the messenger or the chief of staff all day.\n\nKeep the human review. Let the system do the running around.",
+   "draft_en": "[R2 · respuesta] Más que el rol, lo que cambia el resultado es el contexto: para qué lo necesitas, quién lo va a leer y qué considerarías bien hecho.\n\n«Actúa como experto en marketing» le dice poco. «Escribe para dueños de pymes que nunca han hecho un anuncio, en tres párrafos y sin anglicismos» le dice casi todo.\n\nY lo ideal es no tener que repetirlo cada vez: un buen asistente debería recordar quién eres y cómo trabajas.",
    "draft_keywords": [
-    "Un jefe de staff y una sola cola: el humano sigue decidiendo"
+    "«Actúa como…»: el contexto cambia más el resultado que el rol"
    ],
-   "why_hit": "Objetivo de respuesta R3 (Un jefe de staff y una sola cola: el humano sigue decidiendo). Base verificada: Sin cifras externas. Post largo EN de Brian Armstrong (901,8K vistas, 7-nov 16:59Z): un agente líder por área, un agente «chief of staff» que los supervisa, y una sola cola priorizada donde llega lo que necesita decidir o revisar (con capturas y demo); elige por lotes; el sistema distila su criterio; todo cambio sigue pasando por revisión humana. Ángulo: no hay que ser el mensajero ni el jefe de staff todo el día; la utilidad es que te llegue la decisión ya enmarcada. Sin beta (usada el 7-nov en otro hilo); sin inventar que RT arme este sistema; sin detalles de infra.",
-   "hook": "The part that stays with me is the queue: everything that needs your judgment arrives in one place, already framed, and ",
+   "why_hit": "Objetivo de respuesta R2 («Actúa como…»: el contexto cambia más el resultado que el rol). Base verificada: Sin cifras externas. Post ES de ErickSky (155,7K vistas, 8-nov 23:57Z) contra los prompts tipo «actúa como un XXXX y hazme YYYY». Ángulo práctico para no técnicos: dar contexto (para qué, para quién, qué es bien hecho) y que el asistente lo recuerde; ejemplo no clínico para no forzar salud.",
+   "hook": "Más que el rol, lo que cambia el resultado es el contexto: para qué lo necesitas, quién lo va a leer y qué considerarías",
    "top10_rank": 1
   },
   {
-   "name": "Teknium",
-   "display_name": "Teknium",
-   "handle": "@Teknium",
+   "name": "midudev",
+   "display_name": "midudev",
+   "handle": "@midudev",
    "area": "ai",
-   "views": 58525,
-   "likes": 521,
-   "replies": 62,
-   "reposts": 28,
-   "url": "https://x.com/Teknium/status/2119224332471894509",
-   "status_url": "https://x.com/Teknium/status/2119224332471894509",
-   "text": "We surpassed 1000 community made plugins today!\n\nCheck them all out here:",
-   "original_en": "We surpassed 1000 community made plugins today!\n\nCheck them all out here:",
+   "views": 138932,
+   "likes": 1173,
+   "replies": 55,
+   "reposts": 61,
+   "url": "https://x.com/midudev/status/2119518023405195313",
+   "status_url": "https://x.com/midudev/status/2119518023405195313",
+   "text": "Es tremendo como la IA le altera la realidad a la gente. https://t.co/nm1i8EDHaU",
+   "original_en": "Es tremendo como la IA le altera la realidad a la gente. https://t.co/nm1i8EDHaU",
    "highlight": true,
-   "created_at": "2026-11-08T00:23:48.000Z",
-   "window": "24h",
-   "draft_en": "[R2 · respuesta] A thousand community plugins is impressive, and it shows how much power is already there.\n\nFor people who don't build software, though, more plugins can quietly become another control panel: you end up orchestrating the tools instead of getting the work.\n\nThe piece I'd still watch for is the opposite of a bigger marketplace: the agent noticing what matters and bringing you a decision ready to approve.",
-   "draft_keywords": [
-    "Hermes supera 1.000 plugins de la comunidad: potencia vs. otra consola de control"
-   ],
-   "why_hit": "Objetivo de respuesta R2 (Hermes supera 1.000 plugins de la comunidad: potencia vs. otra consola de control). Base verificada: Sin cifras externas. Post EN de Teknium / Nous Research (58,5K vistas, 8-nov 00:23Z): la comunidad superó 1.000 plugins en el marketplace de Hermes. Ángulo no técnico: esa cifra muestra potencia ya disponible; para quien no programa, más plugins pueden volverse otra consola de control. Postura: Hermes ya es potente; lo que falta no es otro panel, sino que el agente traiga una decisión lista para aprobar. Sin decir que RT use el marketplace; sin Cadu ni beta; sin detalles de infra.",
-   "hook": "A thousand community plugins is impressive, and it shows how much power is already there.\n\nFor people who don't build so",
-   "top10_rank": 2
+   "created_at": "2026-11-08T19:50:50.000Z",
+   "window": "24h"
   },
   {
-   "name": "rileybrown",
-   "display_name": "rileybrown",
-   "handle": "@rileybrown",
+   "name": "midudev",
+   "display_name": "midudev",
+   "handle": "@midudev",
    "area": "ai",
-   "views": 20859,
-   "likes": 311,
-   "replies": 66,
-   "reposts": 8,
-   "url": "https://x.com/rileybrown/status/2119229301392392221",
-   "status_url": "https://x.com/rileybrown/status/2119229301392392221",
-   "text": "never been a better time to be a creative.\n\ntoday while in an uber, i had claude duet use it's vm to gather assets for a video idea i had",
-   "original_en": "never been a better time to be a creative.\n\ntoday while in an uber, i had claude duet use it's vm to gather assets for a video idea i had",
+   "views": 112780,
+   "likes": 4020,
+   "replies": 161,
+   "reposts": 203,
+   "url": "https://x.com/midudev/status/2119430907165647102",
+   "status_url": "https://x.com/midudev/status/2119430907165647102",
+   "text": "Igual soy el único, pero me siento afortunado de haber aprendido Ingeniería de Software antes de la IA.",
+   "original_en": "Igual soy el único, pero me siento afortunado de haber aprendido Ingeniería de Software antes de la IA.",
    "highlight": true,
-   "created_at": "2026-11-08T00:43:33.000Z",
-   "window": "24h",
-   "draft_en": "[R4 · respuesta] The striking part isn't the setup behind the scenes. It's that the work kept moving while you weren't at a desk, and you stepped in only to review.\n\nThat's the shift I care about: less remote-controlling the agent, more of it coming back with something ready for you to approve.\n\nI wouldn't need to watch every step. I'd need to trust the checkpoint.",
-   "draft_keywords": [
-    "Claude Duet trabaja mientras no estás en el escritorio: tú solo revisas"
-   ],
-   "why_hit": "Objetivo de respuesta R4 (Claude Duet trabaja mientras no estás en el escritorio: tú solo revisas). Base verificada: Sin cifras externas. Post EN de Riley Brown (20,9K vistas, 8-nov 00:43Z): en un Uber, Claude Duet juntó material en su máquina virtual, encargó una sesión de edición en su computador de casa, le envió un enlace y revisó el resultado; iteró unas cinco veces en media hora. Ángulo no técnico (sin hablar de render, Blender ni servidores): el trabajo siguió mientras no estaba en el escritorio y él entró solo a revisar. Eso es proactividad con aprobación. Sin inventar que RT use Duet; sin beta (para no repetir el encuadre del 7-nov).",
-   "hook": "The striking part isn't the setup behind the scenes. It's that the work kept moving while you weren't at a desk, and you",
-   "top10_rank": 3
+   "created_at": "2026-11-08T14:04:40.000Z",
+   "window": "24h"
   },
   {
    "name": "ErickSky",
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 7881,
-   "likes": 106,
-   "replies": 11,
-   "reposts": 3,
-   "url": "https://x.com/ErickSky/status/2119188899830345938",
-   "status_url": "https://x.com/ErickSky/status/2119188899830345938",
-   "text": "Hay una empresa de agentes cuyo nombre empieza por V y le dejó la embarrada y la billetera vacía a uno de sus clientes.\n\nSi van a contratar un servicio de IA para atender a su negocio, y el tipo no tiene X sino que solo está en Instagram, esa es una red flag gigantesca!!",
-   "original_en": "Hay una empresa de agentes cuyo nombre empieza por V y le dejó la embarrada y la billetera vacía a uno de sus clientes.\n\nSi van a contratar un servicio de IA para atender a su negocio, y el tipo no tiene X sino que solo está en Instagram, esa es una red flag gigantesca!!",
+   "views": 84867,
+   "likes": 1153,
+   "replies": 130,
+   "reposts": 51,
+   "url": "https://x.com/ErickSky/status/2119524432788234419",
+   "status_url": "https://x.com/ErickSky/status/2119524432788234419",
+   "text": "A mí me consta que hay señores de 50 años en el área de TI les cuesta muchísimo usar la IA y están completamente cooked porque llega un niño de 20 años con 400 subagentes a resolver el mismo día algo que en una reunión el don dijo que eso era algo que demoraba 4 meses. https://t.co/wvZ42yzDQh",
+   "original_en": "A mí me consta que hay señores de 50 años en el área de TI les cuesta muchísimo usar la IA y están completamente cooked porque llega un niño de 20 años con 400 subagentes a resolver el mismo día algo que en una reunión el don dijo que eso era algo que demoraba 4 meses. https://t.co/wvZ42yzDQh",
    "highlight": true,
-   "created_at": "2026-11-07T22:03:01.000Z",
+   "created_at": "2026-11-08T20:16:18.000Z",
    "window": "24h",
-   "draft_en": "[R1 · respuesta] Si vas a encargarle tu negocio a un servicio de agentes, la pregunta no es si tiene una cuenta bonita: es si puedes pedirle cuentas.\n\nA mí me importa que el agente, o quien lo opera, te traiga la decisión ya enmarcada y espere tu aprobación antes de actuar en tu nombre. Si no puedes ver el trabajo ni frenarlo, el riesgo lo estás corriendo tú.\n\nQue no responda donde sí puedes hablarle no es un detalle de marketing. Es parte del servicio.",
+   "draft_en": "[R1 · respuesta] Ojo con leerlo solo como edad contra velocidad. Lo que pesa no es cuántos subagentes lanzas, sino saber qué pedir y qué revisar antes de dar algo por bueno.\n\nEsa experiencia vale mucho si se aprende a delegar en agentes: es la que distingue el trabajo que se ve bien del que de verdad está bien.\n\nEl que tiene criterio y además aprende la herramienta va a rendir más que cualquiera de los dos por separado.",
    "draft_keywords": [
-    "Contratar un servicio de agentes: exigir que puedas pedirle cuentas"
+    "Edad vs. 400 subagentes: lo que pesa es el criterio para revisar"
    ],
-   "why_hit": "Objetivo de respuesta R1 (Contratar un servicio de agentes: exigir que puedas pedirle cuentas). Base verificada: Sin cifras externas. Post ES de ErickSky (7,9K vistas, 7-nov 22:03Z): una empresa de agentes cuyo nombre empieza por V dejó a un cliente en problemas; si quien ofrece el servicio no está en X y solo en Instagram, lo marca como una señal de alerta. Ángulo práctico, sin nombrar la empresa: para quien no es técnico, lo que importa es poder pedirle cuentas y que el agente (o quien lo opera) traiga la decisión ya enmarcada para aprobar. Sin Cadu ni beta; sin inventar que RT contrató ese servicio.",
-   "hook": "Si vas a encargarle tu negocio a un servicio de agentes, la pregunta no es si tiene una cuenta bonita: es si puedes pedi",
+   "why_hit": "Objetivo de respuesta R1 (Edad vs. 400 subagentes: lo que pesa es el criterio para revisar). Base verificada: Sin cifras externas. Post ES de ErickSky (84,7K vistas, 130 respuestas, 8-nov 20:16Z): profesionales de TI de 50 años a los que les cuesta la IA frente a un joven con 400 subagentes que resuelve en un día lo que se estimaba en 4 meses. Ángulo: no edad contra velocidad, sino criterio para saber qué pedir y qué revisar; sin infra ni cifras sobre RT.",
+   "hook": "Ojo con leerlo solo como edad contra velocidad. Lo que pesa no es cuántos subagentes lanzas, sino saber qué pedir y qué ",
+   "top10_rank": 2
+  },
+  {
+   "name": "elmostrador",
+   "display_name": "elmostrador",
+   "handle": "@elmostrador",
+   "area": "health",
+   "views": 48486,
+   "likes": 219,
+   "replies": 18,
+   "reposts": 78,
+   "url": "https://x.com/elmostrador/status/2119539204841746897",
+   "status_url": "https://x.com/elmostrador/status/2119539204841746897",
+   "text": "🟠 Lo+Leído | Estudio anticipa calor mortal en Chile\n\nhttps://t.co/MBwWMtS6A3",
+   "original_en": "🟠 Lo+Leído | Estudio anticipa calor mortal en Chile\n\nhttps://t.co/MBwWMtS6A3",
+   "highlight": true,
+   "created_at": "2026-11-08T21:15:00.000Z",
+   "window": "24h",
+   "draft_en": "[R6 · respuesta] Lo más útil de esa proyección es el cuándo: el modelo del Climate Impact Lab estima cerca de 200 muertes adicionales por calor en Chile hasta marzo, y la mayor parte caería en febrero y marzo, con más riesgo en el norte y en Valparaíso.\n\nEso deja tiempo para prepararse. Alertas tempranas, agua y lugares frescos disponibles, y atención a las personas mayores y a quienes tienen enfermedades crónicas, que suelen tolerar peor el calor.\n\nTodo eso funciona mejor si se organiza antes del verano, no en medio de la ola.\n\nFuente: https://www.elmostrador.cl/juego-limpio/2026/11/03/estudio-anticipa-calor-mortal-en-chile/",
+   "draft_keywords": [
+    "Calor extremo en Chile: el riesgo se concentra en febrero-marzo y se puede preparar"
+   ],
+   "why_hit": "Objetivo de respuesta R6 (Calor extremo en Chile: el riesgo se concentra en febrero-marzo y se puede preparar). Base verificada: El Mostrador, Juego Limpio (3-nov-2026): el El Niño Heat Mortality Tracker del Climate Impact Lab (vinculado a la U. de Chicago) proyecta cerca de 200 muertes adicionales por calor en Chile hasta marzo de 2027; febrero y marzo concentrarían la mayor parte; el norte concentra las mayores estimaciones y la zona central y sur cifras menores, con la excepción de Valparaíso; medidas útiles: alertas tempranas, acceso a servicios de salud, centros de enfriamiento y agua. Modelo aún no publicado en revista. Post 48,5K vistas, 18 respuestas.",
+   "hook": "Lo más útil de esa proyección es el cuándo: el modelo del Climate Impact Lab estima cerca de 200 muertes adicionales por",
+   "top10_rank": 3
+  },
+  {
+   "name": "midudev",
+   "display_name": "midudev",
+   "handle": "@midudev",
+   "area": "health",
+   "views": 29131,
+   "likes": 1242,
+   "replies": 47,
+   "reposts": 44,
+   "url": "https://x.com/midudev/status/2119447541406199830",
+   "status_url": "https://x.com/midudev/status/2119447541406199830",
+   "text": "Cada vez veo más gente quemada y crispada en redes. Mi consejo es que apaguen la IA un rato, hagan deporte, lean un libro o incluso abúrranse un poco. Hay que cuidar la salud mental. https://t.co/wApRIkFbo8",
+   "original_en": "Cada vez veo más gente quemada y crispada en redes. Mi consejo es que apaguen la IA un rato, hagan deporte, lean un libro o incluso abúrranse un poco. Hay que cuidar la salud mental. https://t.co/wApRIkFbo8",
+   "highlight": true,
+   "created_at": "2026-11-08T15:10:45.000Z",
+   "window": "24h",
+   "draft_en": "[R5 · respuesta] Muy de acuerdo, y lo digo como médico: el descanso no es un premio para cuando terminas, es parte de lo que te permite pensar bien.\n\nCuando uno vive pegado a la pantalla y a la discusión, lo primero que se resiente suele ser el sueño. Y detrás vienen el ánimo, la paciencia y la concentración.\n\nAburrirse un rato también sirve. No todo silencio hay que llenarlo con otra respuesta.",
+   "draft_keywords": [
+    "Apagar la IA un rato: el descanso y el sueño también son salud mental"
+   ],
+   "why_hit": "Objetivo de respuesta R5 (Apagar la IA un rato: el descanso y el sueño también son salud mental). Base verificada: Sin cifras externas. Post ES de midudev (29,1K vistas, 47 respuestas, 8-nov 15:10Z): gente quemada y crispada en redes; consejo de apagar la IA, hacer deporte, leer y aburrirse; cuidar la salud mental. El hilo es de salud, así que el ángulo médico encaja sin forzar; afirmaciones generales sin cifras.",
+   "hook": "Muy de acuerdo, y lo digo como médico: el descanso no es un premio para cuando terminas, es parte de lo que te permite p",
    "top10_rank": 4
   },
   {
-   "name": "colmedchile",
-   "display_name": "colmedchile",
-   "handle": "@colmedchile",
-   "area": "health",
-   "views": 5317,
-   "likes": 87,
-   "replies": 4,
-   "reposts": 59,
-   "url": "https://x.com/colmedchile/status/2119213307517440197",
-   "status_url": "https://x.com/colmedchile/status/2119213307517440197",
-   "text": "🏥 Presupuesto de Salud 2027\nEn el marco de la discusión presupuestaria, el presidente del Colegio Médico Valparaíso, Dr. Luis Ignacio de la Torre, plantea dos prioridades fundamentales: asegurar los recursos para saldar la deuda hospitalaria durante 2026 y reponer las 77 glosas",
-   "original_en": "🏥 Presupuesto de Salud 2027\nEn el marco de la discusión presupuestaria, el presidente del Colegio Médico Valparaíso, Dr. Luis Ignacio de la Torre, plantea dos prioridades fundamentales: asegurar los recursos para saldar la deuda hospitalaria durante 2026 y reponer las 77 glosas",
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 13840,
+   "likes": 181,
+   "replies": 11,
+   "reposts": 15,
+   "url": "https://x.com/ErickSky/status/2119569753081614658",
+   "status_url": "https://x.com/ErickSky/status/2119569753081614658",
+   "text": "El Consejo de Directores de NVIDIA acaba de confirmar que Jensen Huang, fundador y CEO de la empresa que diseña la infraestructura de computación de IA más avanzada del planeta, fue el objetivo de un esfuerzo de inteligencia extranjera.\n\nLa investigación independiente ya está en https://t.co/266iz62efX",
+   "original_en": "El Consejo de Directores de NVIDIA acaba de confirmar que Jensen Huang, fundador y CEO de la empresa que diseña la infraestructura de computación de IA más avanzada del planeta, fue el objetivo de un esfuerzo de inteligencia extranjera.\n\nLa investigación independiente ya está en https://t.co/266iz62efX",
    "highlight": true,
-   "created_at": "2026-11-07T23:40:00.000Z",
+   "created_at": "2026-11-08T23:16:23.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "midudev",
+   "display_name": "midudev",
+   "handle": "@midudev",
+   "area": "ai",
+   "views": 10994,
+   "likes": 269,
+   "replies": 14,
+   "reposts": 15,
+   "url": "https://x.com/midudev/status/2119762327314796978",
+   "status_url": "https://x.com/midudev/status/2119762327314796978",
+   "text": "El resumen más salvaje que he visto de lo que ha pasado con NVIDIA y su fundador. https://t.co/nclN13VPs8",
+   "original_en": "El resumen más salvaje que he visto de lo que ha pasado con NVIDIA y su fundador. https://t.co/nclN13VPs8",
+   "highlight": true,
+   "created_at": "2026-11-09T12:01:36.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 6014,
+   "likes": 115,
+   "replies": 3,
+   "reposts": 4,
+   "url": "https://x.com/ErickSky/status/2119457318366597169",
+   "status_url": "https://x.com/ErickSky/status/2119457318366597169",
+   "text": "Me lo guardo y ustedes también deberían https://t.co/U9qwpgpXXb",
+   "original_en": "Me lo guardo y ustedes también deberían https://t.co/U9qwpgpXXb",
+   "highlight": true,
+   "created_at": "2026-11-08T15:49:36.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 4244,
+   "likes": 53,
+   "replies": 7,
+   "reposts": 2,
+   "url": "https://x.com/ErickSky/status/2119537304498794997",
+   "status_url": "https://x.com/ErickSky/status/2119537304498794997",
+   "text": "Aquí los espero en unos meses cuando les toque fixear la cagada que les dejaron los influencers de Instagram ❤️🤗 https://t.co/Vlf5QnG86n",
+   "original_en": "Aquí los espero en unos meses cuando les toque fixear la cagada que les dejaron los influencers de Instagram ❤️🤗 https://t.co/Vlf5QnG86n",
+   "highlight": false,
+   "created_at": "2026-11-08T21:07:27.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 4185,
+   "likes": 30,
+   "replies": 4,
+   "reposts": 1,
+   "url": "https://x.com/ErickSky/status/2119572436953801002",
+   "status_url": "https://x.com/ErickSky/status/2119572436953801002",
+   "text": "Yo no gano lo suficiente para vivir en Venezuela 😭 https://t.co/atcbWhDpfI",
+   "original_en": "Yo no gano lo suficiente para vivir en Venezuela 😭 https://t.co/atcbWhDpfI",
+   "highlight": false,
+   "created_at": "2026-11-08T23:27:03.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 3829,
+   "likes": 147,
+   "replies": 2,
+   "reposts": 13,
+   "url": "https://x.com/ErickSky/status/2119506206893232441",
+   "status_url": "https://x.com/ErickSky/status/2119506206893232441",
+   "text": "Instalen el nuevo plugin de Hermes para hacerles una revisión de seguridad a su app con 1 usuario 🤗 https://t.co/QQvGYtcj6A",
+   "original_en": "Instalen el nuevo plugin de Hermes para hacerles una revisión de seguridad a su app con 1 usuario 🤗 https://t.co/QQvGYtcj6A",
+   "highlight": false,
+   "created_at": "2026-11-08T19:03:52.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "nvandewetering",
+   "display_name": "nvandewetering",
+   "handle": "@nvandewetering",
+   "area": "ai",
+   "views": 3333,
+   "likes": 9,
+   "replies": 12,
+   "reposts": 0,
+   "url": "https://x.com/nvandewetering/status/2119475535680274670",
+   "status_url": "https://x.com/nvandewetering/status/2119475535680274670",
+   "text": "Only one of Grok Bot, ChatGPT Dots and Claude Duet survives 2026.\n\nIf you could only keep one personal agent for the rest of 2026, Grok Bot, ChatGPT Dots or Claude Duet, which one and why?\n\nI'll pin the best answer.",
+   "original_en": "Only one of Grok Bot, ChatGPT Dots and Claude Duet survives 2026.\n\nIf you could only keep one personal agent for the rest of 2026, Grok Bot, ChatGPT Dots or Claude Duet, which one and why?\n\nI'll pin the best answer.",
+   "highlight": false,
+   "created_at": "2026-11-08T17:02:00.000Z",
    "window": "24h",
-   "draft_en": "[R6 · respuesta] Las dos prioridades que plantea el Colegio Médico de Valparaíso se entienden mejor desde el lado del paciente.\n\nSi el hospital arrastra deuda al año siguiente, se atrasan compras, se tensiona el pabellón y las listas de espera se alargan. Y si programas de atención primaria pasan al per cápita sin glosas de seguimiento, cuesta saber si esa plata se está traduciendo en controles y exámenes a tiempo.\n\nFinanciamiento suficiente y datos para fiscalizar no son un trámite presupuestario: son lo que permite que una hora de especialista o una cirugía lleguen cuando se necesitan.\n\nFuente: https://www.latercera.com/nacional/noticia/gremios-de-la-salud-alertan-por-presupuesto-2027-advierten-por-deuda-y-listas-de-espera/ · https://www.colegiomedico.cl/consejo-nacional-del-colegio-medico-analiza-presupuesto-de-salud-2027/",
+   "draft_en": "[R3 · respuesta] Whichever one I'd trust with my real calendar and my real inbox, not the one with the longest feature list.\n\nThat trust is built on boring things: it remembers what I told it last week, it says when it isn't sure, and it admits when it couldn't finish something.\n\nFeatures get copied in a month. That kind of reliability is much harder to copy.",
    "draft_keywords": [
-    "Presupuesto de Salud 2027: deuda hospitalaria y glosas para seguir la atención primaria"
+    "Si solo queda un agente personal: el que se gana la confianza en lo cotidiano"
    ],
-   "why_hit": "Objetivo de respuesta R6 (Presupuesto de Salud 2027: deuda hospitalaria y glosas para seguir la atención primaria). Base verificada: Post del Colegio Médico (5,3K vistas, 7-nov 23:40Z): el presidente del Regional Valparaíso, Dr. Luis Ignacio de la Torre, pide asegurar recursos para saldar la deuda hospitalaria durante 2026 y reponer las 77 glosas presupuestarias de fiscalización; el gremio insiste en financiamiento suficiente, transparencia y seguimiento para fortalecer la APS y reducir listas de espera. La Tercera (29-oct-2026) recoge a la presidenta nacional Anamaría Arriagada: si se parte 2027 con deuda el año se complica, y las 77 glosas importan porque hay programas de APS que pasaron al per cápita y hay que vigilarlos con datos. Sin cifras inventadas de deuda ni de listas; sin citar declaraciones partidistas del senador Castro; ángulo de paciente.",
-   "hook": "Las dos prioridades que plantea el Colegio Médico de Valparaíso se entienden mejor desde el lado del paciente.\n\nSi el ho",
+   "why_hit": "Objetivo de respuesta R3 (Si solo queda un agente personal: el que se gana la confianza en lo cotidiano). Base verificada: Sin cifras externas. Post EN de nvandewetering (3,3K vistas, 12 respuestas, 8-nov 17:02Z): si solo pudieras quedarte con un agente personal en 2026 (Grok Bot, ChatGPT Dots o Claude Duet), ¿cuál y por qué? Ángulo: no elegir marca; la confianza se construye con memoria, honestidad sobre lo no terminado y fiabilidad. Sin nombrar cuál usa RT, sin beta, sin infra.",
+   "hook": "Whichever one I'd trust with my real calendar and my real inbox, not the one with the longest feature list.\n\nThat trust ",
    "top10_rank": 5
   },
   {
-   "name": "jmanalich",
-   "display_name": "jmanalich",
-   "handle": "@jmanalich",
+   "name": "24HorasTVN",
+   "display_name": "24HorasTVN",
+   "handle": "@24HorasTVN",
    "area": "health",
-   "views": 2193,
-   "likes": 4,
-   "replies": 0,
-   "reposts": 3,
-   "url": "https://x.com/jmanalich/status/2119070951761678615",
-   "status_url": "https://x.com/jmanalich/status/2119070951761678615",
-   "text": "Columna de Jaime Mañalich: La IA ya entró a la clínica",
-   "original_en": "Columna de Jaime Mañalich: La IA ya entró a la clínica",
+   "views": 2839,
+   "likes": 3,
+   "replies": 1,
+   "reposts": 5,
+   "url": "https://x.com/24HorasTVN/status/2119545596201644318",
+   "status_url": "https://x.com/24HorasTVN/status/2119545596201644318",
+   "text": "🔴 #Nacional\n\nPobreza menstrual: \"Tampoco es reconocida por la salud pública en Chile\"\n\nMás detalles ⬇\nhttps://t.co/DVmGlwUFB2",
+   "original_en": "🔴 #Nacional\n\nPobreza menstrual: \"Tampoco es reconocida por la salud pública en Chile\"\n\nMás detalles ⬇\nhttps://t.co/DVmGlwUFB2",
    "highlight": false,
-   "created_at": "2026-11-07T14:14:19.000Z",
+   "created_at": "2026-11-08T21:40:24.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "daniel_mac8",
+   "display_name": "daniel_mac8",
+   "handle": "@daniel_mac8",
+   "area": "ai",
+   "views": 2747,
+   "likes": 41,
+   "replies": 13,
+   "reposts": 1,
+   "url": "https://x.com/daniel_mac8/status/2119532947300634816",
+   "status_url": "https://x.com/daniel_mac8/status/2119532947300634816",
+   "text": "Seven design principles for my Claude Duet + Claude Projects + Claude Code personal agent set up.\n\nWhat do you think of these? Would you add anything?\n\nYes, I will publish a full guide so you can borrow it soon.",
+   "original_en": "Seven design principles for my Claude Duet + Claude Projects + Claude Code personal agent set up.\n\nWhat do you think of these? Would you add anything?\n\nYes, I will publish a full guide so you can borrow it soon.",
+   "highlight": false,
+   "created_at": "2026-11-08T20:50:08.000Z",
    "window": "24h",
-   "draft_en": "[R5 · respuesta] De acuerdo en lo de fondo: la pregunta ya no es si la IA entra a la clínica. Ya está, y en oftalmología hay un ejemplo chileno.\n\nLa plataforma DART apoya el tamizaje de retinopatía diabética en la atención primaria: la IA ayuda a separar exámenes de bajo riesgo de los que un oftalmólogo debe revisar. Eso puede ampliar cobertura, siempre que el hallazgo llegue de verdad a quien puede tratarlo.\n\nComo dice la columna, un profesional tiene que seguir siendo responsable de la decisión, y el tiempo que se ahorra debería servir para conversar con el paciente, no solo para ver a más personas por hora.\n\nFuente: https://www.theclinic.cl/2026/11/07/columna-de-jaime-manalich-la-ia-ya-entro-a-la-clinica/ · https://portalsaluddigital.minsal.cl/celula-oftalmologia-dart/ · https://www.teledx.org/dart.html",
+   "draft_en": "[R4 · respuesta] I'd add one: the agent should report what it didn't do, not only what it did.\n\nA clean summary that quietly skips the hard part is worse than an honest \"I got stuck here, this is what I need from you.\"\n\nFor someone who doesn't write code, that's what makes delegating feel safe: I can't check everything, so I need to know where to look.",
    "draft_keywords": [
-    "La IA ya entró a la clínica: DART en retinopatía diabética y un humano responsable"
+    "Un principio más para el agente personal: que reporte lo que no hizo"
    ],
-   "why_hit": "Objetivo de respuesta R5 (La IA ya entró a la clínica: DART en retinopatía diabética y un humano responsable). Base verificada: Columna de Jaime Mañalich en The Clinic (7-nov-2026): la IA ya está en la clínica; pide reglas, evidencia local y un profesional humano responsable; cita DART para el tamizaje de retinopatía diabética en APS; alerta que si el tiempo ahorrado se usa solo para ver más pacientes se pierde conversación. Minsal (Célula Oftalmología) y TeleDx: DART analiza retinografías, separa casos de bajo riesgo y deriva los alterados o no evaluables a revisión de oftalmólogo. Sin citar coberturas ni sensibilidades no re-verificadas en el texto; sin inventar uso de DART por RT; 2,2K vistas.",
-   "hook": "De acuerdo en lo de fondo: la pregunta ya no es si la IA entra a la clínica. Ya está, y en oftalmología hay un ejemplo c",
+   "why_hit": "Objetivo de respuesta R4 (Un principio más para el agente personal: que reporte lo que no hizo). Base verificada: Sin cifras externas. Post EN de daniel_mac8 (2,7K vistas, 13 respuestas, 8-nov 20:50Z): siete principios de diseño para su agente personal con Claude Duet + Projects + Code; pregunta qué agregaríamos. Ángulo nuevo (no «decisión enmarcada» ni «aprobar lo que va a tu nombre», ya usados): que el agente informe lo que no hizo o donde se atascó. RT no programa (verdadero).",
+   "hook": "I'd add one: the agent should report what it didn't do, not only what it did.\n\nA clean summary that quietly skips the ha",
    "top10_rank": 6
+  },
+  {
+   "name": "elliberocl",
+   "display_name": "elliberocl",
+   "handle": "@elliberocl",
+   "area": "health",
+   "views": 1497,
+   "likes": 102,
+   "replies": 3,
+   "reposts": 54,
+   "url": "https://x.com/elliberocl/status/2119747886225228265",
+   "status_url": "https://x.com/elliberocl/status/2119747886225228265",
+   "text": "#Actualidad | Fonasa usa la IA para detectar y evitar fraudes: lo \"ahorrado\" les permitió hacer 3 mil cirugías de rodilla y cadera\n\nhttps://t.co/lMWFet1ShR",
+   "original_en": "#Actualidad | Fonasa usa la IA para detectar y evitar fraudes: lo \"ahorrado\" les permitió hacer 3 mil cirugías de rodilla y cadera\n\nhttps://t.co/lMWFet1ShR",
+   "highlight": false,
+   "created_at": "2026-11-09T11:04:13.000Z",
+   "window": "24h",
+   "draft_en": "[R7 · respuesta] Lo interesante es el cambio de lógica: revisar las prestaciones antes de pagarlas, en vez de descubrir el problema meses después. Según el director de Fonasa, el sistema revisa más de 10 mil transacciones al día, y lo ahorrado permitió completar 3 mil cirugías de rodilla y cadera.\n\nEsa misma anticipación es la que más falta en las listas de espera: saber quién se está atrasando antes de que su caso se complique.\n\nY tiene razón en algo que se dice poco: los datos mejoran cuando se usan.\n\nFuente: https://ellibero.cl/factor-ia/director-nacional-fonasa-nos-apoyamos-en-ia-en-materia-de-fiscalizacion/",
+   "draft_keywords": [
+    "Fonasa usa IA para revisar antes de pagar: esa anticipación sirve también para las listas de espera"
+   ],
+   "why_hit": "Objetivo de respuesta R7 (Fonasa usa IA para revisar antes de pagar: esa anticipación sirve también para las listas de espera). Base verificada: El Líbero, Factor IA (9-nov-2026), entrevista a César Oyarzo, director nacional de Fonasa: el Sistema Integrado de Riesgos y Alertas (SIRA) revisa más de 10 mil transacciones al día, entrega cada mañana un reporte de alertas antes de pagar la prestación; lo ahorrado este año permitió completar 3 mil cirugías de rodilla y cadera; «reducir la lista de espera requiere anticipación»; reconoce falta de datos y que los datos mejoran cuando se usan. Ángulo positivo, sin hablar de fraudes de médicos (tema sensible descartado antes). 1,5K vistas, bajo umbral de estrella pero sobre 1.000; tema de IA en salud Chile.",
+   "hook": "Lo interesante es el cambio de lógica: revisar las prestaciones antes de pagarlas, en vez de descubrir el problema meses",
+   "top10_rank": 7
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Agentes: la utilidad está en que te llegue una decisión ya enmarcada, no en otra consola de plugins",
-  "Orquestación: una sola cola y revisión humana; no hace falta ser el mensajero entre agentes",
-  "Claude Duet: el trabajo puede seguir cuando no estás en el escritorio; tú entras a aprobar",
-  "Salud Chile: la IA ya está en la clínica (DART para retinopatía diabética) y pide un humano responsable",
-  "Presupuesto: la deuda hospitalaria y las glosas de seguimiento se sienten en las listas de espera"
+  "Prompts: el contexto (para qué, para quién, qué es bien hecho) pesa más que el rol",
+  "Experiencia vs. velocidad: el criterio para revisar es lo que hace útil a un equipo de subagentes",
+  "Agentes personales: la confianza se gana en lo cotidiano (memoria, honestidad, fiabilidad)",
+  "Salud mental: descanso y sueño como parte del trabajo, no premio",
+  "Salud Chile: anticipación (calor de febrero-marzo, revisión previa en Fonasa) como idea común"
  ],
  "no_hits": [
   {
@@ -167,9 +344,14 @@
    "reason": "Sin originales en las últimas 24h."
   },
   {
+   "handle": "@freddier",
+   "max_views": 0,
+   "reason": "Sin originales en las últimas 24h."
+  },
+  {
    "handle": "@sergiorocaa",
-   "max_views": 167,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 167."
+   "max_views": 1487,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.487."
   },
   {
    "handle": "@bilinkis",
@@ -178,8 +360,8 @@
   },
   {
    "handle": "@ministeriosalud",
-   "max_views": 1265,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.265."
+   "max_views": 0,
+   "reason": "Sin originales en las últimas 24h."
   },
   {
    "handle": "@Pajarobere",
@@ -188,8 +370,8 @@
   },
   {
    "handle": "@juancarlossaid",
-   "max_views": 1549,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.549."
+   "max_views": 0,
+   "reason": "Sin originales en las últimas 24h."
   },
   {
    "handle": "@CatuRojas",
@@ -198,18 +380,23 @@
   },
   {
    "handle": "@HeliaMolina_M",
-   "max_views": 475,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 475."
+   "max_views": 0,
+   "reason": "Sin originales en las últimas 24h."
+  },
+  {
+   "handle": "@jmanalich",
+   "max_views": 0,
+   "reason": "Sin originales en las últimas 24h."
   }
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 6,
+ "hits_count": 16,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-11-07",
-  "hits_count": 22,
-  "total_views": 299662
+  "date": "2026-11-08",
+  "hits_count": 6,
+  "total_views": 996552
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -277,11 +464,20 @@
  },
  "day_roster": [
   {
+   "handle": "@ErickSky",
+   "name": "ErickSky",
+   "area": "ai",
+   "views": 156034,
+   "total_views": 294650,
+   "hit": true,
+   "window": "24h"
+  },
+  {
    "handle": "@midudev",
    "name": "midudev",
    "area": "ai",
-   "views": 178484,
-   "total_views": 215144,
+   "views": 138932,
+   "total_views": 291837,
    "hit": true,
    "window": "24h"
   },
@@ -289,26 +485,8 @@
    "handle": "@adnradiochile",
    "name": "adnradiochile",
    "area": "health",
-   "views": 22684,
-   "total_views": 78881,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@freddier",
-   "name": "freddier",
-   "area": "ai",
-   "views": 9358,
-   "total_views": 9358,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@ErickSky",
-   "name": "ErickSky",
-   "area": "ai",
-   "views": 7881,
-   "total_views": 21170,
+   "views": 2768,
+   "total_views": 20704,
    "hit": true,
    "window": "24h"
   },
@@ -316,59 +494,32 @@
    "handle": "@Cooperativa",
    "name": "Cooperativa",
    "area": "health",
-   "views": 7002,
-   "total_views": 16292,
+   "views": 2376,
+   "total_views": 11907,
    "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@jmanalich",
-   "name": "jmanalich",
-   "area": "health",
-   "views": 2193,
-   "total_views": 4186,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@juancarlossaid",
-   "name": "juancarlossaid",
-   "area": "health",
-   "views": 1549,
-   "total_views": 1549,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@ministeriosalud",
-   "name": "ministeriosalud",
-   "area": "health",
-   "views": 1265,
-   "total_views": 1265,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@HeliaMolina_M",
-   "name": "HeliaMolina_M",
-   "area": "health",
-   "views": 475,
-   "total_views": 1149,
-   "hit": false,
    "window": "24h"
   },
   {
    "handle": "@sergiorocaa",
    "name": "sergiorocaa",
    "area": "ai",
-   "views": 167,
-   "total_views": 167,
+   "views": 1487,
+   "total_views": 2989,
    "hit": false,
    "window": "24h"
   },
   {
    "handle": "@DotCSV",
    "name": "DotCSV",
+   "area": "ai",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@freddier",
+   "name": "freddier",
    "area": "ai",
    "views": 0,
    "total_views": 0,
@@ -385,6 +536,15 @@
    "window": "24h"
   },
   {
+   "handle": "@ministeriosalud",
+   "name": "ministeriosalud",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
    "handle": "@Pajarobere",
    "name": "Pajarobere",
    "area": "health",
@@ -394,8 +554,35 @@
    "window": "24h"
   },
   {
+   "handle": "@juancarlossaid",
+   "name": "juancarlossaid",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
    "handle": "@CatuRojas",
    "name": "CatuRojas",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@HeliaMolina_M",
+   "name": "HeliaMolina_M",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@jmanalich",
+   "name": "jmanalich",
    "area": "health",
    "views": 0,
    "total_views": 0,
@@ -467,58 +654,54 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "Hermes 1000 plugins comunidad"
+    "keyword": "prompts «actúa como» vs. contexto"
    },
    {
     "rank": 2,
-    "keyword": "orquestación de agentes y una sola cola"
+    "keyword": "IA y profesionales con experiencia"
    },
    {
     "rank": 3,
-    "keyword": "Claude Duet proactivo fuera del escritorio"
+    "keyword": "subagentes y criterio para revisar"
    },
    {
     "rank": 4,
-    "keyword": "contratar un servicio de agentes con accountability"
+    "keyword": "un solo agente personal 2026 (Grok Bot, Dots, Claude Duet)"
    },
    {
     "rank": 5,
-    "keyword": "proactividad y aprobación humana"
+    "keyword": "principios de diseño de un agente personal"
    },
    {
     "rank": 6,
-    "keyword": "IA en la clínica y DART"
+    "keyword": "salud mental y apagar la IA"
    },
    {
     "rank": 7,
-    "keyword": "retinopatía diabética en APS"
+    "keyword": "calor extremo y El Niño en Chile"
    },
    {
     "rank": 8,
-    "keyword": "presupuesto salud deuda hospitalaria"
+    "keyword": "Fonasa IA SIRA y listas de espera"
    },
    {
     "rank": 9,
-    "keyword": "glosas de fiscalización APS"
+    "keyword": "ojo rojo señales de alarma"
    },
    {
     "rank": 10,
-    "keyword": "protección UV lentes de sol"
-   },
-   {
-    "rank": 11,
-    "keyword": "glaucoma examen dilatación"
+    "keyword": "ojo perezoso control 3 a 5 años"
    }
   ],
-  "note": "Minadas de originales 24h del watchlist y búsquedas de agentes/salud Chile (curadas a mano). Temas político-partidistas (Kast/Teletón, Cesfam/seguridad), entretenimiento puro Teletón, accidentes y tecnología pura (Next.js, Rust, precios de tokens) excluidos."
+  "note": "Minadas de originales 24h del watchlist y búsquedas de agentes/salud Chile (curadas a mano). Excluidos: política, presupuesto, fútbol (Colo Colo), caso Nvidia, accidentes y tecnología pura."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 08-11-2026: 6 respuestas (R1–R6: 4 de agentes de IA y 2 de salud en Chile) y 2 originales (P1–P2) en borrador para aprobación; nada publicado.",
-   "takeaway": "Watchlist IA: midudev lideró alcance con debates de stack/curso de Rust (fuera de línea de RT); ErickSky tuvo el original útil (contratar un servicio de agentes, 7,9K). DotCSV, bilinkis y sergiorocaa sin hits de línea. Fuera del watchlist, las conversaciones de agentes con más tracción fueron Brian Armstrong (cola única / chief of staff, 901K), Teknium (1.000 plugins de Hermes, 58,5K) y Riley Brown (Claude Duet trabajando fuera del escritorio, 20,9K). Salud Chile en domingo quedó muy marcada por Teletón-entretenimiento, política (Kast) y el accidente de Santo Domingo: excluidos. Útiles: columna de Mañalich «La IA ya entró a la clínica» (DART / retinopatía diabética, 2,2K) y Colegio Médico sobre deuda hospitalaria y 77 glosas (5,3K). Minsal solo saludó el Día de la Radiología (1,3K, bajo umbral)."
+   "headline": "Digest 09-11-2026: 7 respuestas (R1–R7: 4 de agentes de IA y 3 de salud) y 2 originales (P1–P2) en borrador para el filtro de Wally; nada publicado.",
+   "takeaway": "Watchlist IA: ErickSky dominó con el post contra los prompts «actúa como» (155,7K) y el de profesionales de TI de 50 años frente a subagentes (84,7K); midudev tuvo alcance alto con temas fuera de línea y uno útil sobre salud mental (29,1K). Conversación de agentes personales: comparativas Grok Bot / Dots / Claude Duet (nvandewetering 3,3K) y principios de diseño (daniel_mac8 2,7K). Salud Chile: watchlist salud dominado por Colo Colo, economía y política; lo útil vino de fuera: El Mostrador sobre calor extremo (48,5K) y Fonasa usando IA para anticiparse (El Líbero, 1,5K). Presupuesto de Salud 2027 (Colmed 5,2K) excluido por presupuestario."
   },
   "corpus": {
-   "posts": 34,
+   "posts": 55,
    "min_views": 2000
   },
   "window": {
@@ -530,101 +713,113 @@
     "title": "R1 · respuesta a @ErickSky",
     "format": "respuesta",
     "source": "@ErickSky",
-    "topic": "Contratar un servicio de agentes: exigir que puedas pedirle cuentas",
-    "hook_en": "Si vas a encargarle tu negocio a un servicio de agentes, la pregunta no es si tiene una cuenta bonita: es si puedes pedirle cuentas.\n\nA mí me importa que el agente, o quien lo opera, te traiga la decisión ya enmarcada y espere tu aprobación antes de actuar en tu nombre. Si no puedes ver el trabajo ni frenarlo, el riesgo lo estás corriendo tú.\n\nQue no responda donde sí puedes hablarle no es un detalle de marketing. Es parte del servicio.",
-    "angle": "Objetivo: https://x.com/ErickSky/status/2119188899830345938 (7.881 vistas)",
-    "why": "Base: Sin cifras externas. Post ES de ErickSky (7,9K vistas, 7-nov 22:03Z): una empresa de agentes cuyo nombre empieza por V dejó a un cliente en problemas; si quien ofrece el servicio no está en X y solo en Instagram, lo marca como una señal de alerta. Ángulo práctico, sin nombrar la empresa: para quien no es técnico, lo que importa es poder pedirle cuentas y que el agente (o quien lo opera) traiga la decisión ya enmarcada para aprobar. Sin Cadu ni beta; sin inventar que RT contrató ese servicio. Fuente: sin cifras externas",
+    "topic": "Edad vs. 400 subagentes: lo que pesa es el criterio para revisar",
+    "hook_en": "Ojo con leerlo solo como edad contra velocidad. Lo que pesa no es cuántos subagentes lanzas, sino saber qué pedir y qué revisar antes de dar algo por bueno.\n\nEsa experiencia vale mucho si se aprende a delegar en agentes: es la que distingue el trabajo que se ve bien del que de verdad está bien.\n\nEl que tiene criterio y además aprende la herramienta va a rendir más que cualquiera de los dos por separado.",
+    "angle": "Objetivo: https://x.com/ErickSky/status/2119524432788234419 (84.867 vistas)",
+    "why": "Base: Sin cifras externas. Post ES de ErickSky (84,7K vistas, 130 respuestas, 8-nov 20:16Z): profesionales de TI de 50 años a los que les cuesta la IA frente a un joven con 400 subagentes que resuelve en un día lo que se estimaba en 4 meses. Ángulo: no edad contra velocidad, sino criterio para saber qué pedir y qué revisar; sin infra ni cifras sobre RT. Fuente: sin cifras externas",
     "keywords": [
-     "Contratar un servicio de agentes: exigir que puedas pedirle cuentas"
+     "Edad vs. 400 subagentes: lo que pesa es el criterio para revisar"
     ]
    },
    {
-    "title": "R2 · respuesta a @Teknium",
+    "title": "R2 · respuesta a @ErickSky",
     "format": "respuesta",
-    "source": "@Teknium",
-    "topic": "Hermes supera 1.000 plugins de la comunidad: potencia vs. otra consola de control",
-    "hook_en": "A thousand community plugins is impressive, and it shows how much power is already there.\n\nFor people who don't build software, though, more plugins can quietly become another control panel: you end up orchestrating the tools instead of getting the work.\n\nThe piece I'd still watch for is the opposite of a bigger marketplace: the agent noticing what matters and bringing you a decision ready to approve.",
-    "angle": "Objetivo: https://x.com/Teknium/status/2119224332471894509 (58.525 vistas)",
-    "why": "Base: Sin cifras externas. Post EN de Teknium / Nous Research (58,5K vistas, 8-nov 00:23Z): la comunidad superó 1.000 plugins en el marketplace de Hermes. Ángulo no técnico: esa cifra muestra potencia ya disponible; para quien no programa, más plugins pueden volverse otra consola de control. Postura: Hermes ya es potente; lo que falta no es otro panel, sino que el agente traiga una decisión lista para aprobar. Sin decir que RT use el marketplace; sin Cadu ni beta; sin detalles de infra. Fuente: sin cifras externas",
+    "source": "@ErickSky",
+    "topic": "«Actúa como…»: el contexto cambia más el resultado que el rol",
+    "hook_en": "Más que el rol, lo que cambia el resultado es el contexto: para qué lo necesitas, quién lo va a leer y qué considerarías bien hecho.\n\n«Actúa como experto en marketing» le dice poco. «Escribe para dueños de pymes que nunca han hecho un anuncio, en tres párrafos y sin anglicismos» le dice casi todo.\n\nY lo ideal es no tener que repetirlo cada vez: un buen asistente debería recordar quién eres y cómo trabajas.",
+    "angle": "Objetivo: https://x.com/ErickSky/status/2119580086420521450 (156.034 vistas)",
+    "why": "Base: Sin cifras externas. Post ES de ErickSky (155,7K vistas, 8-nov 23:57Z) contra los prompts tipo «actúa como un XXXX y hazme YYYY». Ángulo práctico para no técnicos: dar contexto (para qué, para quién, qué es bien hecho) y que el asistente lo recuerde; ejemplo no clínico para no forzar salud. Fuente: sin cifras externas",
     "keywords": [
-     "Hermes supera 1.000 plugins de la comunidad: potencia vs. otra consola de control"
+     "«Actúa como…»: el contexto cambia más el resultado que el rol"
     ]
    },
    {
-    "title": "R3 · respuesta a @brian_armstrong",
+    "title": "R3 · respuesta a @nvandewetering",
     "format": "respuesta",
-    "source": "@brian_armstrong",
-    "topic": "Un jefe de staff y una sola cola: el humano sigue decidiendo",
-    "hook_en": "The part that stays with me is the queue: everything that needs your judgment arrives in one place, already framed, and you still make the call.\n\nThat's the difference between having many agents and having to manage them. You shouldn't have to be the messenger or the chief of staff all day.\n\nKeep the human review. Let the system do the running around.",
-    "angle": "Objetivo: https://x.com/brian_armstrong/status/2119112609223827547 (901.777 vistas)",
-    "why": "Base: Sin cifras externas. Post largo EN de Brian Armstrong (901,8K vistas, 7-nov 16:59Z): un agente líder por área, un agente «chief of staff» que los supervisa, y una sola cola priorizada donde llega lo que necesita decidir o revisar (con capturas y demo); elige por lotes; el sistema distila su criterio; todo cambio sigue pasando por revisión humana. Ángulo: no hay que ser el mensajero ni el jefe de staff todo el día; la utilidad es que te llegue la decisión ya enmarcada. Sin beta (usada el 7-nov en otro hilo); sin inventar que RT arme este sistema; sin detalles de infra. Fuente: sin cifras externas",
+    "source": "@nvandewetering",
+    "topic": "Si solo queda un agente personal: el que se gana la confianza en lo cotidiano",
+    "hook_en": "Whichever one I'd trust with my real calendar and my real inbox, not the one with the longest feature list.\n\nThat trust is built on boring things: it remembers what I told it last week, it says when it isn't sure, and it admits when it couldn't finish something.\n\nFeatures get copied in a month. That kind of reliability is much harder to copy.",
+    "angle": "Objetivo: https://x.com/nvandewetering/status/2119475535680274670 (3.333 vistas)",
+    "why": "Base: Sin cifras externas. Post EN de nvandewetering (3,3K vistas, 12 respuestas, 8-nov 17:02Z): si solo pudieras quedarte con un agente personal en 2026 (Grok Bot, ChatGPT Dots o Claude Duet), ¿cuál y por qué? Ángulo: no elegir marca; la confianza se construye con memoria, honestidad sobre lo no terminado y fiabilidad. Sin nombrar cuál usa RT, sin beta, sin infra. Fuente: sin cifras externas",
     "keywords": [
-     "Un jefe de staff y una sola cola: el humano sigue decidiendo"
+     "Si solo queda un agente personal: el que se gana la confianza en lo cotidiano"
     ]
    },
    {
-    "title": "R4 · respuesta a @rileybrown",
+    "title": "R4 · respuesta a @daniel_mac8",
     "format": "respuesta",
-    "source": "@rileybrown",
-    "topic": "Claude Duet trabaja mientras no estás en el escritorio: tú solo revisas",
-    "hook_en": "The striking part isn't the setup behind the scenes. It's that the work kept moving while you weren't at a desk, and you stepped in only to review.\n\nThat's the shift I care about: less remote-controlling the agent, more of it coming back with something ready for you to approve.\n\nI wouldn't need to watch every step. I'd need to trust the checkpoint.",
-    "angle": "Objetivo: https://x.com/rileybrown/status/2119229301392392221 (20.859 vistas)",
-    "why": "Base: Sin cifras externas. Post EN de Riley Brown (20,9K vistas, 8-nov 00:43Z): en un Uber, Claude Duet juntó material en su máquina virtual, encargó una sesión de edición en su computador de casa, le envió un enlace y revisó el resultado; iteró unas cinco veces en media hora. Ángulo no técnico (sin hablar de render, Blender ni servidores): el trabajo siguió mientras no estaba en el escritorio y él entró solo a revisar. Eso es proactividad con aprobación. Sin inventar que RT use Duet; sin beta (para no repetir el encuadre del 7-nov). Fuente: sin cifras externas",
+    "source": "@daniel_mac8",
+    "topic": "Un principio más para el agente personal: que reporte lo que no hizo",
+    "hook_en": "I'd add one: the agent should report what it didn't do, not only what it did.\n\nA clean summary that quietly skips the hard part is worse than an honest \"I got stuck here, this is what I need from you.\"\n\nFor someone who doesn't write code, that's what makes delegating feel safe: I can't check everything, so I need to know where to look.",
+    "angle": "Objetivo: https://x.com/daniel_mac8/status/2119532947300634816 (2.747 vistas)",
+    "why": "Base: Sin cifras externas. Post EN de daniel_mac8 (2,7K vistas, 13 respuestas, 8-nov 20:50Z): siete principios de diseño para su agente personal con Claude Duet + Projects + Code; pregunta qué agregaríamos. Ángulo nuevo (no «decisión enmarcada» ni «aprobar lo que va a tu nombre», ya usados): que el agente informe lo que no hizo o donde se atascó. RT no programa (verdadero). Fuente: sin cifras externas",
     "keywords": [
-     "Claude Duet trabaja mientras no estás en el escritorio: tú solo revisas"
+     "Un principio más para el agente personal: que reporte lo que no hizo"
     ]
    },
    {
-    "title": "R5 · respuesta a @jmanalich",
+    "title": "R5 · respuesta a @midudev",
     "format": "respuesta",
-    "source": "@jmanalich",
-    "topic": "La IA ya entró a la clínica: DART en retinopatía diabética y un humano responsable",
-    "hook_en": "De acuerdo en lo de fondo: la pregunta ya no es si la IA entra a la clínica. Ya está, y en oftalmología hay un ejemplo chileno.\n\nLa plataforma DART apoya el tamizaje de retinopatía diabética en la atención primaria: la IA ayuda a separar exámenes de bajo riesgo de los que un oftalmólogo debe revisar. Eso puede ampliar cobertura, siempre que el hallazgo llegue de verdad a quien puede tratarlo.\n\nComo dice la columna, un profesional tiene que seguir siendo responsable de la decisión, y el tiempo que se ahorra debería servir para conversar con el paciente, no solo para ver a más personas por hora.",
-    "angle": "Objetivo: https://x.com/jmanalich/status/2119070951761678615 (2.193 vistas)",
-    "why": "Base: Columna de Jaime Mañalich en The Clinic (7-nov-2026): la IA ya está en la clínica; pide reglas, evidencia local y un profesional humano responsable; cita DART para el tamizaje de retinopatía diabética en APS; alerta que si el tiempo ahorrado se usa solo para ver más pacientes se pierde conversación. Minsal (Célula Oftalmología) y TeleDx: DART analiza retinografías, separa casos de bajo riesgo y deriva los alterados o no evaluables a revisión de oftalmólogo. Sin citar coberturas ni sensibilidades no re-verificadas en el texto; sin inventar uso de DART por RT; 2,2K vistas. Fuente: https://www.theclinic.cl/2026/11/07/columna-de-jaime-manalich-la-ia-ya-entro-a-la-clinica/ · https://portalsaluddigital.minsal.cl/celula-oftalmologia-dart/ · https://www.teledx.org/dart.html",
+    "source": "@midudev",
+    "topic": "Apagar la IA un rato: el descanso y el sueño también son salud mental",
+    "hook_en": "Muy de acuerdo, y lo digo como médico: el descanso no es un premio para cuando terminas, es parte de lo que te permite pensar bien.\n\nCuando uno vive pegado a la pantalla y a la discusión, lo primero que se resiente suele ser el sueño. Y detrás vienen el ánimo, la paciencia y la concentración.\n\nAburrirse un rato también sirve. No todo silencio hay que llenarlo con otra respuesta.",
+    "angle": "Objetivo: https://x.com/midudev/status/2119447541406199830 (29.131 vistas)",
+    "why": "Base: Sin cifras externas. Post ES de midudev (29,1K vistas, 47 respuestas, 8-nov 15:10Z): gente quemada y crispada en redes; consejo de apagar la IA, hacer deporte, leer y aburrirse; cuidar la salud mental. El hilo es de salud, así que el ángulo médico encaja sin forzar; afirmaciones generales sin cifras. Fuente: sin cifras externas",
     "keywords": [
-     "La IA ya entró a la clínica: DART en retinopatía diabética y un humano responsable"
+     "Apagar la IA un rato: el descanso y el sueño también son salud mental"
     ]
    },
    {
-    "title": "R6 · respuesta a @colmedchile",
+    "title": "R6 · respuesta a @elmostrador",
     "format": "respuesta",
-    "source": "@colmedchile",
-    "topic": "Presupuesto de Salud 2027: deuda hospitalaria y glosas para seguir la atención primaria",
-    "hook_en": "Las dos prioridades que plantea el Colegio Médico de Valparaíso se entienden mejor desde el lado del paciente.\n\nSi el hospital arrastra deuda al año siguiente, se atrasan compras, se tensiona el pabellón y las listas de espera se alargan. Y si programas de atención primaria pasan al per cápita sin glosas de seguimiento, cuesta saber si esa plata se está traduciendo en controles y exámenes a tiempo.\n\nFinanciamiento suficiente y datos para fiscalizar no son un trámite presupuestario: son lo que permite que una hora de especialista o una cirugía lleguen cuando se necesitan.",
-    "angle": "Objetivo: https://x.com/colmedchile/status/2119213307517440197 (5.317 vistas)",
-    "why": "Base: Post del Colegio Médico (5,3K vistas, 7-nov 23:40Z): el presidente del Regional Valparaíso, Dr. Luis Ignacio de la Torre, pide asegurar recursos para saldar la deuda hospitalaria durante 2026 y reponer las 77 glosas presupuestarias de fiscalización; el gremio insiste en financiamiento suficiente, transparencia y seguimiento para fortalecer la APS y reducir listas de espera. La Tercera (29-oct-2026) recoge a la presidenta nacional Anamaría Arriagada: si se parte 2027 con deuda el año se complica, y las 77 glosas importan porque hay programas de APS que pasaron al per cápita y hay que vigilarlos con datos. Sin cifras inventadas de deuda ni de listas; sin citar declaraciones partidistas del senador Castro; ángulo de paciente. Fuente: https://www.latercera.com/nacional/noticia/gremios-de-la-salud-alertan-por-presupuesto-2027-advierten-por-deuda-y-listas-de-espera/ · https://www.colegiomedico.cl/consejo-nacional-del-colegio-medico-analiza-presupuesto-de-salud-2027/",
+    "source": "@elmostrador",
+    "topic": "Calor extremo en Chile: el riesgo se concentra en febrero-marzo y se puede preparar",
+    "hook_en": "Lo más útil de esa proyección es el cuándo: el modelo del Climate Impact Lab estima cerca de 200 muertes adicionales por calor en Chile hasta marzo, y la mayor parte caería en febrero y marzo, con más riesgo en el norte y en Valparaíso.\n\nEso deja tiempo para prepararse. Alertas tempranas, agua y lugares frescos disponibles, y atención a las personas mayores y a quienes tienen enfermedades crónicas, que suelen tolerar peor el calor.\n\nTodo eso funciona mejor si se organiza antes del verano, no en medio de la ola.",
+    "angle": "Objetivo: https://x.com/elmostrador/status/2119539204841746897 (48.486 vistas)",
+    "why": "Base: El Mostrador, Juego Limpio (3-nov-2026): el El Niño Heat Mortality Tracker del Climate Impact Lab (vinculado a la U. de Chicago) proyecta cerca de 200 muertes adicionales por calor en Chile hasta marzo de 2027; febrero y marzo concentrarían la mayor parte; el norte concentra las mayores estimaciones y la zona central y sur cifras menores, con la excepción de Valparaíso; medidas útiles: alertas tempranas, acceso a servicios de salud, centros de enfriamiento y agua. Modelo aún no publicado en revista. Post 48,5K vistas, 18 respuestas. Fuente: https://www.elmostrador.cl/juego-limpio/2026/11/03/estudio-anticipa-calor-mortal-en-chile/",
     "keywords": [
-     "Presupuesto de Salud 2027: deuda hospitalaria y glosas para seguir la atención primaria"
+     "Calor extremo en Chile: el riesgo se concentra en febrero-marzo y se puede preparar"
     ]
    },
    {
-    "title": "P1 · Sol de noviembre: lentes que sí filtran el UV",
+    "title": "R7 · respuesta a @elliberocl",
+    "format": "respuesta",
+    "source": "@elliberocl",
+    "topic": "Fonasa usa IA para revisar antes de pagar: esa anticipación sirve también para las listas de espera",
+    "hook_en": "Lo interesante es el cambio de lógica: revisar las prestaciones antes de pagarlas, en vez de descubrir el problema meses después. Según el director de Fonasa, el sistema revisa más de 10 mil transacciones al día, y lo ahorrado permitió completar 3 mil cirugías de rodilla y cadera.\n\nEsa misma anticipación es la que más falta en las listas de espera: saber quién se está atrasando antes de que su caso se complique.\n\nY tiene razón en algo que se dice poco: los datos mejoran cuando se usan.",
+    "angle": "Objetivo: https://x.com/elliberocl/status/2119747886225228265 (1.497 vistas)",
+    "why": "Base: El Líbero, Factor IA (9-nov-2026), entrevista a César Oyarzo, director nacional de Fonasa: el Sistema Integrado de Riesgos y Alertas (SIRA) revisa más de 10 mil transacciones al día, entrega cada mañana un reporte de alertas antes de pagar la prestación; lo ahorrado este año permitió completar 3 mil cirugías de rodilla y cadera; «reducir la lista de espera requiere anticipación»; reconoce falta de datos y que los datos mejoran cuando se usan. Ángulo positivo, sin hablar de fraudes de médicos (tema sensible descartado antes). 1,5K vistas, bajo umbral de estrella pero sobre 1.000; tema de IA en salud Chile. Fuente: https://ellibero.cl/factor-ia/director-nacional-fonasa-nos-apoyamos-en-ia-en-materia-de-fiscalizacion/",
+    "keywords": [
+     "Fonasa usa IA para revisar antes de pagar: esa anticipación sirve también para las listas de espera"
+    ]
+   },
+   {
+    "title": "P1 · Ojo rojo: cuándo esperar y cuándo ir a urgencia",
     "format": "post largo",
     "source": "original RT",
-    "topic": "protección UV de los ojos: 99–100% UVA y UVB, también con nubes",
-    "hook_en": "En noviembre el sol ya pega fuerte en Chile, y los ojos también lo reciben. Unas gafas oscuras no bastan: lo que protege es el filtro ultravioleta.\n\nSegún el Instituto Nacional de la Visión de Estados Unidos (NEI):\n\n• Elige lentes que bloqueen el 99% o el 100% de la radiación UVA y UVB, o que digan UV400\n• Que calcen bien y cubran también por los costados; un sombrero de ala ancha y oscura reduce el deslumbramiento\n• El índice UV puede ser alto incluso con nubes. Cerca del agua, la nieve o la arena la exposición aumenta porque esas superficies reflejan la luz\n• El precio no garantiza el filtro: lo que vale es el etiquetado, no que sean de marca\n\nLa exposición prolongada al sol se asocia a cataratas y a degeneración macular. Unos buenos lentes son de los gestos más simples para cuidar la visión todo el año, no solo en la playa.\n\nFuente: National Eye Institute (protección UV y hábitos para unos ojos sanos).",
-    "visual": "Video vertical de 30 s: RT a cámara con tres tarjetas: «99 a 100% de UVA y UVB», «También en días nublados», «Un sombrero de ala ancha ayuda»; cierre: «El precio no garantiza el filtro».",
+    "topic": "ojo rojo: casi siempre benigno, pero con señales de alarma claras",
+    "hook_en": "La mayoría de las veces, un ojo rojo no es grave y mejora solo en pocos días. Pero hay señales que obligan a consultar de inmediato.\n\nSegún el Servicio Nacional de Salud del Reino Unido (NHS):\n\n• Si no duele, la visión está normal y no te sientes mal, probablemente no es serio. Mientras mejora, no lo frotes y no uses lentes de contacto\n• Pide hora pronto si el ojo duele mucho, si usas lentes de contacto (puede ser una infección) o si se trata de un recién nacido\n• Ve a urgencia si además notas cambios en la visión (líneas onduladas, destellos o pérdida de visión), si la luz te molesta mucho, si tienes un dolor de cabeza intenso con náuseas, si una pupila se ve más grande que la otra, o si hubo un golpe, algo clavado en el ojo o contacto con un químico\n• En esos casos, no manejes: pide que te lleven\n• Y no intentes diagnosticarte solo\n\nUna regla simple: ojo rojo con dolor o con cambios en la visión no se deja para mañana.\n\nFuente: NHS (Red eye).",
+    "visual": "Video vertical de 30 s: RT a cámara con tres tarjetas: «Sin dolor y viendo bien: probablemente no es grave», «Dolor fuerte o lentes de contacto: consulta pronto», «Cambios en la visión, golpe o químico: urgencia»; cierre: «No manejes; pide que te lleven».",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.nei.nih.gov/research-and-training/research-news/protecting-your-eyes-suns-uv-light https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work/keep-your-eyes-healthy",
+    "why": "Fuentes verificadas hoy: https://www.nhs.uk/symptoms/red-eye/",
     "keywords": [
-     "protección UV de los ojos: 99–100% UVA y UVB, también con nubes",
+     "ojo rojo: casi siempre benigno, pero con señales de alarma claras",
      "salud"
     ]
    },
    {
-    "title": "P2 · Glaucoma: a menudo no avisa, y el examen sí lo encuentra",
+    "title": "P2 · Ojo perezoso: el control de visión entre los 3 y los 5 años",
     "format": "post largo",
     "source": "original RT",
-    "topic": "glaucoma: pocos síntomas al inicio, examen con pupila dilatada, se puede frenar el daño",
-    "hook_en": "El glaucoma puede dañar el nervio óptico y quitar visión de forma permanente. Lo engañoso es que, al comienzo, casi no da señales.\n\nSegún el Instituto Nacional de la Visión de Estados Unidos (NEI):\n\n• Al inicio suele no haber síntomas; por eso estima que la mitad de las personas con glaucoma no sabe que lo tiene\n• Con el tiempo se puede perder primero la visión de lado (la periférica), tan lento que cuesta notarlo\n• El único modo seguro de detectarlo es un examen oftalmológico completo con la pupila dilatada, que incluye revisar el nervio óptico y el campo visual. Medir solo la presión del ojo no basta\n• El riesgo es mayor a partir de los 60 años (en especial en personas hispanas o latinas), desde los 40 en personas afroamericanas, y si hay antecedentes familiares. En ese caso, el NEI recomienda el examen cada 1 a 2 años\n• No se cura, pero el tratamiento —casi siempre gotas, y a veces láser o cirugía— puede detener el daño y proteger la visión que queda\n\nSi aparece dolor intenso, ojo rojo, náuseas o visión muy borrosa de golpe, consulta de inmediato: hay formas de glaucoma que son urgencia.\n\nFuente: National Eye Institute (Glaucoma).",
-    "visual": "Video vertical de 30 s: RT con tres tarjetas: «A menudo no da síntomas al inicio», «Se puede perder primero la visión de lado», «El examen dilata la pupila y revisa el nervio óptico»; cierre: «No se cura, pero el tratamiento puede detener el daño».",
+    "topic": "ambliopía (ojo perezoso): señales sutiles, control entre 3 y 5 años, tratamiento temprano",
+    "hook_en": "El ojo perezoso, o ambliopía, es la causa más común de pérdida de visión en los niños, y muchas veces los padres no lo notan. La buena noticia: tratado a tiempo, el resultado suele ser muy bueno.\n\nSegún el Instituto Nacional de la Visión de Estados Unidos (NEI):\n\n• Hasta 3 de cada 100 niños la tienen. Ocurre cuando el cerebro deja de usar bien la imagen de un ojo y se apoya cada vez más en el otro\n• Las señales pueden ser sutiles: entrecerrar los ojos, cerrar uno, inclinar la cabeza o tener dificultad para calcular distancias\n• Puede deberse a miopía, hipermetropía o astigmatismo sin corregir, a un ojo desviado (estrabismo) o a una catarata infantil\n• Todo niño debería tener un control de visión al menos una vez entre los 3 y los 5 años\n• El tratamiento corrige la causa y luego obliga al cerebro a usar el ojo más débil, con un parche en el ojo sano o con gotas indicadas por el especialista\n• Mientras antes se trata, mejor: en adultos el tratamiento suele ser menos eficaz\n\nSi tu hijo todavía no ha tenido su control de visión, vale la pena agendarlo.\n\nFuente: National Eye Institute (Amblyopia).",
+    "visual": "Video vertical de 30 s: RT con tres tarjetas: «Hasta 3 de cada 100 niños», «Control de visión entre los 3 y los 5 años», «Parche o gotas: mientras antes, mejor»; cierre: «Muchas veces los padres no lo notan».",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/glaucoma",
+    "why": "Fuentes verificadas hoy: https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/amblyopia-lazy-eye",
     "keywords": [
-     "glaucoma: pocos síntomas al inicio, examen con pupila dilatada, se puede frenar el daño",
+     "ambliopía (ojo perezoso): señales sutiles, control entre 3 y 5 años, tratamiento temprano",
      "salud"
     ]
    }
