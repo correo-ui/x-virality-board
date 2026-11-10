@@ -1,67 +1,135 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-09 10:30",
- "date": "2026-11-09",
+ "title": "Digest diario — escaneo 24h al 2026-11-10 10:30",
+ "date": "2026-11-10",
  "timezone": "America/Santiago",
- "updated": "2026-11-09T10:55:00-03:00",
+ "updated": "2026-11-10T11:00:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
   {
+   "name": "midudev",
+   "display_name": "midudev",
+   "handle": "@midudev",
+   "area": "ai",
+   "views": 82453,
+   "likes": 2032,
+   "replies": 83,
+   "reposts": 86,
+   "url": "https://x.com/midudev/status/2119876297304203273",
+   "status_url": "https://x.com/midudev/status/2119876297304203273",
+   "text": "Fable 5.2 es SALVAJE. He creado este trailer en 10 minutos. Espectacular. https://t.co/ptAo3idMdp",
+   "original_en": "Fable 5.2 es SALVAJE. He creado este trailer en 10 minutos. Espectacular. https://t.co/ptAo3idMdp",
+   "highlight": true,
+   "created_at": "2026-11-09T19:34:29.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "midudev",
+   "display_name": "midudev",
+   "handle": "@midudev",
+   "area": "ai",
+   "views": 68976,
+   "likes": 1310,
+   "replies": 62,
+   "reposts": 61,
+   "url": "https://x.com/midudev/status/2119919585742983435",
+   "status_url": "https://x.com/midudev/status/2119919585742983435",
+   "text": "Uno de los ingenieros de Anthropic creó un sistema operativo con Fable 5.2.\n\nLe llevo 8 días sin parar y más de 1000 subagentes (y muchos tokens, obviamente)\n\nSe va a crear software por encima de nuestras posibilidades. https://t.co/p7sBIaFru8",
+   "original_en": "Uno de los ingenieros de Anthropic creó un sistema operativo con Fable 5.2.\n\nLe llevo 8 días sin parar y más de 1000 subagentes (y muchos tokens, obviamente)\n\nSe va a crear software por encima de nuestras posibilidades. https://t.co/p7sBIaFru8",
+   "highlight": true,
+   "created_at": "2026-11-09T22:26:30.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "CNNChile",
+   "display_name": "CNNChile",
+   "handle": "@CNNChile",
+   "area": "health",
+   "views": 16107,
+   "likes": 50,
+   "replies": 9,
+   "reposts": 31,
+   "url": "https://x.com/CNNChile/status/2119957746787434574",
+   "status_url": "https://x.com/CNNChile/status/2119957746787434574",
+   "text": "FDA enciende las alertas por medicamentos tipo Ozempic ante posible riesgo de pérdida permanente de visión\n\nhttps://t.co/TkPbQDYcyc",
+   "original_en": "FDA enciende las alertas por medicamentos tipo Ozempic ante posible riesgo de pérdida permanente de visión\n\nhttps://t.co/TkPbQDYcyc",
+   "highlight": true,
+   "created_at": "2026-11-10T00:58:08.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "freddier",
+   "display_name": "freddier",
+   "handle": "@freddier",
+   "area": "ai",
+   "views": 12924,
+   "likes": 95,
+   "replies": 8,
+   "reposts": 2,
+   "url": "https://x.com/freddier/status/2119874782653014175",
+   "status_url": "https://x.com/freddier/status/2119874782653014175",
+   "text": "Awesome time for me to be visiting Spain 🥲 https://t.co/EzNwUN9NpF",
+   "original_en": "Awesome time for me to be visiting Spain 🥲 https://t.co/EzNwUN9NpF",
+   "highlight": true,
+   "created_at": "2026-11-09T19:28:28.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "DotCSV",
+   "display_name": "DotCSV",
+   "handle": "@DotCSV",
+   "area": "ai",
+   "views": 10360,
+   "likes": 185,
+   "replies": 13,
+   "reposts": 2,
+   "url": "https://x.com/DotCSV/status/2120073833272971754",
+   "status_url": "https://x.com/DotCSV/status/2120073833272971754",
+   "text": "Agradecer a los labs que me hayan esperado una semana para empezar a lanzar sus modelos!\n\nPor un momento pensaba que lo más interesante de estos días sería que la burbuja de la IA se iba a pinchar por un calentón de Jensen Huang\n\nRetomo mi vuelta desde Socotra, Yemen. Tendré https://t.co/eeuwiw4SfI",
+   "original_en": "Agradecer a los labs que me hayan esperado una semana para empezar a lanzar sus modelos!\n\nPor un momento pensaba que lo más interesante de estos días sería que la burbuja de la IA se iba a pinchar por un calentón de Jensen Huang\n\nRetomo mi vuelta desde Socotra, Yemen. Tendré https://t.co/eeuwiw4SfI",
+   "highlight": true,
+   "created_at": "2026-11-10T08:39:25.000Z",
+   "window": "24h"
+  },
+  {
    "name": "ErickSky",
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 156034,
-   "likes": 1963,
-   "replies": 18,
-   "reposts": 24,
-   "url": "https://x.com/ErickSky/status/2119580086420521450",
-   "status_url": "https://x.com/ErickSky/status/2119580086420521450",
-   "text": "Hay gente que aún escribe \"actúa como un XXXX y hazme YYYY\"\n\nQuiero asesinarlos. https://t.co/xvJsjSvKW5",
-   "original_en": "Hay gente que aún escribe \"actúa como un XXXX y hazme YYYY\"\n\nQuiero asesinarlos. https://t.co/xvJsjSvKW5",
+   "views": 9362,
+   "likes": 244,
+   "replies": 12,
+   "reposts": 7,
+   "url": "https://x.com/ErickSky/status/2119927430928548226",
+   "status_url": "https://x.com/ErickSky/status/2119927430928548226",
+   "text": "Un ingeniero de Anthropic creó un sistema operativo usando Claude Fable 5.2.\n\nEl primer comentario es un dino-dev en peligro de extinción diciendo: \"Eso es estúpido, debe ser muy inseguro\".\n\nEs increíble que ni siquiera en un cambio de era dejen de ser insoportables.",
+   "original_en": "Un ingeniero de Anthropic creó un sistema operativo usando Claude Fable 5.2.\n\nEl primer comentario es un dino-dev en peligro de extinción diciendo: \"Eso es estúpido, debe ser muy inseguro\".\n\nEs increíble que ni siquiera en un cambio de era dejen de ser insoportables.",
    "highlight": true,
-   "created_at": "2026-11-08T23:57:27.000Z",
+   "created_at": "2026-11-09T22:57:40.000Z",
    "window": "24h",
-   "draft_en": "[R2 · respuesta] Más que el rol, lo que cambia el resultado es el contexto: para qué lo necesitas, quién lo va a leer y qué considerarías bien hecho.\n\n«Actúa como experto en marketing» le dice poco. «Escribe para dueños de pymes que nunca han hecho un anuncio, en tres párrafos y sin anglicismos» le dice casi todo.\n\nY lo ideal es no tener que repetirlo cada vez: un buen asistente debería recordar quién eres y cómo trabajas.",
+   "draft_en": "[R1 · respuesta] Ahí no estoy de acuerdo. Preguntar si algo es seguro no es de dinosaurio: en salud es lo primero que tenemos que preguntar, y no se usa con pacientes algo que no la ha respondido.\n\nLo que sí sobra es usar esa pregunta para no probar nada.\n\nLa versión útil es otra: ¿qué tendría que pasar para confiar en esto? Y después ir a comprobarlo.",
    "draft_keywords": [
-    "«Actúa como…»: el contexto cambia más el resultado que el rol"
+    "Preguntar «¿es seguro?» no es de dinosaurio: es parte del trabajo"
    ],
-   "why_hit": "Objetivo de respuesta R2 («Actúa como…»: el contexto cambia más el resultado que el rol). Base verificada: Sin cifras externas. Post ES de ErickSky (155,7K vistas, 8-nov 23:57Z) contra los prompts tipo «actúa como un XXXX y hazme YYYY». Ángulo práctico para no técnicos: dar contexto (para qué, para quién, qué es bien hecho) y que el asistente lo recuerde; ejemplo no clínico para no forzar salud.",
-   "hook": "Más que el rol, lo que cambia el resultado es el contexto: para qué lo necesitas, quién lo va a leer y qué considerarías",
+   "why_hit": "Objetivo de respuesta R1 (Preguntar «¿es seguro?» no es de dinosaurio: es parte del trabajo). Base verificada: Sin cifras externas. Post ES de ErickSky (9,4K vistas, 12 respuestas, 9-nov 22:57Z): un ingeniero de Anthropic creó un sistema operativo con Claude Fable 5.2 y el primer comentario fue «debe ser muy inseguro»; Erick lo trata de dino-dev. Ángulo de RT sin forzar oftalmología: en salud la pregunta por la seguridad es obligatoria; lo útil es convertirla en una prueba concreta, no usarla para frenar.",
+   "hook": "Ahí no estoy de acuerdo. Preguntar si algo es seguro no es de dinosaurio: en salud es lo primero que tenemos que pregunt",
    "top10_rank": 1
   },
   {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
    "area": "ai",
-   "views": 138932,
-   "likes": 1173,
-   "replies": 55,
-   "reposts": 61,
-   "url": "https://x.com/midudev/status/2119518023405195313",
-   "status_url": "https://x.com/midudev/status/2119518023405195313",
-   "text": "Es tremendo como la IA le altera la realidad a la gente. https://t.co/nm1i8EDHaU",
-   "original_en": "Es tremendo como la IA le altera la realidad a la gente. https://t.co/nm1i8EDHaU",
+   "views": 8981,
+   "likes": 171,
+   "replies": 10,
+   "reposts": 2,
+   "url": "https://x.com/ErickSky/status/2119868260430618777",
+   "status_url": "https://x.com/ErickSky/status/2119868260430618777",
+   "text": "Damas y caballeros,\n\nAnthropic se ha sacado la chota y la ha puesto en la mesa en términos de ciberseguridad.\n\nDichosos los que tengan plata para defenderse con estos modelos. https://t.co/94bcteJyDc",
+   "original_en": "Damas y caballeros,\n\nAnthropic se ha sacado la chota y la ha puesto en la mesa en términos de ciberseguridad.\n\nDichosos los que tengan plata para defenderse con estos modelos. https://t.co/94bcteJyDc",
    "highlight": true,
-   "created_at": "2026-11-08T19:50:50.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 112780,
-   "likes": 4020,
-   "replies": 161,
-   "reposts": 203,
-   "url": "https://x.com/midudev/status/2119430907165647102",
-   "status_url": "https://x.com/midudev/status/2119430907165647102",
-   "text": "Igual soy el único, pero me siento afortunado de haber aprendido Ingeniería de Software antes de la IA.",
-   "original_en": "Igual soy el único, pero me siento afortunado de haber aprendido Ingeniería de Software antes de la IA.",
-   "highlight": true,
-   "created_at": "2026-11-08T14:04:40.000Z",
+   "created_at": "2026-11-09T19:02:33.000Z",
    "window": "24h"
   },
   {
@@ -69,71 +137,207 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 84867,
-   "likes": 1153,
-   "replies": 130,
-   "reposts": 51,
-   "url": "https://x.com/ErickSky/status/2119524432788234419",
-   "status_url": "https://x.com/ErickSky/status/2119524432788234419",
-   "text": "A mí me consta que hay señores de 50 años en el área de TI les cuesta muchísimo usar la IA y están completamente cooked porque llega un niño de 20 años con 400 subagentes a resolver el mismo día algo que en una reunión el don dijo que eso era algo que demoraba 4 meses. https://t.co/wvZ42yzDQh",
-   "original_en": "A mí me consta que hay señores de 50 años en el área de TI les cuesta muchísimo usar la IA y están completamente cooked porque llega un niño de 20 años con 400 subagentes a resolver el mismo día algo que en una reunión el don dijo que eso era algo que demoraba 4 meses. https://t.co/wvZ42yzDQh",
+   "views": 7470,
+   "likes": 283,
+   "replies": 12,
+   "reposts": 13,
+   "url": "https://x.com/ErickSky/status/2119982608150843604",
+   "status_url": "https://x.com/ErickSky/status/2119982608150843604",
+   "text": "MiniMax M3.1 flash GRATISSSSSSSSS chicosssssss https://t.co/FkoPUexyBS",
+   "original_en": "MiniMax M3.1 flash GRATISSSSSSSSS chicosssssss https://t.co/FkoPUexyBS",
    "highlight": true,
-   "created_at": "2026-11-08T20:16:18.000Z",
+   "created_at": "2026-11-10T02:36:55.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "freddier",
+   "display_name": "freddier",
+   "handle": "@freddier",
+   "area": "ai",
+   "views": 7365,
+   "likes": 64,
+   "replies": 2,
+   "reposts": 4,
+   "url": "https://x.com/freddier/status/2120118209647099952",
+   "status_url": "https://x.com/freddier/status/2120118209647099952",
+   "text": "This goddamn human species man I love it https://t.co/n3ww6VmV7d",
+   "original_en": "This goddamn human species man I love it https://t.co/n3ww6VmV7d",
+   "highlight": true,
+   "created_at": "2026-11-10T11:35:45.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 7160,
+   "likes": 205,
+   "replies": 20,
+   "reposts": 6,
+   "url": "https://x.com/ErickSky/status/2119842780549722353",
+   "status_url": "https://x.com/ErickSky/status/2119842780549722353",
+   "text": "Me he dado cuenta que cuando tienes muchos tokens te nace hacer puras weás.\n\nLos que tienen el plan de $20 de Claude hacen cosas más útiles. Es como que si valoraran más cada token porque viven en la escasez. https://t.co/eEfrgtpxJ3",
+   "original_en": "Me he dado cuenta que cuando tienes muchos tokens te nace hacer puras weás.\n\nLos que tienen el plan de $20 de Claude hacen cosas más útiles. Es como que si valoraran más cada token porque viven en la escasez. https://t.co/eEfrgtpxJ3",
+   "highlight": true,
+   "created_at": "2026-11-09T17:21:18.000Z",
    "window": "24h",
-   "draft_en": "[R1 · respuesta] Ojo con leerlo solo como edad contra velocidad. Lo que pesa no es cuántos subagentes lanzas, sino saber qué pedir y qué revisar antes de dar algo por bueno.\n\nEsa experiencia vale mucho si se aprende a delegar en agentes: es la que distingue el trabajo que se ve bien del que de verdad está bien.\n\nEl que tiene criterio y además aprende la herramienta va a rendir más que cualquiera de los dos por separado.",
+   "draft_en": "[R2 · respuesta] Tiene lógica. Cuando la cuota tiene límite, uno se pregunta antes si vale la pena pedir algo, y eso ordena bastante.\n\nCon recursos casi infinitos uno delega todo, incluso lo que no tenía sentido hacer.\n\nEl límite no es solo una molestia: también obliga a decidir qué importa.",
    "draft_keywords": [
-    "Edad vs. 400 subagentes: lo que pesa es el criterio para revisar"
+    "Con cuota limitada uno elige mejor qué delegar"
    ],
-   "why_hit": "Objetivo de respuesta R1 (Edad vs. 400 subagentes: lo que pesa es el criterio para revisar). Base verificada: Sin cifras externas. Post ES de ErickSky (84,7K vistas, 130 respuestas, 8-nov 20:16Z): profesionales de TI de 50 años a los que les cuesta la IA frente a un joven con 400 subagentes que resuelve en un día lo que se estimaba en 4 meses. Ángulo: no edad contra velocidad, sino criterio para saber qué pedir y qué revisar; sin infra ni cifras sobre RT.",
-   "hook": "Ojo con leerlo solo como edad contra velocidad. Lo que pesa no es cuántos subagentes lanzas, sino saber qué pedir y qué ",
+   "why_hit": "Objetivo de respuesta R2 (Con cuota limitada uno elige mejor qué delegar). Base verificada: Sin cifras externas. Post ES de ErickSky (7,2K vistas, 20 respuestas, 9-nov 17:21Z): con muchos tokens se hacen «puras weás»; los del plan de $20 hacen cosas más útiles porque valoran cada token. Ángulo práctico sin infraestructura: el límite obliga a preguntarse antes si algo vale la pena delegarlo. RT ya se quejó en público de su cuota (verdadero), pero el texto no da cifras ni detalles.",
+   "hook": "Tiene lógica. Cuando la cuota tiene límite, uno se pregunta antes si vale la pena pedir algo, y eso ordena bastante.\n\nCo",
    "top10_rank": 2
   },
   {
-   "name": "elmostrador",
-   "display_name": "elmostrador",
-   "handle": "@elmostrador",
-   "area": "health",
-   "views": 48486,
-   "likes": 219,
-   "replies": 18,
-   "reposts": 78,
-   "url": "https://x.com/elmostrador/status/2119539204841746897",
-   "status_url": "https://x.com/elmostrador/status/2119539204841746897",
-   "text": "🟠 Lo+Leído | Estudio anticipa calor mortal en Chile\n\nhttps://t.co/MBwWMtS6A3",
-   "original_en": "🟠 Lo+Leído | Estudio anticipa calor mortal en Chile\n\nhttps://t.co/MBwWMtS6A3",
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 6234,
+   "likes": 71,
+   "replies": 6,
+   "reposts": 1,
+   "url": "https://x.com/ErickSky/status/2119882797657489613",
+   "status_url": "https://x.com/ErickSky/status/2119882797657489613",
+   "text": "Ummmm bueno... Fable 5.2 tampoco es que tampoco...\n\nEs que estos modelos tienen otro uso, a ese precio creo que encuentro más atractivo al Gemini 4 Argon según este mismo gráfico, que es la misma capacidad con un precio bastante más bajo. https://t.co/ZpKVRxMDzk",
+   "original_en": "Ummmm bueno... Fable 5.2 tampoco es que tampoco...\n\nEs que estos modelos tienen otro uso, a ese precio creo que encuentro más atractivo al Gemini 4 Argon según este mismo gráfico, que es la misma capacidad con un precio bastante más bajo. https://t.co/ZpKVRxMDzk",
    "highlight": true,
-   "created_at": "2026-11-08T21:15:00.000Z",
+   "created_at": "2026-11-09T20:00:19.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 5269,
+   "likes": 9,
+   "replies": 0,
+   "reposts": 2,
+   "url": "https://x.com/adnradiochile/status/2119873838808735927",
+   "status_url": "https://x.com/adnradiochile/status/2119873838808735927",
+   "text": "Un camión de carga cayó al agua durante las labores de desembarque de una barcaza en la Región de Aysén.\n\nEl conductor logró escapar oportunamente de la máquina antes de que se hundiera y fue rescatado. Al lugar acudieron equipos de Bomberos, Carabineros, personal de salud y https://t.co/5oYgdsFVok",
+   "original_en": "Un camión de carga cayó al agua durante las labores de desembarque de una barcaza en la Región de Aysén.\n\nEl conductor logró escapar oportunamente de la máquina antes de que se hundiera y fue rescatado. Al lugar acudieron equipos de Bomberos, Carabineros, personal de salud y https://t.co/5oYgdsFVok",
+   "highlight": true,
+   "created_at": "2026-11-09T19:24:43.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 4809,
+   "likes": 6,
+   "replies": 1,
+   "reposts": 8,
+   "url": "https://x.com/adnradiochile/status/2119923990240149588",
+   "status_url": "https://x.com/adnradiochile/status/2119923990240149588",
+   "text": "Alerta de la FDA por medicamentos tipo Ozempic: advierten la posible pérdida de visión permanente\n\nhttps://t.co/Q7QUkPuiLD",
+   "original_en": "Alerta de la FDA por medicamentos tipo Ozempic: advierten la posible pérdida de visión permanente\n\nhttps://t.co/Q7QUkPuiLD",
+   "highlight": false,
+   "created_at": "2026-11-09T22:44:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 4317,
+   "likes": 97,
+   "replies": 7,
+   "reposts": 0,
+   "url": "https://x.com/ErickSky/status/2119854319717831110",
+   "status_url": "https://x.com/ErickSky/status/2119854319717831110",
+   "text": "Funciona muy bien la app de OpenCode!\n\nAdiós al doom scrolling en redes sociales...\n\nHola al vibecoding hell !!! https://t.co/RGvTkp3At1",
+   "original_en": "Funciona muy bien la app de OpenCode!\n\nAdiós al doom scrolling en redes sociales...\n\nHola al vibecoding hell !!! https://t.co/RGvTkp3At1",
+   "highlight": false,
+   "created_at": "2026-11-09T18:07:09.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "sergiorocaa",
+   "display_name": "sergiorocaa",
+   "handle": "@sergiorocaa",
+   "area": "health",
+   "views": 2982,
+   "likes": 178,
+   "replies": 10,
+   "reposts": 5,
+   "url": "https://x.com/sergiorocaa/status/2119845776926855209",
+   "status_url": "https://x.com/sergiorocaa/status/2119845776926855209",
+   "text": "Your glasses might soon know you’re tired before you do.\n\nSTASIS is building a wearable that tracks eye fatigue, focus and recovery through 6 hidden sensors.\n\nBasically, a WHOOP for your eyes.\n\n@sochak03 https://t.co/brR3NgbTJD",
+   "original_en": "Your glasses might soon know you’re tired before you do.\n\nSTASIS is building a wearable that tracks eye fatigue, focus and recovery through 6 hidden sensors.\n\nBasically, a WHOOP for your eyes.\n\n@sochak03 https://t.co/brR3NgbTJD",
+   "highlight": false,
+   "created_at": "2026-11-09T17:33:12.000Z",
    "window": "24h",
-   "draft_en": "[R6 · respuesta] Lo más útil de esa proyección es el cuándo: el modelo del Climate Impact Lab estima cerca de 200 muertes adicionales por calor en Chile hasta marzo, y la mayor parte caería en febrero y marzo, con más riesgo en el norte y en Valparaíso.\n\nEso deja tiempo para prepararse. Alertas tempranas, agua y lugares frescos disponibles, y atención a las personas mayores y a quienes tienen enfermedades crónicas, que suelen tolerar peor el calor.\n\nTodo eso funciona mejor si se organiza antes del verano, no en medio de la ola.\n\nFuente: https://www.elmostrador.cl/juego-limpio/2026/11/03/estudio-anticipa-calor-mortal-en-chile/",
+   "draft_en": "[R5 · respuesta] As an ophthalmologist, I'd love to see what it actually measures. Most screen eye strain comes from something simple: our blink rate can drop by half when we stare at a screen.\n\nA sensor can remind you. What relieves it is still basic: look at something far away every 20 minutes, blink on purpose, and use artificial tears if your eyes feel dry.\n\nAnd if the discomfort or blurry vision doesn't go away after you rest, that's not tiredness to track. It's a reason to get your eyes examined.\n\nFuente: https://www.aao.org/eye-health/tips-prevention/digital-devices-your-eyes",
    "draft_keywords": [
-    "Calor extremo en Chile: el riesgo se concentra en febrero-marzo y se puede preparar"
+    "Un wearable de fatiga ocular puede avisar, pero lo que alivia son las pausas"
    ],
-   "why_hit": "Objetivo de respuesta R6 (Calor extremo en Chile: el riesgo se concentra en febrero-marzo y se puede preparar). Base verificada: El Mostrador, Juego Limpio (3-nov-2026): el El Niño Heat Mortality Tracker del Climate Impact Lab (vinculado a la U. de Chicago) proyecta cerca de 200 muertes adicionales por calor en Chile hasta marzo de 2027; febrero y marzo concentrarían la mayor parte; el norte concentra las mayores estimaciones y la zona central y sur cifras menores, con la excepción de Valparaíso; medidas útiles: alertas tempranas, acceso a servicios de salud, centros de enfriamiento y agua. Modelo aún no publicado en revista. Post 48,5K vistas, 18 respuestas.",
-   "hook": "Lo más útil de esa proyección es el cuándo: el modelo del Climate Impact Lab estima cerca de 200 muertes adicionales por",
+   "why_hit": "Objetivo de respuesta R5 (Un wearable de fatiga ocular puede avisar, pero lo que alivia son las pausas). Base verificada: AAO (Digital Devices and Your Eyes): normalmente parpadeamos unas 15 veces por minuto y ese ritmo puede caer a la mitad frente a pantallas; las molestias son temporales y no dañan el ojo de forma permanente; recomiendan mirar a lo lejos, lágrimas artificiales y distancia de un brazo. AAO computer-usage: regla 20-20-20; si los síntomas siguen, consultar al oftalmólogo. Post EN de sergiorocaa (3,0K vistas, 10 respuestas, 9-nov 17:33Z) sobre STASIS, wearable que mide fatiga ocular. No se afirma nada sobre el producto.",
+   "hook": "As an ophthalmologist, I'd love to see what it actually measures. Most screen eye strain comes from something simple: ou",
    "top10_rank": 3
   },
   {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "health",
-   "views": 29131,
-   "likes": 1242,
-   "replies": 47,
-   "reposts": 44,
-   "url": "https://x.com/midudev/status/2119447541406199830",
-   "status_url": "https://x.com/midudev/status/2119447541406199830",
-   "text": "Cada vez veo más gente quemada y crispada en redes. Mi consejo es que apaguen la IA un rato, hagan deporte, lean un libro o incluso abúrranse un poco. Hay que cuidar la salud mental. https://t.co/wApRIkFbo8",
-   "original_en": "Cada vez veo más gente quemada y crispada en redes. Mi consejo es que apaguen la IA un rato, hagan deporte, lean un libro o incluso abúrranse un poco. Hay que cuidar la salud mental. https://t.co/wApRIkFbo8",
-   "highlight": true,
-   "created_at": "2026-11-08T15:10:45.000Z",
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 2822,
+   "likes": 37,
+   "replies": 10,
+   "reposts": 1,
+   "url": "https://x.com/ErickSky/status/2119898030568845381",
+   "status_url": "https://x.com/ErickSky/status/2119898030568845381",
+   "text": "Adivinen cuántos resets me dieron chicos https://t.co/3aFgRzvqHr",
+   "original_en": "Adivinen cuántos resets me dieron chicos https://t.co/3aFgRzvqHr",
+   "highlight": false,
+   "created_at": "2026-11-09T21:00:50.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "freddier",
+   "display_name": "freddier",
+   "handle": "@freddier",
+   "area": "ai",
+   "views": 2712,
+   "likes": 7,
+   "replies": 1,
+   "reposts": 0,
+   "url": "https://x.com/freddier/status/2120115075184807998",
+   "status_url": "https://x.com/freddier/status/2120115075184807998",
+   "text": "Hard truth. PIPs are the cruel fruit of weak leadership optimizing for ass covering. https://t.co/PXu7q1hb78",
+   "original_en": "Hard truth. PIPs are the cruel fruit of weak leadership optimizing for ass covering. https://t.co/PXu7q1hb78",
+   "highlight": false,
+   "created_at": "2026-11-10T11:23:18.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "EXM7777",
+   "display_name": "EXM7777",
+   "handle": "@EXM7777",
+   "area": "ai",
+   "views": 2667,
+   "likes": 51,
+   "replies": 26,
+   "reposts": 0,
+   "url": "https://x.com/EXM7777/status/2120139418208264447",
+   "status_url": "https://x.com/EXM7777/status/2120139418208264447",
+   "text": "i'm building the best UI/UX for Hermes agent\n\nit will be better than Grok Bot, ChatGPT Dots or anything else\n\nwhat's one thing you're missing in the current desktop app? https://t.co/HkTtUVOgZq",
+   "original_en": "i'm building the best UI/UX for Hermes agent\n\nit will be better than Grok Bot, ChatGPT Dots or anything else\n\nwhat's one thing you're missing in the current desktop app? https://t.co/HkTtUVOgZq",
+   "highlight": false,
+   "created_at": "2026-11-10T13:00:02.000Z",
    "window": "24h",
-   "draft_en": "[R5 · respuesta] Muy de acuerdo, y lo digo como médico: el descanso no es un premio para cuando terminas, es parte de lo que te permite pensar bien.\n\nCuando uno vive pegado a la pantalla y a la discusión, lo primero que se resiente suele ser el sueño. Y detrás vienen el ánimo, la paciencia y la concentración.\n\nAburrirse un rato también sirve. No todo silencio hay que llenarlo con otra respuesta.",
+   "draft_en": "[R3 · respuesta] Honestly, I don't think Hermes needs another control panel. It's already powerful.\n\nWhat's missing is for someone who doesn't write code to use it without a terminal nearby: setup in plain language, and errors explained as \"this is what happened and what I need from you,\" not a stack trace.\n\nFor people like me, that's the real barrier, not the features.",
    "draft_keywords": [
-    "Apagar la IA un rato: el descanso y el sueño también son salud mental"
+    "Lo que falta en Hermes no es otra interfaz: es que lo pueda usar alguien que no programa"
    ],
-   "why_hit": "Objetivo de respuesta R5 (Apagar la IA un rato: el descanso y el sueño también son salud mental). Base verificada: Sin cifras externas. Post ES de midudev (29,1K vistas, 47 respuestas, 8-nov 15:10Z): gente quemada y crispada en redes; consejo de apagar la IA, hacer deporte, leer y aburrirse; cuidar la salud mental. El hilo es de salud, así que el ángulo médico encaja sin forzar; afirmaciones generales sin cifras.",
-   "hook": "Muy de acuerdo, y lo digo como médico: el descanso no es un premio para cuando terminas, es parte de lo que te permite p",
+   "why_hit": "Objetivo de respuesta R3 (Lo que falta en Hermes no es otra interfaz: es que lo pueda usar alguien que no programa). Base verificada: Sin cifras externas. Post EN de EXM7777 (2,7K vistas, 26 respuestas, 10-nov 13:00Z): está construyendo la mejor UI/UX para Hermes Agent y pregunta qué falta en la app de escritorio actual. Postura de RT (memoria): Hermes ya es potente; lo que falta no es otra interfaz de control. Se usa solo ese punto, más el hecho verificado de que RT no programa. Sin beta, sin Cadu, sin proactividad, sin infra.",
+   "hook": "Honestly, I don't think Hermes needs another control panel. It's already powerful.\n\nWhat's missing is for someone who do",
    "top10_rank": 4
   },
   {
@@ -141,262 +345,165 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 13840,
-   "likes": 181,
-   "replies": 11,
-   "reposts": 15,
-   "url": "https://x.com/ErickSky/status/2119569753081614658",
-   "status_url": "https://x.com/ErickSky/status/2119569753081614658",
-   "text": "El Consejo de Directores de NVIDIA acaba de confirmar que Jensen Huang, fundador y CEO de la empresa que diseña la infraestructura de computación de IA más avanzada del planeta, fue el objetivo de un esfuerzo de inteligencia extranjera.\n\nLa investigación independiente ya está en https://t.co/266iz62efX",
-   "original_en": "El Consejo de Directores de NVIDIA acaba de confirmar que Jensen Huang, fundador y CEO de la empresa que diseña la infraestructura de computación de IA más avanzada del planeta, fue el objetivo de un esfuerzo de inteligencia extranjera.\n\nLa investigación independiente ya está en https://t.co/266iz62efX",
-   "highlight": true,
-   "created_at": "2026-11-08T23:16:23.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 10994,
-   "likes": 269,
-   "replies": 14,
-   "reposts": 15,
-   "url": "https://x.com/midudev/status/2119762327314796978",
-   "status_url": "https://x.com/midudev/status/2119762327314796978",
-   "text": "El resumen más salvaje que he visto de lo que ha pasado con NVIDIA y su fundador. https://t.co/nclN13VPs8",
-   "original_en": "El resumen más salvaje que he visto de lo que ha pasado con NVIDIA y su fundador. https://t.co/nclN13VPs8",
-   "highlight": true,
-   "created_at": "2026-11-09T12:01:36.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 6014,
-   "likes": 115,
-   "replies": 3,
-   "reposts": 4,
-   "url": "https://x.com/ErickSky/status/2119457318366597169",
-   "status_url": "https://x.com/ErickSky/status/2119457318366597169",
-   "text": "Me lo guardo y ustedes también deberían https://t.co/U9qwpgpXXb",
-   "original_en": "Me lo guardo y ustedes también deberían https://t.co/U9qwpgpXXb",
-   "highlight": true,
-   "created_at": "2026-11-08T15:49:36.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 4244,
-   "likes": 53,
-   "replies": 7,
-   "reposts": 2,
-   "url": "https://x.com/ErickSky/status/2119537304498794997",
-   "status_url": "https://x.com/ErickSky/status/2119537304498794997",
-   "text": "Aquí los espero en unos meses cuando les toque fixear la cagada que les dejaron los influencers de Instagram ❤️🤗 https://t.co/Vlf5QnG86n",
-   "original_en": "Aquí los espero en unos meses cuando les toque fixear la cagada que les dejaron los influencers de Instagram ❤️🤗 https://t.co/Vlf5QnG86n",
-   "highlight": false,
-   "created_at": "2026-11-08T21:07:27.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 4185,
-   "likes": 30,
-   "replies": 4,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2119572436953801002",
-   "status_url": "https://x.com/ErickSky/status/2119572436953801002",
-   "text": "Yo no gano lo suficiente para vivir en Venezuela 😭 https://t.co/atcbWhDpfI",
-   "original_en": "Yo no gano lo suficiente para vivir en Venezuela 😭 https://t.co/atcbWhDpfI",
-   "highlight": false,
-   "created_at": "2026-11-08T23:27:03.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 3829,
-   "likes": 147,
-   "replies": 2,
-   "reposts": 13,
-   "url": "https://x.com/ErickSky/status/2119506206893232441",
-   "status_url": "https://x.com/ErickSky/status/2119506206893232441",
-   "text": "Instalen el nuevo plugin de Hermes para hacerles una revisión de seguridad a su app con 1 usuario 🤗 https://t.co/QQvGYtcj6A",
-   "original_en": "Instalen el nuevo plugin de Hermes para hacerles una revisión de seguridad a su app con 1 usuario 🤗 https://t.co/QQvGYtcj6A",
-   "highlight": false,
-   "created_at": "2026-11-08T19:03:52.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "nvandewetering",
-   "display_name": "nvandewetering",
-   "handle": "@nvandewetering",
-   "area": "ai",
-   "views": 3333,
-   "likes": 9,
+   "views": 2645,
+   "likes": 48,
    "replies": 12,
-   "reposts": 0,
-   "url": "https://x.com/nvandewetering/status/2119475535680274670",
-   "status_url": "https://x.com/nvandewetering/status/2119475535680274670",
-   "text": "Only one of Grok Bot, ChatGPT Dots and Claude Duet survives 2026.\n\nIf you could only keep one personal agent for the rest of 2026, Grok Bot, ChatGPT Dots or Claude Duet, which one and why?\n\nI'll pin the best answer.",
-   "original_en": "Only one of Grok Bot, ChatGPT Dots and Claude Duet survives 2026.\n\nIf you could only keep one personal agent for the rest of 2026, Grok Bot, ChatGPT Dots or Claude Duet, which one and why?\n\nI'll pin the best answer.",
+   "reposts": 1,
+   "url": "https://x.com/ErickSky/status/2119880796752548160",
+   "status_url": "https://x.com/ErickSky/status/2119880796752548160",
+   "text": "Elon reinició el usage de @bot porque se supone metieron un montón de mejoras.\n\nVamos a ver si es verdura el apio. https://t.co/rDCWeYLO4P",
+   "original_en": "Elon reinició el usage de @bot porque se supone metieron un montón de mejoras.\n\nVamos a ver si es verdura el apio. https://t.co/rDCWeYLO4P",
    "highlight": false,
-   "created_at": "2026-11-08T17:02:00.000Z",
+   "created_at": "2026-11-09T19:52:22.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 2560,
+   "likes": 3,
+   "replies": 0,
+   "reposts": 5,
+   "url": "https://x.com/adnradiochile/status/2119963248980299829",
+   "status_url": "https://x.com/adnradiochile/status/2119963248980299829",
+   "text": "Apertura del nuevo Hospital del Salvador: gremios respaldan postura del exdirector respecto de las condiciones para habilitar el recinto\n\nhttps://t.co/K4uNAzjlLC",
+   "original_en": "Apertura del nuevo Hospital del Salvador: gremios respaldan postura del exdirector respecto de las condiciones para habilitar el recinto\n\nhttps://t.co/K4uNAzjlLC",
+   "highlight": false,
+   "created_at": "2026-11-10T01:20:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 2323,
+   "likes": 0,
+   "replies": 1,
+   "reposts": 3,
+   "url": "https://x.com/adnradiochile/status/2119801781395808481",
+   "status_url": "https://x.com/adnradiochile/status/2119801781395808481",
+   "text": "📻 EN VIVO | 🧠📉 Depresión, ansiedad, insomnio y soledad: la salud mental de los chilenos alcanza sus peores cifras desde la pandemia\n\nEn #CiudadanoADN conversamos con Mariane Krause, psicóloga y prorrectora de la Universidad Católica, sobre los resultados del estudio y los",
+   "original_en": "📻 EN VIVO | 🧠📉 Depresión, ansiedad, insomnio y soledad: la salud mental de los chilenos alcanza sus peores cifras desde la pandemia\n\nEn #CiudadanoADN conversamos con Mariane Krause, psicóloga y prorrectora de la Universidad Católica, sobre los resultados del estudio y los",
+   "highlight": false,
+   "created_at": "2026-11-09T14:38:23.000Z",
    "window": "24h",
-   "draft_en": "[R3 · respuesta] Whichever one I'd trust with my real calendar and my real inbox, not the one with the longest feature list.\n\nThat trust is built on boring things: it remembers what I told it last week, it says when it isn't sure, and it admits when it couldn't finish something.\n\nFeatures get copied in a month. That kind of reliability is much harder to copy.",
+   "draft_en": "[R4 · respuesta] Dos cifras de ese estudio me parecen clave. El insomnio moderado a severo subió de 8,6% a 14,3% en un año. Y entre quienes tienen síntomas de un problema de salud mental, el 61% no siente que necesite consultar.\n\nTambién aparece algo nuevo: el 23,3% dice sentirse muy estresado por la posibilidad de que la automatización o la IA afecten su trabajo.\n\nSi llevas semanas durmiendo mal, eso ya es motivo para consultar. Muchas veces el sueño es lo primero que avisa.\n\nFuente: https://visionuniversitaria.uc.cl/universidad-y-sociedad/salud-menta-chilenos-decae-peores-niveles-desde-pandemia/",
    "draft_keywords": [
-    "Si solo queda un agente personal: el que se gana la confianza en lo cotidiano"
+    "Termómetro de Salud Mental Achs-UC: el insomnio casi se duplicó y la mayoría no consulta"
    ],
-   "why_hit": "Objetivo de respuesta R3 (Si solo queda un agente personal: el que se gana la confianza en lo cotidiano). Base verificada: Sin cifras externas. Post EN de nvandewetering (3,3K vistas, 12 respuestas, 8-nov 17:02Z): si solo pudieras quedarte con un agente personal en 2026 (Grok Bot, ChatGPT Dots o Claude Duet), ¿cuál y por qué? Ángulo: no elegir marca; la confianza se construye con memoria, honestidad sobre lo no terminado y fiabilidad. Sin nombrar cuál usa RT, sin beta, sin infra.",
-   "hook": "Whichever one I'd trust with my real calendar and my real inbox, not the one with the longest feature list.\n\nThat trust ",
+   "why_hit": "Objetivo de respuesta R4 (Termómetro de Salud Mental Achs-UC: el insomnio casi se duplicó y la mayoría no consulta). Base verificada: Termómetro de la Salud Mental en Chile Achs-UC, ronda 12 (Visión Universitaria UC, 6-oct-2026; ~2.700 entrevistas): 18,5% con sospecha o presencia de problemas de salud mental (12,7% en abril 2025); insomnio moderado a severo de 8,6% a 14,3%; 23,3% altamente estresado porque la automatización o la IA afecte su trabajo; 61% de quienes tienen problemas de salud mental (1,7 millones) no identifica la necesidad de consultar. Post ADN 2,3K vistas (9-nov 14:38Z).",
+   "hook": "Dos cifras de ese estudio me parecen clave. El insomnio moderado a severo subió de 8,6% a 14,3% en un año. Y entre quien",
    "top10_rank": 5
   },
   {
-   "name": "24HorasTVN",
-   "display_name": "24HorasTVN",
-   "handle": "@24HorasTVN",
-   "area": "health",
-   "views": 2839,
-   "likes": 3,
-   "replies": 1,
-   "reposts": 5,
-   "url": "https://x.com/24HorasTVN/status/2119545596201644318",
-   "status_url": "https://x.com/24HorasTVN/status/2119545596201644318",
-   "text": "🔴 #Nacional\n\nPobreza menstrual: \"Tampoco es reconocida por la salud pública en Chile\"\n\nMás detalles ⬇\nhttps://t.co/DVmGlwUFB2",
-   "original_en": "🔴 #Nacional\n\nPobreza menstrual: \"Tampoco es reconocida por la salud pública en Chile\"\n\nMás detalles ⬇\nhttps://t.co/DVmGlwUFB2",
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 2165,
+   "likes": 46,
+   "replies": 8,
+   "reposts": 3,
+   "url": "https://x.com/ErickSky/status/2119859419223556281",
+   "status_url": "https://x.com/ErickSky/status/2119859419223556281",
+   "text": "El equipo de @AIatMeta acaba de lanzar Muse Ember!\n\nEs el modelo \"de ejecución\" de la familia Muse: el más pequeño, el más barato y el que mejor ratio inteligencia/coste tiene frente a Haiku 5.5 y GPT-6 Luna.\n\nPensado para el 80% del trabajo de un agente (tool calls, fixes, https://t.co/Mopko0Tpov",
+   "original_en": "El equipo de @AIatMeta acaba de lanzar Muse Ember!\n\nEs el modelo \"de ejecución\" de la familia Muse: el más pequeño, el más barato y el que mejor ratio inteligencia/coste tiene frente a Haiku 5.5 y GPT-6 Luna.\n\nPensado para el 80% del trabajo de un agente (tool calls, fixes, https://t.co/Mopko0Tpov",
    "highlight": false,
-   "created_at": "2026-11-08T21:40:24.000Z",
+   "created_at": "2026-11-09T18:27:25.000Z",
    "window": "24h"
   },
   {
-   "name": "daniel_mac8",
-   "display_name": "daniel_mac8",
-   "handle": "@daniel_mac8",
-   "area": "ai",
-   "views": 2747,
-   "likes": 41,
-   "replies": 13,
-   "reposts": 1,
-   "url": "https://x.com/daniel_mac8/status/2119532947300634816",
-   "status_url": "https://x.com/daniel_mac8/status/2119532947300634816",
-   "text": "Seven design principles for my Claude Duet + Claude Projects + Claude Code personal agent set up.\n\nWhat do you think of these? Would you add anything?\n\nYes, I will publish a full guide so you can borrow it soon.",
-   "original_en": "Seven design principles for my Claude Duet + Claude Projects + Claude Code personal agent set up.\n\nWhat do you think of these? Would you add anything?\n\nYes, I will publish a full guide so you can borrow it soon.",
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 2131,
+   "likes": 6,
+   "replies": 0,
+   "reposts": 4,
+   "url": "https://x.com/adnradiochile/status/2119876427080167471",
+   "status_url": "https://x.com/adnradiochile/status/2119876427080167471",
+   "text": "VIDEO. ¿Por qué está empeorando la salud mental en Chile? Experta apunta a la incertidumbre y el miedo al futuro\n https://t.co/LFTn1vNy8x",
+   "original_en": "VIDEO. ¿Por qué está empeorando la salud mental en Chile? Experta apunta a la incertidumbre y el miedo al futuro\n https://t.co/LFTn1vNy8x",
    "highlight": false,
-   "created_at": "2026-11-08T20:50:08.000Z",
-   "window": "24h",
-   "draft_en": "[R4 · respuesta] I'd add one: the agent should report what it didn't do, not only what it did.\n\nA clean summary that quietly skips the hard part is worse than an honest \"I got stuck here, this is what I need from you.\"\n\nFor someone who doesn't write code, that's what makes delegating feel safe: I can't check everything, so I need to know where to look.",
-   "draft_keywords": [
-    "Un principio más para el agente personal: que reporte lo que no hizo"
-   ],
-   "why_hit": "Objetivo de respuesta R4 (Un principio más para el agente personal: que reporte lo que no hizo). Base verificada: Sin cifras externas. Post EN de daniel_mac8 (2,7K vistas, 13 respuestas, 8-nov 20:50Z): siete principios de diseño para su agente personal con Claude Duet + Projects + Code; pregunta qué agregaríamos. Ángulo nuevo (no «decisión enmarcada» ni «aprobar lo que va a tu nombre», ya usados): que el agente informe lo que no hizo o donde se atascó. RT no programa (verdadero).",
-   "hook": "I'd add one: the agent should report what it didn't do, not only what it did.\n\nA clean summary that quietly skips the ha",
-   "top10_rank": 6
+   "created_at": "2026-11-09T19:35:00.000Z",
+   "window": "24h"
   },
   {
-   "name": "elliberocl",
-   "display_name": "elliberocl",
-   "handle": "@elliberocl",
+   "name": "ministeriosalud",
+   "display_name": "ministeriosalud",
+   "handle": "@ministeriosalud",
    "area": "health",
-   "views": 1497,
-   "likes": 102,
+   "views": 2078,
+   "likes": 13,
    "replies": 3,
-   "reposts": 54,
-   "url": "https://x.com/elliberocl/status/2119747886225228265",
-   "status_url": "https://x.com/elliberocl/status/2119747886225228265",
-   "text": "#Actualidad | Fonasa usa la IA para detectar y evitar fraudes: lo \"ahorrado\" les permitió hacer 3 mil cirugías de rodilla y cadera\n\nhttps://t.co/lMWFet1ShR",
-   "original_en": "#Actualidad | Fonasa usa la IA para detectar y evitar fraudes: lo \"ahorrado\" les permitió hacer 3 mil cirugías de rodilla y cadera\n\nhttps://t.co/lMWFet1ShR",
+   "reposts": 6,
+   "url": "https://x.com/ministeriosalud/status/2119869151259107419",
+   "status_url": "https://x.com/ministeriosalud/status/2119869151259107419",
+   "text": "Autoridades del Minsal participaron en la Comisión de Salud del Senado, donde recibieron el informe final de la Mesa de Trabajo para la Modernización del sistema sanitario en Chile, que contiene sus principales conclusiones y propuestas. https://t.co/EJcYI9q1T4",
+   "original_en": "Autoridades del Minsal participaron en la Comisión de Salud del Senado, donde recibieron el informe final de la Mesa de Trabajo para la Modernización del sistema sanitario en Chile, que contiene sus principales conclusiones y propuestas. https://t.co/EJcYI9q1T4",
    "highlight": false,
-   "created_at": "2026-11-09T11:04:13.000Z",
-   "window": "24h",
-   "draft_en": "[R7 · respuesta] Lo interesante es el cambio de lógica: revisar las prestaciones antes de pagarlas, en vez de descubrir el problema meses después. Según el director de Fonasa, el sistema revisa más de 10 mil transacciones al día, y lo ahorrado permitió completar 3 mil cirugías de rodilla y cadera.\n\nEsa misma anticipación es la que más falta en las listas de espera: saber quién se está atrasando antes de que su caso se complique.\n\nY tiene razón en algo que se dice poco: los datos mejoran cuando se usan.\n\nFuente: https://ellibero.cl/factor-ia/director-nacional-fonasa-nos-apoyamos-en-ia-en-materia-de-fiscalizacion/",
-   "draft_keywords": [
-    "Fonasa usa IA para revisar antes de pagar: esa anticipación sirve también para las listas de espera"
-   ],
-   "why_hit": "Objetivo de respuesta R7 (Fonasa usa IA para revisar antes de pagar: esa anticipación sirve también para las listas de espera). Base verificada: El Líbero, Factor IA (9-nov-2026), entrevista a César Oyarzo, director nacional de Fonasa: el Sistema Integrado de Riesgos y Alertas (SIRA) revisa más de 10 mil transacciones al día, entrega cada mañana un reporte de alertas antes de pagar la prestación; lo ahorrado este año permitió completar 3 mil cirugías de rodilla y cadera; «reducir la lista de espera requiere anticipación»; reconoce falta de datos y que los datos mejoran cuando se usan. Ángulo positivo, sin hablar de fraudes de médicos (tema sensible descartado antes). 1,5K vistas, bajo umbral de estrella pero sobre 1.000; tema de IA en salud Chile.",
-   "hook": "Lo interesante es el cambio de lógica: revisar las prestaciones antes de pagarlas, en vez de descubrir el problema meses",
-   "top10_rank": 7
+   "created_at": "2026-11-09T19:06:05.000Z",
+   "window": "24h"
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Prompts: el contexto (para qué, para quién, qué es bien hecho) pesa más que el rol",
-  "Experiencia vs. velocidad: el criterio para revisar es lo que hace útil a un equipo de subagentes",
-  "Agentes personales: la confianza se gana en lo cotidiano (memoria, honestidad, fiabilidad)",
-  "Salud mental: descanso y sueño como parte del trabajo, no premio",
-  "Salud Chile: anticipación (calor de febrero-marzo, revisión previa en Fonasa) como idea común"
+  "Alertas regulatorias de medicamentos (FDA GLP-1) arrastran a medios y médicos en español en pocas horas",
+  "Modelos nuevos (Fable 5.2) concentran el alcance de la watchlist IA; lo replicable es el ángulo humano, no el benchmark",
+  "Seguridad de la IA: la objeción se vuelve útil cuando se convierte en prueba concreta",
+  "Agentes personales: la pregunta pasa de qué puede hacer a quién puede usarlo sin saber programar",
+  "Salud mental Chile: sueño y miedo a la automatización como señales nuevas"
  ],
  "no_hits": [
   {
-   "handle": "@DotCSV",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
-  },
-  {
-   "handle": "@freddier",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
-  },
-  {
-   "handle": "@sergiorocaa",
-   "max_views": 1487,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.487."
-  },
-  {
    "handle": "@bilinkis",
    "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
-  },
-  {
-   "handle": "@ministeriosalud",
-   "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@Pajarobere",
    "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@juancarlossaid",
    "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@CatuRojas",
    "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@HeliaMolina_M",
    "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
+  },
+  {
+   "handle": "@Cooperativa",
+   "max_views": 1614,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.614."
   },
   {
    "handle": "@jmanalich",
    "max_views": 0,
-   "reason": "Sin originales en las últimas 24h."
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   }
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 16,
+ "hits_count": 24,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-11-08",
-  "hits_count": 6,
-  "total_views": 996552
+  "date": "2026-11-09",
+  "hits_count": 16,
+  "total_views": 623752
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -464,20 +571,47 @@
  },
  "day_roster": [
   {
-   "handle": "@ErickSky",
-   "name": "ErickSky",
+   "handle": "@midudev",
+   "name": "midudev",
    "area": "ai",
-   "views": 156034,
-   "total_views": 294650,
+   "views": 82453,
+   "total_views": 151429,
    "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@midudev",
-   "name": "midudev",
+   "handle": "@CNNChile",
+   "name": "CNNChile",
+   "area": "health",
+   "views": 16107,
+   "total_views": 17986,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@freddier",
+   "name": "freddier",
    "area": "ai",
-   "views": 138932,
-   "total_views": 291837,
+   "views": 12924,
+   "total_views": 23001,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@DotCSV",
+   "name": "DotCSV",
+   "area": "ai",
+   "views": 10360,
+   "total_views": 10360,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@ErickSky",
+   "name": "ErickSky",
+   "area": "ai",
+   "views": 9362,
+   "total_views": 62132,
    "hit": true,
    "window": "24h"
   },
@@ -485,17 +619,8 @@
    "handle": "@adnradiochile",
    "name": "adnradiochile",
    "area": "health",
-   "views": 2768,
-   "total_views": 20704,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@Cooperativa",
-   "name": "Cooperativa",
-   "area": "health",
-   "views": 2376,
-   "total_views": 11907,
+   "views": 5269,
+   "total_views": 17092,
    "hit": true,
    "window": "24h"
   },
@@ -503,26 +628,26 @@
    "handle": "@sergiorocaa",
    "name": "sergiorocaa",
    "area": "ai",
-   "views": 1487,
-   "total_views": 2989,
-   "hit": false,
+   "views": 2982,
+   "total_views": 4299,
+   "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@DotCSV",
-   "name": "DotCSV",
-   "area": "ai",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
+   "handle": "@ministeriosalud",
+   "name": "ministeriosalud",
+   "area": "health",
+   "views": 2078,
+   "total_views": 6024,
+   "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@freddier",
-   "name": "freddier",
-   "area": "ai",
-   "views": 0,
-   "total_views": 0,
+   "handle": "@Cooperativa",
+   "name": "Cooperativa",
+   "area": "health",
+   "views": 1614,
+   "total_views": 1614,
    "hit": false,
    "window": "24h"
   },
@@ -530,15 +655,6 @@
    "handle": "@bilinkis",
    "name": "bilinkis",
    "area": "ai",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@ministeriosalud",
-   "name": "ministeriosalud",
-   "area": "health",
    "views": 0,
    "total_views": 0,
    "hit": false,
@@ -654,54 +770,54 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "prompts «actúa como» vs. contexto"
+    "keyword": "FDA GLP-1 y NAION (Ozempic, Wegovy, Mounjaro)"
    },
    {
     "rank": 2,
-    "keyword": "IA y profesionales con experiencia"
+    "keyword": "Claude Fable 5.2 y sistema operativo con subagentes"
    },
    {
     "rank": 3,
-    "keyword": "subagentes y criterio para revisar"
+    "keyword": "seguridad de la IA: ¿dinosaurio o pregunta obligatoria?"
    },
    {
     "rank": 4,
-    "keyword": "un solo agente personal 2026 (Grok Bot, Dots, Claude Duet)"
+    "keyword": "cuota de tokens y qué vale la pena delegar"
    },
    {
     "rank": 5,
-    "keyword": "principios de diseño de un agente personal"
+    "keyword": "Hermes Agent: UX para quien no programa"
    },
    {
     "rank": 6,
-    "keyword": "salud mental y apagar la IA"
+    "keyword": "Grok Bot, Claude Duet, Dots: comparativas"
    },
    {
     "rank": 7,
-    "keyword": "calor extremo y El Niño en Chile"
+    "keyword": "Termómetro Salud Mental Achs-UC 2026"
    },
    {
     "rank": 8,
-    "keyword": "Fonasa IA SIRA y listas de espera"
+    "keyword": "insomnio y miedo a la automatización"
    },
    {
     "rank": 9,
-    "keyword": "ojo rojo señales de alarma"
+    "keyword": "fatiga ocular y wearables"
    },
    {
     "rank": 10,
-    "keyword": "ojo perezoso control 3 a 5 años"
+    "keyword": "retinopatía diabética y fondo de ojo anual"
    }
   ],
-  "note": "Minadas de originales 24h del watchlist y búsquedas de agentes/salud Chile (curadas a mano). Excluidos: política, presupuesto, fútbol (Colo Colo), caso Nvidia, accidentes y tecnología pura."
+  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía) y agentes personales (curadas a mano). Excluidos: política, Hospital del Salvador (gremial), sarampión (tema ya descartado por Wally), economía y tecnología pura."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 09-11-2026: 7 respuestas (R1–R7: 4 de agentes de IA y 3 de salud) y 2 originales (P1–P2) en borrador para el filtro de Wally; nada publicado.",
-   "takeaway": "Watchlist IA: ErickSky dominó con el post contra los prompts «actúa como» (155,7K) y el de profesionales de TI de 50 años frente a subagentes (84,7K); midudev tuvo alcance alto con temas fuera de línea y uno útil sobre salud mental (29,1K). Conversación de agentes personales: comparativas Grok Bot / Dots / Claude Duet (nvandewetering 3,3K) y principios de diseño (daniel_mac8 2,7K). Salud Chile: watchlist salud dominado por Colo Colo, economía y política; lo útil vino de fuera: El Mostrador sobre calor extremo (48,5K) y Fonasa usando IA para anticiparse (El Líbero, 1,5K). Presupuesto de Salud 2027 (Colmed 5,2K) excluido por presupuestario."
+   "headline": "Digest 10-11-2026: 5 respuestas (R1–R5: 3 de agentes de IA y 2 de salud) y 1 original (P1) en borrador para el filtro de Wally; nada publicado.",
+   "takeaway": "Lo más grande del día fue la advertencia de la FDA sobre GLP-1 y NAION: jayfonsecapr 23,7K, CNN Chile 16,1K, ADN 4,8K y muchos medios en español; RT ya respondió a CNN Chile y ADN esta mañana, así que no se suma otro borrador con la misma idea. Watchlist IA: midudev dominó con Fable 5.2 (82,5K y 69K, sistema operativo con más de 1000 subagentes); ErickSky con el comentario «debe ser inseguro» (9,4K) y la escasez de tokens (7,2K). Agentes personales: comparativas Grok Bot / Hermes / Claude Duet (tonysimons 11,8K) y EXM7777 preguntando qué falta en la app de Hermes (2,7K). Salud Chile: Termómetro de Salud Mental Achs-UC en ADN (2,3K); Minsal con sarampión y la Mesa de Modernización; Hospital del Salvador excluido por gremial."
   },
   "corpus": {
-   "posts": 55,
+   "posts": 37,
    "min_views": 2000
   },
   "window": {
@@ -713,113 +829,74 @@
     "title": "R1 · respuesta a @ErickSky",
     "format": "respuesta",
     "source": "@ErickSky",
-    "topic": "Edad vs. 400 subagentes: lo que pesa es el criterio para revisar",
-    "hook_en": "Ojo con leerlo solo como edad contra velocidad. Lo que pesa no es cuántos subagentes lanzas, sino saber qué pedir y qué revisar antes de dar algo por bueno.\n\nEsa experiencia vale mucho si se aprende a delegar en agentes: es la que distingue el trabajo que se ve bien del que de verdad está bien.\n\nEl que tiene criterio y además aprende la herramienta va a rendir más que cualquiera de los dos por separado.",
-    "angle": "Objetivo: https://x.com/ErickSky/status/2119524432788234419 (84.867 vistas)",
-    "why": "Base: Sin cifras externas. Post ES de ErickSky (84,7K vistas, 130 respuestas, 8-nov 20:16Z): profesionales de TI de 50 años a los que les cuesta la IA frente a un joven con 400 subagentes que resuelve en un día lo que se estimaba en 4 meses. Ángulo: no edad contra velocidad, sino criterio para saber qué pedir y qué revisar; sin infra ni cifras sobre RT. Fuente: sin cifras externas",
+    "topic": "Preguntar «¿es seguro?» no es de dinosaurio: es parte del trabajo",
+    "hook_en": "Ahí no estoy de acuerdo. Preguntar si algo es seguro no es de dinosaurio: en salud es lo primero que tenemos que preguntar, y no se usa con pacientes algo que no la ha respondido.\n\nLo que sí sobra es usar esa pregunta para no probar nada.\n\nLa versión útil es otra: ¿qué tendría que pasar para confiar en esto? Y después ir a comprobarlo.",
+    "angle": "Objetivo: https://x.com/ErickSky/status/2119927430928548226 (9.362 vistas)",
+    "why": "Base: Sin cifras externas. Post ES de ErickSky (9,4K vistas, 12 respuestas, 9-nov 22:57Z): un ingeniero de Anthropic creó un sistema operativo con Claude Fable 5.2 y el primer comentario fue «debe ser muy inseguro»; Erick lo trata de dino-dev. Ángulo de RT sin forzar oftalmología: en salud la pregunta por la seguridad es obligatoria; lo útil es convertirla en una prueba concreta, no usarla para frenar. Fuente: sin cifras externas",
     "keywords": [
-     "Edad vs. 400 subagentes: lo que pesa es el criterio para revisar"
+     "Preguntar «¿es seguro?» no es de dinosaurio: es parte del trabajo"
     ]
    },
    {
     "title": "R2 · respuesta a @ErickSky",
     "format": "respuesta",
     "source": "@ErickSky",
-    "topic": "«Actúa como…»: el contexto cambia más el resultado que el rol",
-    "hook_en": "Más que el rol, lo que cambia el resultado es el contexto: para qué lo necesitas, quién lo va a leer y qué considerarías bien hecho.\n\n«Actúa como experto en marketing» le dice poco. «Escribe para dueños de pymes que nunca han hecho un anuncio, en tres párrafos y sin anglicismos» le dice casi todo.\n\nY lo ideal es no tener que repetirlo cada vez: un buen asistente debería recordar quién eres y cómo trabajas.",
-    "angle": "Objetivo: https://x.com/ErickSky/status/2119580086420521450 (156.034 vistas)",
-    "why": "Base: Sin cifras externas. Post ES de ErickSky (155,7K vistas, 8-nov 23:57Z) contra los prompts tipo «actúa como un XXXX y hazme YYYY». Ángulo práctico para no técnicos: dar contexto (para qué, para quién, qué es bien hecho) y que el asistente lo recuerde; ejemplo no clínico para no forzar salud. Fuente: sin cifras externas",
+    "topic": "Con cuota limitada uno elige mejor qué delegar",
+    "hook_en": "Tiene lógica. Cuando la cuota tiene límite, uno se pregunta antes si vale la pena pedir algo, y eso ordena bastante.\n\nCon recursos casi infinitos uno delega todo, incluso lo que no tenía sentido hacer.\n\nEl límite no es solo una molestia: también obliga a decidir qué importa.",
+    "angle": "Objetivo: https://x.com/ErickSky/status/2119842780549722353 (7.160 vistas)",
+    "why": "Base: Sin cifras externas. Post ES de ErickSky (7,2K vistas, 20 respuestas, 9-nov 17:21Z): con muchos tokens se hacen «puras weás»; los del plan de $20 hacen cosas más útiles porque valoran cada token. Ángulo práctico sin infraestructura: el límite obliga a preguntarse antes si algo vale la pena delegarlo. RT ya se quejó en público de su cuota (verdadero), pero el texto no da cifras ni detalles. Fuente: sin cifras externas",
     "keywords": [
-     "«Actúa como…»: el contexto cambia más el resultado que el rol"
+     "Con cuota limitada uno elige mejor qué delegar"
     ]
    },
    {
-    "title": "R3 · respuesta a @nvandewetering",
+    "title": "R3 · respuesta a @EXM7777",
     "format": "respuesta",
-    "source": "@nvandewetering",
-    "topic": "Si solo queda un agente personal: el que se gana la confianza en lo cotidiano",
-    "hook_en": "Whichever one I'd trust with my real calendar and my real inbox, not the one with the longest feature list.\n\nThat trust is built on boring things: it remembers what I told it last week, it says when it isn't sure, and it admits when it couldn't finish something.\n\nFeatures get copied in a month. That kind of reliability is much harder to copy.",
-    "angle": "Objetivo: https://x.com/nvandewetering/status/2119475535680274670 (3.333 vistas)",
-    "why": "Base: Sin cifras externas. Post EN de nvandewetering (3,3K vistas, 12 respuestas, 8-nov 17:02Z): si solo pudieras quedarte con un agente personal en 2026 (Grok Bot, ChatGPT Dots o Claude Duet), ¿cuál y por qué? Ángulo: no elegir marca; la confianza se construye con memoria, honestidad sobre lo no terminado y fiabilidad. Sin nombrar cuál usa RT, sin beta, sin infra. Fuente: sin cifras externas",
+    "source": "@EXM7777",
+    "topic": "Lo que falta en Hermes no es otra interfaz: es que lo pueda usar alguien que no programa",
+    "hook_en": "Honestly, I don't think Hermes needs another control panel. It's already powerful.\n\nWhat's missing is for someone who doesn't write code to use it without a terminal nearby: setup in plain language, and errors explained as \"this is what happened and what I need from you,\" not a stack trace.\n\nFor people like me, that's the real barrier, not the features.",
+    "angle": "Objetivo: https://x.com/EXM7777/status/2120139418208264447 (2.667 vistas)",
+    "why": "Base: Sin cifras externas. Post EN de EXM7777 (2,7K vistas, 26 respuestas, 10-nov 13:00Z): está construyendo la mejor UI/UX para Hermes Agent y pregunta qué falta en la app de escritorio actual. Postura de RT (memoria): Hermes ya es potente; lo que falta no es otra interfaz de control. Se usa solo ese punto, más el hecho verificado de que RT no programa. Sin beta, sin Cadu, sin proactividad, sin infra. Fuente: sin cifras externas",
     "keywords": [
-     "Si solo queda un agente personal: el que se gana la confianza en lo cotidiano"
+     "Lo que falta en Hermes no es otra interfaz: es que lo pueda usar alguien que no programa"
     ]
    },
    {
-    "title": "R4 · respuesta a @daniel_mac8",
+    "title": "R4 · respuesta a @adnradiochile",
     "format": "respuesta",
-    "source": "@daniel_mac8",
-    "topic": "Un principio más para el agente personal: que reporte lo que no hizo",
-    "hook_en": "I'd add one: the agent should report what it didn't do, not only what it did.\n\nA clean summary that quietly skips the hard part is worse than an honest \"I got stuck here, this is what I need from you.\"\n\nFor someone who doesn't write code, that's what makes delegating feel safe: I can't check everything, so I need to know where to look.",
-    "angle": "Objetivo: https://x.com/daniel_mac8/status/2119532947300634816 (2.747 vistas)",
-    "why": "Base: Sin cifras externas. Post EN de daniel_mac8 (2,7K vistas, 13 respuestas, 8-nov 20:50Z): siete principios de diseño para su agente personal con Claude Duet + Projects + Code; pregunta qué agregaríamos. Ángulo nuevo (no «decisión enmarcada» ni «aprobar lo que va a tu nombre», ya usados): que el agente informe lo que no hizo o donde se atascó. RT no programa (verdadero). Fuente: sin cifras externas",
+    "source": "@adnradiochile",
+    "topic": "Termómetro de Salud Mental Achs-UC: el insomnio casi se duplicó y la mayoría no consulta",
+    "hook_en": "Dos cifras de ese estudio me parecen clave. El insomnio moderado a severo subió de 8,6% a 14,3% en un año. Y entre quienes tienen síntomas de un problema de salud mental, el 61% no siente que necesite consultar.\n\nTambién aparece algo nuevo: el 23,3% dice sentirse muy estresado por la posibilidad de que la automatización o la IA afecten su trabajo.\n\nSi llevas semanas durmiendo mal, eso ya es motivo para consultar. Muchas veces el sueño es lo primero que avisa.",
+    "angle": "Objetivo: https://x.com/adnradiochile/status/2119801781395808481 (2.323 vistas)",
+    "why": "Base: Termómetro de la Salud Mental en Chile Achs-UC, ronda 12 (Visión Universitaria UC, 6-oct-2026; ~2.700 entrevistas): 18,5% con sospecha o presencia de problemas de salud mental (12,7% en abril 2025); insomnio moderado a severo de 8,6% a 14,3%; 23,3% altamente estresado porque la automatización o la IA afecte su trabajo; 61% de quienes tienen problemas de salud mental (1,7 millones) no identifica la necesidad de consultar. Post ADN 2,3K vistas (9-nov 14:38Z). Fuente: https://visionuniversitaria.uc.cl/universidad-y-sociedad/salud-menta-chilenos-decae-peores-niveles-desde-pandemia/",
     "keywords": [
-     "Un principio más para el agente personal: que reporte lo que no hizo"
+     "Termómetro de Salud Mental Achs-UC: el insomnio casi se duplicó y la mayoría no consulta"
     ]
    },
    {
-    "title": "R5 · respuesta a @midudev",
+    "title": "R5 · respuesta a @sergiorocaa",
     "format": "respuesta",
-    "source": "@midudev",
-    "topic": "Apagar la IA un rato: el descanso y el sueño también son salud mental",
-    "hook_en": "Muy de acuerdo, y lo digo como médico: el descanso no es un premio para cuando terminas, es parte de lo que te permite pensar bien.\n\nCuando uno vive pegado a la pantalla y a la discusión, lo primero que se resiente suele ser el sueño. Y detrás vienen el ánimo, la paciencia y la concentración.\n\nAburrirse un rato también sirve. No todo silencio hay que llenarlo con otra respuesta.",
-    "angle": "Objetivo: https://x.com/midudev/status/2119447541406199830 (29.131 vistas)",
-    "why": "Base: Sin cifras externas. Post ES de midudev (29,1K vistas, 47 respuestas, 8-nov 15:10Z): gente quemada y crispada en redes; consejo de apagar la IA, hacer deporte, leer y aburrirse; cuidar la salud mental. El hilo es de salud, así que el ángulo médico encaja sin forzar; afirmaciones generales sin cifras. Fuente: sin cifras externas",
+    "source": "@sergiorocaa",
+    "topic": "Un wearable de fatiga ocular puede avisar, pero lo que alivia son las pausas",
+    "hook_en": "As an ophthalmologist, I'd love to see what it actually measures. Most screen eye strain comes from something simple: our blink rate can drop by half when we stare at a screen.\n\nA sensor can remind you. What relieves it is still basic: look at something far away every 20 minutes, blink on purpose, and use artificial tears if your eyes feel dry.\n\nAnd if the discomfort or blurry vision doesn't go away after you rest, that's not tiredness to track. It's a reason to get your eyes examined.",
+    "angle": "Objetivo: https://x.com/sergiorocaa/status/2119845776926855209 (2.982 vistas)",
+    "why": "Base: AAO (Digital Devices and Your Eyes): normalmente parpadeamos unas 15 veces por minuto y ese ritmo puede caer a la mitad frente a pantallas; las molestias son temporales y no dañan el ojo de forma permanente; recomiendan mirar a lo lejos, lágrimas artificiales y distancia de un brazo. AAO computer-usage: regla 20-20-20; si los síntomas siguen, consultar al oftalmólogo. Post EN de sergiorocaa (3,0K vistas, 10 respuestas, 9-nov 17:33Z) sobre STASIS, wearable que mide fatiga ocular. No se afirma nada sobre el producto. Fuente: https://www.aao.org/eye-health/tips-prevention/digital-devices-your-eyes",
     "keywords": [
-     "Apagar la IA un rato: el descanso y el sueño también son salud mental"
+     "Un wearable de fatiga ocular puede avisar, pero lo que alivia son las pausas"
     ]
    },
    {
-    "title": "R6 · respuesta a @elmostrador",
-    "format": "respuesta",
-    "source": "@elmostrador",
-    "topic": "Calor extremo en Chile: el riesgo se concentra en febrero-marzo y se puede preparar",
-    "hook_en": "Lo más útil de esa proyección es el cuándo: el modelo del Climate Impact Lab estima cerca de 200 muertes adicionales por calor en Chile hasta marzo, y la mayor parte caería en febrero y marzo, con más riesgo en el norte y en Valparaíso.\n\nEso deja tiempo para prepararse. Alertas tempranas, agua y lugares frescos disponibles, y atención a las personas mayores y a quienes tienen enfermedades crónicas, que suelen tolerar peor el calor.\n\nTodo eso funciona mejor si se organiza antes del verano, no en medio de la ola.",
-    "angle": "Objetivo: https://x.com/elmostrador/status/2119539204841746897 (48.486 vistas)",
-    "why": "Base: El Mostrador, Juego Limpio (3-nov-2026): el El Niño Heat Mortality Tracker del Climate Impact Lab (vinculado a la U. de Chicago) proyecta cerca de 200 muertes adicionales por calor en Chile hasta marzo de 2027; febrero y marzo concentrarían la mayor parte; el norte concentra las mayores estimaciones y la zona central y sur cifras menores, con la excepción de Valparaíso; medidas útiles: alertas tempranas, acceso a servicios de salud, centros de enfriamiento y agua. Modelo aún no publicado en revista. Post 48,5K vistas, 18 respuestas. Fuente: https://www.elmostrador.cl/juego-limpio/2026/11/03/estudio-anticipa-calor-mortal-en-chile/",
-    "keywords": [
-     "Calor extremo en Chile: el riesgo se concentra en febrero-marzo y se puede preparar"
-    ]
-   },
-   {
-    "title": "R7 · respuesta a @elliberocl",
-    "format": "respuesta",
-    "source": "@elliberocl",
-    "topic": "Fonasa usa IA para revisar antes de pagar: esa anticipación sirve también para las listas de espera",
-    "hook_en": "Lo interesante es el cambio de lógica: revisar las prestaciones antes de pagarlas, en vez de descubrir el problema meses después. Según el director de Fonasa, el sistema revisa más de 10 mil transacciones al día, y lo ahorrado permitió completar 3 mil cirugías de rodilla y cadera.\n\nEsa misma anticipación es la que más falta en las listas de espera: saber quién se está atrasando antes de que su caso se complique.\n\nY tiene razón en algo que se dice poco: los datos mejoran cuando se usan.",
-    "angle": "Objetivo: https://x.com/elliberocl/status/2119747886225228265 (1.497 vistas)",
-    "why": "Base: El Líbero, Factor IA (9-nov-2026), entrevista a César Oyarzo, director nacional de Fonasa: el Sistema Integrado de Riesgos y Alertas (SIRA) revisa más de 10 mil transacciones al día, entrega cada mañana un reporte de alertas antes de pagar la prestación; lo ahorrado este año permitió completar 3 mil cirugías de rodilla y cadera; «reducir la lista de espera requiere anticipación»; reconoce falta de datos y que los datos mejoran cuando se usan. Ángulo positivo, sin hablar de fraudes de médicos (tema sensible descartado antes). 1,5K vistas, bajo umbral de estrella pero sobre 1.000; tema de IA en salud Chile. Fuente: https://ellibero.cl/factor-ia/director-nacional-fonasa-nos-apoyamos-en-ia-en-materia-de-fiscalizacion/",
-    "keywords": [
-     "Fonasa usa IA para revisar antes de pagar: esa anticipación sirve también para las listas de espera"
-    ]
-   },
-   {
-    "title": "P1 · Ojo rojo: cuándo esperar y cuándo ir a urgencia",
+    "title": "P1 · Diabetes y retina: el fondo de ojo anual, aunque veas bien",
     "format": "post largo",
     "source": "original RT",
-    "topic": "ojo rojo: casi siempre benigno, pero con señales de alarma claras",
-    "hook_en": "La mayoría de las veces, un ojo rojo no es grave y mejora solo en pocos días. Pero hay señales que obligan a consultar de inmediato.\n\nSegún el Servicio Nacional de Salud del Reino Unido (NHS):\n\n• Si no duele, la visión está normal y no te sientes mal, probablemente no es serio. Mientras mejora, no lo frotes y no uses lentes de contacto\n• Pide hora pronto si el ojo duele mucho, si usas lentes de contacto (puede ser una infección) o si se trata de un recién nacido\n• Ve a urgencia si además notas cambios en la visión (líneas onduladas, destellos o pérdida de visión), si la luz te molesta mucho, si tienes un dolor de cabeza intenso con náuseas, si una pupila se ve más grande que la otra, o si hubo un golpe, algo clavado en el ojo o contacto con un químico\n• En esos casos, no manejes: pide que te lleven\n• Y no intentes diagnosticarte solo\n\nUna regla simple: ojo rojo con dolor o con cambios en la visión no se deja para mañana.\n\nFuente: NHS (Red eye).",
-    "visual": "Video vertical de 30 s: RT a cámara con tres tarjetas: «Sin dolor y viendo bien: probablemente no es grave», «Dolor fuerte o lentes de contacto: consulta pronto», «Cambios en la visión, golpe o químico: urgencia»; cierre: «No manejes; pide que te lleven».",
+    "topic": "retinopatía diabética: silenciosa, fondo de ojo anual en el control y garantías GES (antes del Día Mundial de la Diabetes, 14-nov)",
+    "hook_en": "¿Cuándo fue tu último fondo de ojo? Si tienes diabetes, esa pregunta importa más de lo que parece.\n\nLa retinopatía diabética suele no dar síntomas hasta etapas avanzadas. Por eso uno puede ver bien y aun así tener daño en la retina. Este sábado 14 es el Día Mundial de la Diabetes, y es buen momento para revisarlo.\n\nLo que conviene saber:\n\n• En el control de diabetes en atención primaria, el fondo de ojo se programa una vez al año, aunque no tengas molestias\n• Si se sospecha retinopatía, el GES garantiza la confirmación por oftalmólogo dentro de 90 días\n• Si hay que tratar con láser o cirugía, el plazo es de 60 días, y de 30 días en la forma más avanzada (proliferativa)\n• En Fonasa, atendiéndote en la red pública, no tiene copago\n• Mantener controladas la glicemia y la presión arterial es lo que más protege la retina\n\nConsulta pronto si notas visión borrosa que no mejora, manchas o «moscas» nuevas, o una pérdida brusca de visión.\n\nPregunta en tu próximo control cuándo fue tu último fondo de ojo. Si pasó más de un año, pide que te lo agenden.\n\nFuentes: Minsal, garantías GES Retinopatía diabética (N° 31); Fonasa, GES Diabetes tipo 2; Minsal, criterios técnicos del Programa de Salud Cardiovascular 2026.",
+    "visual": "Video vertical de 30 s: RT a cámara con tres tarjetas: «La retinopatía no avisa», «Fondo de ojo una vez al año, aunque veas bien», «Visión borrosa o manchas nuevas: consulta pronto»; cierre: «Pregunta en tu control cuándo fue tu último fondo de ojo».",
     "visual_type": "video",
     "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.nhs.uk/symptoms/red-eye/",
+    "why": "Fuentes verificadas hoy: https://auge.minsal.cl/problemasdesalud/index/31 https://www.fonasa.gob.cl/coberturas-de-salud/diabetes-mellitus-tipo-2/ https://www.saludonline.cl/articulos/diabetes-tipo-2-ges-chile",
     "keywords": [
-     "ojo rojo: casi siempre benigno, pero con señales de alarma claras",
-     "salud"
-    ]
-   },
-   {
-    "title": "P2 · Ojo perezoso: el control de visión entre los 3 y los 5 años",
-    "format": "post largo",
-    "source": "original RT",
-    "topic": "ambliopía (ojo perezoso): señales sutiles, control entre 3 y 5 años, tratamiento temprano",
-    "hook_en": "El ojo perezoso, o ambliopía, es la causa más común de pérdida de visión en los niños, y muchas veces los padres no lo notan. La buena noticia: tratado a tiempo, el resultado suele ser muy bueno.\n\nSegún el Instituto Nacional de la Visión de Estados Unidos (NEI):\n\n• Hasta 3 de cada 100 niños la tienen. Ocurre cuando el cerebro deja de usar bien la imagen de un ojo y se apoya cada vez más en el otro\n• Las señales pueden ser sutiles: entrecerrar los ojos, cerrar uno, inclinar la cabeza o tener dificultad para calcular distancias\n• Puede deberse a miopía, hipermetropía o astigmatismo sin corregir, a un ojo desviado (estrabismo) o a una catarata infantil\n• Todo niño debería tener un control de visión al menos una vez entre los 3 y los 5 años\n• El tratamiento corrige la causa y luego obliga al cerebro a usar el ojo más débil, con un parche en el ojo sano o con gotas indicadas por el especialista\n• Mientras antes se trata, mejor: en adultos el tratamiento suele ser menos eficaz\n\nSi tu hijo todavía no ha tenido su control de visión, vale la pena agendarlo.\n\nFuente: National Eye Institute (Amblyopia).",
-    "visual": "Video vertical de 30 s: RT con tres tarjetas: «Hasta 3 de cada 100 niños», «Control de visión entre los 3 y los 5 años», «Parche o gotas: mientras antes, mejor»; cierre: «Muchas veces los padres no lo notan».",
-    "visual_type": "video",
-    "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
-    "why": "Fuentes verificadas hoy: https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/amblyopia-lazy-eye",
-    "keywords": [
-     "ambliopía (ojo perezoso): señales sutiles, control entre 3 y 5 años, tratamiento temprano",
+     "retinopatía diabética: silenciosa, fondo de ojo anual en el control y garantías GES (antes del Día Mundial de la Diabetes, 14-nov)",
      "salud"
     ]
    }
