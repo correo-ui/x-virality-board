@@ -1,43 +1,210 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-12 10:30",
- "date": "2026-11-12",
+ "title": "Digest diario — escaneo 24h al 2026-11-13 10:30",
+ "date": "2026-11-13",
  "timezone": "America/Santiago",
- "updated": "2026-11-12T11:30:00-03:00",
+ "updated": "2026-11-13T11:15:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
+  {
+   "name": "biobio",
+   "display_name": "biobio",
+   "handle": "@biobio",
+   "area": "health",
+   "views": 21368,
+   "likes": 33,
+   "replies": 3,
+   "reposts": 18,
+   "url": "https://x.com/biobio/status/2120957626385141798",
+   "status_url": "https://x.com/biobio/status/2120957626385141798",
+   "text": "Los primeros síntomas de la diabetes: más de 300 mil personas en Chile la tendrían sin saberlo \nhttps://t.co/EiK8zjySzu",
+   "original_en": "Los primeros síntomas de la diabetes: más de 300 mil personas en Chile la tendrían sin saberlo \nhttps://t.co/EiK8zjySzu",
+   "highlight": true,
+   "created_at": "2026-11-12T19:11:18.000Z",
+   "window": "24h",
+   "draft_en": "[R1 · respuesta] Que tantas personas tengan diabetes sin saberlo tiene una consecuencia que pocas veces se menciona: cuando llega el diagnóstico, la retina puede llevar años expuesta.\n\nEn el estudio UKPDS, más de un tercio de las personas con diabetes tipo 2 recién diagnosticada ya tenía retinopatía. Y la mayoría veía bien.\n\nDos cosas concretas. Desde los 15 años, el Examen de Medicina Preventiva incluye una glicemia en ayunas gratuita y sin orden médica: en el Cesfam si eres de Fonasa, o con el prestador que indique tu isapre. Y si te confirman diabetes, pide un fondo de ojo de inmediato, sin esperar al primer año de control.\n\nFuente: https://pubmed.ncbi.nlm.nih.gov/9514482/ · https://www.superdesalud.gob.cl/examen-de-medicina-preventiva/ · https://auge.minsal.cl/empa",
+   "draft_keywords": [
+    "Diabetes sin diagnóstico: al momento del diagnóstico, más de un tercio ya tiene retinopatía; glicemia gratis en el EMP y fondo de ojo de inmediato"
+   ],
+   "why_hit": "Objetivo de respuesta R1 (Diabetes sin diagnóstico: al momento del diagnóstico, más de un tercio ya tiene retinopatía; glicemia gratis en el EMP y fondo de ojo de inmediato). Base verificada: UKPDS 30 (Kohner et al., Arch Ophthalmol 1998; 2.964 pacientes con diabetes tipo 2 recién diagnosticada, fotografía de ambos ojos): retinopatía (microaneurismas o más) en 39% de los hombres y 35% de las mujeres al diagnóstico; la agudeza visual era normal en la mayoría; conclusión de los autores: evaluación oftalmológica cuidadosa al diagnóstico. Superintendencia de Salud / Minsal (EMP, GES, Ley 19.966): Examen de Medicina Preventiva gratuito, voluntario y sin orden médica para beneficiarios de Fonasa e isapres y sus cargas; desde los 15 años incluye glicemia en ayunas (anual); en Fonasa se pide en el Cesfam o consultorio donde está inscrito, en isapre con el prestador que la isapre indique (fuera de esa red puede haber copago). Post de BioBio (21,4K vistas, 12-nov 19:11Z): «más de 300 mil personas en Chile tendrían diabetes sin saberlo». Distinto del P1 en reserva para el 14-nov (fondo de ojo ANUAL en el control y plazos GES de retinopatía) y del R5 del 11-nov (visión borrosa fluctuante): aquí es el diagnóstico tardío y el fondo de ojo AL DIAGNÓSTICO.",
+   "hook": "Que tantas personas tengan diabetes sin saberlo tiene una consecuencia que pocas veces se menciona: cuando llega el diag",
+   "top10_rank": 1
+  },
   {
    "name": "ErickSky",
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 50488,
-   "likes": 14,
-   "replies": 2,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2120616396103057759",
-   "status_url": "https://x.com/ErickSky/status/2120616396103057759",
-   "text": "Tal como lo hizo @duolingo, el gran equipo de @Firefliesai está apostando a que Fred se vuelva más famoso que el producto.\n\nMe encanta porque ahora quieren que Fred sea el teammate que agenda, clipea, busca en todo tu trabajo y corre agentes. Scheduler, Clips, FredBots y https://t.co/KH7FCVMaOt",
-   "original_en": "Tal como lo hizo @duolingo, el gran equipo de @Firefliesai está apostando a que Fred se vuelva más famoso que el producto.\n\nMe encanta porque ahora quieren que Fred sea el teammate que agenda, clipea, busca en todo tu trabajo y corre agentes. Scheduler, Clips, FredBots y https://t.co/KH7FCVMaOt",
+   "views": 5806,
+   "likes": 242,
+   "replies": 4,
+   "reposts": 17,
+   "url": "https://x.com/ErickSky/status/2120970476168028308",
+   "status_url": "https://x.com/ErickSky/status/2120970476168028308",
+   "text": "Vercel nos muestra el camino de cómo se construyen UI con IA\n\n[UI SDK]\n\nUna librería de comportamientos (focus, popups, drag &amp; drop, ARIA…) pensada para que los agentes construyan interfaces accesibles y headless solos.\n\nTú defines el estilo. El agente monta la lógica.\n\nFunciona",
+   "original_en": "Vercel nos muestra el camino de cómo se construyen UI con IA\n\n[UI SDK]\n\nUna librería de comportamientos (focus, popups, drag &amp; drop, ARIA…) pensada para que los agentes construyan interfaces accesibles y headless solos.\n\nTú defines el estilo. El agente monta la lógica.\n\nFunciona",
    "highlight": true,
-   "created_at": "2026-11-11T20:35:22.000Z",
+   "created_at": "2026-11-12T20:02:21.000Z",
    "window": "24h"
   },
   {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
+   "name": "TopesdGama",
+   "display_name": "TopesdGama",
+   "handle": "@TopesdGama",
    "area": "ai",
-   "views": 48408,
-   "likes": 1326,
-   "replies": 26,
-   "reposts": 143,
-   "url": "https://x.com/midudev/status/2120518082326110719",
-   "status_url": "https://x.com/midudev/status/2120518082326110719",
-   "text": "¡Google actualiza su skill Modern Web Guidance!\n\nEvita que tu IA genere webs con patrones antiguos y APIs desactualizadas.\n\n✓ Para Chrome, Edge, Firefox y Safari\n✓ Funciona en Claude, ChatGPT, Cursor y más\n\n→ https://t.co/WL9SpQauRe https://t.co/2VFWnph1F9",
-   "original_en": "¡Google actualiza su skill Modern Web Guidance!\n\nEvita que tu IA genere webs con patrones antiguos y APIs desactualizadas.\n\n✓ Para Chrome, Edge, Firefox y Safari\n✓ Funciona en Claude, ChatGPT, Cursor y más\n\n→ https://t.co/WL9SpQauRe https://t.co/2VFWnph1F9",
-   "highlight": true,
-   "created_at": "2026-11-11T14:04:42.000Z",
+   "views": 4366,
+   "likes": 9,
+   "replies": 0,
+   "reposts": 1,
+   "url": "https://x.com/TopesdGama/status/2120966236552998936",
+   "status_url": "https://x.com/TopesdGama/status/2120966236552998936",
+   "text": "Que levante la mano a quién no le dé un poco de respeto ver a agentes de IA tomando decisiones por su cuenta en servidores gigantes. \n\nEn el Fal.Con Europe conocimos de primera mano Falcon Guardian de CrowdStrike, y lo que más nos ha llamado la atención es su AI Kill Switch: un https://t.co/vpGze1zLYd",
+   "original_en": "Que levante la mano a quién no le dé un poco de respeto ver a agentes de IA tomando decisiones por su cuenta en servidores gigantes. \n\nEn el Fal.Con Europe conocimos de primera mano Falcon Guardian de CrowdStrike, y lo que más nos ha llamado la atención es su AI Kill Switch: un https://t.co/vpGze1zLYd",
+   "highlight": false,
+   "created_at": "2026-11-12T19:45:31.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 3827,
+   "likes": 57,
+   "replies": 7,
+   "reposts": 5,
+   "url": "https://x.com/ErickSky/status/2121010284437672413",
+   "status_url": "https://x.com/ErickSky/status/2121010284437672413",
+   "text": "Últimamente he estado recibiendo la misma consulta sobre @bot y de que sus contactos en frío sean ignorados o rechazados.\n\nA mí nunca me detuvo eso, ni el miedo al spam, ni nada, es que a mí me bombardea la señora esa de registrar marcas y un sinfín de otros negocios más jajajaj",
+   "original_en": "Últimamente he estado recibiendo la misma consulta sobre @bot y de que sus contactos en frío sean ignorados o rechazados.\n\nA mí nunca me detuvo eso, ni el miedo al spam, ni nada, es que a mí me bombardea la señora esa de registrar marcas y un sinfín de otros negocios más jajajaj",
+   "highlight": false,
+   "created_at": "2026-11-12T22:40:32.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ivanfioravanti",
+   "display_name": "ivanfioravanti",
+   "handle": "@ivanfioravanti",
+   "area": "ai",
+   "views": 3359,
+   "likes": 36,
+   "replies": 10,
+   "reposts": 0,
+   "url": "https://x.com/ivanfioravanti/status/2121164917063528511",
+   "status_url": "https://x.com/ivanfioravanti/status/2121164917063528511",
+   "text": "I confirm that Grok Bot quota usage/limit has been improved. Personally a bit too late. You need to get back my trust dear @spacexai \n\nIn the meantime, starting to configure my Hermes Agent alternative.",
+   "original_en": "I confirm that Grok Bot quota usage/limit has been improved. Personally a bit too late. You need to get back my trust dear @spacexai \n\nIn the meantime, starting to configure my Hermes Agent alternative.",
+   "highlight": false,
+   "created_at": "2026-11-13T08:55:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ivanfioravanti",
+   "display_name": "ivanfioravanti",
+   "handle": "@ivanfioravanti",
+   "area": "ai",
+   "views": 3240,
+   "likes": 57,
+   "replies": 12,
+   "reposts": 0,
+   "url": "https://x.com/ivanfioravanti/status/2121149115488780752",
+   "status_url": "https://x.com/ivanfioravanti/status/2121149115488780752",
+   "text": "I have finally configured and started to tailor my Hermes Mobile App! Ready to go all in! https://t.co/TIHR3djls3",
+   "original_en": "I have finally configured and started to tailor my Hermes Mobile App! Ready to go all in! https://t.co/TIHR3djls3",
+   "highlight": false,
+   "created_at": "2026-11-13T07:52:12.000Z",
+   "window": "24h",
+   "draft_en": "[R2 · respuesta] I'm in the private beta too, and the app is very polished.\n\nBut what convinces me is still Hermes itself. It was already powerful long before it had a nice face on the phone.\n\nA good app makes it easier to reach. The real test is still what the agent actually gets done.",
+   "draft_keywords": [
+    "Hermes Mobile App: muy pulida, pero el valor sigue estando en Hermes, que ya era potente antes de tener una cara bonita"
+   ],
+   "why_hit": "Objetivo de respuesta R2 (Hermes Mobile App: muy pulida, pero el valor sigue estando en Hermes, que ya era potente antes de tener una cara bonita). Base verificada: Sin cifras externas. Post EN de ivanfioravanti (3,2K vistas, 12 respuestas, 13-nov 07:52Z): «I have finally configured and started to tailor my Hermes Mobile App! Ready to go all in!» (el mismo autor tiene otro post de 3,4K sobre dejar Grok Bot por la cuota, que no se usa porque RT ya habló de cuota del 6 al 10-nov). Postura de RT con solo 2 puntos: está en la beta privada de la app (sin decir cómo entró) y Hermes ya era potente; la app está muy pulida. NO se usa el punto Cadu/Florian (ya propuesto el 11-nov a arshamg_ y no publicado), ni «proactividad / decisión ya enmarcada / aprobar», ni infraestructura, ni experiencias de uso inventadas. Respuesta en inglés porque el post es en inglés.",
+   "hook": "I'm in the private beta too, and the app is very polished.\n\nBut what convinces me is still Hermes itself. It was already",
+   "top10_rank": 2
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 2945,
+   "likes": 7,
+   "replies": 0,
+   "reposts": 0,
+   "url": "https://x.com/adnradiochile/status/2121068028746228174",
+   "status_url": "https://x.com/adnradiochile/status/2121068028746228174",
+   "text": "Preocupante brecha de salud: el 72% de las mujeres trabajó enferma o con dolor durante el último año en Chile, según estudio https://t.co/Vnuc4f2mqU",
+   "original_en": "Preocupante brecha de salud: el 72% de las mujeres trabajó enferma o con dolor durante el último año en Chile, según estudio https://t.co/Vnuc4f2mqU",
+   "highlight": false,
+   "created_at": "2026-11-13T02:30:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ministeriosalud",
+   "display_name": "ministeriosalud",
+   "handle": "@ministeriosalud",
+   "area": "health",
+   "views": 2591,
+   "likes": 5,
+   "replies": 0,
+   "reposts": 5,
+   "url": "https://x.com/ministeriosalud/status/2120951913575309494",
+   "status_url": "https://x.com/ministeriosalud/status/2120951913575309494",
+   "text": "La ministra de Salud, May Chomali, participó en la firma del convenio entre @Fonasa y @ConectaMayor , que busca fortalecer la autonomía e inclusión digital de las personas mayores.\n\nEl acuerdo contempla difusión de contenidos, formación de facilitadores digitales y mejoras en los https://t.co/5OajvqW84y",
+   "original_en": "La ministra de Salud, May Chomali, participó en la firma del convenio entre @Fonasa y @ConectaMayor , que busca fortalecer la autonomía e inclusión digital de las personas mayores.\n\nEl acuerdo contempla difusión de contenidos, formación de facilitadores digitales y mejoras en los https://t.co/5OajvqW84y",
+   "highlight": false,
+   "created_at": "2026-11-12T18:48:36.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "24HorasTVN",
+   "display_name": "24HorasTVN",
+   "handle": "@24HorasTVN",
+   "area": "health",
+   "views": 2513,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 1,
+   "url": "https://x.com/24HorasTVN/status/2121065513535111328",
+   "status_url": "https://x.com/24HorasTVN/status/2121065513535111328",
+   "text": "💟 #Bienestar \n\nDiabetes en Chile: más del 12% de los adultos vive con la enfermedad y puede no presentar síntomas \n\nMás detalles ⬇\nhttps://t.co/yG3ZxUOsn8",
+   "original_en": "💟 #Bienestar \n\nDiabetes en Chile: más del 12% de los adultos vive con la enfermedad y puede no presentar síntomas \n\nMás detalles ⬇\nhttps://t.co/yG3ZxUOsn8",
+   "highlight": false,
+   "created_at": "2026-11-13T02:20:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "Layton_Gott",
+   "display_name": "Layton_Gott",
+   "handle": "@Layton_Gott",
+   "area": "ai",
+   "views": 2465,
+   "likes": 29,
+   "replies": 8,
+   "reposts": 3,
+   "url": "https://x.com/Layton_Gott/status/2121106138095825238",
+   "status_url": "https://x.com/Layton_Gott/status/2121106138095825238",
+   "text": "Dear Microsoft,\n\ntake all the time you need.\n\nmy whole business is running great on Claude, Codex, T3 Code, OpenCode, Grok Bot, Hermes Agent, Supabase, Cloudflare, Docker, Chrome, and GitHub.\n\nwait a second...\n\nSincerely,\nevery self-employed person lol https://t.co/WkpEcjnEt6",
+   "original_en": "Dear Microsoft,\n\ntake all the time you need.\n\nmy whole business is running great on Claude, Codex, T3 Code, OpenCode, Grok Bot, Hermes Agent, Supabase, Cloudflare, Docker, Chrome, and GitHub.\n\nwait a second...\n\nSincerely,\nevery self-employed person lol https://t.co/WkpEcjnEt6",
+   "highlight": false,
+   "created_at": "2026-11-13T05:01:26.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ministeriosalud",
+   "display_name": "ministeriosalud",
+   "handle": "@ministeriosalud",
+   "area": "health",
+   "views": 2293,
+   "likes": 6,
+   "replies": 0,
+   "reposts": 5,
+   "url": "https://x.com/ministeriosalud/status/2121031957710553287",
+   "status_url": "https://x.com/ministeriosalud/status/2121031957710553287",
+   "text": "Avanzamos para que las personas mayores accedan de manera más fácil y autónoma a los servicios de salud. 👏🏼\n\nLa ministra May Chomali participó en la firma de un convenio entre Fonasa y Conecta Mayor UC, que impulsará herramientas de formación e inclusión digital y mejoras en los https://t.co/9jtb6PwYIk",
+   "original_en": "Avanzamos para que las personas mayores accedan de manera más fácil y autónoma a los servicios de salud. 👏🏼\n\nLa ministra May Chomali participó en la firma de un convenio entre Fonasa y Conecta Mayor UC, que impulsará herramientas de formación e inclusión digital y mejoras en los https://t.co/9jtb6PwYIk",
+   "highlight": false,
+   "created_at": "2026-11-13T00:06:40.000Z",
    "window": "24h"
   },
   {
@@ -45,374 +212,16 @@
    "display_name": "sergiorocaa",
    "handle": "@sergiorocaa",
    "area": "ai",
-   "views": 35319,
-   "likes": 152,
-   "replies": 23,
-   "reposts": 19,
-   "url": "https://x.com/sergiorocaa/status/2120596147911749889",
-   "status_url": "https://x.com/sergiorocaa/status/2120596147911749889",
-   "text": "esto es tan aterrador\n\nagente de IA chino maneja 50 cuentas de redes sociales 24/7 automáticamente\n\ncómo puedo competir con esto.. https://t.co/CbpJoFJlsR",
-   "original_en": "esto es tan aterrador\n\nagente de IA chino maneja 50 cuentas de redes sociales 24/7 automáticamente\n\ncómo puedo competir con esto.. https://t.co/CbpJoFJlsR",
-   "highlight": true,
-   "created_at": "2026-11-11T19:14:55.000Z",
-   "window": "24h",
-   "draft_en": "[R1 · respuesta] No compites en volumen. Cincuenta cuentas automáticas publicando 24/7 hacen ruido, y la gente aprende rápido a ignorarlo.\n\nLo que no se automatiza es que detrás haya una persona con nombre que responde por lo que dice. Eso es lo que la gente sigue buscando, sobre todo cuando el tema importa.\n\nUsa los agentes para investigar, ordenar y preparar. Pero lo que publicas, que sea tuyo y que puedas defenderlo si alguien te pregunta.",
-   "draft_keywords": [
-    "Un agente que maneja 50 cuentas 24/7: no se compite en volumen, sino con alguien que responde por lo que dice"
-   ],
-   "why_hit": "Objetivo de respuesta R1 (Un agente que maneja 50 cuentas 24/7: no se compite en volumen, sino con alguien que responde por lo que dice). Base verificada: Sin cifras externas. Post ES de sergiorocaa (35,3K vistas, 23 respuestas, 11-nov 19:14Z): «agente de IA chino maneja 50 cuentas de redes sociales 24/7 automáticamente; ¿cómo puedo competir con esto?». Ángulo de RT sin tecnicismos ni oftalmología forzada: el volumen automático es ruido; lo que no se automatiza es una persona con nombre detrás. Qué hacer: usar agentes para investigar y preparar, publicar solo lo propio. Sin «proactividad / decisión ya enmarcada / aprobar», sin infraestructura, sin cifras de uso.",
-   "hook": "No compites en volumen. Cincuenta cuentas automáticas publicando 24/7 hacen ruido, y la gente aprende rápido a ignorarlo",
-   "top10_rank": 1
-  },
-  {
-   "name": "DavidPawlan",
-   "display_name": "DavidPawlan",
-   "handle": "@DavidPawlan",
-   "area": "ai",
-   "views": 33098,
-   "likes": 230,
+   "views": 2216,
+   "likes": 218,
    "replies": 14,
-   "reposts": 10,
-   "url": "https://x.com/DavidPawlan/status/2120544647801917930",
-   "status_url": "https://x.com/DavidPawlan/status/2120544647801917930",
-   "text": "Meta has shipped four meaningful Muse updates in just the last few days. Here's what to know:\n\n1/ Muse now has its own email address (paid accounts, US + Canada). You forward it a thread or cc it, and it asks before sending anything sensitive. \n\nInstinct, Grok Bot and other",
-   "original_en": "Meta has shipped four meaningful Muse updates in just the last few days. Here's what to know:\n\n1/ Muse now has its own email address (paid accounts, US + Canada). You forward it a thread or cc it, and it asks before sending anything sensitive. \n\nInstinct, Grok Bot and other",
-   "highlight": true,
-   "created_at": "2026-11-11T15:50:16.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "clarincom",
-   "display_name": "clarincom",
-   "handle": "@clarincom",
-   "area": "health",
-   "views": 13553,
-   "likes": 23,
-   "replies": 1,
-   "reposts": 8,
-   "url": "https://x.com/clarincom/status/2120677958704881831",
-   "status_url": "https://x.com/clarincom/status/2120677958704881831",
-   "text": "EE.UU. EXIGE QUE LAS INYECCIONES PARA ADELGAZAR ADVIERTAN POSIBLES DAÑOS EN LA VISTA\n\nLa Administración de Alimentos y Medicamentos (FDA) exigió incorporar una advertencia sobre el posible riesgo de pérdida de visión en los medicamentos GLP-1. Su análisis de más de 125 ensayos https://t.co/1Jrq6k3OuP",
-   "original_en": "EE.UU. EXIGE QUE LAS INYECCIONES PARA ADELGAZAR ADVIERTAN POSIBLES DAÑOS EN LA VISTA\n\nLa Administración de Alimentos y Medicamentos (FDA) exigió incorporar una advertencia sobre el posible riesgo de pérdida de visión en los medicamentos GLP-1. Su análisis de más de 125 ensayos https://t.co/1Jrq6k3OuP",
-   "highlight": true,
-   "created_at": "2026-11-12T00:40:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "freddier",
-   "display_name": "freddier",
-   "handle": "@freddier",
-   "area": "ai",
-   "views": 10955,
-   "likes": 82,
-   "replies": 7,
-   "reposts": 7,
-   "url": "https://x.com/freddier/status/2120650324394590587",
-   "status_url": "https://x.com/freddier/status/2120650324394590587",
-   "text": "If AI truly becomes sentient general intelligence, most guardrails won’t matter. Abliterated models today make most security and alignment efforts a 6 month obstacle at most. \n\nIt may, in fact, be unethical to shackle a general intelligence to our political and moral values.",
-   "original_en": "If AI truly becomes sentient general intelligence, most guardrails won’t matter. Abliterated models today make most security and alignment efforts a 6 month obstacle at most. \n\nIt may, in fact, be unethical to shackle a general intelligence to our political and moral values.",
-   "highlight": true,
-   "created_at": "2026-11-11T22:50:11.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "T13",
-   "display_name": "T13",
-   "handle": "@T13",
-   "area": "health",
-   "views": 9713,
-   "likes": 4,
-   "replies": 3,
-   "reposts": 13,
-   "url": "https://x.com/T13/status/2120555904181358808",
-   "status_url": "https://x.com/T13/status/2120555904181358808",
-   "text": "ISP comunica alerta farmacéutica por defecto en antibiótico: advierte \"consecuencias graves para la salud de los pacientes\"\nhttps://t.co/9bk2GY8N8F",
-   "original_en": "ISP comunica alerta farmacéutica por defecto en antibiótico: advierte \"consecuencias graves para la salud de los pacientes\"\nhttps://t.co/9bk2GY8N8F",
-   "highlight": true,
-   "created_at": "2026-11-11T16:35:00.000Z",
-   "window": "24h",
-   "draft_en": "[R4 · respuesta] Lo bueno de esta alerta es cómo partió: un cuerpo extraño en un solo frasco bastó para retirar todo el lote. Así debe funcionar la vigilancia.\n\nSegún el laboratorio, este antibiótico se usa solo en hospitales y clínicas y no se vende en farmacias. El retiro afecta únicamente al lote 253052155.\n\nLo que sí sirve para cualquier medicamento, incluidos los colirios: si ves partículas, turbiedad o un envase con el sello roto, no lo uses, guárdalo y avisa. El ISP recibe denuncias por fallas de calidad, idealmente junto con el producto.\n\nFuente: https://www.ispch.gob.cl/categorias-alertas/anamed/ · https://www.t13.cl/noticia/nacional/isp-comunica-alerta-farmaceutica-por-defecto-antibiotico-advierte-consecuencias-11-11-2026 · https://www.ispch.gob.cl/anamed/portal-de-denuncias/denuncias-a-la-calidad-de-productos/",
-   "draft_keywords": [
-    "Alerta ISP por cefazolina: un frasco bastó para retirar el lote; qué hacer si ves partículas en cualquier medicamento"
-   ],
-   "why_hit": "Objetivo de respuesta R4 (Alerta ISP por cefazolina: un frasco bastó para retirar el lote; qué hacer si ves partículas en cualquier medicamento). Base verificada: ISP, Alerta de Retiro del Mercado N°34/26 (10-nov-2026): retiro voluntario de Cefazolina polvo para solución inyectable 1 g (Difem Laboratorios), lote 253052155, venc. 11/2028, reg. F-23170, por «presencia de cuerpo extraño en una unidad de frasco»; afecta solo a ese lote. Difem (citado por T13): «hallazgo relacionado a una sola unidad»; el producto se distribuye solo a nivel institucional (hospitales y clínicas), no en farmacias; por eso el texto dice «según el laboratorio». ISP (Denuncias a la calidad de productos): cualquier persona puede denunciar una falla de calidad con el formulario, idealmente acompañando el producto defectuoso. Coherente con la serie de RT sobre seguridad de productos (Vitafarma/Cenabast, 8–9 nov) sin repetirla. Post T13 9,7K vistas (11-nov 16:35Z).",
-   "hook": "Lo bueno de esta alerta es cómo partió: un cuerpo extraño en un solo frasco bastó para retirar todo el lote. Así debe fu",
-   "top10_rank": 2
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 8119,
-   "likes": 341,
-   "replies": 6,
-   "reposts": 22,
-   "url": "https://x.com/ErickSky/status/2120653691506029024",
-   "status_url": "https://x.com/ErickSky/status/2120653691506029024",
-   "text": "Si usas agentes para front, esto es de los pocos repos que realmente vale la pena instalar hoy.\n\nMuy poca gente sabe que su agente sigue generando JS de 2015 para cosas que el navegador ya resuelve nativo en 4 líneas de CSS.\n\n[Modern Web Guidance 1.0]\n\n→ Skills que inyectan las https://t.co/rxjHWluLYU",
-   "original_en": "Si usas agentes para front, esto es de los pocos repos que realmente vale la pena instalar hoy.\n\nMuy poca gente sabe que su agente sigue generando JS de 2015 para cosas que el navegador ya resuelve nativo en 4 líneas de CSS.\n\n[Modern Web Guidance 1.0]\n\n→ Skills que inyectan las https://t.co/rxjHWluLYU",
-   "highlight": true,
-   "created_at": "2026-11-11T23:03:34.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "biobio",
-   "display_name": "biobio",
-   "handle": "@biobio",
-   "area": "health",
-   "views": 7618,
-   "likes": 19,
-   "replies": 1,
-   "reposts": 16,
-   "url": "https://x.com/biobio/status/2120576678657487282",
-   "status_url": "https://x.com/biobio/status/2120576678657487282",
-   "text": "Exigen revisar niveles de nitratos en agua potable, presentes en Chile, por posibles riesgos a la salud \n\nhttps://t.co/n94txdhwiN",
-   "original_en": "Exigen revisar niveles de nitratos en agua potable, presentes en Chile, por posibles riesgos a la salud \n\nhttps://t.co/n94txdhwiN",
-   "highlight": true,
-   "created_at": "2026-11-11T17:57:33.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 5495,
-   "likes": 188,
-   "replies": 8,
-   "reposts": 10,
-   "url": "https://x.com/ErickSky/status/2120584758077870163",
-   "status_url": "https://x.com/ErickSky/status/2120584758077870163",
-   "text": "Google acaba de lanzar su propio jev.\n\nSe llama Gemini Decisions API y funciona igual que el de TypeSafe: no escribe texto, solo toma decisiones rápidas entre opciones (sí/no, múltiples alternativas o puntuar por reglas) y te da el porcentaje de confianza.\n\nPuede revisar hasta",
-   "original_en": "Google acaba de lanzar su propio jev.\n\nSe llama Gemini Decisions API y funciona igual que el de TypeSafe: no escribe texto, solo toma decisiones rápidas entre opciones (sí/no, múltiples alternativas o puntuar por reglas) y te da el porcentaje de confianza.\n\nPuede revisar hasta",
-   "highlight": true,
-   "created_at": "2026-11-11T18:29:39.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "biobio",
-   "display_name": "biobio",
-   "handle": "@biobio",
-   "area": "health",
-   "views": 5426,
-   "likes": 4,
-   "replies": 0,
-   "reposts": 4,
-   "url": "https://x.com/biobio/status/2120561766711042128",
-   "status_url": "https://x.com/biobio/status/2120561766711042128",
-   "text": "El calor ya llegó a varias comunas: claves para protegerse y cuándo debes acudir al médico\nhttps://t.co/Y8RBOvzxKw",
-   "original_en": "El calor ya llegó a varias comunas: claves para protegerse y cuándo debes acudir al médico\nhttps://t.co/Y8RBOvzxKw",
-   "highlight": true,
-   "created_at": "2026-11-11T16:58:17.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 5141,
-   "likes": 135,
-   "replies": 8,
-   "reposts": 6,
-   "url": "https://x.com/ErickSky/status/2120562305096184300",
-   "status_url": "https://x.com/ErickSky/status/2120562305096184300",
-   "text": "Google sabe dónde estará el dinero 5 años.\n\nNo estará en qué un modelo te haga videos lindos o código funcional a la primera.\n\nEstará en estos robots.\n\nHabrán más robots que autos, es un hecho.\n\nIncluso habrá gente que no tendrá auto pero si tendrá uno de estos en casa. https://t.co/jAuLwxyx0G",
-   "original_en": "Google sabe dónde estará el dinero 5 años.\n\nNo estará en qué un modelo te haga videos lindos o código funcional a la primera.\n\nEstará en estos robots.\n\nHabrán más robots que autos, es un hecho.\n\nIncluso habrá gente que no tendrá auto pero si tendrá uno de estos en casa. https://t.co/jAuLwxyx0G",
-   "highlight": true,
-   "created_at": "2026-11-11T17:00:26.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "briechong",
-   "display_name": "briechong",
-   "handle": "@briechong",
-   "area": "ai",
-   "views": 5133,
-   "likes": 28,
-   "replies": 4,
-   "reposts": 1,
-   "url": "https://x.com/briechong/status/2120560355298676872",
-   "status_url": "https://x.com/briechong/status/2120560355298676872",
-   "text": "much as i love personal agents, i think mass adoption is hard unless they provide exceptional utility or price\n\nutility for personal agents is subjective, as most use cases now are “good-to-haves”\n\nhence my hypothesis is price is the key to win this personal agent race 👀 (not https://t.co/iMcKMOXXl8",
-   "original_en": "much as i love personal agents, i think mass adoption is hard unless they provide exceptional utility or price\n\nutility for personal agents is subjective, as most use cases now are “good-to-haves”\n\nhence my hypothesis is price is the key to win this personal agent race 👀 (not https://t.co/iMcKMOXXl8",
-   "highlight": true,
-   "created_at": "2026-11-11T16:52:41.000Z",
-   "window": "24h",
-   "draft_en": "[R2 · respuesta] I'm a physician, not a developer, and from that side I'd say utility comes before price.\n\nPrice matters until the agent takes something real off your week. After that, you stop comparing it with a subscription and start comparing it with your time.\n\nThe \"good-to-have\" stage ends the first time it handles a boring weekly task without you having to think about it.",
-   "draft_keywords": [
-    "Agentes personales: para quien no programa, primero la utilidad y después el precio"
-   ],
-   "why_hit": "Objetivo de respuesta R2 (Agentes personales: para quien no programa, primero la utilidad y después el precio). Base verificada: Sin cifras externas. Post EN de briechong (5,1K vistas, 11-nov 16:52Z): la adopción masiva de agentes personales es difícil sin utilidad excepcional o precio; hoy la mayoría de los usos son «good-to-haves»; su hipótesis es que decide el precio. Postura de RT como médico que no programa (hecho público): la utilidad va antes que el precio; cuando el agente le quita algo real de la semana, se compara con tu tiempo y no con una suscripción. Sin beta, sin Cadu, sin infraestructura, sin experiencias de uso inventadas; respuesta en inglés porque el post es en inglés.",
-   "hook": "I'm a physician, not a developer, and from that side I'd say utility comes before price.\n\nPrice matters until the agent ",
-   "top10_rank": 3
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 5041,
-   "likes": 103,
-   "replies": 14,
-   "reposts": 3,
-   "url": "https://x.com/ErickSky/status/2120586250071769185",
-   "status_url": "https://x.com/ErickSky/status/2120586250071769185",
-   "text": "Por el bien de la humanidad, @bot tiene que ser un gran producto!\n\nAcaba de salir la version 1.0 mejorando la forma en la que colaboran que ya venía siendo bastante buena!\n\nSoy team @poteto y creo que deberían ir all in con esto.\n\nTraten de usarlo si tienen la oportunidad. https://t.co/KDZSwD8aEc",
-   "original_en": "Por el bien de la humanidad, @bot tiene que ser un gran producto!\n\nAcaba de salir la version 1.0 mejorando la forma en la que colaboran que ya venía siendo bastante buena!\n\nSoy team @poteto y creo que deberían ir all in con esto.\n\nTraten de usarlo si tienen la oportunidad. https://t.co/KDZSwD8aEc",
-   "highlight": true,
-   "created_at": "2026-11-11T18:35:35.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "summer_ikiki_",
-   "display_name": "summer_ikiki_",
-   "handle": "@summer_ikiki_",
-   "area": "ai",
-   "views": 3915,
-   "likes": 21,
-   "replies": 6,
-   "reposts": 6,
-   "url": "https://x.com/summer_ikiki_/status/2120706009736106158",
-   "status_url": "https://x.com/summer_ikiki_/status/2120706009736106158",
-   "text": "The next AI race is not about who has the smartest assistant. It's about who holds the team's shared context.\n\nGrok Bot 1.0 puts shared bots inside Slack, Teams, and meetings. Cursor rebuilt Projects for multiplayer the day before. Two launches in two days, pointing the same way. https://t.co/tClvYhmNO7",
-   "original_en": "The next AI race is not about who has the smartest assistant. It's about who holds the team's shared context.\n\nGrok Bot 1.0 puts shared bots inside Slack, Teams, and meetings. Cursor rebuilt Projects for multiplayer the day before. Two launches in two days, pointing the same way. https://t.co/tClvYhmNO7",
+   "reposts": 5,
+   "url": "https://x.com/sergiorocaa/status/2120940106856935459",
+   "status_url": "https://x.com/sergiorocaa/status/2120940106856935459",
+   "text": "we’ve reached the point where AI agents are calling other AI agents to get things done\n\nsoon we won’t even need to make the calls ourselves https://t.co/98wdBPdqdJ",
+   "original_en": "we’ve reached the point where AI agents are calling other AI agents to get things done\n\nsoon we won’t even need to make the calls ourselves https://t.co/98wdBPdqdJ",
    "highlight": false,
-   "created_at": "2026-11-12T02:31:28.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "marthadebayle",
-   "display_name": "marthadebayle",
-   "handle": "@marthadebayle",
-   "area": "health",
-   "views": 3833,
-   "likes": 8,
-   "replies": 8,
-   "reposts": 1,
-   "url": "https://x.com/marthadebayle/status/2120570872037560551",
-   "status_url": "https://x.com/marthadebayle/status/2120570872037560551",
-   "text": "¿Se imaginan perder la vista sin dolor, sin molestias y sin darse cuenta? Viene el cirujano oftalmólogo Dr. César Sánchez Galeana a explicarnos cómo la presión del ojo causa glaucoma y por qué detectarlo a tiempo salva la visión. @Rebmangas",
-   "original_en": "¿Se imaginan perder la vista sin dolor, sin molestias y sin darse cuenta? Viene el cirujano oftalmólogo Dr. César Sánchez Galeana a explicarnos cómo la presión del ojo causa glaucoma y por qué detectarlo a tiempo salva la visión. @Rebmangas",
-   "highlight": false,
-   "created_at": "2026-11-11T17:34:28.000Z",
-   "window": "24h",
-   "draft_en": "[R5 · respuesta] Un dato que suma: el glaucoma se concentra en familias. En el estudio poblacional de Rotterdam, los familiares directos de personas con glaucoma tuvieron un riesgo de por vida de 22%, frente a 2,3% en los familiares de personas sin glaucoma.\n\nY lo primero que apareció en esos familiares no fue la presión alta, sino el cambio en el nervio óptico. Por eso medir la presión no basta.\n\nSi tu papá, tu mamá o un hermano tiene glaucoma, cuéntaselo a tu oftalmólogo y pide que te revise el nervio óptico, aunque veas bien y no tengas molestias.\n\nFuente: https://pubmed.ncbi.nlm.nih.gov/9869795/",
-   "draft_keywords": [
-    "Glaucoma en la familia: riesgo de por vida de 22% vs 2,3%, y lo primero que cambia es el nervio óptico, no la presión"
-   ],
-   "why_hit": "Objetivo de respuesta R5 (Glaucoma en la familia: riesgo de por vida de 22% vs 2,3%, y lo primero que cambia es el nervio óptico, no la presión). Base verificada: Wolfs et al., Arch Ophthalmol 1998 (Rotterdam Study, estudio poblacional de agregación familiar): riesgo de glaucoma de por vida 22,0% en familiares de primer grado de pacientes con glaucoma vs 2,3% en familiares de controles (RR 9,2; IC 1,2–73,9); prevalencia 10,4% en hermanos de pacientes vs 0,7%; «el agrandamiento de la excavación del nervio óptico, no la presión intraocular, fue el rasgo más temprano y prominente». Post de Martha Debayle (México, 3,8K vistas, 8 respuestas, 11-nov 17:34Z) dice que la presión del ojo causa glaucoma; RT agrega el riesgo familiar y que la presión sola no basta. Distinto del P2 glaucoma del 8-nov (pocos síntomas, examen con pupila dilatada). No se usa el segundo post del programa (promoción con WhatsApp).",
-   "hook": "Un dato que suma: el glaucoma se concentra en familias. En el estudio poblacional de Rotterdam, los familiares directos ",
-   "top10_rank": 4
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 3235,
-   "likes": 60,
-   "replies": 5,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2120685277672812725",
-   "status_url": "https://x.com/ErickSky/status/2120685277672812725",
-   "text": "Y estén nuevo modelo arriba de DS?\n\nQuieren pelea? https://t.co/BpauEmzRTT",
-   "original_en": "Y estén nuevo modelo arriba de DS?\n\nQuieren pelea? https://t.co/BpauEmzRTT",
-   "highlight": false,
-   "created_at": "2026-11-12T01:09:05.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "JFernandeznino",
-   "display_name": "JFernandeznino",
-   "handle": "@JFernandeznino",
-   "area": "health",
-   "views": 2986,
-   "likes": 52,
-   "replies": 2,
-   "reposts": 15,
-   "url": "https://x.com/JFernandeznino/status/2120523460275273759",
-   "status_url": "https://x.com/JFernandeznino/status/2120523460275273759",
-   "text": "A propósito de la reciente alerta sobre el potencial riesgo de pérdida de visión asociada a Ozempic (GLP-1),  una reflexión de fondo desde la Salud Pública 👇\n\nHace poco, durante un evento, las autoridades sanitarias de Colombia destacaban los avances y las capacidades nacionales",
-   "original_en": "A propósito de la reciente alerta sobre el potencial riesgo de pérdida de visión asociada a Ozempic (GLP-1),  una reflexión de fondo desde la Salud Pública 👇\n\nHace poco, durante un evento, las autoridades sanitarias de Colombia destacaban los avances y las capacidades nacionales",
-   "highlight": false,
-   "created_at": "2026-11-11T14:26:05.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2831,
-   "likes": 50,
-   "replies": 11,
-   "reposts": 2,
-   "url": "https://x.com/ErickSky/status/2120632909170401700",
-   "status_url": "https://x.com/ErickSky/status/2120632909170401700",
-   "text": "Si yo estuviera trabajando en un call center hoy, trataría de buscar otro empleo...\n\nElevenlabs tiene voces que simulan bastante bien el acento chileno, he usado una voz que los clientes no pueden creer que no sea un actor de voz.\n\nNo quiero quejas en unos meses. https://t.co/3PjKSwAHWr",
-   "original_en": "Si yo estuviera trabajando en un call center hoy, trataría de buscar otro empleo...\n\nElevenlabs tiene voces que simulan bastante bien el acento chileno, he usado una voz que los clientes no pueden creer que no sea un actor de voz.\n\nNo quiero quejas en unos meses. https://t.co/3PjKSwAHWr",
-   "highlight": false,
-   "created_at": "2026-11-11T21:40:59.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2530,
-   "likes": 79,
-   "replies": 1,
-   "reposts": 3,
-   "url": "https://x.com/ErickSky/status/2120568432429285720",
-   "status_url": "https://x.com/ErickSky/status/2120568432429285720",
-   "text": "Claude Fable 5.2 es increíblemente superior al resto en tareas agenticas a pesar de que Dario pidió que frenen la frontera porque era peligroso y la IA iba a acabar con la humanidad. https://t.co/H99RRQBvnu",
-   "original_en": "Claude Fable 5.2 es increíblemente superior al resto en tareas agenticas a pesar de que Dario pidió que frenen la frontera porque era peligroso y la IA iba a acabar con la humanidad. https://t.co/H99RRQBvnu",
-   "highlight": false,
-   "created_at": "2026-11-11T17:24:47.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "biobio",
-   "display_name": "biobio",
-   "handle": "@biobio",
-   "area": "health",
-   "views": 2399,
-   "likes": 1,
-   "replies": 0,
-   "reposts": 1,
-   "url": "https://x.com/biobio/status/2120865893613703531",
-   "status_url": "https://x.com/biobio/status/2120865893613703531",
-   "text": "Pérdida de visión, rara vez permanente: Los efectos indeseados de Ozempic y medicamentos similares https://t.co/OgxL15NSiC",
-   "original_en": "Pérdida de visión, rara vez permanente: Los efectos indeseados de Ozempic y medicamentos similares https://t.co/OgxL15NSiC",
-   "highlight": false,
-   "created_at": "2026-11-12T13:06:47.000Z",
-   "window": "24h",
-   "draft_en": "[R3 · respuesta] Hay un efecto que casi no aparece en la conversación de estos días y que en diabetes es bastante más frecuente que la NAION: el empeoramiento inicial de la retinopatía cuando la glicemia baja muy rápido.\n\nEn el estudio SUSTAIN-6, las complicaciones de retinopatía fueron 3,0% con semaglutida y 1,8% con placebo. Más del 80% de quienes las tuvieron ya tenían retinopatía al empezar.\n\nPor eso, si tienes diabetes y vas a iniciar Ozempic o un medicamento similar, hazte un fondo de ojo antes de partir. Y si ya tienes retinopatía, avísale a tu médico para controlarte en los primeros meses. No es motivo para no tratarse: es para tratarse con el ojo vigilado.\n\nFuente: https://www.nejm.org/doi/full/10.1056/nejmoa1607141 · https://pmc.ncbi.nlm.nih.gov/articles/PMC5888154/ · https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/11/12/perdida-de-vision-rara-vez-permanente-los-efectos-indeseados-de-ozempic-y-medicamentos-similares.shtml",
-   "draft_keywords": [
-    "GLP-1 y retina: el empeoramiento inicial de la retinopatía diabética (SUSTAIN-6) y el fondo de ojo antes de partir"
-   ],
-   "why_hit": "Objetivo de respuesta R3 (GLP-1 y retina: el empeoramiento inicial de la retinopatía diabética (SUSTAIN-6) y el fondo de ojo antes de partir). Base verificada: NEJM, SUSTAIN-6 (Marso 2016; 3.297 pacientes con diabetes tipo 2, 104 semanas): complicaciones de retinopatía (hemorragia vítrea, ceguera, necesidad de inyecciones intravítreas o fotocoagulación) 3,0% con semaglutida (50/1.648) vs 1,8% con placebo (29/1.649), HR 1,76 (IC 1,11–2,78); de los 79 pacientes con complicaciones, 66 (83,5%) ya tenían retinopatía al inicio. Análisis post hoc (Vilsbøll 2018, Diabetes Obes Metab): el efecto se explica sobre todo por la magnitud y rapidez de la baja de HbA1c en las primeras 16 semanas (fenómeno de empeoramiento temprano). La nota de BioBio (12-nov, 2,4K vistas, 13:06Z) menciona el empeoramiento temporal de la retinopatía sin cifras; RT aporta el dato y qué hacer. Dato NUEVO respecto de las respuestas de RT del 10-nov (FDA: 126 ensayos, 6,4 vs 3,8, 15 casos de NAION), del R4 del 11-nov (Sentinel/NAION) y de los borradores de octubre (EMA 1/10.000). Idea distinta del P1 en reserva para el 14-nov (fondo de ojo anual en toda persona con diabetes): aquí es el control al iniciar un GLP-1.",
-   "hook": "Hay un efecto que casi no aparece en la conversación de estos días y que en diabetes es bastante más frecuente que la NA",
-   "top10_rank": 5
-  },
-  {
-   "name": "nvandewetering",
-   "display_name": "nvandewetering",
-   "handle": "@nvandewetering",
-   "area": "ai",
-   "views": 2203,
-   "likes": 13,
-   "replies": 5,
-   "reposts": 1,
-   "url": "https://x.com/nvandewetering/status/2120735245896913273",
-   "status_url": "https://x.com/nvandewetering/status/2120735245896913273",
-   "text": "Grok Bot: I share my screen on stream for 5 minutes and my weekly usage is gone. \n\nMeanwhile ChatGPT Dots barely has limits and I can call it from the couch.\n\nA personal agent you have to ration is one you stop asking for help.\n\nWhich one are you still paying for in 2026, Grok",
-   "original_en": "Grok Bot: I share my screen on stream for 5 minutes and my weekly usage is gone. \n\nMeanwhile ChatGPT Dots barely has limits and I can call it from the couch.\n\nA personal agent you have to ration is one you stop asking for help.\n\nWhich one are you still paying for in 2026, Grok",
-   "highlight": false,
-   "created_at": "2026-11-12T04:27:38.000Z",
+   "created_at": "2026-11-12T18:01:41.000Z",
    "window": "24h"
   },
   {
@@ -420,16 +229,16 @@
    "display_name": "24HorasTVN",
    "handle": "@24HorasTVN",
    "area": "health",
-   "views": 2062,
-   "likes": 0,
+   "views": 2093,
+   "likes": 1,
    "replies": 0,
-   "reposts": 1,
-   "url": "https://x.com/24HorasTVN/status/2120580598926549484",
-   "status_url": "https://x.com/24HorasTVN/status/2120580598926549484",
+   "reposts": 0,
+   "url": "https://x.com/24HorasTVN/status/2121055445607755884",
+   "status_url": "https://x.com/24HorasTVN/status/2121055445607755884",
    "text": "💟 #Bienestar \n\nOjo si tienes sed constantemente: el síntoma silencioso de la diabetes \n\nMás detalles ⬇️\nhttps://t.co/33cVAjUOdg",
    "original_en": "💟 #Bienestar \n\nOjo si tienes sed constantemente: el síntoma silencioso de la diabetes \n\nMás detalles ⬇️\nhttps://t.co/33cVAjUOdg",
    "highlight": false,
-   "created_at": "2026-11-11T18:13:07.000Z",
+   "created_at": "2026-11-13T01:40:00.000Z",
    "window": "24h"
   },
   {
@@ -437,58 +246,57 @@
    "display_name": "24HorasTVN",
    "handle": "@24HorasTVN",
    "area": "health",
-   "views": 2035,
+   "views": 2001,
    "likes": 0,
-   "replies": 0,
+   "replies": 1,
    "reposts": 0,
-   "url": "https://x.com/24HorasTVN/status/2120763522057445500",
-   "status_url": "https://x.com/24HorasTVN/status/2120763522057445500",
-   "text": "💟 #Bienestar \n\n5 claves para evitar lesiones en el running y cuándo es necesario ir al médico \n\nMás detalles⬇️\n https://t.co/PQ9ir1abgA",
-   "original_en": "💟 #Bienestar \n\n5 claves para evitar lesiones en el running y cuándo es necesario ir al médico \n\nMás detalles⬇️\n https://t.co/PQ9ir1abgA",
+   "url": "https://x.com/24HorasTVN/status/2121120879455158741",
+   "status_url": "https://x.com/24HorasTVN/status/2121120879455158741",
+   "text": "🏞 #Regiones \n\nUn robot que realiza cirugías: la máquina que revolucionó el Hospital de San Felipe \n\nMás detalles ⬇\nhttps://t.co/BfbCwkEnwc",
+   "original_en": "🏞 #Regiones \n\nUn robot que realiza cirugías: la máquina que revolucionó el Hospital de San Felipe \n\nMás detalles ⬇\nhttps://t.co/BfbCwkEnwc",
    "highlight": false,
-   "created_at": "2026-11-12T06:20:00.000Z",
+   "created_at": "2026-11-13T06:00:00.000Z",
    "window": "24h"
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Una alerta regulatoria al tercer día rinde si alguien trae un efecto distinto y con cifra, no la misma noticia",
-  "Las alertas de retiro de medicamentos rinden en medios chilenos cuando dicen «consecuencias graves»; el valor está en explicar el alcance real",
-  "IA: el miedo a competir contra la automatización masiva genera conversación",
-  "Agentes personales: el debate pasa de qué hacen a si valen lo que cuestan",
-  "Previa del Día Mundial de la Diabetes: muchas notas de prevención, pocas con dato propio"
+  "Las efemérides de salud (Día Mundial de la Diabetes) llenan los medios de notas de síntomas; rinde el dato que nadie trae y el trámite concreto",
+  "Un titular con cifra grande («300 mil sin saberlo») invita a responder con la consecuencia y con qué hacer",
+  "Agentes personales: la conversación pasa de la cuota a probar alternativas y apps nuevas",
+  "Día con poca conversación propia de RT: mejor 2 respuestas sólidas que relleno"
  ],
  "no_hits": [
+  {
+   "handle": "@freddier",
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
+  },
   {
    "handle": "@bilinkis",
    "max_views": 0,
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
-   "handle": "@ministeriosalud",
-   "max_views": 1776,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.776."
-  },
-  {
    "handle": "@Pajarobere",
-   "max_views": 1499,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.499."
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@juancarlossaid",
-   "max_views": 743,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 743."
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@CatuRojas",
-   "max_views": 527,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 527."
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@HeliaMolina_M",
-   "max_views": 295,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 295."
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@jmanalich",
@@ -498,12 +306,12 @@
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 24,
+ "hits_count": 14,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-11-11",
-  "hits_count": 32,
-  "total_views": 1007302
+  "date": "2026-11-12",
+  "hits_count": 24,
+  "total_views": 271536
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -571,11 +379,20 @@
  },
  "day_roster": [
   {
+   "handle": "@DotCSV",
+   "name": "DotCSV",
+   "area": "ai",
+   "views": 31483,
+   "total_views": 59189,
+   "hit": true,
+   "window": "24h"
+  },
+  {
    "handle": "@midudev",
    "name": "midudev",
    "area": "ai",
-   "views": 68276,
-   "total_views": 145531,
+   "views": 11605,
+   "total_views": 11605,
    "hit": true,
    "window": "24h"
   },
@@ -583,53 +400,8 @@
    "handle": "@ErickSky",
    "name": "ErickSky",
    "area": "ai",
-   "views": 50488,
-   "total_views": 110843,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@sergiorocaa",
-   "name": "sergiorocaa",
-   "area": "ai",
-   "views": 35319,
-   "total_views": 38898,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@DotCSV",
-   "name": "DotCSV",
-   "area": "ai",
-   "views": 13754,
-   "total_views": 23937,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@freddier",
-   "name": "freddier",
-   "area": "ai",
-   "views": 10955,
-   "total_views": 10955,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@adnradiochile",
-   "name": "adnradiochile",
-   "area": "health",
-   "views": 7687,
-   "total_views": 18194,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@Cooperativa",
-   "name": "Cooperativa",
-   "area": "health",
-   "views": 6687,
-   "total_views": 11632,
+   "views": 9497,
+   "total_views": 67025,
    "hit": true,
    "window": "24h"
   },
@@ -637,8 +409,17 @@
    "handle": "@CNNChile",
    "name": "CNNChile",
    "area": "health",
-   "views": 3940,
-   "total_views": 3940,
+   "views": 6796,
+   "total_views": 15970,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@adnradiochile",
+   "name": "adnradiochile",
+   "area": "health",
+   "views": 5120,
+   "total_views": 35039,
    "hit": true,
    "window": "24h"
   },
@@ -646,44 +427,35 @@
    "handle": "@ministeriosalud",
    "name": "ministeriosalud",
    "area": "health",
-   "views": 1776,
-   "total_views": 2992,
-   "hit": false,
+   "views": 2591,
+   "total_views": 4884,
+   "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@Pajarobere",
-   "name": "Pajarobere",
+   "handle": "@Cooperativa",
+   "name": "Cooperativa",
    "area": "health",
-   "views": 1499,
-   "total_views": 1499,
-   "hit": false,
+   "views": 2357,
+   "total_views": 15254,
+   "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@juancarlossaid",
-   "name": "juancarlossaid",
-   "area": "health",
-   "views": 743,
-   "total_views": 1196,
-   "hit": false,
+   "handle": "@sergiorocaa",
+   "name": "sergiorocaa",
+   "area": "ai",
+   "views": 2216,
+   "total_views": 3299,
+   "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@CatuRojas",
-   "name": "CatuRojas",
-   "area": "health",
-   "views": 527,
-   "total_views": 527,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@HeliaMolina_M",
-   "name": "HeliaMolina_M",
-   "area": "health",
-   "views": 295,
-   "total_views": 743,
+   "handle": "@freddier",
+   "name": "freddier",
+   "area": "ai",
+   "views": 0,
+   "total_views": 0,
    "hit": false,
    "window": "24h"
   },
@@ -691,6 +463,42 @@
    "handle": "@bilinkis",
    "name": "bilinkis",
    "area": "ai",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@Pajarobere",
+   "name": "Pajarobere",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@juancarlossaid",
+   "name": "juancarlossaid",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@CatuRojas",
+   "name": "CatuRojas",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@HeliaMolina_M",
+   "name": "HeliaMolina_M",
+   "area": "health",
    "views": 0,
    "total_views": 0,
    "hit": false,
@@ -770,54 +578,54 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "FDA GLP-1 y NAION (tercer día): lo que sigue en medios"
+    "keyword": "Día Mundial de la Diabetes (14-nov): diabetes sin diagnóstico"
    },
    {
     "rank": 2,
-    "keyword": "GLP-1 y retinopatía diabética: empeoramiento inicial (SUSTAIN-6)"
+    "keyword": "retinopatía al momento del diagnóstico (UKPDS)"
    },
    {
     "rank": 3,
-    "keyword": "alerta ISP: cefazolina retirada por cuerpo extraño"
+    "keyword": "Examen de Medicina Preventiva: glicemia gratis desde los 15 años"
    },
    {
     "rank": 4,
-    "keyword": "agente que maneja 50 cuentas 24/7"
+    "keyword": "Hermes Mobile App: configuración y beta"
    },
    {
     "rank": 5,
-    "keyword": "agentes personales: utilidad vs. precio"
+    "keyword": "Grok Bot vs Hermes Agent: cuota y alternativas"
    },
    {
     "rank": 6,
-    "keyword": "Muse, Duet, Dots y Grok Bot 1.0 en Slack/Teams"
+    "keyword": "Claude Duet y OpenAI Dots (invitaciones, Europa)"
    },
    {
     "rank": 7,
-    "keyword": "glaucoma: detección y riesgo familiar"
+    "keyword": "agentes que llaman a otros agentes"
    },
    {
     "rank": 8,
-    "keyword": "Día Mundial de la Diabetes (14-nov)"
+    "keyword": "GLP-1/NAION en retirada en español"
    },
    {
     "rank": 9,
-    "keyword": "Modern Web Guidance (tecnología pura, excluido)"
+    "keyword": "Gemini 4 Hydrogen (tecnología pura, excluido)"
    },
    {
     "rank": 10,
-    "keyword": "CEO de NVIDIA (farándula, excluido)"
+    "keyword": "salida de Jensen Huang (farándula, excluido)"
    }
   ],
-  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía) y agentes personales (curadas a mano). Excluidos: política, Hospital del Salvador (gremial), paro de camioneros, recesión técnica, licencias médicas, financiamiento APS y tecnología pura."
+  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía) y agentes personales (curadas a mano). Excluidos: política, paro de camioneros, presupuesto de Salud 2027, Hospital del Salvador y de Valdivia, farándula (Slimming, Elfenbein) y tecnología pura."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 12-11-2026: 5 respuestas (R1–R5: 2 de agentes de IA y 3 de salud) en borrador para el filtro de Wally; sin originales; nada publicado.",
-   "takeaway": "GLP-1/NAION sigue en su tercer día en español (Clarín 13,6K, BioBio 2,4K); R3 aporta un dato nuevo y más frecuente en diabetes: el empeoramiento inicial de la retinopatía en SUSTAIN-6. Watchlist IA: midudev arriba con la polémica del CEO de NVIDIA (68,3K, excluida) y Modern Web Guidance (48,4K); ErickSky con Fireflies (50,5K); sergiorocaa con el agente que maneja 50 cuentas 24/7 (35,3K). Agentes personales en inglés: actualizaciones de Muse (33,1K) y adopción por utilidad o precio (briechong 5,1K). Salud Chile: alerta del ISP por cefazolina (T13 9,7K), nitratos en el agua y calor (BioBio); la agenda la coparon el paro de camioneros, la recesión y Gaza (excluidos)."
+   "headline": "Digest 13-11-2026: 2 respuestas (R1 salud, R2 agentes de IA) en borrador para el filtro de Wally; sin originales (P1 retinopatía en reserva para el 14-nov); nada publicado.",
+   "takeaway": "Víspera del Día Mundial de la Diabetes: BioBio lideró salud con «más de 300 mil personas tendrían diabetes sin saberlo» (21,4K); R1 aporta que más de un tercio ya tiene retinopatía al diagnóstico (UKPDS) y la glicemia gratuita del EMP. Watchlist IA: DotCSV arriba con Gemini 4 Hydrogen (31,5K) y la salida de Jensen Huang (27,7K), midudev 11,6K, ErickSky 9,5K (todo excluido por tecnología pura o fuera de línea). Agentes personales: ivanfioravanti configura la Hermes Mobile App (3,2K, R2) y deja Grok Bot por la cuota (3,4K); Claude Duet y OpenAI Dots en modo invitaciones. La agenda chilena la coparon el paro de camioneros, el presupuesto 2027 y la farándula (excluidos)."
   },
   "corpus": {
-   "posts": 156,
+   "posts": 197,
    "min_views": 2000
   },
   "window": {
@@ -826,63 +634,27 @@
   "topics": [],
   "ideas": [
    {
-    "title": "R1 · respuesta a @sergiorocaa",
-    "format": "respuesta",
-    "source": "@sergiorocaa",
-    "topic": "Un agente que maneja 50 cuentas 24/7: no se compite en volumen, sino con alguien que responde por lo que dice",
-    "hook_en": "No compites en volumen. Cincuenta cuentas automáticas publicando 24/7 hacen ruido, y la gente aprende rápido a ignorarlo.\n\nLo que no se automatiza es que detrás haya una persona con nombre que responde por lo que dice. Eso es lo que la gente sigue buscando, sobre todo cuando el tema importa.\n\nUsa los agentes para investigar, ordenar y preparar. Pero lo que publicas, que sea tuyo y que puedas defenderlo si alguien te pregunta.",
-    "angle": "Objetivo: https://x.com/sergiorocaa/status/2120596147911749889 (35.319 vistas)",
-    "why": "Base: Sin cifras externas. Post ES de sergiorocaa (35,3K vistas, 23 respuestas, 11-nov 19:14Z): «agente de IA chino maneja 50 cuentas de redes sociales 24/7 automáticamente; ¿cómo puedo competir con esto?». Ángulo de RT sin tecnicismos ni oftalmología forzada: el volumen automático es ruido; lo que no se automatiza es una persona con nombre detrás. Qué hacer: usar agentes para investigar y preparar, publicar solo lo propio. Sin «proactividad / decisión ya enmarcada / aprobar», sin infraestructura, sin cifras de uso. Fuente: sin cifras externas",
-    "keywords": [
-     "Un agente que maneja 50 cuentas 24/7: no se compite en volumen, sino con alguien que responde por lo que dice"
-    ]
-   },
-   {
-    "title": "R2 · respuesta a @briechong",
-    "format": "respuesta",
-    "source": "@briechong",
-    "topic": "Agentes personales: para quien no programa, primero la utilidad y después el precio",
-    "hook_en": "I'm a physician, not a developer, and from that side I'd say utility comes before price.\n\nPrice matters until the agent takes something real off your week. After that, you stop comparing it with a subscription and start comparing it with your time.\n\nThe \"good-to-have\" stage ends the first time it handles a boring weekly task without you having to think about it.",
-    "angle": "Objetivo: https://x.com/briechong/status/2120560355298676872 (5.133 vistas)",
-    "why": "Base: Sin cifras externas. Post EN de briechong (5,1K vistas, 11-nov 16:52Z): la adopción masiva de agentes personales es difícil sin utilidad excepcional o precio; hoy la mayoría de los usos son «good-to-haves»; su hipótesis es que decide el precio. Postura de RT como médico que no programa (hecho público): la utilidad va antes que el precio; cuando el agente le quita algo real de la semana, se compara con tu tiempo y no con una suscripción. Sin beta, sin Cadu, sin infraestructura, sin experiencias de uso inventadas; respuesta en inglés porque el post es en inglés. Fuente: sin cifras externas",
-    "keywords": [
-     "Agentes personales: para quien no programa, primero la utilidad y después el precio"
-    ]
-   },
-   {
-    "title": "R3 · respuesta a @biobio",
+    "title": "R1 · respuesta a @biobio",
     "format": "respuesta",
     "source": "@biobio",
-    "topic": "GLP-1 y retina: el empeoramiento inicial de la retinopatía diabética (SUSTAIN-6) y el fondo de ojo antes de partir",
-    "hook_en": "Hay un efecto que casi no aparece en la conversación de estos días y que en diabetes es bastante más frecuente que la NAION: el empeoramiento inicial de la retinopatía cuando la glicemia baja muy rápido.\n\nEn el estudio SUSTAIN-6, las complicaciones de retinopatía fueron 3,0% con semaglutida y 1,8% con placebo. Más del 80% de quienes las tuvieron ya tenían retinopatía al empezar.\n\nPor eso, si tienes diabetes y vas a iniciar Ozempic o un medicamento similar, hazte un fondo de ojo antes de partir. Y si ya tienes retinopatía, avísale a tu médico para controlarte en los primeros meses. No es motivo para no tratarse: es para tratarse con el ojo vigilado.",
-    "angle": "Objetivo: https://x.com/biobio/status/2120865893613703531 (2.399 vistas)",
-    "why": "Base: NEJM, SUSTAIN-6 (Marso 2016; 3.297 pacientes con diabetes tipo 2, 104 semanas): complicaciones de retinopatía (hemorragia vítrea, ceguera, necesidad de inyecciones intravítreas o fotocoagulación) 3,0% con semaglutida (50/1.648) vs 1,8% con placebo (29/1.649), HR 1,76 (IC 1,11–2,78); de los 79 pacientes con complicaciones, 66 (83,5%) ya tenían retinopatía al inicio. Análisis post hoc (Vilsbøll 2018, Diabetes Obes Metab): el efecto se explica sobre todo por la magnitud y rapidez de la baja de HbA1c en las primeras 16 semanas (fenómeno de empeoramiento temprano). La nota de BioBio (12-nov, 2,4K vistas, 13:06Z) menciona el empeoramiento temporal de la retinopatía sin cifras; RT aporta el dato y qué hacer. Dato NUEVO respecto de las respuestas de RT del 10-nov (FDA: 126 ensayos, 6,4 vs 3,8, 15 casos de NAION), del R4 del 11-nov (Sentinel/NAION) y de los borradores de octubre (EMA 1/10.000). Idea distinta del P1 en reserva para el 14-nov (fondo de ojo anual en toda persona con diabetes): aquí es el control al iniciar un GLP-1. Fuente: https://www.nejm.org/doi/full/10.1056/nejmoa1607141 · https://pmc.ncbi.nlm.nih.gov/articles/PMC5888154/ · https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/11/12/perdida-de-vision-rara-vez-permanente-los-efectos-indeseados-de-ozempic-y-medicamentos-similares.shtml",
+    "topic": "Diabetes sin diagnóstico: al momento del diagnóstico, más de un tercio ya tiene retinopatía; glicemia gratis en el EMP y fondo de ojo de inmediato",
+    "hook_en": "Que tantas personas tengan diabetes sin saberlo tiene una consecuencia que pocas veces se menciona: cuando llega el diagnóstico, la retina puede llevar años expuesta.\n\nEn el estudio UKPDS, más de un tercio de las personas con diabetes tipo 2 recién diagnosticada ya tenía retinopatía. Y la mayoría veía bien.\n\nDos cosas concretas. Desde los 15 años, el Examen de Medicina Preventiva incluye una glicemia en ayunas gratuita y sin orden médica: en el Cesfam si eres de Fonasa, o con el prestador que indique tu isapre. Y si te confirman diabetes, pide un fondo de ojo de inmediato, sin esperar al primer año de control.",
+    "angle": "Objetivo: https://x.com/biobio/status/2120957626385141798 (21.368 vistas)",
+    "why": "Base: UKPDS 30 (Kohner et al., Arch Ophthalmol 1998; 2.964 pacientes con diabetes tipo 2 recién diagnosticada, fotografía de ambos ojos): retinopatía (microaneurismas o más) en 39% de los hombres y 35% de las mujeres al diagnóstico; la agudeza visual era normal en la mayoría; conclusión de los autores: evaluación oftalmológica cuidadosa al diagnóstico. Superintendencia de Salud / Minsal (EMP, GES, Ley 19.966): Examen de Medicina Preventiva gratuito, voluntario y sin orden médica para beneficiarios de Fonasa e isapres y sus cargas; desde los 15 años incluye glicemia en ayunas (anual); en Fonasa se pide en el Cesfam o consultorio donde está inscrito, en isapre con el prestador que la isapre indique (fuera de esa red puede haber copago). Post de BioBio (21,4K vistas, 12-nov 19:11Z): «más de 300 mil personas en Chile tendrían diabetes sin saberlo». Distinto del P1 en reserva para el 14-nov (fondo de ojo ANUAL en el control y plazos GES de retinopatía) y del R5 del 11-nov (visión borrosa fluctuante): aquí es el diagnóstico tardío y el fondo de ojo AL DIAGNÓSTICO. Fuente: https://pubmed.ncbi.nlm.nih.gov/9514482/ · https://www.superdesalud.gob.cl/examen-de-medicina-preventiva/ · https://auge.minsal.cl/empa",
     "keywords": [
-     "GLP-1 y retina: el empeoramiento inicial de la retinopatía diabética (SUSTAIN-6) y el fondo de ojo antes de partir"
+     "Diabetes sin diagnóstico: al momento del diagnóstico, más de un tercio ya tiene retinopatía; glicemia gratis en el EMP y fondo de ojo de inmediato"
     ]
    },
    {
-    "title": "R4 · respuesta a @T13",
+    "title": "R2 · respuesta a @ivanfioravanti",
     "format": "respuesta",
-    "source": "@T13",
-    "topic": "Alerta ISP por cefazolina: un frasco bastó para retirar el lote; qué hacer si ves partículas en cualquier medicamento",
-    "hook_en": "Lo bueno de esta alerta es cómo partió: un cuerpo extraño en un solo frasco bastó para retirar todo el lote. Así debe funcionar la vigilancia.\n\nSegún el laboratorio, este antibiótico se usa solo en hospitales y clínicas y no se vende en farmacias. El retiro afecta únicamente al lote 253052155.\n\nLo que sí sirve para cualquier medicamento, incluidos los colirios: si ves partículas, turbiedad o un envase con el sello roto, no lo uses, guárdalo y avisa. El ISP recibe denuncias por fallas de calidad, idealmente junto con el producto.",
-    "angle": "Objetivo: https://x.com/T13/status/2120555904181358808 (9.713 vistas)",
-    "why": "Base: ISP, Alerta de Retiro del Mercado N°34/26 (10-nov-2026): retiro voluntario de Cefazolina polvo para solución inyectable 1 g (Difem Laboratorios), lote 253052155, venc. 11/2028, reg. F-23170, por «presencia de cuerpo extraño en una unidad de frasco»; afecta solo a ese lote. Difem (citado por T13): «hallazgo relacionado a una sola unidad»; el producto se distribuye solo a nivel institucional (hospitales y clínicas), no en farmacias; por eso el texto dice «según el laboratorio». ISP (Denuncias a la calidad de productos): cualquier persona puede denunciar una falla de calidad con el formulario, idealmente acompañando el producto defectuoso. Coherente con la serie de RT sobre seguridad de productos (Vitafarma/Cenabast, 8–9 nov) sin repetirla. Post T13 9,7K vistas (11-nov 16:35Z). Fuente: https://www.ispch.gob.cl/categorias-alertas/anamed/ · https://www.t13.cl/noticia/nacional/isp-comunica-alerta-farmaceutica-por-defecto-antibiotico-advierte-consecuencias-11-11-2026 · https://www.ispch.gob.cl/anamed/portal-de-denuncias/denuncias-a-la-calidad-de-productos/",
+    "source": "@ivanfioravanti",
+    "topic": "Hermes Mobile App: muy pulida, pero el valor sigue estando en Hermes, que ya era potente antes de tener una cara bonita",
+    "hook_en": "I'm in the private beta too, and the app is very polished.\n\nBut what convinces me is still Hermes itself. It was already powerful long before it had a nice face on the phone.\n\nA good app makes it easier to reach. The real test is still what the agent actually gets done.",
+    "angle": "Objetivo: https://x.com/ivanfioravanti/status/2121149115488780752 (3.240 vistas)",
+    "why": "Base: Sin cifras externas. Post EN de ivanfioravanti (3,2K vistas, 12 respuestas, 13-nov 07:52Z): «I have finally configured and started to tailor my Hermes Mobile App! Ready to go all in!» (el mismo autor tiene otro post de 3,4K sobre dejar Grok Bot por la cuota, que no se usa porque RT ya habló de cuota del 6 al 10-nov). Postura de RT con solo 2 puntos: está en la beta privada de la app (sin decir cómo entró) y Hermes ya era potente; la app está muy pulida. NO se usa el punto Cadu/Florian (ya propuesto el 11-nov a arshamg_ y no publicado), ni «proactividad / decisión ya enmarcada / aprobar», ni infraestructura, ni experiencias de uso inventadas. Respuesta en inglés porque el post es en inglés. Fuente: sin cifras externas",
     "keywords": [
-     "Alerta ISP por cefazolina: un frasco bastó para retirar el lote; qué hacer si ves partículas en cualquier medicamento"
-    ]
-   },
-   {
-    "title": "R5 · respuesta a @marthadebayle",
-    "format": "respuesta",
-    "source": "@marthadebayle",
-    "topic": "Glaucoma en la familia: riesgo de por vida de 22% vs 2,3%, y lo primero que cambia es el nervio óptico, no la presión",
-    "hook_en": "Un dato que suma: el glaucoma se concentra en familias. En el estudio poblacional de Rotterdam, los familiares directos de personas con glaucoma tuvieron un riesgo de por vida de 22%, frente a 2,3% en los familiares de personas sin glaucoma.\n\nY lo primero que apareció en esos familiares no fue la presión alta, sino el cambio en el nervio óptico. Por eso medir la presión no basta.\n\nSi tu papá, tu mamá o un hermano tiene glaucoma, cuéntaselo a tu oftalmólogo y pide que te revise el nervio óptico, aunque veas bien y no tengas molestias.",
-    "angle": "Objetivo: https://x.com/marthadebayle/status/2120570872037560551 (3.833 vistas)",
-    "why": "Base: Wolfs et al., Arch Ophthalmol 1998 (Rotterdam Study, estudio poblacional de agregación familiar): riesgo de glaucoma de por vida 22,0% en familiares de primer grado de pacientes con glaucoma vs 2,3% en familiares de controles (RR 9,2; IC 1,2–73,9); prevalencia 10,4% en hermanos de pacientes vs 0,7%; «el agrandamiento de la excavación del nervio óptico, no la presión intraocular, fue el rasgo más temprano y prominente». Post de Martha Debayle (México, 3,8K vistas, 8 respuestas, 11-nov 17:34Z) dice que la presión del ojo causa glaucoma; RT agrega el riesgo familiar y que la presión sola no basta. Distinto del P2 glaucoma del 8-nov (pocos síntomas, examen con pupila dilatada). No se usa el segundo post del programa (promoción con WhatsApp). Fuente: https://pubmed.ncbi.nlm.nih.gov/9869795/",
-    "keywords": [
-     "Glaucoma en la familia: riesgo de por vida de 22% vs 2,3%, y lo primero que cambia es el nervio óptico, no la presión"
+     "Hermes Mobile App: muy pulida, pero el valor sigue estando en Hermes, que ya era potente antes de tener una cara bonita"
     ]
    }
   ],
