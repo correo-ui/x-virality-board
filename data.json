@@ -1,159 +1,135 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-13 10:30",
- "date": "2026-11-13",
+ "title": "Digest diario — escaneo 24h al 2026-11-14 10:30",
+ "date": "2026-11-14",
  "timezone": "America/Santiago",
- "updated": "2026-11-13T11:15:00-03:00",
+ "updated": "2026-11-14T11:30:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
+  {
+   "name": "ministeriosalud",
+   "display_name": "ministeriosalud",
+   "handle": "@ministeriosalud",
+   "area": "health",
+   "views": 135116,
+   "likes": 195,
+   "replies": 269,
+   "reposts": 35,
+   "url": "https://x.com/ministeriosalud/status/2121272048710225928",
+   "status_url": "https://x.com/ministeriosalud/status/2121272048710225928",
+   "text": "¿Pa’ qué fumas, si el cigarro aumenta el riesgo de sufrir un infarto y en Chile provoca 52 muertes cada día?\n\nHay muchas canciones que se quedan pegadas, pero ninguna adicción debería quedarse contigo.\n\nLa única adicción que queremos para tu vida es esta canción. 🎶\n\n#PaQuéFumas https://t.co/TjOsDVOENj",
+   "original_en": "¿Pa’ qué fumas, si el cigarro aumenta el riesgo de sufrir un infarto y en Chile provoca 52 muertes cada día?\n\nHay muchas canciones que se quedan pegadas, pero ninguna adicción debería quedarse contigo.\n\nLa única adicción que queremos para tu vida es esta canción. 🎶\n\n#PaQuéFumas https://t.co/TjOsDVOENj",
+   "highlight": true,
+   "created_at": "2026-11-13T16:00:42.000Z",
+   "window": "24h"
+  },
   {
    "name": "biobio",
    "display_name": "biobio",
    "handle": "@biobio",
    "area": "health",
-   "views": 21368,
-   "likes": 33,
-   "replies": 3,
-   "reposts": 18,
-   "url": "https://x.com/biobio/status/2120957626385141798",
-   "status_url": "https://x.com/biobio/status/2120957626385141798",
-   "text": "Los primeros síntomas de la diabetes: más de 300 mil personas en Chile la tendrían sin saberlo \nhttps://t.co/EiK8zjySzu",
-   "original_en": "Los primeros síntomas de la diabetes: más de 300 mil personas en Chile la tendrían sin saberlo \nhttps://t.co/EiK8zjySzu",
+   "views": 10955,
+   "likes": 13,
+   "replies": 0,
+   "reposts": 13,
+   "url": "https://x.com/biobio/status/2121335239481958670",
+   "status_url": "https://x.com/biobio/status/2121335239481958670",
+   "text": "Emiten alerta farmacéutica por trozo de vidrio en medicamento para las náuseas: revisa lote afectado\n\nhttps://t.co/mgQPF0SLSv",
+   "original_en": "Emiten alerta farmacéutica por trozo de vidrio en medicamento para las náuseas: revisa lote afectado\n\nhttps://t.co/mgQPF0SLSv",
    "highlight": true,
-   "created_at": "2026-11-12T19:11:18.000Z",
+   "created_at": "2026-11-13T20:11:48.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "maxifirtman",
+   "display_name": "maxifirtman",
+   "handle": "@maxifirtman",
+   "area": "ai",
+   "views": 5907,
+   "likes": 57,
+   "replies": 4,
+   "reposts": 3,
+   "url": "https://x.com/maxifirtman/status/2121295247674077525",
+   "status_url": "https://x.com/maxifirtman/status/2121295247674077525",
+   "text": "OpenAI anuncia la billetera de ChatGPT, por ahora para que la use el agente personal Dot. Le cargás tarjetas de crédito Visa, MasterCard o American Express y el agente la puede usar para comprar nunca accediendo directamente a los datos.\n\nAntes de cada compra, el usuario va a https://t.co/NFaqS9f0wg",
+   "original_en": "OpenAI anuncia la billetera de ChatGPT, por ahora para que la use el agente personal Dot. Le cargás tarjetas de crédito Visa, MasterCard o American Express y el agente la puede usar para comprar nunca accediendo directamente a los datos.\n\nAntes de cada compra, el usuario va a https://t.co/NFaqS9f0wg",
+   "highlight": true,
+   "created_at": "2026-11-13T17:32:53.000Z",
    "window": "24h",
-   "draft_en": "[R1 · respuesta] Que tantas personas tengan diabetes sin saberlo tiene una consecuencia que pocas veces se menciona: cuando llega el diagnóstico, la retina puede llevar años expuesta.\n\nEn el estudio UKPDS, más de un tercio de las personas con diabetes tipo 2 recién diagnosticada ya tenía retinopatía. Y la mayoría veía bien.\n\nDos cosas concretas. Desde los 15 años, el Examen de Medicina Preventiva incluye una glicemia en ayunas gratuita y sin orden médica: en el Cesfam si eres de Fonasa, o con el prestador que indique tu isapre. Y si te confirman diabetes, pide un fondo de ojo de inmediato, sin esperar al primer año de control.\n\nFuente: https://pubmed.ncbi.nlm.nih.gov/9514482/ · https://www.superdesalud.gob.cl/examen-de-medicina-preventiva/ · https://auge.minsal.cl/empa",
+   "draft_en": "[R2 · respuesta] La parte técnica parece bien resuelta: el agente paga sin ver la tarjeta. Lo difícil viene después de la compra.\n\nSi el agente compra algo equivocado, ¿quién reclama, ante quién y con qué registro de lo que se le pidió? Eso va a definir cuánto se usa de verdad.\n\nMientras no esté claro, yo partiría con compras repetidas, de monto bajo y fáciles de devolver. Ahí se ve rápido cuánto entiende el agente lo que uno quiso decir.",
    "draft_keywords": [
-    "Diabetes sin diagnóstico: al momento del diagnóstico, más de un tercio ya tiene retinopatía; glicemia gratis en el EMP y fondo de ojo de inmediato"
+    "Billetera de ChatGPT para el agente Dot: lo técnico parece resuelto; lo difícil es qué pasa cuando el agente compra mal (reclamo, registro de lo pedido). Partir con compras repetidas, de monto bajo y fáciles de devolver"
    ],
-   "why_hit": "Objetivo de respuesta R1 (Diabetes sin diagnóstico: al momento del diagnóstico, más de un tercio ya tiene retinopatía; glicemia gratis en el EMP y fondo de ojo de inmediato). Base verificada: UKPDS 30 (Kohner et al., Arch Ophthalmol 1998; 2.964 pacientes con diabetes tipo 2 recién diagnosticada, fotografía de ambos ojos): retinopatía (microaneurismas o más) en 39% de los hombres y 35% de las mujeres al diagnóstico; la agudeza visual era normal en la mayoría; conclusión de los autores: evaluación oftalmológica cuidadosa al diagnóstico. Superintendencia de Salud / Minsal (EMP, GES, Ley 19.966): Examen de Medicina Preventiva gratuito, voluntario y sin orden médica para beneficiarios de Fonasa e isapres y sus cargas; desde los 15 años incluye glicemia en ayunas (anual); en Fonasa se pide en el Cesfam o consultorio donde está inscrito, en isapre con el prestador que la isapre indique (fuera de esa red puede haber copago). Post de BioBio (21,4K vistas, 12-nov 19:11Z): «más de 300 mil personas en Chile tendrían diabetes sin saberlo». Distinto del P1 en reserva para el 14-nov (fondo de ojo ANUAL en el control y plazos GES de retinopatía) y del R5 del 11-nov (visión borrosa fluctuante): aquí es el diagnóstico tardío y el fondo de ojo AL DIAGNÓSTICO.",
-   "hook": "Que tantas personas tengan diabetes sin saberlo tiene una consecuencia que pocas veces se menciona: cuando llega el diag",
+   "why_hit": "Objetivo de respuesta R2 (Billetera de ChatGPT para el agente Dot: lo técnico parece resuelto; lo difícil es qué pasa cuando el agente compra mal (reclamo, registro de lo pedido). Partir con compras repetidas, de monto bajo y fáciles de devolver). Base verificada: Sin cifras externas. Post ES de Maximiliano Firtman (87K seguidores; 5,9K vistas, 4 respuestas, 13-nov 17:32Z): OpenAI anuncia la billetera de ChatGPT, por ahora para el agente personal Dot; se cargan tarjetas Visa/MasterCard/Amex y el agente compra sin acceder directamente a los datos. Opinión genuina sobre el tema (no fuerza oftalmología ni usa la postura Hermes/Cadu). Sin «proactividad / decisión ya enmarcada / aprobar», sin infraestructura, sin experiencias de uso inventadas («yo partiría» es hipotético). Sin voseo.",
+   "hook": "La parte técnica parece bien resuelta: el agente paga sin ver la tarjeta. Lo difícil viene después de la compra.\n\nSi el ",
    "top10_rank": 1
   },
   {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
+   "name": "eudtoxic",
+   "display_name": "eudtoxic",
+   "handle": "@eudtoxic",
    "area": "ai",
-   "views": 5806,
-   "likes": 242,
+   "views": 4527,
+   "likes": 56,
    "replies": 4,
-   "reposts": 17,
-   "url": "https://x.com/ErickSky/status/2120970476168028308",
-   "status_url": "https://x.com/ErickSky/status/2120970476168028308",
-   "text": "Vercel nos muestra el camino de cómo se construyen UI con IA\n\n[UI SDK]\n\nUna librería de comportamientos (focus, popups, drag &amp; drop, ARIA…) pensada para que los agentes construyan interfaces accesibles y headless solos.\n\nTú defines el estilo. El agente monta la lógica.\n\nFunciona",
-   "original_en": "Vercel nos muestra el camino de cómo se construyen UI con IA\n\n[UI SDK]\n\nUna librería de comportamientos (focus, popups, drag &amp; drop, ARIA…) pensada para que los agentes construyan interfaces accesibles y headless solos.\n\nTú defines el estilo. El agente monta la lógica.\n\nFunciona",
-   "highlight": true,
-   "created_at": "2026-11-12T20:02:21.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "TopesdGama",
-   "display_name": "TopesdGama",
-   "handle": "@TopesdGama",
-   "area": "ai",
-   "views": 4366,
-   "likes": 9,
-   "replies": 0,
-   "reposts": 1,
-   "url": "https://x.com/TopesdGama/status/2120966236552998936",
-   "status_url": "https://x.com/TopesdGama/status/2120966236552998936",
-   "text": "Que levante la mano a quién no le dé un poco de respeto ver a agentes de IA tomando decisiones por su cuenta en servidores gigantes. \n\nEn el Fal.Con Europe conocimos de primera mano Falcon Guardian de CrowdStrike, y lo que más nos ha llamado la atención es su AI Kill Switch: un https://t.co/vpGze1zLYd",
-   "original_en": "Que levante la mano a quién no le dé un poco de respeto ver a agentes de IA tomando decisiones por su cuenta en servidores gigantes. \n\nEn el Fal.Con Europe conocimos de primera mano Falcon Guardian de CrowdStrike, y lo que más nos ha llamado la atención es su AI Kill Switch: un https://t.co/vpGze1zLYd",
+   "reposts": 11,
+   "url": "https://x.com/eudtoxic/status/2121281295955206497",
+   "status_url": "https://x.com/eudtoxic/status/2121281295955206497",
+   "text": "Grok Bot me editó este video y sigo sorprendida porque es algo que hasta hace unos meses ninguna IA podía hacer y tenías que pagar (bastante) a un editor o CM bueno para que te haga \n\n(sí, ya sé que quedaron algunas letras fuera, las dejé a propósito para que parezca más humano!) https://t.co/E0vqGoLKMV",
+   "original_en": "Grok Bot me editó este video y sigo sorprendida porque es algo que hasta hace unos meses ninguna IA podía hacer y tenías que pagar (bastante) a un editor o CM bueno para que te haga \n\n(sí, ya sé que quedaron algunas letras fuera, las dejé a propósito para que parezca más humano!) https://t.co/E0vqGoLKMV",
    "highlight": false,
-   "created_at": "2026-11-12T19:45:31.000Z",
+   "created_at": "2026-11-13T16:37:27.000Z",
    "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 3827,
-   "likes": 57,
-   "replies": 7,
-   "reposts": 5,
-   "url": "https://x.com/ErickSky/status/2121010284437672413",
-   "status_url": "https://x.com/ErickSky/status/2121010284437672413",
-   "text": "Últimamente he estado recibiendo la misma consulta sobre @bot y de que sus contactos en frío sean ignorados o rechazados.\n\nA mí nunca me detuvo eso, ni el miedo al spam, ni nada, es que a mí me bombardea la señora esa de registrar marcas y un sinfín de otros negocios más jajajaj",
-   "original_en": "Últimamente he estado recibiendo la misma consulta sobre @bot y de que sus contactos en frío sean ignorados o rechazados.\n\nA mí nunca me detuvo eso, ni el miedo al spam, ni nada, es que a mí me bombardea la señora esa de registrar marcas y un sinfín de otros negocios más jajajaj",
-   "highlight": false,
-   "created_at": "2026-11-12T22:40:32.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ivanfioravanti",
-   "display_name": "ivanfioravanti",
-   "handle": "@ivanfioravanti",
-   "area": "ai",
-   "views": 3359,
-   "likes": 36,
-   "replies": 10,
-   "reposts": 0,
-   "url": "https://x.com/ivanfioravanti/status/2121164917063528511",
-   "status_url": "https://x.com/ivanfioravanti/status/2121164917063528511",
-   "text": "I confirm that Grok Bot quota usage/limit has been improved. Personally a bit too late. You need to get back my trust dear @spacexai \n\nIn the meantime, starting to configure my Hermes Agent alternative.",
-   "original_en": "I confirm that Grok Bot quota usage/limit has been improved. Personally a bit too late. You need to get back my trust dear @spacexai \n\nIn the meantime, starting to configure my Hermes Agent alternative.",
-   "highlight": false,
-   "created_at": "2026-11-13T08:55:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ivanfioravanti",
-   "display_name": "ivanfioravanti",
-   "handle": "@ivanfioravanti",
-   "area": "ai",
-   "views": 3240,
-   "likes": 57,
-   "replies": 12,
-   "reposts": 0,
-   "url": "https://x.com/ivanfioravanti/status/2121149115488780752",
-   "status_url": "https://x.com/ivanfioravanti/status/2121149115488780752",
-   "text": "I have finally configured and started to tailor my Hermes Mobile App! Ready to go all in! https://t.co/TIHR3djls3",
-   "original_en": "I have finally configured and started to tailor my Hermes Mobile App! Ready to go all in! https://t.co/TIHR3djls3",
-   "highlight": false,
-   "created_at": "2026-11-13T07:52:12.000Z",
-   "window": "24h",
-   "draft_en": "[R2 · respuesta] I'm in the private beta too, and the app is very polished.\n\nBut what convinces me is still Hermes itself. It was already powerful long before it had a nice face on the phone.\n\nA good app makes it easier to reach. The real test is still what the agent actually gets done.",
-   "draft_keywords": [
-    "Hermes Mobile App: muy pulida, pero el valor sigue estando en Hermes, que ya era potente antes de tener una cara bonita"
-   ],
-   "why_hit": "Objetivo de respuesta R2 (Hermes Mobile App: muy pulida, pero el valor sigue estando en Hermes, que ya era potente antes de tener una cara bonita). Base verificada: Sin cifras externas. Post EN de ivanfioravanti (3,2K vistas, 12 respuestas, 13-nov 07:52Z): «I have finally configured and started to tailor my Hermes Mobile App! Ready to go all in!» (el mismo autor tiene otro post de 3,4K sobre dejar Grok Bot por la cuota, que no se usa porque RT ya habló de cuota del 6 al 10-nov). Postura de RT con solo 2 puntos: está en la beta privada de la app (sin decir cómo entró) y Hermes ya era potente; la app está muy pulida. NO se usa el punto Cadu/Florian (ya propuesto el 11-nov a arshamg_ y no publicado), ni «proactividad / decisión ya enmarcada / aprobar», ni infraestructura, ni experiencias de uso inventadas. Respuesta en inglés porque el post es en inglés.",
-   "hook": "I'm in the private beta too, and the app is very polished.\n\nBut what convinces me is still Hermes itself. It was already",
-   "top10_rank": 2
   },
   {
    "name": "adnradiochile",
    "display_name": "adnradiochile",
    "handle": "@adnradiochile",
    "area": "health",
-   "views": 2945,
+   "views": 4506,
    "likes": 7,
-   "replies": 0,
-   "reposts": 0,
-   "url": "https://x.com/adnradiochile/status/2121068028746228174",
-   "status_url": "https://x.com/adnradiochile/status/2121068028746228174",
-   "text": "Preocupante brecha de salud: el 72% de las mujeres trabajó enferma o con dolor durante el último año en Chile, según estudio https://t.co/Vnuc4f2mqU",
-   "original_en": "Preocupante brecha de salud: el 72% de las mujeres trabajó enferma o con dolor durante el último año en Chile, según estudio https://t.co/Vnuc4f2mqU",
+   "replies": 3,
+   "reposts": 2,
+   "url": "https://x.com/adnradiochile/status/2121427899907768654",
+   "status_url": "https://x.com/adnradiochile/status/2121427899907768654",
+   "text": "VIDEO | El alarmante efecto de los vapers en adolescentes que el Minsal busca frenar en colegios\n\nhttps://t.co/4VW9Y5bZsv",
+   "original_en": "VIDEO | El alarmante efecto de los vapers en adolescentes que el Minsal busca frenar en colegios\n\nhttps://t.co/4VW9Y5bZsv",
    "highlight": false,
-   "created_at": "2026-11-13T02:30:00.000Z",
+   "created_at": "2026-11-14T02:20:00.000Z",
    "window": "24h"
   },
   {
-   "name": "ministeriosalud",
-   "display_name": "ministeriosalud",
-   "handle": "@ministeriosalud",
-   "area": "health",
-   "views": 2591,
-   "likes": 5,
-   "replies": 0,
-   "reposts": 5,
-   "url": "https://x.com/ministeriosalud/status/2120951913575309494",
-   "status_url": "https://x.com/ministeriosalud/status/2120951913575309494",
-   "text": "La ministra de Salud, May Chomali, participó en la firma del convenio entre @Fonasa y @ConectaMayor , que busca fortalecer la autonomía e inclusión digital de las personas mayores.\n\nEl acuerdo contempla difusión de contenidos, formación de facilitadores digitales y mejoras en los https://t.co/5OajvqW84y",
-   "original_en": "La ministra de Salud, May Chomali, participó en la firma del convenio entre @Fonasa y @ConectaMayor , que busca fortalecer la autonomía e inclusión digital de las personas mayores.\n\nEl acuerdo contempla difusión de contenidos, formación de facilitadores digitales y mejoras en los https://t.co/5OajvqW84y",
+   "name": "infobae",
+   "display_name": "infobae",
+   "handle": "@infobae",
+   "area": "ai",
+   "views": 4266,
+   "likes": 4,
+   "replies": 2,
+   "reposts": 2,
+   "url": "https://x.com/infobae/status/2121408424202146031",
+   "status_url": "https://x.com/infobae/status/2121408424202146031",
+   "text": "OpenAI lanza una billetera en ChatGPT para que sus agentes de IA compren y paguen por el usuario | Por Renzo Gonzales https://t.co/BOHiC0HRBn",
+   "original_en": "OpenAI lanza una billetera en ChatGPT para que sus agentes de IA compren y paguen por el usuario | Por Renzo Gonzales https://t.co/BOHiC0HRBn",
    "highlight": false,
-   "created_at": "2026-11-12T18:48:36.000Z",
+   "created_at": "2026-11-14T01:02:36.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "latercera",
+   "display_name": "latercera",
+   "handle": "@latercera",
+   "area": "health",
+   "views": 4134,
+   "likes": 20,
+   "replies": 8,
+   "reposts": 4,
+   "url": "https://x.com/latercera/status/2121304587642552480",
+   "status_url": "https://x.com/latercera/status/2121304587642552480",
+   "text": "“¿Pa’ qué fumas?“: Minsal lanza campaña contra el tabaco y vapeadores dirigido especialmente a adolescentes https://t.co/KhR0cEsUTr",
+   "original_en": "“¿Pa’ qué fumas?“: Minsal lanza campaña contra el tabaco y vapeadores dirigido especialmente a adolescentes https://t.co/KhR0cEsUTr",
+   "highlight": false,
+   "created_at": "2026-11-13T18:10:00.000Z",
    "window": "24h"
   },
   {
@@ -161,33 +137,91 @@
    "display_name": "24HorasTVN",
    "handle": "@24HorasTVN",
    "area": "health",
-   "views": 2513,
+   "views": 3208,
+   "likes": 1,
+   "replies": 0,
+   "reposts": 1,
+   "url": "https://x.com/24HorasTVN/status/2121422870823711017",
+   "status_url": "https://x.com/24HorasTVN/status/2121422870823711017",
+   "text": "💟 #Bienestar \n\nAlerta por Ozempic y otros GLP-1: la rara enfermedad que provoca ceguera \n\nMás detalles ⬇ \nhttps://t.co/wEjgA2TQWn",
+   "original_en": "💟 #Bienestar \n\nAlerta por Ozempic y otros GLP-1: la rara enfermedad que provoca ceguera \n\nMás detalles ⬇ \nhttps://t.co/wEjgA2TQWn",
+   "highlight": false,
+   "created_at": "2026-11-14T02:00:01.000Z",
+   "window": "24h",
+   "draft_en": "[R1 · respuesta] Hoy, Día Mundial de la Diabetes, vale la pena poner esta alerta en proporción. La Agencia Europea de Medicamentos clasificó la NAION con semaglutida como un efecto «muy raro»: hasta 1 de cada 10.000 personas tratadas.\n\nHay dos recomendaciones de los oftalmólogos y neurooftalmólogos norteamericanos que casi no se han contado. No hace falta un examen de ojos especial antes de partir con un GLP-1 solo por este riesgo. Pero quien ya tuvo una NAION en un ojo sí debe conversarlo con su médico antes de iniciarlo, pensando en el otro ojo.\n\nLo que no cambia: si tienes diabetes, el fondo de ojo anual sigue siendo el control que más protege tu visión.\n\nFuente: https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy · https://www.aao.org/eye-health/news/can-ozempic-affect-eye-health-here-s-what-ophthalm · https://www.newswise.com/articles/here-s-what-you-need-to-know-about-the-fda-s-new-glp-1-warning",
+   "draft_keywords": [
+    "GLP-1/NAION en proporción (EMA: «muy raro», hasta 1 de cada 10.000) + dos recomendaciones AAO/NANOS que casi no se han contado: no hace falta examen ocular especial antes de partir solo por este riesgo; quien ya tuvo NAION en un ojo debe conversarlo antes; el fondo de ojo anual en diabetes no cambia"
+   ],
+   "why_hit": "Objetivo de respuesta R1 (GLP-1/NAION en proporción (EMA: «muy raro», hasta 1 de cada 10.000) + dos recomendaciones AAO/NANOS que casi no se han contado: no hace falta examen ocular especial antes de partir solo por este riesgo; quien ya tuvo NAION en un ojo debe conversarlo antes; el fondo de ojo anual en diabetes no cambia). Base verificada: EMA/PRAC (6-jun-2025): la NAION es un efecto adverso «muy raro» de la semaglutida (Ozempic, Rybelsus, Wegovy), puede afectar hasta 1 de cada 10.000 personas tratadas; estudios epidemiológicos en diabetes tipo 2: riesgo ~2 veces, ≈1 caso adicional por 10.000 años-persona. AAO y NANOS (consenso Ophthalmology 2026 y comunicado tras la advertencia FDA): no suspender por cuenta propia; quien tiene antecedente de NAION debe discutir con sus médicos el riesgo para el otro ojo al considerar un GLP-1; NO se recomiendan exámenes oculares de rutina solo para evaluar riesgo de NAION antes de iniciar un GLP-1; las personas con diabetes deben seguir con sus controles oculares programados. Post de 24 Horas (3,2K vistas, 14-nov 02:00Z): «Alerta por Ozempic y otros GLP-1: la rara enfermedad que provoca ceguera». DATO NUEVO frente a lo que RT ya publicó: CNN Chile 10-nov (FDA 126 ensayos, 6,4 vs 3,8/100.000), ADN 10-nov (15 casos; consultar el mismo día; no suspender) y BioBio 12-nov (SUSTAIN-6, empeoramiento inicial de retinopatía). Aquí no se repite «consulta el mismo día» ni las cifras FDA: se usa la cifra EMA y las dos recomendaciones prácticas de AAO/NANOS.",
+   "hook": "Hoy, Día Mundial de la Diabetes, vale la pena poner esta alerta en proporción. La Agencia Europea de Medicamentos clasif",
+   "top10_rank": 2
+  },
+  {
+   "name": "infobae",
+   "display_name": "infobae",
+   "handle": "@infobae",
+   "area": "health",
+   "views": 3167,
+   "likes": 3,
+   "replies": 1,
+   "reposts": 3,
+   "url": "https://x.com/infobae/status/2121487040105812326",
+   "status_url": "https://x.com/infobae/status/2121487040105812326",
+   "text": "DÍA MUNDIAL DE LA DIABETES: LOS RIESGOS PARA LA SALUD VISUAL, SÍNTOMAS Y MEDIDAS DE PREVENCIÓN\n\nLa retinopatía diabética (RD) es la principal causa de pérdida de la visión en adultos. Según explica el doctor Marcelo Zas (MN 82.653), jefe de la sección Retina de la División https://t.co/Parmqq9ZFm",
+   "original_en": "DÍA MUNDIAL DE LA DIABETES: LOS RIESGOS PARA LA SALUD VISUAL, SÍNTOMAS Y MEDIDAS DE PREVENCIÓN\n\nLa retinopatía diabética (RD) es la principal causa de pérdida de la visión en adultos. Según explica el doctor Marcelo Zas (MN 82.653), jefe de la sección Retina de la División https://t.co/Parmqq9ZFm",
+   "highlight": false,
+   "created_at": "2026-11-14T06:15:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "isa_marcial",
+   "display_name": "isa_marcial",
+   "handle": "@isa_marcial",
+   "area": "ai",
+   "views": 3153,
+   "likes": 38,
+   "replies": 1,
+   "reposts": 3,
+   "url": "https://x.com/isa_marcial/status/2121362472745816101",
+   "status_url": "https://x.com/isa_marcial/status/2121362472745816101",
+   "text": "¡NOVEDADES DE IA del 13 de noviembre:\n-Gemini 4 ya es el modelo predeterminado del modo IA de la búsqueda de Google: es 2.5 veces más rápido que 3.8 Flash cuando piensa a fondo.\n-Meta Muse ya hace llamadas telefónicas reales a negocios en Estados Unidos para los suscriptores de https://t.co/Q2UhJwLTJm",
+   "original_en": "¡NOVEDADES DE IA del 13 de noviembre:\n-Gemini 4 ya es el modelo predeterminado del modo IA de la búsqueda de Google: es 2.5 veces más rápido que 3.8 Flash cuando piensa a fondo.\n-Meta Muse ya hace llamadas telefónicas reales a negocios en Estados Unidos para los suscriptores de https://t.co/Q2UhJwLTJm",
+   "highlight": false,
+   "created_at": "2026-11-13T22:00:01.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "CNNChile",
+   "display_name": "CNNChile",
+   "handle": "@CNNChile",
+   "area": "health",
+   "views": 2828,
+   "likes": 2,
+   "replies": 0,
+   "reposts": 3,
+   "url": "https://x.com/CNNChile/status/2121362410082623502",
+   "status_url": "https://x.com/CNNChile/status/2121362410082623502",
+   "text": "Alerta farmacéutica: ISP ordena retiro de medicamento inyectable tras detectar fragmento de vidrio en una ampolla\n\nhttps://t.co/PKUUgBVJTp",
+   "original_en": "Alerta farmacéutica: ISP ordena retiro de medicamento inyectable tras detectar fragmento de vidrio en una ampolla\n\nhttps://t.co/PKUUgBVJTp",
+   "highlight": false,
+   "created_at": "2026-11-13T21:59:46.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "CNNChile",
+   "display_name": "CNNChile",
+   "handle": "@CNNChile",
+   "area": "health",
+   "views": 2784,
    "likes": 0,
    "replies": 0,
    "reposts": 1,
-   "url": "https://x.com/24HorasTVN/status/2121065513535111328",
-   "status_url": "https://x.com/24HorasTVN/status/2121065513535111328",
-   "text": "💟 #Bienestar \n\nDiabetes en Chile: más del 12% de los adultos vive con la enfermedad y puede no presentar síntomas \n\nMás detalles ⬇\nhttps://t.co/yG3ZxUOsn8",
-   "original_en": "💟 #Bienestar \n\nDiabetes en Chile: más del 12% de los adultos vive con la enfermedad y puede no presentar síntomas \n\nMás detalles ⬇\nhttps://t.co/yG3ZxUOsn8",
+   "url": "https://x.com/CNNChile/status/2121313486902796427",
+   "status_url": "https://x.com/CNNChile/status/2121313486902796427",
+   "text": "Salud bucal infantil en Chile: Alianza académica y privada impulsa investigación y educación preventiva en primera infancia \n\nhttps://t.co/dYxyMp2RSI",
+   "original_en": "Salud bucal infantil en Chile: Alianza académica y privada impulsa investigación y educación preventiva en primera infancia \n\nhttps://t.co/dYxyMp2RSI",
    "highlight": false,
-   "created_at": "2026-11-13T02:20:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "Layton_Gott",
-   "display_name": "Layton_Gott",
-   "handle": "@Layton_Gott",
-   "area": "ai",
-   "views": 2465,
-   "likes": 29,
-   "replies": 8,
-   "reposts": 3,
-   "url": "https://x.com/Layton_Gott/status/2121106138095825238",
-   "status_url": "https://x.com/Layton_Gott/status/2121106138095825238",
-   "text": "Dear Microsoft,\n\ntake all the time you need.\n\nmy whole business is running great on Claude, Codex, T3 Code, OpenCode, Grok Bot, Hermes Agent, Supabase, Cloudflare, Docker, Chrome, and GitHub.\n\nwait a second...\n\nSincerely,\nevery self-employed person lol https://t.co/WkpEcjnEt6",
-   "original_en": "Dear Microsoft,\n\ntake all the time you need.\n\nmy whole business is running great on Claude, Codex, T3 Code, OpenCode, Grok Bot, Hermes Agent, Supabase, Cloudflare, Docker, Chrome, and GitHub.\n\nwait a second...\n\nSincerely,\nevery self-employed person lol https://t.co/WkpEcjnEt6",
-   "highlight": false,
-   "created_at": "2026-11-13T05:01:26.000Z",
+   "created_at": "2026-11-13T18:45:22.000Z",
    "window": "24h"
   },
   {
@@ -195,81 +229,132 @@
    "display_name": "ministeriosalud",
    "handle": "@ministeriosalud",
    "area": "health",
-   "views": 2293,
-   "likes": 6,
-   "replies": 0,
-   "reposts": 5,
-   "url": "https://x.com/ministeriosalud/status/2121031957710553287",
-   "status_url": "https://x.com/ministeriosalud/status/2121031957710553287",
-   "text": "Avanzamos para que las personas mayores accedan de manera más fácil y autónoma a los servicios de salud. 👏🏼\n\nLa ministra May Chomali participó en la firma de un convenio entre Fonasa y Conecta Mayor UC, que impulsará herramientas de formación e inclusión digital y mejoras en los https://t.co/9jtb6PwYIk",
-   "original_en": "Avanzamos para que las personas mayores accedan de manera más fácil y autónoma a los servicios de salud. 👏🏼\n\nLa ministra May Chomali participó en la firma de un convenio entre Fonasa y Conecta Mayor UC, que impulsará herramientas de formación e inclusión digital y mejoras en los https://t.co/9jtb6PwYIk",
+   "views": 2450,
+   "likes": 13,
+   "replies": 4,
+   "reposts": 18,
+   "url": "https://x.com/ministeriosalud/status/2121263944060830063",
+   "status_url": "https://x.com/ministeriosalud/status/2121263944060830063",
+   "text": "🔵📡 #PaQuéFumas Minsal lanza Campaña contra el Tabaco 2026 https://t.co/TEqwnQI758",
+   "original_en": "🔵📡 #PaQuéFumas Minsal lanza Campaña contra el Tabaco 2026 https://t.co/TEqwnQI758",
    "highlight": false,
-   "created_at": "2026-11-13T00:06:40.000Z",
+   "created_at": "2026-11-13T15:28:30.000Z",
    "window": "24h"
   },
   {
-   "name": "sergiorocaa",
-   "display_name": "sergiorocaa",
-   "handle": "@sergiorocaa",
+   "name": "maxifirtman",
+   "display_name": "maxifirtman",
+   "handle": "@maxifirtman",
    "area": "ai",
-   "views": 2216,
-   "likes": 218,
-   "replies": 14,
-   "reposts": 5,
-   "url": "https://x.com/sergiorocaa/status/2120940106856935459",
-   "status_url": "https://x.com/sergiorocaa/status/2120940106856935459",
-   "text": "we’ve reached the point where AI agents are calling other AI agents to get things done\n\nsoon we won’t even need to make the calls ourselves https://t.co/98wdBPdqdJ",
-   "original_en": "we’ve reached the point where AI agents are calling other AI agents to get things done\n\nsoon we won’t even need to make the calls ourselves https://t.co/98wdBPdqdJ",
-   "highlight": false,
-   "created_at": "2026-11-12T18:01:41.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "24HorasTVN",
-   "display_name": "24HorasTVN",
-   "handle": "@24HorasTVN",
-   "area": "health",
-   "views": 2093,
-   "likes": 1,
-   "replies": 0,
-   "reposts": 0,
-   "url": "https://x.com/24HorasTVN/status/2121055445607755884",
-   "status_url": "https://x.com/24HorasTVN/status/2121055445607755884",
-   "text": "💟 #Bienestar \n\nOjo si tienes sed constantemente: el síntoma silencioso de la diabetes \n\nMás detalles ⬇️\nhttps://t.co/33cVAjUOdg",
-   "original_en": "💟 #Bienestar \n\nOjo si tienes sed constantemente: el síntoma silencioso de la diabetes \n\nMás detalles ⬇️\nhttps://t.co/33cVAjUOdg",
-   "highlight": false,
-   "created_at": "2026-11-13T01:40:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "24HorasTVN",
-   "display_name": "24HorasTVN",
-   "handle": "@24HorasTVN",
-   "area": "health",
-   "views": 2001,
-   "likes": 0,
+   "views": 2234,
+   "likes": 28,
    "replies": 1,
-   "reposts": 0,
-   "url": "https://x.com/24HorasTVN/status/2121120879455158741",
-   "status_url": "https://x.com/24HorasTVN/status/2121120879455158741",
-   "text": "🏞 #Regiones \n\nUn robot que realiza cirugías: la máquina que revolucionó el Hospital de San Felipe \n\nMás detalles ⬇\nhttps://t.co/BfbCwkEnwc",
-   "original_en": "🏞 #Regiones \n\nUn robot que realiza cirugías: la máquina que revolucionó el Hospital de San Felipe \n\nMás detalles ⬇\nhttps://t.co/BfbCwkEnwc",
+   "reposts": 2,
+   "url": "https://x.com/maxifirtman/status/2121335153243152689",
+   "status_url": "https://x.com/maxifirtman/status/2121335153243152689",
+   "text": "Entran a un meet Grok Bot, Claude Duet y ChatGPT Dot... https://t.co/rlV60x9CXl",
+   "original_en": "Entran a un meet Grok Bot, Claude Duet y ChatGPT Dot... https://t.co/rlV60x9CXl",
    "highlight": false,
-   "created_at": "2026-11-13T06:00:00.000Z",
+   "created_at": "2026-11-13T20:11:27.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "latercera",
+   "display_name": "latercera",
+   "handle": "@latercera",
+   "area": "health",
+   "views": 2228,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 2,
+   "url": "https://x.com/latercera/status/2121426641624653867",
+   "status_url": "https://x.com/latercera/status/2121426641624653867",
+   "text": "“¿Pa’ qué fumas?“: Minsal lanza campaña contra el tabaco y vapeadores dirigido especialmente a adolescentes https://t.co/KhR0cEsUTr",
+   "original_en": "“¿Pa’ qué fumas?“: Minsal lanza campaña contra el tabaco y vapeadores dirigido especialmente a adolescentes https://t.co/KhR0cEsUTr",
+   "highlight": false,
+   "created_at": "2026-11-14T02:15:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ministeriosalud",
+   "display_name": "ministeriosalud",
+   "handle": "@ministeriosalud",
+   "area": "health",
+   "views": 2222,
+   "likes": 1,
+   "replies": 2,
+   "reposts": 1,
+   "url": "https://x.com/ministeriosalud/status/2121348692871393763",
+   "status_url": "https://x.com/ministeriosalud/status/2121348692871393763",
+   "text": "Toma atención a estos síntomas en caso de que hasta estado en una zona rural o semirrural durante las últimas 6 semanas.\n\nEn caso de presentar alguno de ellos, acide a un centro asistencial e informa sobre tu posible exposición al virus. https://t.co/BiSNiNM5bn",
+   "original_en": "Toma atención a estos síntomas en caso de que hasta estado en una zona rural o semirrural durante las últimas 6 semanas.\n\nEn caso de presentar alguno de ellos, acide a un centro asistencial e informa sobre tu posible exposición al virus. https://t.co/BiSNiNM5bn",
+   "highlight": false,
+   "created_at": "2026-11-13T21:05:15.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 2157,
+   "likes": 55,
+   "replies": 5,
+   "reposts": 4,
+   "url": "https://x.com/ErickSky/status/2121263929057829128",
+   "status_url": "https://x.com/ErickSky/status/2121263929057829128",
+   "text": "Estoy desesperado en tener esto en mi setup.\n\nPero con Hermes, claramente. https://t.co/uKjM7gjYyw",
+   "original_en": "Estoy desesperado en tener esto en mi setup.\n\nPero con Hermes, claramente. https://t.co/uKjM7gjYyw",
+   "highlight": false,
+   "created_at": "2026-11-13T15:28:26.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ministeriosalud",
+   "display_name": "ministeriosalud",
+   "handle": "@ministeriosalud",
+   "area": "health",
+   "views": 2080,
+   "likes": 8,
+   "replies": 2,
+   "reposts": 7,
+   "url": "https://x.com/ministeriosalud/status/2121325338668257734",
+   "status_url": "https://x.com/ministeriosalud/status/2121325338668257734",
+   "text": "La subsecretaria de Salud Pública, Alejandra Pizarro, encabezó el lanzamiento de la Campaña contra el Tabaco 2026 #PaQuéFumas que alerta el daño del tabaco y vapeadores en adolescentes.\n\nEn compañía del alcalde de Providencia, Jaime Bellolio, y el representante de OPS/PMS en https://t.co/P1LN8y0x5x",
+   "original_en": "La subsecretaria de Salud Pública, Alejandra Pizarro, encabezó el lanzamiento de la Campaña contra el Tabaco 2026 #PaQuéFumas que alerta el daño del tabaco y vapeadores en adolescentes.\n\nEn compañía del alcalde de Providencia, Jaime Bellolio, y el representante de OPS/PMS en https://t.co/P1LN8y0x5x",
+   "highlight": false,
+   "created_at": "2026-11-13T19:32:27.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "24HorasTVN",
+   "display_name": "24HorasTVN",
+   "handle": "@24HorasTVN",
+   "area": "health",
+   "views": 2073,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 1,
+   "url": "https://x.com/24HorasTVN/status/2121286424414875855",
+   "status_url": "https://x.com/24HorasTVN/status/2121286424414875855",
+   "text": "🔴 #Nacional \n\nGeneró debate: La nueva campaña del Minsal para prevenir el consumo de tabaco y vapeadores\n\nMás detalles ⬇\nhttps://t.co/ZAFKAsKndS",
+   "original_en": "🔴 #Nacional \n\nGeneró debate: La nueva campaña del Minsal para prevenir el consumo de tabaco y vapeadores\n\nMás detalles ⬇\nhttps://t.co/ZAFKAsKndS",
+   "highlight": false,
+   "created_at": "2026-11-13T16:57:49.000Z",
    "window": "24h"
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Las efemérides de salud (Día Mundial de la Diabetes) llenan los medios de notas de síntomas; rinde el dato que nadie trae y el trámite concreto",
-  "Un titular con cifra grande («300 mil sin saberlo») invita a responder con la consecuencia y con qué hacer",
-  "Agentes personales: la conversación pasa de la cuota a probar alternativas y apps nuevas",
-  "Día con poca conversación propia de RT: mejor 2 respuestas sólidas que relleno"
+  "Las efemérides (Día Mundial de la Diabetes) generan muchos posts genéricos sin tracción; rinde más un original propio con plazos oficiales",
+  "Las alertas de medicamentos vuelven en oleadas (GLP-1/NAION): solo vale responder si hay un dato nuevo, no repetir la misma explicación",
+  "Las campañas oficiales con canción y video (Minsal #PaQuéFumas) generan mucha conversación y polémica",
+  "Agentes personales: la conversación pasa de comparar apps a qué pueden hacer solos (pagar, entrar a reuniones)"
  ],
  "no_hits": [
   {
-   "handle": "@freddier",
+   "handle": "@DotCSV",
    "max_views": 0,
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
@@ -284,17 +369,17 @@
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
-   "handle": "@juancarlossaid",
-   "max_views": 0,
-   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
-  },
-  {
    "handle": "@CatuRojas",
    "max_views": 0,
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@HeliaMolina_M",
+   "max_views": 437,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 437."
+  },
+  {
+   "handle": "@Cooperativa",
    "max_views": 0,
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
@@ -306,12 +391,12 @@
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 14,
+ "hits_count": 19,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-11-12",
-  "hits_count": 24,
-  "total_views": 271536
+  "date": "2026-11-13",
+  "hits_count": 14,
+  "total_views": 61083
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -379,11 +464,11 @@
  },
  "day_roster": [
   {
-   "handle": "@DotCSV",
-   "name": "DotCSV",
-   "area": "ai",
-   "views": 31483,
-   "total_views": 59189,
+   "handle": "@ministeriosalud",
+   "name": "ministeriosalud",
+   "area": "health",
+   "views": 135116,
+   "total_views": 144572,
    "hit": true,
    "window": "24h"
   },
@@ -391,8 +476,8 @@
    "handle": "@midudev",
    "name": "midudev",
    "area": "ai",
-   "views": 11605,
-   "total_views": 11605,
+   "views": 113857,
+   "total_views": 257423,
    "hit": true,
    "window": "24h"
   },
@@ -400,17 +485,17 @@
    "handle": "@ErickSky",
    "name": "ErickSky",
    "area": "ai",
-   "views": 9497,
-   "total_views": 67025,
+   "views": 57256,
+   "total_views": 220034,
    "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@CNNChile",
-   "name": "CNNChile",
-   "area": "health",
-   "views": 6796,
-   "total_views": 15970,
+   "handle": "@freddier",
+   "name": "freddier",
+   "area": "ai",
+   "views": 40935,
+   "total_views": 144777,
    "hit": true,
    "window": "24h"
   },
@@ -418,26 +503,8 @@
    "handle": "@adnradiochile",
    "name": "adnradiochile",
    "area": "health",
-   "views": 5120,
-   "total_views": 35039,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@ministeriosalud",
-   "name": "ministeriosalud",
-   "area": "health",
-   "views": 2591,
-   "total_views": 4884,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@Cooperativa",
-   "name": "Cooperativa",
-   "area": "health",
-   "views": 2357,
-   "total_views": 15254,
+   "views": 4929,
+   "total_views": 12581,
    "hit": true,
    "window": "24h"
   },
@@ -445,14 +512,41 @@
    "handle": "@sergiorocaa",
    "name": "sergiorocaa",
    "area": "ai",
-   "views": 2216,
-   "total_views": 3299,
+   "views": 3748,
+   "total_views": 5131,
    "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@freddier",
-   "name": "freddier",
+   "handle": "@CNNChile",
+   "name": "CNNChile",
+   "area": "health",
+   "views": 2828,
+   "total_views": 5612,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@juancarlossaid",
+   "name": "juancarlossaid",
+   "area": "health",
+   "views": 2229,
+   "total_views": 3250,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@HeliaMolina_M",
+   "name": "HeliaMolina_M",
+   "area": "health",
+   "views": 437,
+   "total_views": 1029,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@DotCSV",
+   "name": "DotCSV",
    "area": "ai",
    "views": 0,
    "total_views": 0,
@@ -478,15 +572,6 @@
    "window": "24h"
   },
   {
-   "handle": "@juancarlossaid",
-   "name": "juancarlossaid",
-   "area": "health",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
    "handle": "@CatuRojas",
    "name": "CatuRojas",
    "area": "health",
@@ -496,8 +581,8 @@
    "window": "24h"
   },
   {
-   "handle": "@HeliaMolina_M",
-   "name": "HeliaMolina_M",
+   "handle": "@Cooperativa",
+   "name": "Cooperativa",
    "area": "health",
    "views": 0,
    "total_views": 0,
@@ -578,54 +663,54 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "Día Mundial de la Diabetes (14-nov): diabetes sin diagnóstico"
+    "keyword": "Día Mundial de la Diabetes (14-nov): retinopatía y fondo de ojo"
    },
    {
     "rank": 2,
-    "keyword": "retinopatía al momento del diagnóstico (UKPDS)"
+    "keyword": "Ozempic/GLP-1 y NAION: «la rara enfermedad que provoca ceguera»"
    },
    {
     "rank": 3,
-    "keyword": "Examen de Medicina Preventiva: glicemia gratis desde los 15 años"
+    "keyword": "#PaQuéFumas: campaña antitabaco y vapeadores del Minsal"
    },
    {
     "rank": 4,
-    "keyword": "Hermes Mobile App: configuración y beta"
+    "keyword": "diabetes sin diagnóstico (300 mil, 12% de adultos)"
    },
    {
     "rank": 5,
-    "keyword": "Grok Bot vs Hermes Agent: cuota y alternativas"
+    "keyword": "alerta ISP: vidrio en ampolla de antiemético"
    },
    {
     "rank": 6,
-    "keyword": "Claude Duet y OpenAI Dots (invitaciones, Europa)"
+    "keyword": "ChatGPT Wallet: agentes que compran (Dot)"
    },
    {
     "rank": 7,
-    "keyword": "agentes que llaman a otros agentes"
+    "keyword": "Grok Bot entra a reuniones"
    },
    {
     "rank": 8,
-    "keyword": "GLP-1/NAION en retirada en español"
+    "keyword": "Claude Duet vs Grok Bot vs Dots vs Hermes Agent"
    },
    {
     "rank": 9,
-    "keyword": "Gemini 4 Hydrogen (tecnología pura, excluido)"
+    "keyword": "Hermes + Apple HomeView"
    },
    {
     "rank": 10,
-    "keyword": "salida de Jensen Huang (farándula, excluido)"
+    "keyword": "caídas de Microsoft 365 y vuelos en EE. UU. (excluido, tecnología/noticias)"
    }
   ],
-  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía) y agentes personales (curadas a mano). Excluidos: política, paro de camioneros, presupuesto de Salud 2027, Hospital del Salvador y de Valdivia, farándula (Slimming, Elfenbein) y tecnología pura."
+  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía, Día Mundial de la Diabetes) y agentes personales (curadas a mano). Excluidos: política (acusación a Rabat), crónica, caídas tecnológicas y vuelos en EE. UU., farándula y tecnología pura."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 13-11-2026: 2 respuestas (R1 salud, R2 agentes de IA) en borrador para el filtro de Wally; sin originales (P1 retinopatía en reserva para el 14-nov); nada publicado.",
-   "takeaway": "Víspera del Día Mundial de la Diabetes: BioBio lideró salud con «más de 300 mil personas tendrían diabetes sin saberlo» (21,4K); R1 aporta que más de un tercio ya tiene retinopatía al diagnóstico (UKPDS) y la glicemia gratuita del EMP. Watchlist IA: DotCSV arriba con Gemini 4 Hydrogen (31,5K) y la salida de Jensen Huang (27,7K), midudev 11,6K, ErickSky 9,5K (todo excluido por tecnología pura o fuera de línea). Agentes personales: ivanfioravanti configura la Hermes Mobile App (3,2K, R2) y deja Grok Bot por la cuota (3,4K); Claude Duet y OpenAI Dots en modo invitaciones. La agenda chilena la coparon el paro de camioneros, el presupuesto 2027 y la farándula (excluidos)."
+   "headline": "Digest 14-11-2026 (Día Mundial de la Diabetes): 2 respuestas (R1 salud, R2 agentes de IA) + 1 original (P1 retinopatía diabética) en borrador para el filtro de Wally; nada publicado.",
+   "takeaway": "Salud: el post más visto fue la campaña antitabaco #PaQuéFumas del Minsal (135K, 269 respuestas), sin borrador porque RT ya rechazó el ángulo tabaco-ojos el 25-oct. En temas de RT, 24 Horas volvió sobre Ozempic/GLP-1 y NAION (3,2K): R1 aporta la cifra EMA (muy raro, hasta 1/10.000) y dos recomendaciones de AAO/NANOS. Día Mundial de la Diabetes con poca tracción chilena (Minsal 1,4K, infobae 3,2K): sale hoy el P1 de retinopatía reservado desde el 10-nov. Watchlist IA: midudev arriba con Synaptics (113,9K) y caídas de servicios (80K y 63K), ErickSky 57K, freddier con vuelos en EE. UU. (todo excluido). Agentes personales: billetera de ChatGPT para Dot (maxifirtman 5,9K, R2), Grok Bot entra a reuniones y comparativas Duet/Dots/Hermes en inglés con poca tracción."
   },
   "corpus": {
-   "posts": 197,
+   "posts": 183,
    "min_views": 2000
   },
   "window": {
@@ -634,27 +719,42 @@
   "topics": [],
   "ideas": [
    {
-    "title": "R1 · respuesta a @biobio",
+    "title": "R1 · respuesta a @24HorasTVN",
     "format": "respuesta",
-    "source": "@biobio",
-    "topic": "Diabetes sin diagnóstico: al momento del diagnóstico, más de un tercio ya tiene retinopatía; glicemia gratis en el EMP y fondo de ojo de inmediato",
-    "hook_en": "Que tantas personas tengan diabetes sin saberlo tiene una consecuencia que pocas veces se menciona: cuando llega el diagnóstico, la retina puede llevar años expuesta.\n\nEn el estudio UKPDS, más de un tercio de las personas con diabetes tipo 2 recién diagnosticada ya tenía retinopatía. Y la mayoría veía bien.\n\nDos cosas concretas. Desde los 15 años, el Examen de Medicina Preventiva incluye una glicemia en ayunas gratuita y sin orden médica: en el Cesfam si eres de Fonasa, o con el prestador que indique tu isapre. Y si te confirman diabetes, pide un fondo de ojo de inmediato, sin esperar al primer año de control.",
-    "angle": "Objetivo: https://x.com/biobio/status/2120957626385141798 (21.368 vistas)",
-    "why": "Base: UKPDS 30 (Kohner et al., Arch Ophthalmol 1998; 2.964 pacientes con diabetes tipo 2 recién diagnosticada, fotografía de ambos ojos): retinopatía (microaneurismas o más) en 39% de los hombres y 35% de las mujeres al diagnóstico; la agudeza visual era normal en la mayoría; conclusión de los autores: evaluación oftalmológica cuidadosa al diagnóstico. Superintendencia de Salud / Minsal (EMP, GES, Ley 19.966): Examen de Medicina Preventiva gratuito, voluntario y sin orden médica para beneficiarios de Fonasa e isapres y sus cargas; desde los 15 años incluye glicemia en ayunas (anual); en Fonasa se pide en el Cesfam o consultorio donde está inscrito, en isapre con el prestador que la isapre indique (fuera de esa red puede haber copago). Post de BioBio (21,4K vistas, 12-nov 19:11Z): «más de 300 mil personas en Chile tendrían diabetes sin saberlo». Distinto del P1 en reserva para el 14-nov (fondo de ojo ANUAL en el control y plazos GES de retinopatía) y del R5 del 11-nov (visión borrosa fluctuante): aquí es el diagnóstico tardío y el fondo de ojo AL DIAGNÓSTICO. Fuente: https://pubmed.ncbi.nlm.nih.gov/9514482/ · https://www.superdesalud.gob.cl/examen-de-medicina-preventiva/ · https://auge.minsal.cl/empa",
+    "source": "@24HorasTVN",
+    "topic": "GLP-1/NAION en proporción (EMA: «muy raro», hasta 1 de cada 10.000) + dos recomendaciones AAO/NANOS que casi no se han contado: no hace falta examen ocular especial antes de partir solo por este riesgo; quien ya tuvo NAION en un ojo debe conversarlo antes; el fondo de ojo anual en diabetes no cambia",
+    "hook_en": "Hoy, Día Mundial de la Diabetes, vale la pena poner esta alerta en proporción. La Agencia Europea de Medicamentos clasificó la NAION con semaglutida como un efecto «muy raro»: hasta 1 de cada 10.000 personas tratadas.\n\nHay dos recomendaciones de los oftalmólogos y neurooftalmólogos norteamericanos que casi no se han contado. No hace falta un examen de ojos especial antes de partir con un GLP-1 solo por este riesgo. Pero quien ya tuvo una NAION en un ojo sí debe conversarlo con su médico antes de iniciarlo, pensando en el otro ojo.\n\nLo que no cambia: si tienes diabetes, el fondo de ojo anual sigue siendo el control que más protege tu visión.",
+    "angle": "Objetivo: https://x.com/24HorasTVN/status/2121422870823711017 (3.208 vistas)",
+    "why": "Base: EMA/PRAC (6-jun-2025): la NAION es un efecto adverso «muy raro» de la semaglutida (Ozempic, Rybelsus, Wegovy), puede afectar hasta 1 de cada 10.000 personas tratadas; estudios epidemiológicos en diabetes tipo 2: riesgo ~2 veces, ≈1 caso adicional por 10.000 años-persona. AAO y NANOS (consenso Ophthalmology 2026 y comunicado tras la advertencia FDA): no suspender por cuenta propia; quien tiene antecedente de NAION debe discutir con sus médicos el riesgo para el otro ojo al considerar un GLP-1; NO se recomiendan exámenes oculares de rutina solo para evaluar riesgo de NAION antes de iniciar un GLP-1; las personas con diabetes deben seguir con sus controles oculares programados. Post de 24 Horas (3,2K vistas, 14-nov 02:00Z): «Alerta por Ozempic y otros GLP-1: la rara enfermedad que provoca ceguera». DATO NUEVO frente a lo que RT ya publicó: CNN Chile 10-nov (FDA 126 ensayos, 6,4 vs 3,8/100.000), ADN 10-nov (15 casos; consultar el mismo día; no suspender) y BioBio 12-nov (SUSTAIN-6, empeoramiento inicial de retinopatía). Aquí no se repite «consulta el mismo día» ni las cifras FDA: se usa la cifra EMA y las dos recomendaciones prácticas de AAO/NANOS. Fuente: https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy · https://www.aao.org/eye-health/news/can-ozempic-affect-eye-health-here-s-what-ophthalm · https://www.newswise.com/articles/here-s-what-you-need-to-know-about-the-fda-s-new-glp-1-warning",
     "keywords": [
-     "Diabetes sin diagnóstico: al momento del diagnóstico, más de un tercio ya tiene retinopatía; glicemia gratis en el EMP y fondo de ojo de inmediato"
+     "GLP-1/NAION en proporción (EMA: «muy raro», hasta 1 de cada 10.000) + dos recomendaciones AAO/NANOS que casi no se han contado: no hace falta examen ocular especial antes de partir solo por este riesgo; quien ya tuvo NAION en un ojo debe conversarlo antes; el fondo de ojo anual en diabetes no cambia"
     ]
    },
    {
-    "title": "R2 · respuesta a @ivanfioravanti",
+    "title": "R2 · respuesta a @maxifirtman",
     "format": "respuesta",
-    "source": "@ivanfioravanti",
-    "topic": "Hermes Mobile App: muy pulida, pero el valor sigue estando en Hermes, que ya era potente antes de tener una cara bonita",
-    "hook_en": "I'm in the private beta too, and the app is very polished.\n\nBut what convinces me is still Hermes itself. It was already powerful long before it had a nice face on the phone.\n\nA good app makes it easier to reach. The real test is still what the agent actually gets done.",
-    "angle": "Objetivo: https://x.com/ivanfioravanti/status/2121149115488780752 (3.240 vistas)",
-    "why": "Base: Sin cifras externas. Post EN de ivanfioravanti (3,2K vistas, 12 respuestas, 13-nov 07:52Z): «I have finally configured and started to tailor my Hermes Mobile App! Ready to go all in!» (el mismo autor tiene otro post de 3,4K sobre dejar Grok Bot por la cuota, que no se usa porque RT ya habló de cuota del 6 al 10-nov). Postura de RT con solo 2 puntos: está en la beta privada de la app (sin decir cómo entró) y Hermes ya era potente; la app está muy pulida. NO se usa el punto Cadu/Florian (ya propuesto el 11-nov a arshamg_ y no publicado), ni «proactividad / decisión ya enmarcada / aprobar», ni infraestructura, ni experiencias de uso inventadas. Respuesta en inglés porque el post es en inglés. Fuente: sin cifras externas",
+    "source": "@maxifirtman",
+    "topic": "Billetera de ChatGPT para el agente Dot: lo técnico parece resuelto; lo difícil es qué pasa cuando el agente compra mal (reclamo, registro de lo pedido). Partir con compras repetidas, de monto bajo y fáciles de devolver",
+    "hook_en": "La parte técnica parece bien resuelta: el agente paga sin ver la tarjeta. Lo difícil viene después de la compra.\n\nSi el agente compra algo equivocado, ¿quién reclama, ante quién y con qué registro de lo que se le pidió? Eso va a definir cuánto se usa de verdad.\n\nMientras no esté claro, yo partiría con compras repetidas, de monto bajo y fáciles de devolver. Ahí se ve rápido cuánto entiende el agente lo que uno quiso decir.",
+    "angle": "Objetivo: https://x.com/maxifirtman/status/2121295247674077525 (5.907 vistas)",
+    "why": "Base: Sin cifras externas. Post ES de Maximiliano Firtman (87K seguidores; 5,9K vistas, 4 respuestas, 13-nov 17:32Z): OpenAI anuncia la billetera de ChatGPT, por ahora para el agente personal Dot; se cargan tarjetas Visa/MasterCard/Amex y el agente compra sin acceder directamente a los datos. Opinión genuina sobre el tema (no fuerza oftalmología ni usa la postura Hermes/Cadu). Sin «proactividad / decisión ya enmarcada / aprobar», sin infraestructura, sin experiencias de uso inventadas («yo partiría» es hipotético). Sin voseo. Fuente: sin cifras externas",
     "keywords": [
-     "Hermes Mobile App: muy pulida, pero el valor sigue estando en Hermes, que ya era potente antes de tener una cara bonita"
+     "Billetera de ChatGPT para el agente Dot: lo técnico parece resuelto; lo difícil es qué pasa cuando el agente compra mal (reclamo, registro de lo pedido). Partir con compras repetidas, de monto bajo y fáciles de devolver"
+    ]
+   },
+   {
+    "title": "P1 · Diabetes y retina: el fondo de ojo anual, aunque veas bien (Día Mundial de la Diabetes)",
+    "format": "post largo",
+    "source": "original RT",
+    "topic": "retinopatía diabética: silenciosa, fondo de ojo anual en el control APS y garantías GES N° 31 (Día Mundial de la Diabetes, 14-nov)",
+    "hook_en": "¿Cuándo fue tu último fondo de ojo? Si tienes diabetes, esa pregunta importa más de lo que parece.\n\nHoy es el Día Mundial de la Diabetes. La retinopatía diabética suele no dar síntomas hasta etapas avanzadas, así que se puede ver bien y tener daño en la retina. El Minsal la describe como la primera causa de ceguera en edad laboral.\n\nLo que conviene saber:\n\n• En el control de diabetes en atención primaria, el fondo de ojo se programa una vez al año, aunque no tengas molestias\n• Si se sospecha retinopatía, el GES garantiza la confirmación por oftalmólogo dentro de 90 días\n• Si hay que tratar con láser o vitrectomía, el plazo es de 60 días desde la indicación, y de 30 días en la forma más avanzada (proliferativa)\n• En Fonasa, en la red pública, estas prestaciones tienen copago cero en todos los tramos\n• Mantener controladas la glicemia y la presión arterial es lo que más protege la retina\n\nConsulta pronto si notas visión borrosa que no mejora, manchas o «moscas» nuevas, o una pérdida brusca de visión.\n\nPregunta en tu próximo control cuándo fue tu último fondo de ojo. Si pasó más de un año, pide que te lo agenden.\n\nFuentes: Minsal, garantías GES Retinopatía diabética (N° 31); Fonasa, cobertura GES Retinopatía diabética; Minsal, criterios técnicos del Programa de Salud Cardiovascular en APS (RPE N° 12).",
+    "visual": "Video vertical de 30 s, hoy Día Mundial de la Diabetes: RT a cámara con tres tarjetas: «La retinopatía no avisa», «Fondo de ojo una vez al año, aunque veas bien», «Visión borrosa o manchas nuevas: consulta pronto»; cierre: «Pregunta en tu control cuándo fue tu último fondo de ojo».",
+    "visual_type": "video",
+    "angle": "Preventivo y positivo, desde la especialidad de RT; tema no publicado antes.",
+    "why": "Fuentes verificadas hoy: https://auge.minsal.cl/problemasdesalud/index/31 https://www.fonasa.gob.cl/coberturas-de-salud/retinopatia-diabetica/ https://www.minsal.cl/wp-content/uploads/2021/09/RPE-N%C2%B012-Criterios-tecnicos-para-programacion-de-actividades-de-programa-cardiovascular-en-Atencion-Primaria.pdf https://diprece.minsal.cl/le-informamos/auge/acceso-guias-clinicas/guias-clinicas-desarrolladas-utilizando-manual-metodologico/retinopatia-diabetica/descripcion-y-epidemiologia/",
+    "keywords": [
+     "retinopatía diabética: silenciosa, fondo de ojo anual en el control APS y garantías GES N° 31 (Día Mundial de la Diabetes, 14-nov)",
+     "salud"
     ]
    }
   ],
