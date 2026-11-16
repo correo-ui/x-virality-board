@@ -1,108 +1,74 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-15 10:30",
- "date": "2026-11-15",
+ "title": "Digest diario — escaneo 24h al 2026-11-16 10:30",
+ "date": "2026-11-16",
  "timezone": "America/Santiago",
- "updated": "2026-11-15T11:00:00-03:00",
+ "updated": "2026-11-16T11:10:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
   {
-   "name": "robinebers",
-   "display_name": "robinebers",
-   "handle": "@robinebers",
+   "name": "freddier",
+   "display_name": "freddier",
+   "handle": "@freddier",
    "area": "ai",
-   "views": 461990,
-   "likes": 1477,
-   "replies": 105,
-   "reposts": 120,
-   "url": "https://x.com/robinebers/status/2121656933002408008",
-   "status_url": "https://x.com/robinebers/status/2121656933002408008",
-   "text": "Grok Bot is the only one that stuck\n\nChatGPT Dots: i’ve literally paused mine due to bugs and constant refusals or annoying prompts to approve. Plus no independent app. \n\nClaude Duet: was excited, didn’t do much at all, way too early hope probably the sleeper",
-   "original_en": "Grok Bot is the only one that stuck\n\nChatGPT Dots: i’ve literally paused mine due to bugs and constant refusals or annoying prompts to approve. Plus no independent app. \n\nClaude Duet: was excited, didn’t do much at all, way too early hope probably the sleeper",
+   "views": 19234,
+   "likes": 296,
+   "replies": 42,
+   "reposts": 17,
+   "url": "https://x.com/freddier/status/2122004085188739234",
+   "status_url": "https://x.com/freddier/status/2122004085188739234",
+   "text": "I don’t believe in the metaphor of agents as “employees” or “second brain”. \n\nThe models evolve too fast for those mental frameworks to hold. 90%+ of harness code from last year is unnecessary today.\n\nYou need access control over your data, clear business rules, and fast learning",
+   "original_en": "I don’t believe in the metaphor of agents as “employees” or “second brain”. \n\nThe models evolve too fast for those mental frameworks to hold. 90%+ of harness code from last year is unnecessary today.\n\nYou need access control over your data, clear business rules, and fast learning",
    "highlight": true,
-   "created_at": "2026-11-14T17:30:05.000Z",
-   "window": "24h"
+   "created_at": "2026-11-15T16:29:33.000Z",
+   "window": "24h",
+   "draft_en": "[R2 · respuesta] The metaphors matter for another reason: they shape how people use the tool. Call it an employee and you start trusting its work like a colleague's. Call it a second brain and you pour everything into it and never prune.\n\nIn medicine we have a name for the first trap: automation bias. The more authoritative a tool sounds, the less we check it.\n\nBetter to call it what it is: a tool whose abilities change every few months.",
+   "draft_keywords": [
+    "Agentes no son 'empleados' ni 'segundo cerebro': la metáfora importa porque cambia cuánto se revisa lo que hace la herramienta (sesgo de automatización, concepto conocido en medicina)"
+   ],
+   "why_hit": "Objetivo de respuesta R2 (Agentes no son 'empleados' ni 'segundo cerebro': la metáfora importa porque cambia cuánto se revisa lo que hace la herramienta (sesgo de automatización, concepto conocido en medicina)). Base verificada: Sin cifras externas. Post EN de Freddy Vega (watchlist, 317K seguidores; 19,2K vistas, 42 respuestas, 296 me gusta): no cree en las metáforas 'empleado' o 'segundo cerebro'; los modelos cambian muy rápido; pide control de acceso, reglas claras y aprender rápido lo nuevo. RT ya le respondió el 26-oct (en inglés). El sesgo de automatización (confiar de más en una herramienta que suena autoritaria) es un concepto documentado en seguridad clínica. Sin «proactividad / decisión ya enmarcada / aprobar», sin infraestructura, sin experiencias de uso inventadas; no repite el ángulo de acceso de R3.",
+   "hook": "The metaphors matter for another reason: they shape how people use the tool. Call it an employee and you start trusting ",
+   "top10_rank": 1
   },
   {
    "name": "midudev",
    "display_name": "midudev",
    "handle": "@midudev",
    "area": "ai",
-   "views": 34893,
-   "likes": 966,
-   "replies": 21,
-   "reposts": 113,
-   "url": "https://x.com/midudev/status/2121604989571170304",
-   "status_url": "https://x.com/midudev/status/2121604989571170304",
-   "text": "Encuentra vulnerabilidades de tu proyecto con esta Skill de Cloudflare: https://t.co/wv4OWasFDv https://t.co/aI5ihz2ZOC",
-   "original_en": "Encuentra vulnerabilidades de tu proyecto con esta Skill de Cloudflare: https://t.co/wv4OWasFDv https://t.co/aI5ihz2ZOC",
+   "views": 16951,
+   "likes": 445,
+   "replies": 11,
+   "reposts": 47,
+   "url": "https://x.com/midudev/status/2121999392471212151",
+   "status_url": "https://x.com/midudev/status/2121999392471212151",
+   "text": "Por fin! Animaciones por Scroll en CSS disponible en todos los navegadores modernos. https://t.co/3WyWaextTO",
+   "original_en": "Por fin! Animaciones por Scroll en CSS disponible en todos los navegadores modernos. https://t.co/3WyWaextTO",
    "highlight": true,
-   "created_at": "2026-11-14T14:03:41.000Z",
+   "created_at": "2026-11-15T16:10:54.000Z",
    "window": "24h"
   },
   {
-   "name": "isjavir",
-   "display_name": "isjavir",
-   "handle": "@isjavir",
+   "name": "HermesWatcher",
+   "display_name": "HermesWatcher",
+   "handle": "@HermesWatcher",
    "area": "ai",
-   "views": 25847,
-   "likes": 130,
-   "replies": 33,
-   "reposts": 1,
-   "url": "https://x.com/isjavir/status/2121601957731131473",
-   "status_url": "https://x.com/isjavir/status/2121601957731131473",
-   "text": "la web de Claude Duet dice solo EEUU. pero varias personas en España se lo estan dando\n\npara que os hagais una idea: imaginad un Grok Bot pero con Opus 5.5 por detras. eso es Claude Duet\n\ntrabaja en la nube aunque cierres todo, revisa tus apps cada pocas horas y te deja un",
-   "original_en": "la web de Claude Duet dice solo EEUU. pero varias personas en España se lo estan dando\n\npara que os hagais una idea: imaginad un Grok Bot pero con Opus 5.5 por detras. eso es Claude Duet\n\ntrabaja en la nube aunque cierres todo, revisa tus apps cada pocas horas y te deja un",
-   "highlight": true,
-   "created_at": "2026-11-14T13:51:38.000Z",
-   "window": "24h",
-   "draft_en": "[R4 · respuesta] Comparar agentes por el modelo que llevan detrás es entendible, pero no creo que sea lo que decide cuál se queda.\n\nPesa más que esté disponible donde vives, que llegue a las cosas reales de tu día y que recuerde cómo trabajas sin tener que explicárselo cada semana. El mejor modelo no sirve de mucho si el agente no puede tocar nada útil.\n\nY desde Latinoamérica, lo primero ya filtra bastante: si la web dice solo EE. UU., para muchos la comparación termina ahí.",
-   "draft_keywords": [
-    "Claude Duet solo EE. UU.: el modelo de fondo no es lo que decide qué agente se queda; pesa más que esté disponible donde vives y que llegue a tus cosas reales; desde Latinoamérica, la disponibilidad ya filtra"
-   ],
-   "why_hit": "Objetivo de respuesta R4 (Claude Duet solo EE. UU.: el modelo de fondo no es lo que decide qué agente se queda; pesa más que esté disponible donde vives y que llegue a tus cosas reales; desde Latinoamérica, la disponibilidad ya filtra). Base verificada: Sin cifras externas. Post ES de isjavir (25,8K vistas, 33 respuestas, 14-nov): la web de Claude Duet dice solo EE. UU.; 'imaginad un Grok Bot con Opus 5.5 detrás'. Hilo relacionado TomSolidPM (17,9K): Duet, Dots y Muse bloqueados en Europa. RT ya dijo públicamente que usa Grok Bot y Hermes (11-nov). Sin «proactividad / decisión ya enmarcada / aprobar», sin infraestructura, sin experiencias de uso inventadas, sin postura Cadu (no viene al caso). Se descartó robinebers (462K, EN) para no repetir la misma idea y porque gira en torno a 'prompts para aprobar'.",
-   "hook": "Comparar agentes por el modelo que llevan detrás es entendible, pero no creo que sea lo que decide cuál se queda.\n\nPesa ",
-   "top10_rank": 1
-  },
-  {
-   "name": "TomSolidPM",
-   "display_name": "TomSolidPM",
-   "handle": "@TomSolidPM",
-   "area": "ai",
-   "views": 17881,
-   "likes": 181,
-   "replies": 29,
-   "reposts": 5,
-   "url": "https://x.com/TomSolidPM/status/2121717834514329893",
-   "status_url": "https://x.com/TomSolidPM/status/2121717834514329893",
-   "text": "Claude Duet, Dots and Muse still blocked in Europe.\n\nHeck…even Apple’s new Siri!\n\nGrok Bot is available since day one and now even soon with international phone calls? How? https://t.co/5EbJlv2GKx",
-   "original_en": "Claude Duet, Dots and Muse still blocked in Europe.\n\nHeck…even Apple’s new Siri!\n\nGrok Bot is available since day one and now even soon with international phone calls? How? https://t.co/5EbJlv2GKx",
-   "highlight": true,
-   "created_at": "2026-11-14T21:32:06.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "CNNEE",
-   "display_name": "CNNEE",
-   "handle": "@CNNEE",
-   "area": "health",
-   "views": 13075,
-   "likes": 6,
-   "replies": 0,
+   "views": 7835,
+   "likes": 88,
+   "replies": 5,
    "reposts": 4,
-   "url": "https://x.com/CNNEE/status/2121845392014725282",
-   "status_url": "https://x.com/CNNEE/status/2121845392014725282",
-   "text": "La FDA advierte que los medicamentos para bajar de peso podrían aumentar el riesgo de pérdida repentina de la visión https://t.co/VjCCMi3WmI",
-   "original_en": "La FDA advierte que los medicamentos para bajar de peso podrían aumentar el riesgo de pérdida repentina de la visión https://t.co/VjCCMi3WmI",
+   "url": "https://x.com/HermesWatcher/status/2122132559811448856",
+   "status_url": "https://x.com/HermesWatcher/status/2122132559811448856",
+   "text": "WAITING ON THE HERMES MOBILE APP? WATCH OUT FOR FAKES.\n\nSomeone flagged a \"Hermes Agent - AI\" app showing up first in Play Store search. The team says they're aware and working to get the fakes taken down.\n\nHere's how the real one reaches you right now:\n\n▸ It's a private beta, https://t.co/uYhmCJS6QV",
+   "original_en": "WAITING ON THE HERMES MOBILE APP? WATCH OUT FOR FAKES.\n\nSomeone flagged a \"Hermes Agent - AI\" app showing up first in Play Store search. The team says they're aware and working to get the fakes taken down.\n\nHere's how the real one reaches you right now:\n\n▸ It's a private beta, https://t.co/uYhmCJS6QV",
    "highlight": true,
-   "created_at": "2026-11-15T05:58:58.000Z",
+   "created_at": "2026-11-16T01:00:04.000Z",
    "window": "24h",
-   "draft_en": "[R2 · respuesta] Hay un dato que casi no aparece en esta conversación: muchos de los factores de riesgo de NAION ya son comunes en quienes usan estos medicamentos. La apnea del sueño, la hipertensión, la diabetes y un nervio óptico de disco pequeño se asocian a NAION desde mucho antes del Ozempic.\n\nEso no anula la advertencia. Ayuda a entender quién debería tener más cuidado.\n\nSi roncas con pausas, te despiertas cansado o ya te diagnosticaron apnea del sueño, cuéntaselo a tu médico al iniciar el tratamiento. Es una conversación de dos minutos y orienta mejor el seguimiento.\n\nFuente: https://eyewiki.aao.org/Non-Arteritic_Anterior_Ischemic_Optic_Neuropathy_%28NAION%29 · https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy",
+   "draft_en": "[R3 · respuesta] I'm in the private beta, and this deserves more attention than it's getting. A fake agent app is not like a fake game: an agent app asks for your email, your calendar and your files.\n\nSimple rule while it's invite-only: if a \"Hermes\" app shows up openly in a store search, it isn't the real one.",
    "draft_keywords": [
-    "GLP-1/NAION con dato nuevo: los factores de riesgo de NAION (apnea del sueño, hipertensión, diabetes, disco óptico pequeño) ya son frecuentes en quien usa estos fármacos; contar la apnea al médico al iniciar"
+    "Apps falsas de Hermes en Play Store: RT está en la beta privada; una app de agente falsa es más peligrosa que un juego falso porque pide correo, calendario y archivos; regla simple mientras sea solo por invitación"
    ],
-   "why_hit": "Objetivo de respuesta R2 (GLP-1/NAION con dato nuevo: los factores de riesgo de NAION (apnea del sueño, hipertensión, diabetes, disco óptico pequeño) ya son frecuentes en quien usa estos fármacos; contar la apnea al médico al iniciar). Base verificada: EyeWiki (AAO): factores implicados en NAION: apnea obstructiva del sueño, disco óptico pequeño (razón copa/disco baja, 'disco en riesgo'), drusas del disco, factores vasculares sistémicos (hipertensión, diabetes) e hipotensión nocturna; en un caso-control, 71% de los pacientes con NAION tenía apnea vs 18% de controles; no se ha demostrado que el CPAP prevenga la NAION (por eso no se promete prevención). EMA/PRAC: efecto muy raro, hasta 1/10.000. Post CNN en Español (13K vistas, 0 respuestas) sobre la advertencia FDA. DATO NUEVO frente a lo ya publicado por RT (CNN Chile FDA 126 ensayos, ADN 15 casos, BioBio SUSTAIN-6) y al R1 del 14-nov (EMA 1/10.000 + AAO/NANOS): aquí el foco es el perfil de riesgo. AVISO A WALLY: sería la 5.ª respuesta GLP-1/NAION en 6 días; el post no es chileno.",
-   "hook": "Hay un dato que casi no aparece en esta conversación: muchos de los factores de riesgo de NAION ya son comunes en quiene",
+   "why_hit": "Objetivo de respuesta R3 (Apps falsas de Hermes en Play Store: RT está en la beta privada; una app de agente falsa es más peligrosa que un juego falso porque pide correo, calendario y archivos; regla simple mientras sea solo por invitación). Base verificada: Sin cifras externas. Post EN de HermesWatcher (27,9K seguidores; 7,8K vistas): aparece una app falsa 'Hermes Agent - AI' primera en la búsqueda de Play Store; el equipo trabaja para bajarla; la real es beta privada solo por invitación; lanzamiento completo previsto después de Thanksgiving. RT está en la beta privada (ya lo dijo en público el 13-nov); el texto no dice cómo entró ni detalla canales. Postura Cadu no aplica aquí. Sin infraestructura ni experiencias inventadas.",
+   "hook": "I'm in the private beta, and this deserves more attention than it's getting. A fake agent app is not like a fake game: a",
    "top10_rank": 2
   },
   {
@@ -110,159 +76,74 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 6634,
-   "likes": 273,
-   "replies": 18,
+   "views": 5765,
+   "likes": 176,
+   "replies": 9,
    "reposts": 6,
-   "url": "https://x.com/ErickSky/status/2121612105627628020",
-   "status_url": "https://x.com/ErickSky/status/2121612105627628020",
-   "text": "200 t/s en DSH con OpenCode Go\n\nSe nota el aumento de capacidad de los chicos de Anomaly!!\n\nGraciasssssss https://t.co/fzyhpqvdwr",
-   "original_en": "200 t/s en DSH con OpenCode Go\n\nSe nota el aumento de capacidad de los chicos de Anomaly!!\n\nGraciasssssss https://t.co/fzyhpqvdwr",
+   "url": "https://x.com/ErickSky/status/2122159759730114777",
+   "status_url": "https://x.com/ErickSky/status/2122159759730114777",
+   "text": "Acaba de salir Qwen4 y está por arriba de Opus 5.5 en el benchmark que nos importa: DeepSWE.\n\nMe está tentando... https://t.co/05WZVQrI0I",
+   "original_en": "Acaba de salir Qwen4 y está por arriba de Opus 5.5 en el benchmark que nos importa: DeepSWE.\n\nMe está tentando... https://t.co/05WZVQrI0I",
    "highlight": true,
-   "created_at": "2026-11-14T14:31:58.000Z",
+   "created_at": "2026-11-16T02:48:09.000Z",
    "window": "24h"
   },
   {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 6053,
-   "likes": 29,
-   "replies": 24,
-   "reposts": 0,
-   "url": "https://x.com/ErickSky/status/2121616527413977410",
-   "status_url": "https://x.com/ErickSky/status/2121616527413977410",
-   "text": "Chicos esto es culpa de la IA por lo que entiendo, no? https://t.co/ldVbehZeNp",
-   "original_en": "Chicos esto es culpa de la IA por lo que entiendo, no? https://t.co/ldVbehZeNp",
-   "highlight": true,
-   "created_at": "2026-11-14T14:49:32.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
+   "name": "martinvars",
+   "display_name": "martinvars",
+   "handle": "@martinvars",
    "area": "health",
-   "views": 4390,
-   "likes": 14,
-   "replies": 3,
-   "reposts": 13,
-   "url": "https://x.com/adnradiochile/status/2121646842987389120",
-   "status_url": "https://x.com/adnradiochile/status/2121646842987389120",
-   "text": "Personas mayores podrán comprar bonos de Fonasa desde el celular: ¿Cómo descargar la aplicación?\nhttps://t.co/uY8VSLmy5l",
-   "original_en": "Personas mayores podrán comprar bonos de Fonasa desde el celular: ¿Cómo descargar la aplicación?\nhttps://t.co/uY8VSLmy5l",
+   "views": 4499,
+   "likes": 72,
+   "replies": 2,
+   "reposts": 14,
+   "url": "https://x.com/martinvars/status/2122281997892506088",
+   "status_url": "https://x.com/martinvars/status/2122281997892506088",
+   "text": "En cuatro centros de salud de Barcelona y Tarragona, una IA lee la foto del fondo de ojo de un paciente diabético y da el resultado en 11 minutos de media.\n\nEmpezó en julio. En el último mes ya analizó 300 retinografías, un 78% más que el mes anterior y un tercio de todas las que",
+   "original_en": "En cuatro centros de salud de Barcelona y Tarragona, una IA lee la foto del fondo de ojo de un paciente diabético y da el resultado en 11 minutos de media.\n\nEmpezó en julio. En el último mes ya analizó 300 retinografías, un 78% más que el mes anterior y un tercio de todas las que",
    "highlight": false,
-   "created_at": "2026-11-14T16:50:00.000Z",
+   "created_at": "2026-11-16T10:53:53.000Z",
    "window": "24h",
-   "draft_en": "[R3 · respuesta] Muy buena idea. Un punto que conviene cuidar: para muchas personas mayores la barrera no es solo digital, también es visual. Después de los 45 casi todos necesitamos lentes para leer de cerca, y con los años se suman las cataratas y las enfermedades de la retina.\n\nUna app pensada para ellas debería funcionar bien con letra grande, buen contraste y el lector de pantalla del teléfono.\n\nUn consejo práctico para la familia: antes de instalarla, suban el tamaño del texto en la configuración del celular y prueben juntos la compra de un bono.",
+   "draft_en": "[R1 · respuesta] En Chile esto funciona a escala nacional desde 2018. En la red pública, la retinografía se toma en atención primaria, una IA separa los exámenes normales de los alterados y solo estos últimos pasan a informe de un oftalmólogo a distancia.\n\nHay un aprendizaje de esa experiencia que sirve para cualquier país: de los exámenes que la IA derivó a revisión, cerca de un tercio no se pudo evaluar, por mala calidad de imagen o por opacidades como las cataratas.\n\nPor eso, si tienes diabetes y te dicen que tu fondo de ojo \"no se pudo leer\", no lo tomes como un resultado normal. Hay que repetirlo o pedir evaluación con oftalmólogo.\n\nFuente: https://portalsaluddigital.minsal.cl/celula-oftalmologia-dart/ · https://www.iapb.org/news/dart-impacto-de-tamizaje-nacional-con-inteligencia-artificial/",
    "draft_keywords": [
-    "Bonos Fonasa desde el celular para personas mayores: para muchos la barrera no es digital sino visual; criterio = que funcione con letra grande y lector de pantalla; ajustar el tamaño de texto del teléfono"
+    "IA para retinopatía en APS (Catalunya, 'yo lo haría en toda España'): en Chile la red pública lo hace a escala nacional desde 2018; aprendizaje práctico: un fondo de ojo 'no evaluable' (mala imagen o cataratas) no es un resultado normal"
    ],
-   "why_hit": "Objetivo de respuesta R3 (Bonos Fonasa desde el celular para personas mayores: para muchos la barrera no es digital sino visual; criterio = que funcione con letra grande y lector de pantalla; ajustar el tamaño de texto del teléfono). Base verificada: Sin cifras externas. Post ADN (4,4K vistas, 13 reposts, 15-nov): personas mayores podrán comprar bonos Fonasa desde el celular (app con Conecta Mayor UC, según T13). No se afirma nada sobre funciones de la app que no se conocen; se plantea como criterio. Ángulo de salud visual legítimo (personas mayores, presbicia, cataratas) sin cifras clínicas forzadas.",
-   "hook": "Muy buena idea. Un punto que conviene cuidar: para muchas personas mayores la barrera no es solo digital, también es vis",
+   "why_hit": "Objetivo de respuesta R1 (IA para retinopatía en APS (Catalunya, 'yo lo haría en toda España'): en Chile la red pública lo hace a escala nacional desde 2018; aprendizaje práctico: un fondo de ojo 'no evaluable' (mala imagen o cataratas) no es un resultado normal). Base verificada: Minsal, Depto. de Salud Digital (Célula Oftalmología): en las UAPO se toma fondo de ojo para tamizaje de retinopatía diabética; una IA separa imágenes normales de alteradas y solo estas se derivan a informe de especialista. IAPB (2019): lanzamiento en mayo de 2018 en 4 Servicios de Salud; al año, 127 UAPO en las 16 regiones; 140.194 exámenes, 54,4% negativos (control anual sin especialista), 45,6% positivos a teleinforme por oftalmólogo; de esos, 31,4% no evaluables por calidad de imagen (sobre todo cámaras portátiles) u opacidad de medios, a menudo cataratas, que también deben ir a atención oftalmológica presencial. Post de Martín Varsavsky (235K seguidores, 4,5K vistas, 74 me gusta) sobre el piloto catalán; RT ya le respondió el 26-oct. No se nombra al proveedor del software.",
+   "hook": "En Chile esto funciona a escala nacional desde 2018. En la red pública, la retinografía se toma en atención primaria, un",
    "top10_rank": 3
   },
   {
-   "name": "adnradiochile",
-   "display_name": "adnradiochile",
-   "handle": "@adnradiochile",
-   "area": "health",
-   "views": 4145,
-   "likes": 4,
-   "replies": 0,
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 3973,
+   "likes": 166,
+   "replies": 5,
    "reposts": 3,
-   "url": "https://x.com/adnradiochile/status/2121747509731320055",
-   "status_url": "https://x.com/adnradiochile/status/2121747509731320055",
-   "text": "El alarmante efecto de los vapers en adolescentes que el Minsal busca frenar en colegios\nhttps://t.co/4VW9Y5bZsv",
-   "original_en": "El alarmante efecto de los vapers en adolescentes que el Minsal busca frenar en colegios\nhttps://t.co/4VW9Y5bZsv",
+   "url": "https://x.com/ErickSky/status/2122159980899979584",
+   "status_url": "https://x.com/ErickSky/status/2122159980899979584",
+   "text": "Listo no se diga más, voy a probar el Qwen4 y les digo.\n\nSíganme si les interesa conocer mi perspectiva 🤗 https://t.co/IFXswnPy8b",
+   "original_en": "Listo no se diga más, voy a probar el Qwen4 y les digo.\n\nSíganme si les interesa conocer mi perspectiva 🤗 https://t.co/IFXswnPy8b",
    "highlight": false,
-   "created_at": "2026-11-14T23:30:01.000Z",
+   "created_at": "2026-11-16T02:49:01.000Z",
    "window": "24h"
   },
   {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
+   "name": "icreatelife",
+   "display_name": "icreatelife",
+   "handle": "@icreatelife",
    "area": "ai",
-   "views": 3972,
-   "likes": 144,
-   "replies": 6,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2121713179919286656",
-   "status_url": "https://x.com/ErickSky/status/2121713179919286656",
-   "text": "Todo en Rust chicos https://t.co/lIC3soBEr3",
-   "original_en": "Todo en Rust chicos https://t.co/lIC3soBEr3",
-   "highlight": false,
-   "created_at": "2026-11-14T21:13:36.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ashen_one",
-   "display_name": "ashen_one",
-   "handle": "@ashen_one",
-   "area": "ai",
-   "views": 3341,
-   "likes": 56,
-   "replies": 28,
-   "reposts": 1,
-   "url": "https://x.com/ashen_one/status/2121661462498418812",
-   "status_url": "https://x.com/ashen_one/status/2121661462498418812",
-   "text": "i think grok bot is the best personal ai, use from phone, manage your entire life type beat assistant ai out there rn \n\ni've tested:\nhermes\nopenclaw\nclaude duet\ncodex dot\ninstinct\nzo computer\npoke\nand others\n\nbut nothing has come close imo https://t.co/8QLIfV5Ays",
-   "original_en": "i think grok bot is the best personal ai, use from phone, manage your entire life type beat assistant ai out there rn \n\ni've tested:\nhermes\nopenclaw\nclaude duet\ncodex dot\ninstinct\nzo computer\npoke\nand others\n\nbut nothing has come close imo https://t.co/8QLIfV5Ays",
-   "highlight": false,
-   "created_at": "2026-11-14T17:48:05.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ELTIEMPO",
-   "display_name": "ELTIEMPO",
-   "handle": "@ELTIEMPO",
-   "area": "health",
-   "views": 3250,
-   "likes": 4,
-   "replies": 0,
-   "reposts": 1,
-   "url": "https://x.com/ELTIEMPO/status/2121931217058791914",
-   "status_url": "https://x.com/ELTIEMPO/status/2121931217058791914",
-   "text": "‼️La diabetes puede avanzar silenciosamente y provocar complicaciones graves en órganos como el corazón, los riñones y los ojos. \n\nEntre las señales de alerta están la sed excesiva, las ganas frecuentes de orinar y el aumento del apetito. \n\nMaría Ofelia, quien vive con diabetes https://t.co/4WPAzGfnyJ",
-   "original_en": "‼️La diabetes puede avanzar silenciosamente y provocar complicaciones graves en órganos como el corazón, los riñones y los ojos. \n\nEntre las señales de alerta están la sed excesiva, las ganas frecuentes de orinar y el aumento del apetito. \n\nMaría Ofelia, quien vive con diabetes https://t.co/4WPAzGfnyJ",
-   "highlight": false,
-   "created_at": "2026-11-15T11:40:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 3143,
-   "likes": 52,
-   "replies": 3,
-   "reposts": 4,
-   "url": "https://x.com/ErickSky/status/2121672662715896319",
-   "status_url": "https://x.com/ErickSky/status/2121672662715896319",
-   "text": "Parece que pedirle a tu agente un arreglo rápido es lo peor que le puedes pedir porque puede hacer que el código quede peor con el tiempo.\n\nComo sabemos, nuestros agentes aprenden la forma en la que nos gusta hacer las cosas, si le enseñas ese tipo de mañas, lo entenderá como \"la https://t.co/DGwCdfpqnC",
-   "original_en": "Parece que pedirle a tu agente un arreglo rápido es lo peor que le puedes pedir porque puede hacer que el código quede peor con el tiempo.\n\nComo sabemos, nuestros agentes aprenden la forma en la que nos gusta hacer las cosas, si le enseñas ese tipo de mañas, lo entenderá como \"la https://t.co/DGwCdfpqnC",
-   "highlight": false,
-   "created_at": "2026-11-14T18:32:36.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2049,
-   "likes": 12,
-   "replies": 3,
+   "views": 3365,
+   "likes": 44,
+   "replies": 13,
    "reposts": 0,
-   "url": "https://x.com/ErickSky/status/2121656366058311713",
-   "status_url": "https://x.com/ErickSky/status/2121656366058311713",
-   "text": "Pero esto no es un fork del juego que hicieron en el mismo hackaton en Venezuela? https://t.co/f5InMO2sOY",
-   "original_en": "Pero esto no es un fork del juego que hicieron en el mismo hackaton en Venezuela? https://t.co/f5InMO2sOY",
+   "url": "https://x.com/icreatelife/status/2122039631227023445",
+   "status_url": "https://x.com/icreatelife/status/2122039631227023445",
+   "text": "On AI changes in industry, life, and what I think, we all should do in our careers. \n\nEverything changed few weeks ago. At the beginning a lot of companies were developing similar technology, and there was a race who'll develop the best models. Right now some models are clearly",
+   "original_en": "On AI changes in industry, life, and what I think, we all should do in our careers. \n\nEverything changed few weeks ago. At the beginning a lot of companies were developing similar technology, and there was a race who'll develop the best models. Right now some models are clearly",
    "highlight": false,
-   "created_at": "2026-11-14T17:27:50.000Z",
+   "created_at": "2026-11-15T18:50:48.000Z",
    "window": "24h"
   },
   {
@@ -270,71 +151,100 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 2046,
-   "likes": 42,
+   "views": 2933,
+   "likes": 61,
+   "replies": 9,
+   "reposts": 1,
+   "url": "https://x.com/ErickSky/status/2122267354012783054",
+   "status_url": "https://x.com/ErickSky/status/2122267354012783054",
+   "text": "Yo supongo que la gente de Hy4 de pregunta el motivo por el que aunque aparece bien posicionado en los benchmarks, no se usa tanto...\n\nAhora mismo y por las siguientes dos semanas, al usarse, no se descontará tu uso del plan.\n\nEs la primera vez que veo esto. https://t.co/FBYsuOIDy2",
+   "original_en": "Yo supongo que la gente de Hy4 de pregunta el motivo por el que aunque aparece bien posicionado en los benchmarks, no se usa tanto...\n\nAhora mismo y por las siguientes dos semanas, al usarse, no se descontará tu uso del plan.\n\nEs la primera vez que veo esto. https://t.co/FBYsuOIDy2",
+   "highlight": false,
+   "created_at": "2026-11-16T09:55:41.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "latercera",
+   "display_name": "latercera",
+   "handle": "@latercera",
+   "area": "health",
+   "views": 2445,
+   "likes": 14,
+   "replies": 2,
+   "reposts": 9,
+   "url": "https://x.com/latercera/status/2122053270617416131",
+   "status_url": "https://x.com/latercera/status/2122053270617416131",
+   "text": "Hospital Digital del Minsal registra más de 10 mil atenciones por diabetes en 2026 y amplía el acceso a especialistas https://t.co/eSCNDaqnsG",
+   "original_en": "Hospital Digital del Minsal registra más de 10 mil atenciones por diabetes en 2026 y amplía el acceso a especialistas https://t.co/eSCNDaqnsG",
+   "highlight": false,
+   "created_at": "2026-11-15T19:45:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "colmedchile",
+   "display_name": "colmedchile",
+   "handle": "@colmedchile",
+   "area": "health",
+   "views": 2391,
+   "likes": 39,
+   "replies": 0,
+   "reposts": 25,
+   "url": "https://x.com/colmedchile/status/2122070635161542710",
+   "status_url": "https://x.com/colmedchile/status/2122070635161542710",
+   "text": "📣 Sin seguridad, no hay salud.\nEl Dr. Vargas invita a todas las médicas y médicos colegiados a participar en la Encuesta Nacional “Sin seguridad no hay salud 2026” del Colegio Médico de Chile.\nTu opinión es fundamental para conocer la realidad de nuestros centros de salud e https://t.co/qRSSZnkhG5",
+   "original_en": "📣 Sin seguridad, no hay salud.\nEl Dr. Vargas invita a todas las médicas y médicos colegiados a participar en la Encuesta Nacional “Sin seguridad no hay salud 2026” del Colegio Médico de Chile.\nTu opinión es fundamental para conocer la realidad de nuestros centros de salud e https://t.co/qRSSZnkhG5",
+   "highlight": false,
+   "created_at": "2026-11-15T20:54:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "Alexvx_nft",
+   "display_name": "Alexvx_nft",
+   "handle": "@Alexvx_nft",
+   "area": "ai",
+   "views": 2283,
+   "likes": 47,
+   "replies": 27,
+   "reposts": 0,
+   "url": "https://x.com/Alexvx_nft/status/2122032189386985827",
+   "status_url": "https://x.com/Alexvx_nft/status/2122032189386985827",
+   "text": "GROK BOT JUST GOT A SEAT IN YOUR SLACK\n\nxAI shipped Grok Bot 1.0 and the open source copies showed up within a week\n\nTEAMMATES\n\n1. Grok Bot 1.0 - joins Slack, Teams and video calls, spots work, follows up on unfinished tasks, asks before sensitive actions\nhttps://t.co/WoAfrmghOT https://t.co/miZY7qD4pd",
+   "original_en": "GROK BOT JUST GOT A SEAT IN YOUR SLACK\n\nxAI shipped Grok Bot 1.0 and the open source copies showed up within a week\n\nTEAMMATES\n\n1. Grok Bot 1.0 - joins Slack, Teams and video calls, spots work, follows up on unfinished tasks, asks before sensitive actions\nhttps://t.co/WoAfrmghOT https://t.co/miZY7qD4pd",
+   "highlight": false,
+   "created_at": "2026-11-15T18:21:14.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 2090,
+   "likes": 35,
    "replies": 4,
    "reposts": 4,
-   "url": "https://x.com/ErickSky/status/2121687406659117291",
-   "status_url": "https://x.com/ErickSky/status/2121687406659117291",
-   "text": "Qué loco que Poteto y yo coincidimos en la misma frase:\n\n\"All code is slop (except mine)\". https://t.co/1pBIVsUi6I https://t.co/fWnpR2ruXE",
-   "original_en": "Qué loco que Poteto y yo coincidimos en la misma frase:\n\n\"All code is slop (except mine)\". https://t.co/1pBIVsUi6I https://t.co/fWnpR2ruXE",
+   "url": "https://x.com/ErickSky/status/2122055317081002195",
+   "status_url": "https://x.com/ErickSky/status/2122055317081002195",
+   "text": "Les llegó el invierno a los modeladores 3D y artistas de efectos especiales. https://t.co/4xykLGQA6y",
+   "original_en": "Les llegó el invierno a los modeladores 3D y artistas de efectos especiales. https://t.co/4xykLGQA6y",
    "highlight": false,
-   "created_at": "2026-11-14T19:31:11.000Z",
+   "created_at": "2026-11-15T19:53:08.000Z",
    "window": "24h"
-  },
-  {
-   "name": "elperiodico",
-   "display_name": "elperiodico",
-   "handle": "@elperiodico",
-   "area": "health",
-   "views": 1604,
-   "likes": 2,
-   "replies": 0,
-   "reposts": 1,
-   "url": "https://x.com/elperiodico/status/2121661276434686337",
-   "status_url": "https://x.com/elperiodico/status/2121661276434686337",
-   "text": "La atención primaria de Catalunya incorpora IA para detectar la retinopatía diabética https://t.co/vVPwyz2IR1",
-   "original_en": "La atención primaria de Catalunya incorpora IA para detectar la retinopatía diabética https://t.co/vVPwyz2IR1",
-   "highlight": false,
-   "created_at": "2026-11-14T17:47:21.000Z",
-   "window": "24h",
-   "draft_en": "[R1 · respuesta] Buena noticia, y vale la pena mirarla desde el lado correcto. Leer una retinografía con IA ya es lo más resuelto de la cadena; lo difícil viene después.\n\nEl número que define si esto funciona no es la precisión del algoritmo, sino cuántos pacientes con un resultado alterado llegan a tiempo al oftalmólogo y reciben tratamiento. En Chile, el GES fija 90 días para confirmar la sospecha de retinopatía diabética.\n\nSi la IA detecta más casos, esa ruta tiene que estar lista para recibirlos. Si no, solo movemos la espera de lugar.\n\nFuente: https://www.elperiodico.com/es/sociedad/20261114/atencion-primaria-catalunya-incorpora-ia-retinopatia-diabetica-136431981 · https://auge.minsal.cl/problemasdesalud/index/31",
-   "draft_keywords": [
-    "IA para retinopatía diabética en APS (Catalunya): el algoritmo es lo fácil; lo que mide el éxito es cuántos positivos llegan a tiempo al oftalmólogo y se tratan (en Chile, GES 31: confirmación en 90 días)"
-   ],
-   "why_hit": "Objetivo de respuesta R1 (IA para retinopatía diabética en APS (Catalunya): el algoritmo es lo fácil; lo que mide el éxito es cuántos positivos llegan a tiempo al oftalmólogo y se tratan (en Chile, GES 31: confirmación en 90 días)). Base verificada: El Periódico/Govern (14-nov-2026): piloto AQuAS desde julio 2026, 549 retinografías de 543 pacientes en 4 equipos de APS; la IA clasifica el riesgo y agiliza la derivación; ya analiza 1 de cada 3 retinografías de los centros piloto. GES 31 Retinopatía diabética (Minsal, verificado 14-nov): confirmación diagnóstica por oftalmólogo dentro de 90 días desde la sospecha. Tracción modesta (1,6K) pero tema central de RT (IA aplicada a salud + retina) y no repite el P1 de ayer (que era sobre el fondo de ojo anual).",
-   "hook": "Buena noticia, y vale la pena mirarla desde el lado correcto. Leer una retinografía con IA ya es lo más resuelto de la c",
-   "top10_rank": 4
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Los posts de comparación personal ('el único que se me quedó') sobre agentes generan mucho más alcance que los anuncios de producto",
-  "La disponibilidad por país (solo EE. UU., bloqueado en Europa) se volvió tema en sí mismo en la conversación de agentes",
-  "Las alertas de medicamentos rebotan en medios internacionales días después: solo vale responder con un dato nuevo",
-  "Las noticias de IA aplicada a la retina tienen poca tracción en medios, pero encajan de lleno en la línea de RT"
+  "Las opiniones contra el consenso ('no creo en la metáfora de...') de cuentas grandes generan conversación (42 respuestas) más que los anuncios de producto",
+  "Las alertas de seguridad sobre apps de agentes (falsificaciones) circulan rápido entre quienes esperan la beta",
+  "La IA aplicada a la retina sigue rebotando en medios y cuentas de España; Chile tiene experiencia propia que casi nadie cita",
+  "La alerta GLP-1/NAION ya rebota con poca tracción: sin dato nuevo, mejor no responder"
  ],
  "no_hits": [
   {
-   "handle": "@DotCSV",
-   "max_views": 0,
-   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
-  },
-  {
-   "handle": "@freddier",
-   "max_views": 0,
-   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
-  },
-  {
    "handle": "@sergiorocaa",
-   "max_views": 1260,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.260."
-  },
-  {
-   "handle": "@bilinkis",
-   "max_views": 0,
-   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
+   "max_views": 610,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 610."
   },
   {
    "handle": "@ministeriosalud",
@@ -365,16 +275,21 @@
    "handle": "@jmanalich",
    "max_views": 0,
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
+  },
+  {
+   "handle": "@CNNChile",
+   "max_views": 1611,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.611."
   }
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 16,
+ "hits_count": 12,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-11-14",
-  "hits_count": 19,
-  "total_views": 199995
+  "date": "2026-11-15",
+  "hits_count": 16,
+  "total_views": 594313
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -442,38 +357,38 @@
  },
  "day_roster": [
   {
-   "handle": "@midudev",
-   "name": "midudev",
-   "area": "ai",
-   "views": 34893,
-   "total_views": 34893,
-   "hit": true,
-   "window": "24h"
-  },
-  {
    "handle": "@ErickSky",
    "name": "ErickSky",
    "area": "ai",
-   "views": 13906,
-   "total_views": 59475,
+   "views": 66370,
+   "total_views": 108659,
    "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@CNNChile",
-   "name": "CNNChile",
-   "area": "health",
-   "views": 4930,
-   "total_views": 13091,
+   "handle": "@midudev",
+   "name": "midudev",
+   "area": "ai",
+   "views": 39677,
+   "total_views": 56628,
    "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@adnradiochile",
-   "name": "adnradiochile",
-   "area": "health",
-   "views": 4390,
-   "total_views": 21935,
+   "handle": "@freddier",
+   "name": "freddier",
+   "area": "ai",
+   "views": 19234,
+   "total_views": 19234,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@DotCSV",
+   "name": "DotCSV",
+   "area": "ai",
+   "views": 14565,
+   "total_views": 14565,
    "hit": true,
    "window": "24h"
   },
@@ -481,44 +396,44 @@
    "handle": "@Cooperativa",
    "name": "Cooperativa",
    "area": "health",
-   "views": 3076,
-   "total_views": 23619,
+   "views": 12182,
+   "total_views": 25347,
    "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@sergiorocaa",
-   "name": "sergiorocaa",
-   "area": "ai",
-   "views": 1260,
-   "total_views": 1260,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@DotCSV",
-   "name": "DotCSV",
-   "area": "ai",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@freddier",
-   "name": "freddier",
-   "area": "ai",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
    "window": "24h"
   },
   {
    "handle": "@bilinkis",
    "name": "bilinkis",
    "area": "ai",
-   "views": 0,
-   "total_views": 0,
+   "views": 5698,
+   "total_views": 5698,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@adnradiochile",
+   "name": "adnradiochile",
+   "area": "health",
+   "views": 3972,
+   "total_views": 23640,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@CNNChile",
+   "name": "CNNChile",
+   "area": "health",
+   "views": 1611,
+   "total_views": 4154,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@sergiorocaa",
+   "name": "sergiorocaa",
+   "area": "ai",
+   "views": 610,
+   "total_views": 938,
    "hit": false,
    "window": "24h"
   },
@@ -641,54 +556,54 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "Grok Bot vs Claude Duet vs Dots: cuál agente personal «se queda»"
+    "keyword": "Agentes: ni «empleados» ni «segundo cerebro» (Freddy Vega)"
    },
    {
     "rank": 2,
-    "keyword": "Claude Duet, Dots y Muse bloqueados fuera de EE. UU."
+    "keyword": "Apps falsas de Hermes Agent en Play Store; la app sigue en beta privada"
    },
    {
     "rank": 3,
-    "keyword": "FDA: GLP-1 y pérdida repentina de visión (CNN en Español)"
+    "keyword": "IA lee el fondo de ojo en 11 minutos en APS de Catalunya"
    },
    {
     "rank": 4,
-    "keyword": "IA para cribado de retinopatía diabética en atención primaria (Catalunya)"
+    "keyword": "Hospital Digital Minsal: 10.508 atenciones por diabetes en 2026"
    },
    {
     "rank": 5,
-    "keyword": "bonos Fonasa desde el celular para personas mayores"
+    "keyword": "Qwen4 y DeepSeek: modelos abiertos vs Opus 5.5"
    },
    {
     "rank": 6,
-    "keyword": "lista de espera por doble trasplante (BioBio)"
+    "keyword": "Nvidia y Jensen Huang: salida del fundador"
    },
    {
     "rank": 7,
-    "keyword": "vapers en adolescentes: Minsal en colegios"
+    "keyword": "Diabetes: exámenes oftalmológicos para prevenir pérdida de visión"
    },
    {
     "rank": 8,
-    "keyword": "nuevo Hospital del Salvador en tres meses"
+    "keyword": "Personal Agent Protocol (Poppy) y agentes que compran"
    },
    {
     "rank": 9,
-    "keyword": "hospitalizaciones por diabetes tipo 2 +61% (DEIS)"
+    "keyword": "Grok Bot vs Claude Duet vs Dots vs Muse: rankings personales"
    },
    {
     "rank": 10,
-    "keyword": "ChatGPT Wallet: agentes que compran"
+    "keyword": "FDA GLP-1/NAION: seis de cada 100.000 (rebote en medios)"
    }
   ],
-  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía, Día Mundial de la Diabetes) y agentes personales (curadas a mano). Excluidos: política (Kast en Asia, presupuesto, combustibles, Codelco), crónica (caso Galdámez, Maipú), Gaza, deportes, farándula y tecnología pura (Rust, DeepSeek, OpenCode)."
+  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía, oftalmología, alertas regulatorias) y agentes personales (curadas a mano). Excluidos: política (acusación constitucional a Rabat, Kast, Parisi, dólar), crónica (cianuro en hospital de Temuco, Caleta Abarca, balacera), farándula (Pinilla, Coté López), deportes y tecnología pura (DeepSeek UI, CSS, Qwen4)."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 15-11-2026: 4 respuestas en borrador (3 salud, 1 agentes de IA) para el filtro de Wally; sin originales (RT publicó ayer el de retinopatía diabética); nada publicado.",
-   "takeaway": "Agentes personales dominaron X: robinebers (462K, EN) dice que Grok Bot es el único que se le quedó frente a Dots y Duet; isjavir (25,8K, ES) y TomSolidPM (17,9K) comentan que Claude Duet, Dots y Muse siguen bloqueados fuera de EE. UU. R4 responde a isjavir: el modelo de fondo no decide qué agente se queda. Salud: el más visto fue BioBio con el llamado de la hija de Gonzalo Ramírez en lista de espera por doble trasplante (90K), sin borrador por ser un caso personal. En temas de RT, CNN en Español volvió con la advertencia FDA GLP-1/visión (13K): R2 trae un dato nuevo (factores de riesgo de NAION, apnea del sueño). Catalunya incorpora IA para cribado de retinopatía en APS (R1) y ADN informa bonos Fonasa desde el celular para mayores (R3, accesibilidad visual). Watchlist IA: midudev con la skill de Cloudflare (34,9K) y ErickSky (13,9K Opus vs Fable), tecnología pura y excluida."
+   "headline": "Digest 16-11-2026: 3 respuestas en borrador (1 salud, 2 agentes de IA) para el filtro de Wally; sin originales; nada publicado.",
+   "takeaway": "Agentes: Freddy Vega (19,2K, 42 respuestas) dice que los agentes no son «empleados» ni «segundo cerebro»; R2 suma el sesgo de automatización como razón para cuidar la metáfora. HermesWatcher (7,8K) alerta por apps falsas de Hermes en Play Store mientras la app real sigue en beta privada (R3). Salud: en temas de RT, Martín Varsavsky (4,5K) destaca la IA que lee el fondo de ojo en 11 minutos en Catalunya; R1 aporta la experiencia chilena a escala nacional desde 2018 y el dato práctico de que «no evaluable» no es normal. La Tercera informa 10.508 atenciones por diabetes en Hospital Digital del Minsal (2,4K). GLP-1/NAION sin post con tracción ni dato nuevo: sin borrador. Lo más visto fue farándula (Pinilla, Coté López en BioBio, ~49K) y tecnología pura (midudev DeepSeek UI 39,7K; ErickSky Qwen4/Nvidia), excluidos."
   },
   "corpus": {
-   "posts": 158,
+   "posts": 179,
    "min_views": 2000
   },
   "window": {
@@ -697,51 +612,39 @@
   "topics": [],
   "ideas": [
    {
-    "title": "R1 · respuesta a @elperiodico",
+    "title": "R1 · respuesta a @martinvars",
     "format": "respuesta",
-    "source": "@elperiodico",
-    "topic": "IA para retinopatía diabética en APS (Catalunya): el algoritmo es lo fácil; lo que mide el éxito es cuántos positivos llegan a tiempo al oftalmólogo y se tratan (en Chile, GES 31: confirmación en 90 días)",
-    "hook_en": "Buena noticia, y vale la pena mirarla desde el lado correcto. Leer una retinografía con IA ya es lo más resuelto de la cadena; lo difícil viene después.\n\nEl número que define si esto funciona no es la precisión del algoritmo, sino cuántos pacientes con un resultado alterado llegan a tiempo al oftalmólogo y reciben tratamiento. En Chile, el GES fija 90 días para confirmar la sospecha de retinopatía diabética.\n\nSi la IA detecta más casos, esa ruta tiene que estar lista para recibirlos. Si no, solo movemos la espera de lugar.",
-    "angle": "Objetivo: https://x.com/elperiodico/status/2121661276434686337 (1.604 vistas)",
-    "why": "Base: El Periódico/Govern (14-nov-2026): piloto AQuAS desde julio 2026, 549 retinografías de 543 pacientes en 4 equipos de APS; la IA clasifica el riesgo y agiliza la derivación; ya analiza 1 de cada 3 retinografías de los centros piloto. GES 31 Retinopatía diabética (Minsal, verificado 14-nov): confirmación diagnóstica por oftalmólogo dentro de 90 días desde la sospecha. Tracción modesta (1,6K) pero tema central de RT (IA aplicada a salud + retina) y no repite el P1 de ayer (que era sobre el fondo de ojo anual). Fuente: https://www.elperiodico.com/es/sociedad/20261114/atencion-primaria-catalunya-incorpora-ia-retinopatia-diabetica-136431981 · https://auge.minsal.cl/problemasdesalud/index/31",
+    "source": "@martinvars",
+    "topic": "IA para retinopatía en APS (Catalunya, 'yo lo haría en toda España'): en Chile la red pública lo hace a escala nacional desde 2018; aprendizaje práctico: un fondo de ojo 'no evaluable' (mala imagen o cataratas) no es un resultado normal",
+    "hook_en": "En Chile esto funciona a escala nacional desde 2018. En la red pública, la retinografía se toma en atención primaria, una IA separa los exámenes normales de los alterados y solo estos últimos pasan a informe de un oftalmólogo a distancia.\n\nHay un aprendizaje de esa experiencia que sirve para cualquier país: de los exámenes que la IA derivó a revisión, cerca de un tercio no se pudo evaluar, por mala calidad de imagen o por opacidades como las cataratas.\n\nPor eso, si tienes diabetes y te dicen que tu fondo de ojo \"no se pudo leer\", no lo tomes como un resultado normal. Hay que repetirlo o pedir evaluación con oftalmólogo.",
+    "angle": "Objetivo: https://x.com/martinvars/status/2122281997892506088 (4.499 vistas)",
+    "why": "Base: Minsal, Depto. de Salud Digital (Célula Oftalmología): en las UAPO se toma fondo de ojo para tamizaje de retinopatía diabética; una IA separa imágenes normales de alteradas y solo estas se derivan a informe de especialista. IAPB (2019): lanzamiento en mayo de 2018 en 4 Servicios de Salud; al año, 127 UAPO en las 16 regiones; 140.194 exámenes, 54,4% negativos (control anual sin especialista), 45,6% positivos a teleinforme por oftalmólogo; de esos, 31,4% no evaluables por calidad de imagen (sobre todo cámaras portátiles) u opacidad de medios, a menudo cataratas, que también deben ir a atención oftalmológica presencial. Post de Martín Varsavsky (235K seguidores, 4,5K vistas, 74 me gusta) sobre el piloto catalán; RT ya le respondió el 26-oct. No se nombra al proveedor del software. Fuente: https://portalsaluddigital.minsal.cl/celula-oftalmologia-dart/ · https://www.iapb.org/news/dart-impacto-de-tamizaje-nacional-con-inteligencia-artificial/",
     "keywords": [
-     "IA para retinopatía diabética en APS (Catalunya): el algoritmo es lo fácil; lo que mide el éxito es cuántos positivos llegan a tiempo al oftalmólogo y se tratan (en Chile, GES 31: confirmación en 90 días)"
+     "IA para retinopatía en APS (Catalunya, 'yo lo haría en toda España'): en Chile la red pública lo hace a escala nacional desde 2018; aprendizaje práctico: un fondo de ojo 'no evaluable' (mala imagen o cataratas) no es un resultado normal"
     ]
    },
    {
-    "title": "R2 · respuesta a @CNNEE",
+    "title": "R2 · respuesta a @freddier",
     "format": "respuesta",
-    "source": "@CNNEE",
-    "topic": "GLP-1/NAION con dato nuevo: los factores de riesgo de NAION (apnea del sueño, hipertensión, diabetes, disco óptico pequeño) ya son frecuentes en quien usa estos fármacos; contar la apnea al médico al iniciar",
-    "hook_en": "Hay un dato que casi no aparece en esta conversación: muchos de los factores de riesgo de NAION ya son comunes en quienes usan estos medicamentos. La apnea del sueño, la hipertensión, la diabetes y un nervio óptico de disco pequeño se asocian a NAION desde mucho antes del Ozempic.\n\nEso no anula la advertencia. Ayuda a entender quién debería tener más cuidado.\n\nSi roncas con pausas, te despiertas cansado o ya te diagnosticaron apnea del sueño, cuéntaselo a tu médico al iniciar el tratamiento. Es una conversación de dos minutos y orienta mejor el seguimiento.",
-    "angle": "Objetivo: https://x.com/CNNEE/status/2121845392014725282 (13.075 vistas)",
-    "why": "Base: EyeWiki (AAO): factores implicados en NAION: apnea obstructiva del sueño, disco óptico pequeño (razón copa/disco baja, 'disco en riesgo'), drusas del disco, factores vasculares sistémicos (hipertensión, diabetes) e hipotensión nocturna; en un caso-control, 71% de los pacientes con NAION tenía apnea vs 18% de controles; no se ha demostrado que el CPAP prevenga la NAION (por eso no se promete prevención). EMA/PRAC: efecto muy raro, hasta 1/10.000. Post CNN en Español (13K vistas, 0 respuestas) sobre la advertencia FDA. DATO NUEVO frente a lo ya publicado por RT (CNN Chile FDA 126 ensayos, ADN 15 casos, BioBio SUSTAIN-6) y al R1 del 14-nov (EMA 1/10.000 + AAO/NANOS): aquí el foco es el perfil de riesgo. AVISO A WALLY: sería la 5.ª respuesta GLP-1/NAION en 6 días; el post no es chileno. Fuente: https://eyewiki.aao.org/Non-Arteritic_Anterior_Ischemic_Optic_Neuropathy_%28NAION%29 · https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy",
+    "source": "@freddier",
+    "topic": "Agentes no son 'empleados' ni 'segundo cerebro': la metáfora importa porque cambia cuánto se revisa lo que hace la herramienta (sesgo de automatización, concepto conocido en medicina)",
+    "hook_en": "The metaphors matter for another reason: they shape how people use the tool. Call it an employee and you start trusting its work like a colleague's. Call it a second brain and you pour everything into it and never prune.\n\nIn medicine we have a name for the first trap: automation bias. The more authoritative a tool sounds, the less we check it.\n\nBetter to call it what it is: a tool whose abilities change every few months.",
+    "angle": "Objetivo: https://x.com/freddier/status/2122004085188739234 (19.234 vistas)",
+    "why": "Base: Sin cifras externas. Post EN de Freddy Vega (watchlist, 317K seguidores; 19,2K vistas, 42 respuestas, 296 me gusta): no cree en las metáforas 'empleado' o 'segundo cerebro'; los modelos cambian muy rápido; pide control de acceso, reglas claras y aprender rápido lo nuevo. RT ya le respondió el 26-oct (en inglés). El sesgo de automatización (confiar de más en una herramienta que suena autoritaria) es un concepto documentado en seguridad clínica. Sin «proactividad / decisión ya enmarcada / aprobar», sin infraestructura, sin experiencias de uso inventadas; no repite el ángulo de acceso de R3. Fuente: sin cifras externas",
     "keywords": [
-     "GLP-1/NAION con dato nuevo: los factores de riesgo de NAION (apnea del sueño, hipertensión, diabetes, disco óptico pequeño) ya son frecuentes en quien usa estos fármacos; contar la apnea al médico al iniciar"
+     "Agentes no son 'empleados' ni 'segundo cerebro': la metáfora importa porque cambia cuánto se revisa lo que hace la herramienta (sesgo de automatización, concepto conocido en medicina)"
     ]
    },
    {
-    "title": "R3 · respuesta a @adnradiochile",
+    "title": "R3 · respuesta a @HermesWatcher",
     "format": "respuesta",
-    "source": "@adnradiochile",
-    "topic": "Bonos Fonasa desde el celular para personas mayores: para muchos la barrera no es digital sino visual; criterio = que funcione con letra grande y lector de pantalla; ajustar el tamaño de texto del teléfono",
-    "hook_en": "Muy buena idea. Un punto que conviene cuidar: para muchas personas mayores la barrera no es solo digital, también es visual. Después de los 45 casi todos necesitamos lentes para leer de cerca, y con los años se suman las cataratas y las enfermedades de la retina.\n\nUna app pensada para ellas debería funcionar bien con letra grande, buen contraste y el lector de pantalla del teléfono.\n\nUn consejo práctico para la familia: antes de instalarla, suban el tamaño del texto en la configuración del celular y prueben juntos la compra de un bono.",
-    "angle": "Objetivo: https://x.com/adnradiochile/status/2121646842987389120 (4.390 vistas)",
-    "why": "Base: Sin cifras externas. Post ADN (4,4K vistas, 13 reposts, 15-nov): personas mayores podrán comprar bonos Fonasa desde el celular (app con Conecta Mayor UC, según T13). No se afirma nada sobre funciones de la app que no se conocen; se plantea como criterio. Ángulo de salud visual legítimo (personas mayores, presbicia, cataratas) sin cifras clínicas forzadas. Fuente: sin cifras externas",
+    "source": "@HermesWatcher",
+    "topic": "Apps falsas de Hermes en Play Store: RT está en la beta privada; una app de agente falsa es más peligrosa que un juego falso porque pide correo, calendario y archivos; regla simple mientras sea solo por invitación",
+    "hook_en": "I'm in the private beta, and this deserves more attention than it's getting. A fake agent app is not like a fake game: an agent app asks for your email, your calendar and your files.\n\nSimple rule while it's invite-only: if a \"Hermes\" app shows up openly in a store search, it isn't the real one.",
+    "angle": "Objetivo: https://x.com/HermesWatcher/status/2122132559811448856 (7.835 vistas)",
+    "why": "Base: Sin cifras externas. Post EN de HermesWatcher (27,9K seguidores; 7,8K vistas): aparece una app falsa 'Hermes Agent - AI' primera en la búsqueda de Play Store; el equipo trabaja para bajarla; la real es beta privada solo por invitación; lanzamiento completo previsto después de Thanksgiving. RT está en la beta privada (ya lo dijo en público el 13-nov); el texto no dice cómo entró ni detalla canales. Postura Cadu no aplica aquí. Sin infraestructura ni experiencias inventadas. Fuente: sin cifras externas",
     "keywords": [
-     "Bonos Fonasa desde el celular para personas mayores: para muchos la barrera no es digital sino visual; criterio = que funcione con letra grande y lector de pantalla; ajustar el tamaño de texto del teléfono"
-    ]
-   },
-   {
-    "title": "R4 · respuesta a @isjavir",
-    "format": "respuesta",
-    "source": "@isjavir",
-    "topic": "Claude Duet solo EE. UU.: el modelo de fondo no es lo que decide qué agente se queda; pesa más que esté disponible donde vives y que llegue a tus cosas reales; desde Latinoamérica, la disponibilidad ya filtra",
-    "hook_en": "Comparar agentes por el modelo que llevan detrás es entendible, pero no creo que sea lo que decide cuál se queda.\n\nPesa más que esté disponible donde vives, que llegue a las cosas reales de tu día y que recuerde cómo trabajas sin tener que explicárselo cada semana. El mejor modelo no sirve de mucho si el agente no puede tocar nada útil.\n\nY desde Latinoamérica, lo primero ya filtra bastante: si la web dice solo EE. UU., para muchos la comparación termina ahí.",
-    "angle": "Objetivo: https://x.com/isjavir/status/2121601957731131473 (25.847 vistas)",
-    "why": "Base: Sin cifras externas. Post ES de isjavir (25,8K vistas, 33 respuestas, 14-nov): la web de Claude Duet dice solo EE. UU.; 'imaginad un Grok Bot con Opus 5.5 detrás'. Hilo relacionado TomSolidPM (17,9K): Duet, Dots y Muse bloqueados en Europa. RT ya dijo públicamente que usa Grok Bot y Hermes (11-nov). Sin «proactividad / decisión ya enmarcada / aprobar», sin infraestructura, sin experiencias de uso inventadas, sin postura Cadu (no viene al caso). Se descartó robinebers (462K, EN) para no repetir la misma idea y porque gira en torno a 'prompts para aprobar'. Fuente: sin cifras externas",
-    "keywords": [
-     "Claude Duet solo EE. UU.: el modelo de fondo no es lo que decide qué agente se queda; pesa más que esté disponible donde vives y que llegue a tus cosas reales; desde Latinoamérica, la disponibilidad ya filtra"
+     "Apps falsas de Hermes en Play Store: RT está en la beta privada; una app de agente falsa es más peligrosa que un juego falso porque pide correo, calendario y archivos; regla simple mientras sea solo por invitación"
     ]
    }
   ],
