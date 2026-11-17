@@ -1,217 +1,309 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-16 10:30",
- "date": "2026-11-16",
+ "title": "Digest diario — escaneo 24h al 2026-11-17 10:30",
+ "date": "2026-11-17",
  "timezone": "America/Santiago",
- "updated": "2026-11-16T11:10:00-03:00",
+ "updated": "2026-11-17T11:05:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
-  {
-   "name": "freddier",
-   "display_name": "freddier",
-   "handle": "@freddier",
-   "area": "ai",
-   "views": 19234,
-   "likes": 296,
-   "replies": 42,
-   "reposts": 17,
-   "url": "https://x.com/freddier/status/2122004085188739234",
-   "status_url": "https://x.com/freddier/status/2122004085188739234",
-   "text": "I don’t believe in the metaphor of agents as “employees” or “second brain”. \n\nThe models evolve too fast for those mental frameworks to hold. 90%+ of harness code from last year is unnecessary today.\n\nYou need access control over your data, clear business rules, and fast learning",
-   "original_en": "I don’t believe in the metaphor of agents as “employees” or “second brain”. \n\nThe models evolve too fast for those mental frameworks to hold. 90%+ of harness code from last year is unnecessary today.\n\nYou need access control over your data, clear business rules, and fast learning",
-   "highlight": true,
-   "created_at": "2026-11-15T16:29:33.000Z",
-   "window": "24h",
-   "draft_en": "[R2 · respuesta] The metaphors matter for another reason: they shape how people use the tool. Call it an employee and you start trusting its work like a colleague's. Call it a second brain and you pour everything into it and never prune.\n\nIn medicine we have a name for the first trap: automation bias. The more authoritative a tool sounds, the less we check it.\n\nBetter to call it what it is: a tool whose abilities change every few months.",
-   "draft_keywords": [
-    "Agentes no son 'empleados' ni 'segundo cerebro': la metáfora importa porque cambia cuánto se revisa lo que hace la herramienta (sesgo de automatización, concepto conocido en medicina)"
-   ],
-   "why_hit": "Objetivo de respuesta R2 (Agentes no son 'empleados' ni 'segundo cerebro': la metáfora importa porque cambia cuánto se revisa lo que hace la herramienta (sesgo de automatización, concepto conocido en medicina)). Base verificada: Sin cifras externas. Post EN de Freddy Vega (watchlist, 317K seguidores; 19,2K vistas, 42 respuestas, 296 me gusta): no cree en las metáforas 'empleado' o 'segundo cerebro'; los modelos cambian muy rápido; pide control de acceso, reglas claras y aprender rápido lo nuevo. RT ya le respondió el 26-oct (en inglés). El sesgo de automatización (confiar de más en una herramienta que suena autoritaria) es un concepto documentado en seguridad clínica. Sin «proactividad / decisión ya enmarcada / aprobar», sin infraestructura, sin experiencias de uso inventadas; no repite el ángulo de acceso de R3.",
-   "hook": "The metaphors matter for another reason: they shape how people use the tool. Call it an employee and you start trusting ",
-   "top10_rank": 1
-  },
-  {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 16951,
-   "likes": 445,
-   "replies": 11,
-   "reposts": 47,
-   "url": "https://x.com/midudev/status/2121999392471212151",
-   "status_url": "https://x.com/midudev/status/2121999392471212151",
-   "text": "Por fin! Animaciones por Scroll en CSS disponible en todos los navegadores modernos. https://t.co/3WyWaextTO",
-   "original_en": "Por fin! Animaciones por Scroll en CSS disponible en todos los navegadores modernos. https://t.co/3WyWaextTO",
-   "highlight": true,
-   "created_at": "2026-11-15T16:10:54.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "HermesWatcher",
-   "display_name": "HermesWatcher",
-   "handle": "@HermesWatcher",
-   "area": "ai",
-   "views": 7835,
-   "likes": 88,
-   "replies": 5,
-   "reposts": 4,
-   "url": "https://x.com/HermesWatcher/status/2122132559811448856",
-   "status_url": "https://x.com/HermesWatcher/status/2122132559811448856",
-   "text": "WAITING ON THE HERMES MOBILE APP? WATCH OUT FOR FAKES.\n\nSomeone flagged a \"Hermes Agent - AI\" app showing up first in Play Store search. The team says they're aware and working to get the fakes taken down.\n\nHere's how the real one reaches you right now:\n\n▸ It's a private beta, https://t.co/uYhmCJS6QV",
-   "original_en": "WAITING ON THE HERMES MOBILE APP? WATCH OUT FOR FAKES.\n\nSomeone flagged a \"Hermes Agent - AI\" app showing up first in Play Store search. The team says they're aware and working to get the fakes taken down.\n\nHere's how the real one reaches you right now:\n\n▸ It's a private beta, https://t.co/uYhmCJS6QV",
-   "highlight": true,
-   "created_at": "2026-11-16T01:00:04.000Z",
-   "window": "24h",
-   "draft_en": "[R3 · respuesta] I'm in the private beta, and this deserves more attention than it's getting. A fake agent app is not like a fake game: an agent app asks for your email, your calendar and your files.\n\nSimple rule while it's invite-only: if a \"Hermes\" app shows up openly in a store search, it isn't the real one.",
-   "draft_keywords": [
-    "Apps falsas de Hermes en Play Store: RT está en la beta privada; una app de agente falsa es más peligrosa que un juego falso porque pide correo, calendario y archivos; regla simple mientras sea solo por invitación"
-   ],
-   "why_hit": "Objetivo de respuesta R3 (Apps falsas de Hermes en Play Store: RT está en la beta privada; una app de agente falsa es más peligrosa que un juego falso porque pide correo, calendario y archivos; regla simple mientras sea solo por invitación). Base verificada: Sin cifras externas. Post EN de HermesWatcher (27,9K seguidores; 7,8K vistas): aparece una app falsa 'Hermes Agent - AI' primera en la búsqueda de Play Store; el equipo trabaja para bajarla; la real es beta privada solo por invitación; lanzamiento completo previsto después de Thanksgiving. RT está en la beta privada (ya lo dijo en público el 13-nov); el texto no dice cómo entró ni detalla canales. Postura Cadu no aplica aquí. Sin infraestructura ni experiencias inventadas.",
-   "hook": "I'm in the private beta, and this deserves more attention than it's getting. A fake agent app is not like a fake game: a",
-   "top10_rank": 2
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 5765,
-   "likes": 176,
-   "replies": 9,
-   "reposts": 6,
-   "url": "https://x.com/ErickSky/status/2122159759730114777",
-   "status_url": "https://x.com/ErickSky/status/2122159759730114777",
-   "text": "Acaba de salir Qwen4 y está por arriba de Opus 5.5 en el benchmark que nos importa: DeepSWE.\n\nMe está tentando... https://t.co/05WZVQrI0I",
-   "original_en": "Acaba de salir Qwen4 y está por arriba de Opus 5.5 en el benchmark que nos importa: DeepSWE.\n\nMe está tentando... https://t.co/05WZVQrI0I",
-   "highlight": true,
-   "created_at": "2026-11-16T02:48:09.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "martinvars",
-   "display_name": "martinvars",
-   "handle": "@martinvars",
-   "area": "health",
-   "views": 4499,
-   "likes": 72,
-   "replies": 2,
-   "reposts": 14,
-   "url": "https://x.com/martinvars/status/2122281997892506088",
-   "status_url": "https://x.com/martinvars/status/2122281997892506088",
-   "text": "En cuatro centros de salud de Barcelona y Tarragona, una IA lee la foto del fondo de ojo de un paciente diabético y da el resultado en 11 minutos de media.\n\nEmpezó en julio. En el último mes ya analizó 300 retinografías, un 78% más que el mes anterior y un tercio de todas las que",
-   "original_en": "En cuatro centros de salud de Barcelona y Tarragona, una IA lee la foto del fondo de ojo de un paciente diabético y da el resultado en 11 minutos de media.\n\nEmpezó en julio. En el último mes ya analizó 300 retinografías, un 78% más que el mes anterior y un tercio de todas las que",
-   "highlight": false,
-   "created_at": "2026-11-16T10:53:53.000Z",
-   "window": "24h",
-   "draft_en": "[R1 · respuesta] En Chile esto funciona a escala nacional desde 2018. En la red pública, la retinografía se toma en atención primaria, una IA separa los exámenes normales de los alterados y solo estos últimos pasan a informe de un oftalmólogo a distancia.\n\nHay un aprendizaje de esa experiencia que sirve para cualquier país: de los exámenes que la IA derivó a revisión, cerca de un tercio no se pudo evaluar, por mala calidad de imagen o por opacidades como las cataratas.\n\nPor eso, si tienes diabetes y te dicen que tu fondo de ojo \"no se pudo leer\", no lo tomes como un resultado normal. Hay que repetirlo o pedir evaluación con oftalmólogo.\n\nFuente: https://portalsaluddigital.minsal.cl/celula-oftalmologia-dart/ · https://www.iapb.org/news/dart-impacto-de-tamizaje-nacional-con-inteligencia-artificial/",
-   "draft_keywords": [
-    "IA para retinopatía en APS (Catalunya, 'yo lo haría en toda España'): en Chile la red pública lo hace a escala nacional desde 2018; aprendizaje práctico: un fondo de ojo 'no evaluable' (mala imagen o cataratas) no es un resultado normal"
-   ],
-   "why_hit": "Objetivo de respuesta R1 (IA para retinopatía en APS (Catalunya, 'yo lo haría en toda España'): en Chile la red pública lo hace a escala nacional desde 2018; aprendizaje práctico: un fondo de ojo 'no evaluable' (mala imagen o cataratas) no es un resultado normal). Base verificada: Minsal, Depto. de Salud Digital (Célula Oftalmología): en las UAPO se toma fondo de ojo para tamizaje de retinopatía diabética; una IA separa imágenes normales de alteradas y solo estas se derivan a informe de especialista. IAPB (2019): lanzamiento en mayo de 2018 en 4 Servicios de Salud; al año, 127 UAPO en las 16 regiones; 140.194 exámenes, 54,4% negativos (control anual sin especialista), 45,6% positivos a teleinforme por oftalmólogo; de esos, 31,4% no evaluables por calidad de imagen (sobre todo cámaras portátiles) u opacidad de medios, a menudo cataratas, que también deben ir a atención oftalmológica presencial. Post de Martín Varsavsky (235K seguidores, 4,5K vistas, 74 me gusta) sobre el piloto catalán; RT ya le respondió el 26-oct. No se nombra al proveedor del software.",
-   "hook": "En Chile esto funciona a escala nacional desde 2018. En la red pública, la retinografía se toma en atención primaria, un",
-   "top10_rank": 3
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 3973,
-   "likes": 166,
-   "replies": 5,
-   "reposts": 3,
-   "url": "https://x.com/ErickSky/status/2122159980899979584",
-   "status_url": "https://x.com/ErickSky/status/2122159980899979584",
-   "text": "Listo no se diga más, voy a probar el Qwen4 y les digo.\n\nSíganme si les interesa conocer mi perspectiva 🤗 https://t.co/IFXswnPy8b",
-   "original_en": "Listo no se diga más, voy a probar el Qwen4 y les digo.\n\nSíganme si les interesa conocer mi perspectiva 🤗 https://t.co/IFXswnPy8b",
-   "highlight": false,
-   "created_at": "2026-11-16T02:49:01.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "icreatelife",
-   "display_name": "icreatelife",
-   "handle": "@icreatelife",
-   "area": "ai",
-   "views": 3365,
-   "likes": 44,
-   "replies": 13,
-   "reposts": 0,
-   "url": "https://x.com/icreatelife/status/2122039631227023445",
-   "status_url": "https://x.com/icreatelife/status/2122039631227023445",
-   "text": "On AI changes in industry, life, and what I think, we all should do in our careers. \n\nEverything changed few weeks ago. At the beginning a lot of companies were developing similar technology, and there was a race who'll develop the best models. Right now some models are clearly",
-   "original_en": "On AI changes in industry, life, and what I think, we all should do in our careers. \n\nEverything changed few weeks ago. At the beginning a lot of companies were developing similar technology, and there was a race who'll develop the best models. Right now some models are clearly",
-   "highlight": false,
-   "created_at": "2026-11-15T18:50:48.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 2933,
-   "likes": 61,
-   "replies": 9,
-   "reposts": 1,
-   "url": "https://x.com/ErickSky/status/2122267354012783054",
-   "status_url": "https://x.com/ErickSky/status/2122267354012783054",
-   "text": "Yo supongo que la gente de Hy4 de pregunta el motivo por el que aunque aparece bien posicionado en los benchmarks, no se usa tanto...\n\nAhora mismo y por las siguientes dos semanas, al usarse, no se descontará tu uso del plan.\n\nEs la primera vez que veo esto. https://t.co/FBYsuOIDy2",
-   "original_en": "Yo supongo que la gente de Hy4 de pregunta el motivo por el que aunque aparece bien posicionado en los benchmarks, no se usa tanto...\n\nAhora mismo y por las siguientes dos semanas, al usarse, no se descontará tu uso del plan.\n\nEs la primera vez que veo esto. https://t.co/FBYsuOIDy2",
-   "highlight": false,
-   "created_at": "2026-11-16T09:55:41.000Z",
-   "window": "24h"
-  },
   {
    "name": "latercera",
    "display_name": "latercera",
    "handle": "@latercera",
    "area": "health",
-   "views": 2445,
-   "likes": 14,
-   "replies": 2,
-   "reposts": 9,
-   "url": "https://x.com/latercera/status/2122053270617416131",
-   "status_url": "https://x.com/latercera/status/2122053270617416131",
-   "text": "Hospital Digital del Minsal registra más de 10 mil atenciones por diabetes en 2026 y amplía el acceso a especialistas https://t.co/eSCNDaqnsG",
-   "original_en": "Hospital Digital del Minsal registra más de 10 mil atenciones por diabetes en 2026 y amplía el acceso a especialistas https://t.co/eSCNDaqnsG",
-   "highlight": false,
-   "created_at": "2026-11-15T19:45:00.000Z",
+   "views": 75045,
+   "likes": 1313,
+   "replies": 164,
+   "reposts": 360,
+   "url": "https://x.com/latercera/status/2122441700123856979",
+   "status_url": "https://x.com/latercera/status/2122441700123856979",
+   "text": "Ministerio de Ciencia y OpenAI se unen para capacitar en inteligencia artificial y modernizar los servicios del Estado https://t.co/8ePzDliSe8",
+   "original_en": "Ministerio de Ciencia y OpenAI se unen para capacitar en inteligencia artificial y modernizar los servicios del Estado https://t.co/8ePzDliSe8",
+   "highlight": true,
+   "created_at": "2026-11-16T21:28:29.000Z",
    "window": "24h"
   },
   {
-   "name": "colmedchile",
-   "display_name": "colmedchile",
-   "handle": "@colmedchile",
+   "name": "T13",
+   "display_name": "T13",
+   "handle": "@T13",
    "area": "health",
-   "views": 2391,
-   "likes": 39,
-   "replies": 0,
-   "reposts": 25,
-   "url": "https://x.com/colmedchile/status/2122070635161542710",
-   "status_url": "https://x.com/colmedchile/status/2122070635161542710",
-   "text": "📣 Sin seguridad, no hay salud.\nEl Dr. Vargas invita a todas las médicas y médicos colegiados a participar en la Encuesta Nacional “Sin seguridad no hay salud 2026” del Colegio Médico de Chile.\nTu opinión es fundamental para conocer la realidad de nuestros centros de salud e https://t.co/qRSSZnkhG5",
-   "original_en": "📣 Sin seguridad, no hay salud.\nEl Dr. Vargas invita a todas las médicas y médicos colegiados a participar en la Encuesta Nacional “Sin seguridad no hay salud 2026” del Colegio Médico de Chile.\nTu opinión es fundamental para conocer la realidad de nuestros centros de salud e https://t.co/qRSSZnkhG5",
-   "highlight": false,
-   "created_at": "2026-11-15T20:54:00.000Z",
+   "views": 37515,
+   "likes": 140,
+   "replies": 25,
+   "reposts": 60,
+   "url": "https://x.com/T13/status/2122375351737217440",
+   "status_url": "https://x.com/T13/status/2122375351737217440",
+   "text": "🟠#AlertaT13 | Trasladan de urgencia a paciente de clínica clandestina\n\nEN VIVO 📺#T13Tarde » https://t.co/uxMKKyV93k https://t.co/f5E2Sl14be",
+   "original_en": "🟠#AlertaT13 | Trasladan de urgencia a paciente de clínica clandestina\n\nEN VIVO 📺#T13Tarde » https://t.co/uxMKKyV93k https://t.co/f5E2Sl14be",
+   "highlight": true,
+   "created_at": "2026-11-16T17:04:50.000Z",
    "window": "24h"
   },
   {
-   "name": "Alexvx_nft",
-   "display_name": "Alexvx_nft",
-   "handle": "@Alexvx_nft",
+   "name": "biobio",
+   "display_name": "biobio",
+   "handle": "@biobio",
+   "area": "health",
+   "views": 25130,
+   "likes": 171,
+   "replies": 19,
+   "reposts": 64,
+   "url": "https://x.com/biobio/status/2122435020262371712",
+   "status_url": "https://x.com/biobio/status/2122435020262371712",
+   "text": "Clausuran clínica estética en Las Condes en plena liposucción de paciente: no tenía permiso sanitario\nhttps://t.co/HAPz91DBQx",
+   "original_en": "Clausuran clínica estética en Las Condes en plena liposucción de paciente: no tenía permiso sanitario\nhttps://t.co/HAPz91DBQx",
+   "highlight": true,
+   "created_at": "2026-11-16T21:01:56.000Z",
+   "window": "24h",
+   "draft_en": "[R1 · respuesta] Una liposucción es una cirugía mayor, con anestesia y riesgo de complicaciones graves como trombosis o embolia. Hacerla en un lugar sin autorización sanitaria deja al paciente sin respaldo justo cuando algo sale mal.\n\nAntes de cualquier procedimiento estético con anestesia o bisturí, dos revisiones que toman cinco minutos:\n1. Busca al profesional en el Registro Nacional de Prestadores Individuales de la Superintendencia de Salud y revisa su especialidad.\n2. Pide al centro su autorización sanitaria de la Seremi.\n\nSi no te la pueden mostrar, no te operes ahí.\n\nFuente: https://www.superdesalud.gob.cl/tramites/registro-nacional-de-prestadores-individuales-de-salud/ · https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/16/clausuran-clinica-estetica-en-las-condes-en-plena-liposuccion-de-paciente-no-tenia-permiso-sanitario.shtml",
+   "draft_keywords": [
+    "Clínica estética clandestina en Las Condes (liposucción sin autorización sanitaria): una liposucción es cirugía mayor; dos revisiones antes de operarse: profesional en el Registro de Prestadores de la Superintendencia y autorización sanitaria de la Seremi"
+   ],
+   "why_hit": "Objetivo de respuesta R1 (Clínica estética clandestina en Las Condes (liposucción sin autorización sanitaria): una liposucción es cirugía mayor; dos revisiones antes de operarse: profesional en el Registro de Prestadores de la Superintendencia y autorización sanitaria de la Seremi). Base verificada: BioBio/The Clinic 16-nov-2026: la Seremi RM clausuró la Clínica Novae (Las Condes), que hacía liposucciones y aumentos mamarios sin autorización sanitaria; una paciente en plena liposucción fue trasladada de urgencia; antecedentes al Ministerio Público. Superintendencia de Salud: el Registro Nacional de Prestadores Individuales (DS 16/2007) permite consultar si una persona está legalmente habilitada para ejercer y su especialidad. Las Seremi otorgan la autorización sanitaria de los establecimientos. Post BioBio 25,1K vistas, 19 respuestas. El texto no nombra la clínica.",
+   "hook": "Una liposucción es una cirugía mayor, con anestesia y riesgo de complicaciones graves como trombosis o embolia. Hacerla ",
+   "top10_rank": 1
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
    "area": "ai",
-   "views": 2283,
-   "likes": 47,
+   "views": 18400,
+   "likes": 230,
+   "replies": 12,
+   "reposts": 7,
+   "url": "https://x.com/ErickSky/status/2122447371363913957",
+   "status_url": "https://x.com/ErickSky/status/2122447371363913957",
+   "text": "Yo a los viejos clientes les estoy cobrando por conectarle sus webs a Claude y que ellos modifiquen todo lo que quieran sin pasar por mi.\n\nY a los nuevos les cobro como adicional dejarles a su Claude conectado.\n\nSigo ganando comisiones de afiliados por el hosting. https://t.co/CnbqBKW16F",
+   "original_en": "Yo a los viejos clientes les estoy cobrando por conectarle sus webs a Claude y que ellos modifiquen todo lo que quieran sin pasar por mi.\n\nY a los nuevos les cobro como adicional dejarles a su Claude conectado.\n\nSigo ganando comisiones de afiliados por el hosting. https://t.co/CnbqBKW16F",
+   "highlight": true,
+   "created_at": "2026-11-16T21:51:01.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "packyM",
+   "display_name": "packyM",
+   "handle": "@packyM",
+   "area": "ai",
+   "views": 14014,
+   "likes": 149,
    "replies": 27,
-   "reposts": 0,
-   "url": "https://x.com/Alexvx_nft/status/2122032189386985827",
-   "status_url": "https://x.com/Alexvx_nft/status/2122032189386985827",
-   "text": "GROK BOT JUST GOT A SEAT IN YOUR SLACK\n\nxAI shipped Grok Bot 1.0 and the open source copies showed up within a week\n\nTEAMMATES\n\n1. Grok Bot 1.0 - joins Slack, Teams and video calls, spots work, follows up on unfinished tasks, asks before sensitive actions\nhttps://t.co/WoAfrmghOT https://t.co/miZY7qD4pd",
-   "original_en": "GROK BOT JUST GOT A SEAT IN YOUR SLACK\n\nxAI shipped Grok Bot 1.0 and the open source copies showed up within a week\n\nTEAMMATES\n\n1. Grok Bot 1.0 - joins Slack, Teams and video calls, spots work, follows up on unfinished tasks, asks before sensitive actions\nhttps://t.co/WoAfrmghOT https://t.co/miZY7qD4pd",
+   "reposts": 2,
+   "url": "https://x.com/packyM/status/2122487181738713559",
+   "status_url": "https://x.com/packyM/status/2122487181738713559",
+   "text": "I just got access to Claude Duet! It’s cool. It’s kind of like Muse, Instinct, Dot, Quest, Poke, Hark, Grok Bot, OpenClaw, Pally, etc… but more orange. https://t.co/fs5vQjF3NG",
+   "original_en": "I just got access to Claude Duet! It’s cool. It’s kind of like Muse, Instinct, Dot, Quest, Poke, Hark, Grok Bot, OpenClaw, Pally, etc… but more orange. https://t.co/fs5vQjF3NG",
+   "highlight": true,
+   "created_at": "2026-11-17T00:29:12.000Z",
+   "window": "24h",
+   "draft_en": "[R4 · respuesta] Same feeling I had with the Hermes mobile app beta: beautifully built, but very close to Cadu, the app its designer made before.\n\nPolish isn't what sets these apps apart anymore; they all have it. I'd rather try the one that does something none of the others do, even if it's rough around the edges.",
+   "draft_keywords": [
+    "Claude Duet 'como Muse, Dot, Grok Bot... pero más naranja': las apps de agentes se parecen; RT sintió lo mismo con la beta de la app de Hermes (muy pulida, muy parecida a Cadu); el pulido ya no diferencia"
+   ],
+   "why_hit": "Objetivo de respuesta R4 (Claude Duet 'como Muse, Dot, Grok Bot... pero más naranja': las apps de agentes se parecen; RT sintió lo mismo con la beta de la app de Hermes (muy pulida, muy parecida a Cadu); el pulido ya no diferencia). Base verificada: Sin cifras externas. Post EN de packyM (14K vistas, 27 respuestas): acceso a Claude Duet, 'como Muse, Instinct, Dot, Quest, Poke, Hark, Grok Bot, OpenClaw, Pally... pero más naranja'. Postura RT (memoria): está en la beta privada de la app de Hermes (no se dice cómo entró), la app es muy pulida pero se parece mucho a Cadu, cuyo creador ahora hace la app oficial; esperaba algo más original. Usa solo esos dos puntos. Ojo: el ángulo Cadu ya se propuso el 11-nov (arshamg_); si Wally lo ve repetido, se suelta.",
+   "hook": "Same feeling I had with the Hermes mobile app beta: beautifully built, but very close to Cadu, the app its designer made",
+   "top10_rank": 2
+  },
+  {
+   "name": "sergiorocaa",
+   "display_name": "sergiorocaa",
+   "handle": "@sergiorocaa",
+   "area": "ai",
+   "views": 13443,
+   "likes": 169,
+   "replies": 18,
+   "reposts": 4,
+   "url": "https://x.com/sergiorocaa/status/2122402192930070713",
+   "status_url": "https://x.com/sergiorocaa/status/2122402192930070713",
+   "text": "Launching the same ad on every platform meant a dozen tabs and a lot of copy-paste. \n\nNow I connect my accounts once and Max on Creatify launches it everywhere. I just approve. \n\nTry Max on Creatify. https://t.co/1jjbstorMl https://t.co/x6YNKlQhJr",
+   "original_en": "Launching the same ad on every platform meant a dozen tabs and a lot of copy-paste. \n\nNow I connect my accounts once and Max on Creatify launches it everywhere. I just approve. \n\nTry Max on Creatify. https://t.co/1jjbstorMl https://t.co/x6YNKlQhJr",
+   "highlight": true,
+   "created_at": "2026-11-16T18:51:29.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "jmanalich",
+   "display_name": "jmanalich",
+   "handle": "@jmanalich",
+   "area": "health",
+   "views": 13300,
+   "likes": 411,
+   "replies": 27,
+   "reposts": 129,
+   "url": "https://x.com/jmanalich/status/2122421322256949395",
+   "status_url": "https://x.com/jmanalich/status/2122421322256949395",
+   "text": "Tres hospitales. https://t.co/zkkRjWCJdI",
+   "original_en": "Tres hospitales. https://t.co/zkkRjWCJdI",
+   "highlight": true,
+   "created_at": "2026-11-16T20:07:30.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "CNNChile",
+   "display_name": "CNNChile",
+   "handle": "@CNNChile",
+   "area": "ai",
+   "views": 12307,
+   "likes": 228,
+   "replies": 20,
+   "reposts": 59,
+   "url": "https://x.com/CNNChile/status/2122490235510816976",
+   "status_url": "https://x.com/CNNChile/status/2122490235510816976",
+   "text": "#CNNBits | Ministra Lincolao y CEO de OpenAI firman acuerdo para capacitar a funcionarios públicos en inteligencia artificial\nhttps://t.co/PxKeWgJ42S",
+   "original_en": "#CNNBits | Ministra Lincolao y CEO de OpenAI firman acuerdo para capacitar a funcionarios públicos en inteligencia artificial\nhttps://t.co/PxKeWgJ42S",
+   "highlight": true,
+   "created_at": "2026-11-17T00:41:20.000Z",
+   "window": "24h",
+   "draft_en": "[R2 · respuesta] Para que esta capacitación sirva en salud, la primera lección tiene que ser qué datos no se suben. En Chile, toda la información de la ficha clínica es dato sensible por ley (Ley 20.584, art. 12): no se pega en una herramienta solo porque es cómoda o gratis.\n\nY hay mucho espacio útil sin datos de pacientes: redactar protocolos, resumir normativa, preparar material educativo. Lo clínico, solo en plataformas autorizadas por la institución y con un profesional que revise lo que sale.\n\nFuente: https://www.suseso.gob.cl/612/w3-propertyvalue-130626.html · https://www.df.cl/df-lab/tech-empresas/ministra-lincolao-y-sam-altman-ceo-de-openai-firman-acuerdo-para",
+   "draft_keywords": [
+    "Acuerdo Ministerio de Ciencia–OpenAI para capacitar funcionarios en IA: en salud, la primera lección es qué datos no se suben (ficha clínica = dato sensible, Ley 20.584 art. 12) y dónde sí sirve la IA sin datos de pacientes"
+   ],
+   "why_hit": "Objetivo de respuesta R2 (Acuerdo Ministerio de Ciencia–OpenAI para capacitar funcionarios en IA: en salud, la primera lección es qué datos no se suben (ficha clínica = dato sensible, Ley 20.584 art. 12) y dónde sí sirve la IA sin datos de pacientes). Base verificada: DF 16-nov-2026: memorándum 'OpenAI para Chile' (OpenAI for Countries) firmado por la ministra de Ciencia y Sam Altman para capacitar funcionarios del Estado en IA, con protección de datos y supervisión humana; una segunda fase con proyectos específicos sería pagada. Ley 20.584, art. 12: toda la información de la ficha clínica y de estudios y procedimientos es dato sensible (art. 2 g) Ley 19.628). Post CNN Chile 12,3K vistas, 20 respuestas (La Tercera tiene la misma noticia con 75K y 164 respuestas, conversación más politizada: por eso se eligió CNN Chile). Sin opinión sobre el Gobierno ni sobre el acuerdo en sí.",
+   "hook": "Para que esta capacitación sirva en salud, la primera lección tiene que ser qué datos no se suben. En Chile, toda la inf",
+   "top10_rank": 3
+  },
+  {
+   "name": "sergiorocaa",
+   "display_name": "sergiorocaa",
+   "handle": "@sergiorocaa",
+   "area": "ai",
+   "views": 11602,
+   "likes": 84,
+   "replies": 19,
+   "reposts": 4,
+   "url": "https://x.com/sergiorocaa/status/2122380970439368853",
+   "status_url": "https://x.com/sergiorocaa/status/2122380970439368853",
+   "text": "imagine having an AI agent that calls 10 different doctor’s offices just to find you the earliest available appointment.\n\nand you don’t have to make a single call yourself.\n\nthat’s what August is building. https://t.co/DormvQKzOD",
+   "original_en": "imagine having an AI agent that calls 10 different doctor’s offices just to find you the earliest available appointment.\n\nand you don’t have to make a single call yourself.\n\nthat’s what August is building. https://t.co/DormvQKzOD",
+   "highlight": true,
+   "created_at": "2026-11-16T17:27:09.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 11195,
+   "likes": 172,
+   "replies": 1,
+   "reposts": 118,
+   "url": "https://x.com/adnradiochile/status/2122384704552751119",
+   "status_url": "https://x.com/adnradiochile/status/2122384704552751119",
+   "text": "Ciberataque golpea al Hospital Clínico de la U. de Chile: agendamientos de salud afectados\n\nhttps://t.co/F54ZjfHNgw",
+   "original_en": "Ciberataque golpea al Hospital Clínico de la U. de Chile: agendamientos de salud afectados\n\nhttps://t.co/F54ZjfHNgw",
+   "highlight": true,
+   "created_at": "2026-11-16T17:42:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "biobio",
+   "display_name": "biobio",
+   "handle": "@biobio",
+   "area": "health",
+   "views": 9604,
+   "likes": 150,
+   "replies": 4,
+   "reposts": 43,
+   "url": "https://x.com/biobio/status/2122321416603173137",
+   "status_url": "https://x.com/biobio/status/2122321416603173137",
+   "text": "Famoso matemático Ian Stewart pide frenar la IA y advierte que \"se encuentra en un estado de anarquía\"\nhttps://t.co/a747tV7crw",
+   "original_en": "Famoso matemático Ian Stewart pide frenar la IA y advierte que \"se encuentra en un estado de anarquía\"\nhttps://t.co/a747tV7crw",
+   "highlight": true,
+   "created_at": "2026-11-16T13:30:31.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "MatiasSchrank",
+   "display_name": "MatiasSchrank",
+   "handle": "@MatiasSchrank",
+   "area": "ai",
+   "views": 8491,
+   "likes": 26,
+   "replies": 7,
+   "reposts": 8,
+   "url": "https://x.com/MatiasSchrank/status/2122386859598680436",
+   "status_url": "https://x.com/MatiasSchrank/status/2122386859598680436",
+   "text": "Todo el mundo habla de agentes de IA en las empresas y en el sector de la salud. Pero casi nadie habla de un agente de IA que realmente haga el trabajo en el ámbito sanitario.\n\nEso es lo que está desarrollando August Agent.\n\nLlama al consultorio médico, reserva turnos, compara https://t.co/uZCVJoRGZu",
+   "original_en": "Todo el mundo habla de agentes de IA en las empresas y en el sector de la salud. Pero casi nadie habla de un agente de IA que realmente haga el trabajo en el ámbito sanitario.\n\nEso es lo que está desarrollando August Agent.\n\nLlama al consultorio médico, reserva turnos, compara https://t.co/uZCVJoRGZu",
+   "highlight": true,
+   "created_at": "2026-11-16T17:50:34.000Z",
+   "window": "24h",
+   "draft_en": "[R3 · respuesta] Útil, sobre todo para quien no puede pasar la mañana colgado al teléfono. Pero la hora más pronta no siempre es la respuesta correcta.\n\nUn agente así debería preguntar primero qué le pasa a la persona. En oftalmología lo vemos seguido: una pérdida brusca de visión en un ojo, una cortina que tapa parte de la visión o destellos con manchas nuevas no pueden esperar la primera hora libre en tres semanas. Eso se consulta el mismo día en urgencia.\n\nAgendar es la parte fácil. Saber cuándo no agendar y mandar a urgencia es lo que lo hace seguro.\n\nFuente: https://www.businesswire.com/news/home/20261116422330/en/August-AI-Can-Now-Make-the-Calls-Fight-the-Medical-Bills-and-Take-On-the-Unpaid-Work-of-Being-a-Patient",
+   "draft_keywords": [
+    "Agente de IA que llama a consultas para conseguir la primera hora (August): útil, pero la hora más pronta no siempre es la correcta; debe preguntar el síntoma primero y reconocer urgencias (pérdida brusca de visión, cortina, destellos con manchas nuevas)"
+   ],
+   "why_hit": "Objetivo de respuesta R3 (Agente de IA que llama a consultas para conseguir la primera hora (August): útil, pero la hora más pronta no siempre es la correcta; debe preguntar el síntoma primero y reconocer urgencias (pérdida brusca de visión, cortina, destellos con manchas nuevas)). Base verificada: Business Wire 16-nov-2026: August AI lanza un agente que llama a consultas, verifica disponibilidad y cobertura, agenda la primera hora confirmada y vigila cancelaciones (beta, lista de espera, EE. UU.). Post de MatiasSchrank 8,5K vistas (sergiorocaa publicó lo mismo en inglés, 11,6K). Los signos de alarma (pérdida brusca de visión en un ojo, cortina en el campo visual, destellos con moscas nuevas) son criterios clásicos de consulta urgente por posible desprendimiento de retina u oclusión vascular. Sin infraestructura ni experiencias de uso inventadas; sin «proactividad / decisión ya enmarcada / aprobar».",
+   "hook": "Útil, sobre todo para quien no puede pasar la mañana colgado al teléfono. Pero la hora más pronta no siempre es la respu",
+   "top10_rank": 4
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 8196,
+   "likes": 169,
+   "replies": 7,
+   "reposts": 3,
+   "url": "https://x.com/ErickSky/status/2122336979845017959",
+   "status_url": "https://x.com/ErickSky/status/2122336979845017959",
+   "text": "Qué locura es Rust chicos https://t.co/mbrkzSexHl",
+   "original_en": "Qué locura es Rust chicos https://t.co/mbrkzSexHl",
+   "highlight": true,
+   "created_at": "2026-11-16T14:32:21.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 4850,
+   "likes": 14,
+   "replies": 0,
+   "reposts": 7,
+   "url": "https://x.com/adnradiochile/status/2122427234824982869",
+   "status_url": "https://x.com/adnradiochile/status/2122427234824982869",
+   "text": "Clausuran centro de estética clandestino en Las Condes: encontraron a paciente en plena cirugía y debió ser trasladada https://t.co/BZtAddXE3a",
+   "original_en": "Clausuran centro de estética clandestino en Las Condes: encontraron a paciente en plena cirugía y debió ser trasladada https://t.co/BZtAddXE3a",
    "highlight": false,
-   "created_at": "2026-11-15T18:21:14.000Z",
+   "created_at": "2026-11-16T20:31:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "biobio",
+   "display_name": "biobio",
+   "handle": "@biobio",
+   "area": "health",
+   "views": 4080,
+   "likes": 2,
+   "replies": 0,
+   "reposts": 1,
+   "url": "https://x.com/biobio/status/2122659148139495721",
+   "status_url": "https://x.com/biobio/status/2122659148139495721",
+   "text": "Hospital Las Higueras logra tercer lugar en ranking que evaluó a más de 50 recintos de salud en Chile \n\nhttps://t.co/JgMKuEthqq",
+   "original_en": "Hospital Las Higueras logra tercer lugar en ranking que evaluó a más de 50 recintos de salud en Chile \n\nhttps://t.co/JgMKuEthqq",
+   "highlight": false,
+   "created_at": "2026-11-17T11:52:32.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "T13",
+   "display_name": "T13",
+   "handle": "@T13",
+   "area": "health",
+   "views": 3958,
+   "likes": 5,
+   "replies": 0,
+   "reposts": 5,
+   "url": "https://x.com/T13/status/2122480489043013705",
+   "status_url": "https://x.com/T13/status/2122480489043013705",
+   "text": "Clausuran clínica estética clandestina en Las Condes mientras una paciente era intervenida quirúrgicamente https://t.co/se9QMCHj1U",
+   "original_en": "Clausuran clínica estética clandestina en Las Condes mientras una paciente era intervenida quirúrgicamente https://t.co/se9QMCHj1U",
+   "highlight": false,
+   "created_at": "2026-11-17T00:02:37.000Z",
    "window": "24h"
   },
   {
@@ -219,35 +311,166 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 2090,
-   "likes": 35,
-   "replies": 4,
-   "reposts": 4,
-   "url": "https://x.com/ErickSky/status/2122055317081002195",
-   "status_url": "https://x.com/ErickSky/status/2122055317081002195",
-   "text": "Les llegó el invierno a los modeladores 3D y artistas de efectos especiales. https://t.co/4xykLGQA6y",
-   "original_en": "Les llegó el invierno a los modeladores 3D y artistas de efectos especiales. https://t.co/4xykLGQA6y",
+   "views": 3595,
+   "likes": 33,
+   "replies": 3,
+   "reposts": 0,
+   "url": "https://x.com/ErickSky/status/2122408648630509634",
+   "status_url": "https://x.com/ErickSky/status/2122408648630509634",
+   "text": "Adivinen cuál es el modelo que está un poquitito más caro y un poco más arriba? Jajajaja https://t.co/UaM2MyfFKe",
+   "original_en": "Adivinen cuál es el modelo que está un poquitito más caro y un poco más arriba? Jajajaja https://t.co/UaM2MyfFKe",
    "highlight": false,
-   "created_at": "2026-11-15T19:53:08.000Z",
+   "created_at": "2026-11-16T19:17:08.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 3092,
+   "likes": 60,
+   "replies": 1,
+   "reposts": 3,
+   "url": "https://x.com/ErickSky/status/2122350515946160211",
+   "status_url": "https://x.com/ErickSky/status/2122350515946160211",
+   "text": "Sí, Pero que este vibecodeado y hecho con IA los assets no le quita lo arrechísimo que está este juego.\n\nEs uno de los indies (verdaderos indies) más potentes que hay. https://t.co/71s3MRHVNv",
+   "original_en": "Sí, Pero que este vibecodeado y hecho con IA los assets no le quita lo arrechísimo que está este juego.\n\nEs uno de los indies (verdaderos indies) más potentes que hay. https://t.co/71s3MRHVNv",
+   "highlight": false,
+   "created_at": "2026-11-16T15:26:09.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "KSimback",
+   "display_name": "KSimback",
+   "handle": "@KSimback",
+   "area": "ai",
+   "views": 3069,
+   "likes": 31,
+   "replies": 10,
+   "reposts": 2,
+   "url": "https://x.com/KSimback/status/2122668323447906399",
+   "status_url": "https://x.com/KSimback/status/2122668323447906399",
+   "text": "Which AI agent are you using, and why?\n\nInstinct\nn8n Nod\nGrok Bot\nOpenClaw\nMeta Muse\nOpenAI dots\nClaude Duet\nHermes Agent\n\nThis guide breaks them all down to help you decide https://t.co/ZSgBk9GVxs",
+   "original_en": "Which AI agent are you using, and why?\n\nInstinct\nn8n Nod\nGrok Bot\nOpenClaw\nMeta Muse\nOpenAI dots\nClaude Duet\nHermes Agent\n\nThis guide breaks them all down to help you decide https://t.co/ZSgBk9GVxs",
+   "highlight": false,
+   "created_at": "2026-11-17T12:29:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 2632,
+   "likes": 25,
+   "replies": 0,
+   "reposts": 0,
+   "url": "https://x.com/ErickSky/status/2122354260100698385",
+   "status_url": "https://x.com/ErickSky/status/2122354260100698385",
+   "text": "Estoy de acuerdo 🤗 https://t.co/VYGziDp8Yx",
+   "original_en": "Estoy de acuerdo 🤗 https://t.co/VYGziDp8Yx",
+   "highlight": false,
+   "created_at": "2026-11-16T15:41:01.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ministeriosalud",
+   "display_name": "ministeriosalud",
+   "handle": "@ministeriosalud",
+   "area": "health",
+   "views": 2460,
+   "likes": 12,
+   "replies": 0,
+   "reposts": 5,
+   "url": "https://x.com/ministeriosalud/status/2122435959929106491",
+   "status_url": "https://x.com/ministeriosalud/status/2122435959929106491",
+   "text": "Disminuye las medidas de contagio del virus Hanta siguiendo estas recomendaciones, especialmente si vives o visitas zonas rurales o semirrurales. \n\n¡Prevén y cuídate! https://t.co/eNqva5pyVK",
+   "original_en": "Disminuye las medidas de contagio del virus Hanta siguiendo estas recomendaciones, especialmente si vives o visitas zonas rurales o semirrurales. \n\n¡Prevén y cuídate! https://t.co/eNqva5pyVK",
+   "highlight": false,
+   "created_at": "2026-11-16T21:05:40.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "T13",
+   "display_name": "T13",
+   "handle": "@T13",
+   "area": "health",
+   "views": 2311,
+   "likes": 3,
+   "replies": 0,
+   "reposts": 1,
+   "url": "https://x.com/T13/status/2122645510603567605",
+   "status_url": "https://x.com/T13/status/2122645510603567605",
+   "text": "“Estar sin él, sin escuchar su risa”: El desgarrador relato de padres de niño de 3 años que murió tras ser atendido en hospital de La Araucanía\n\nhttps://t.co/UktfGcHleL",
+   "original_en": "“Estar sin él, sin escuchar su risa”: El desgarrador relato de padres de niño de 3 años que murió tras ser atendido en hospital de La Araucanía\n\nhttps://t.co/UktfGcHleL",
+   "highlight": false,
+   "created_at": "2026-11-17T10:58:21.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "24HorasTVN",
+   "display_name": "24HorasTVN",
+   "handle": "@24HorasTVN",
+   "area": "health",
+   "views": 2098,
+   "likes": 0,
+   "replies": 1,
+   "reposts": 1,
+   "url": "https://x.com/24HorasTVN/status/2122327619031175649",
+   "status_url": "https://x.com/24HorasTVN/status/2122327619031175649",
+   "text": "\"Una campaña no cambiará el rumbo\": Subsecretaria de Salud Pública por consumo de vapeadores en adolescentes \n\nMás detalles ⬇\nhttps://t.co/xyPmyXtQNb",
+   "original_en": "\"Una campaña no cambiará el rumbo\": Subsecretaria de Salud Pública por consumo de vapeadores en adolescentes \n\nMás detalles ⬇\nhttps://t.co/xyPmyXtQNb",
+   "highlight": false,
+   "created_at": "2026-11-16T13:55:09.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "24HorasTVN",
+   "display_name": "24HorasTVN",
+   "handle": "@24HorasTVN",
+   "area": "health",
+   "views": 2014,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 1,
+   "url": "https://x.com/24HorasTVN/status/2122494936364847461",
+   "status_url": "https://x.com/24HorasTVN/status/2122494936364847461",
+   "text": "💟 #Bienestar \n\nDiabetes en Chile: más del 12% de los adultos vive con la enfermedad y puede no presentar síntomas \n\nMás detalles ⬇\nhttps://t.co/yG3ZxUOsn8",
+   "original_en": "💟 #Bienestar \n\nDiabetes en Chile: más del 12% de los adultos vive con la enfermedad y puede no presentar síntomas \n\nMás detalles ⬇\nhttps://t.co/yG3ZxUOsn8",
+   "highlight": false,
+   "created_at": "2026-11-17T01:00:01.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "Cooperativa",
+   "display_name": "Cooperativa",
+   "handle": "@Cooperativa",
+   "area": "health",
+   "views": 2012,
+   "likes": 0,
+   "replies": 0,
+   "reposts": 0,
+   "url": "https://x.com/Cooperativa/status/2122410898555879745",
+   "status_url": "https://x.com/Cooperativa/status/2122410898555879745",
+   "text": "Sergio Bustamante, CEO de la Startup de salud \"Mis DatosMed\" https://t.co/0bf9EzTKkF",
+   "original_en": "Sergio Bustamante, CEO de la Startup de salud \"Mis DatosMed\" https://t.co/0bf9EzTKkF",
+   "highlight": false,
+   "created_at": "2026-11-16T19:26:05.000Z",
    "window": "24h"
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Las opiniones contra el consenso ('no creo en la metáfora de...') de cuentas grandes generan conversación (42 respuestas) más que los anuncios de producto",
-  "Las alertas de seguridad sobre apps de agentes (falsificaciones) circulan rápido entre quienes esperan la beta",
-  "La IA aplicada a la retina sigue rebotando en medios y cuentas de España; Chile tiene experiencia propia que casi nadie cita",
-  "La alerta GLP-1/NAION ya rebota con poca tracción: sin dato nuevo, mejor no responder"
+  "Las noticias de fiscalización sanitaria con un paciente en riesgo se replican en todos los medios el mismo día: buen momento para un consejo práctico de verificación",
+  "Los acuerdos del Estado con empresas de IA generan muchas respuestas, pero la conversación se polariza; conviene responder en la cuenta menos politizada y con un dato normativo",
+  "Los agentes de IA aplicados a salud (agendar, cuentas médicas) viajan del inglés al español en horas",
+  "Las comparaciones 'todas las apps de agentes se parecen' generan más conversación que los anuncios"
  ],
  "no_hits": [
   {
-   "handle": "@sergiorocaa",
-   "max_views": 610,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 610."
-  },
-  {
-   "handle": "@ministeriosalud",
+   "handle": "@bilinkis",
    "max_views": 0,
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
@@ -258,8 +481,8 @@
   },
   {
    "handle": "@juancarlossaid",
-   "max_views": 0,
-   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
+   "max_views": 1046,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.046."
   },
   {
    "handle": "@CatuRojas",
@@ -268,28 +491,18 @@
   },
   {
    "handle": "@HeliaMolina_M",
-   "max_views": 0,
-   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
-  },
-  {
-   "handle": "@jmanalich",
-   "max_views": 0,
-   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
-  },
-  {
-   "handle": "@CNNChile",
-   "max_views": 1611,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.611."
+   "max_views": 321,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 321."
   }
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 12,
+ "hits_count": 25,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-11-15",
-  "hits_count": 16,
-  "total_views": 594313
+  "date": "2026-11-16",
+  "hits_count": 12,
+  "total_views": 73764
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -357,56 +570,11 @@
  },
  "day_roster": [
   {
-   "handle": "@ErickSky",
-   "name": "ErickSky",
-   "area": "ai",
-   "views": 66370,
-   "total_views": 108659,
-   "hit": true,
-   "window": "24h"
-  },
-  {
    "handle": "@midudev",
    "name": "midudev",
    "area": "ai",
-   "views": 39677,
-   "total_views": 56628,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@freddier",
-   "name": "freddier",
-   "area": "ai",
-   "views": 19234,
-   "total_views": 19234,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@DotCSV",
-   "name": "DotCSV",
-   "area": "ai",
-   "views": 14565,
-   "total_views": 14565,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@Cooperativa",
-   "name": "Cooperativa",
-   "area": "health",
-   "views": 12182,
-   "total_views": 25347,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@bilinkis",
-   "name": "bilinkis",
-   "area": "ai",
-   "views": 5698,
-   "total_views": 5698,
+   "views": 79354,
+   "total_views": 195749,
    "hit": true,
    "window": "24h"
   },
@@ -414,8 +582,62 @@
    "handle": "@adnradiochile",
    "name": "adnradiochile",
    "area": "health",
-   "views": 3972,
-   "total_views": 23640,
+   "views": 44052,
+   "total_views": 61301,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@Cooperativa",
+   "name": "Cooperativa",
+   "area": "health",
+   "views": 36380,
+   "total_views": 43487,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@DotCSV",
+   "name": "DotCSV",
+   "area": "ai",
+   "views": 21643,
+   "total_views": 21643,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@ErickSky",
+   "name": "ErickSky",
+   "area": "ai",
+   "views": 18606,
+   "total_views": 100469,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@freddier",
+   "name": "freddier",
+   "area": "ai",
+   "views": 18218,
+   "total_views": 25789,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@sergiorocaa",
+   "name": "sergiorocaa",
+   "area": "ai",
+   "views": 13443,
+   "total_views": 25499,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@jmanalich",
+   "name": "jmanalich",
+   "area": "health",
+   "views": 13300,
+   "total_views": 15069,
    "hit": true,
    "window": "24h"
   },
@@ -423,24 +645,42 @@
    "handle": "@CNNChile",
    "name": "CNNChile",
    "area": "health",
-   "views": 1611,
-   "total_views": 4154,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@sergiorocaa",
-   "name": "sergiorocaa",
-   "area": "ai",
-   "views": 610,
-   "total_views": 938,
-   "hit": false,
+   "views": 12307,
+   "total_views": 15364,
+   "hit": true,
    "window": "24h"
   },
   {
    "handle": "@ministeriosalud",
    "name": "ministeriosalud",
    "area": "health",
+   "views": 2460,
+   "total_views": 6324,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@juancarlossaid",
+   "name": "juancarlossaid",
+   "area": "health",
+   "views": 1046,
+   "total_views": 1046,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@HeliaMolina_M",
+   "name": "HeliaMolina_M",
+   "area": "health",
+   "views": 321,
+   "total_views": 551,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@bilinkis",
+   "name": "bilinkis",
+   "area": "ai",
    "views": 0,
    "total_views": 0,
    "hit": false,
@@ -456,35 +696,8 @@
    "window": "24h"
   },
   {
-   "handle": "@juancarlossaid",
-   "name": "juancarlossaid",
-   "area": "health",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
    "handle": "@CatuRojas",
    "name": "CatuRojas",
-   "area": "health",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@HeliaMolina_M",
-   "name": "HeliaMolina_M",
-   "area": "health",
-   "views": 0,
-   "total_views": 0,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@jmanalich",
-   "name": "jmanalich",
    "area": "health",
    "views": 0,
    "total_views": 0,
@@ -556,54 +769,54 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "Agentes: ni «empleados» ni «segundo cerebro» (Freddy Vega)"
+    "keyword": "Ministerio de Ciencia y OpenAI: capacitación en IA a funcionarios del Estado"
    },
    {
     "rank": 2,
-    "keyword": "Apps falsas de Hermes Agent en Play Store; la app sigue en beta privada"
+    "keyword": "Clínica estética clandestina en Las Condes: liposucción sin autorización sanitaria"
    },
    {
     "rank": 3,
-    "keyword": "IA lee el fondo de ojo en 11 minutos en APS de Catalunya"
+    "keyword": "Ciberataque al Hospital Clínico U. de Chile: agendamientos afectados"
    },
    {
     "rank": 4,
-    "keyword": "Hospital Digital Minsal: 10.508 atenciones por diabetes en 2026"
+    "keyword": "August: agente de IA que llama a consultas para conseguir hora"
    },
    {
     "rank": 5,
-    "keyword": "Qwen4 y DeepSeek: modelos abiertos vs Opus 5.5"
+    "keyword": "Claude Duet 'como Muse, Dot, Grok Bot... pero más naranja'"
    },
    {
     "rank": 6,
-    "keyword": "Nvidia y Jensen Huang: salida del fundador"
+    "keyword": "¿Qué agente personal usas? Duet, Dots, Muse, Grok Bot, Hermes"
    },
    {
     "rank": 7,
-    "keyword": "Diabetes: exámenes oftalmológicos para prevenir pérdida de visión"
+    "keyword": "Estrategia Minsal 2027-2030: más resolutividad en APS"
    },
    {
     "rank": 8,
-    "keyword": "Personal Agent Protocol (Poppy) y agentes que compran"
+    "keyword": "Hanta: recomendaciones Minsal para zonas rurales"
    },
    {
     "rank": 9,
-    "keyword": "Grok Bot vs Claude Duet vs Dots vs Muse: rankings personales"
+    "keyword": "Diabetes: más del 12% de los adultos en Chile"
    },
    {
     "rank": 10,
-    "keyword": "FDA GLP-1/NAION: seis de cada 100.000 (rebote en medios)"
+    "keyword": "FDA GLP-1/NAION: rebote sin tracción en medios hispanos"
    }
   ],
-  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía, oftalmología, alertas regulatorias) y agentes personales (curadas a mano). Excluidos: política (acusación constitucional a Rabat, Kast, Parisi, dólar), crónica (cianuro en hospital de Temuco, Caleta Abarca, balacera), farándula (Pinilla, Coté López), deportes y tecnología pura (DeepSeek UI, CSS, Qwen4)."
+  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía, oftalmología, alertas regulatorias) y agentes personales (curadas a mano). Excluidos: política (Kast/APEC, tensiones en La Moneda), crónica (paciente de clínica clandestina en vivo, cianuro que resultó sal en Temuco, niño fallecido en La Araucanía), farándula y deportes (Pinilla, Coté López, Mario Soto), tecnología pura (Linux boot, Docker, OpenCode, Rust) y promos."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 16-11-2026: 3 respuestas en borrador (1 salud, 2 agentes de IA) para el filtro de Wally; sin originales; nada publicado.",
-   "takeaway": "Agentes: Freddy Vega (19,2K, 42 respuestas) dice que los agentes no son «empleados» ni «segundo cerebro»; R2 suma el sesgo de automatización como razón para cuidar la metáfora. HermesWatcher (7,8K) alerta por apps falsas de Hermes en Play Store mientras la app real sigue en beta privada (R3). Salud: en temas de RT, Martín Varsavsky (4,5K) destaca la IA que lee el fondo de ojo en 11 minutos en Catalunya; R1 aporta la experiencia chilena a escala nacional desde 2018 y el dato práctico de que «no evaluable» no es normal. La Tercera informa 10.508 atenciones por diabetes en Hospital Digital del Minsal (2,4K). GLP-1/NAION sin post con tracción ni dato nuevo: sin borrador. Lo más visto fue farándula (Pinilla, Coté López en BioBio, ~49K) y tecnología pura (midudev DeepSeek UI 39,7K; ErickSky Qwen4/Nvidia), excluidos."
+   "headline": "Digest 17-11-2026: 4 respuestas en borrador (1 salud, 3 IA aplicada/agentes) para el filtro de Wally; sin originales; nada publicado.",
+   "takeaway": "Salud en Chile: la clausura de una clínica estética clandestina en Las Condes con una paciente en plena liposucción (BioBio 25K, T13, ADN, 24 Horas) es el tema de salud más visto; R1 da dos revisiones concretas (Registro de Prestadores de la Superintendencia y autorización sanitaria de la Seremi). El acuerdo Ministerio de Ciencia–OpenAI para capacitar funcionarios (La Tercera 75K, CNN Chile 12K) abre R2: en salud, la ficha clínica es dato sensible por ley. Agentes: August, un agente que llama a consultas para conseguir hora, circula en español e inglés (MatiasSchrank 8,5K, sergiorocaa 11,6K); R3 suma los signos de alarma visual que no esperan agenda. packyM (14K) dice que Claude Duet se parece a todas las demás apps de agentes; R4 coincide desde la beta de Hermes. GLP-1/NAION sigue rebotando sin tracción (máx. 254 vistas): sin borrador. Lo más visto fue tecnología pura (midudev 79K) y crónica/farándula, excluidas."
   },
   "corpus": {
-   "posts": 179,
+   "posts": 156,
    "min_views": 2000
   },
   "window": {
@@ -612,39 +825,51 @@
   "topics": [],
   "ideas": [
    {
-    "title": "R1 · respuesta a @martinvars",
+    "title": "R1 · respuesta a @biobio",
     "format": "respuesta",
-    "source": "@martinvars",
-    "topic": "IA para retinopatía en APS (Catalunya, 'yo lo haría en toda España'): en Chile la red pública lo hace a escala nacional desde 2018; aprendizaje práctico: un fondo de ojo 'no evaluable' (mala imagen o cataratas) no es un resultado normal",
-    "hook_en": "En Chile esto funciona a escala nacional desde 2018. En la red pública, la retinografía se toma en atención primaria, una IA separa los exámenes normales de los alterados y solo estos últimos pasan a informe de un oftalmólogo a distancia.\n\nHay un aprendizaje de esa experiencia que sirve para cualquier país: de los exámenes que la IA derivó a revisión, cerca de un tercio no se pudo evaluar, por mala calidad de imagen o por opacidades como las cataratas.\n\nPor eso, si tienes diabetes y te dicen que tu fondo de ojo \"no se pudo leer\", no lo tomes como un resultado normal. Hay que repetirlo o pedir evaluación con oftalmólogo.",
-    "angle": "Objetivo: https://x.com/martinvars/status/2122281997892506088 (4.499 vistas)",
-    "why": "Base: Minsal, Depto. de Salud Digital (Célula Oftalmología): en las UAPO se toma fondo de ojo para tamizaje de retinopatía diabética; una IA separa imágenes normales de alteradas y solo estas se derivan a informe de especialista. IAPB (2019): lanzamiento en mayo de 2018 en 4 Servicios de Salud; al año, 127 UAPO en las 16 regiones; 140.194 exámenes, 54,4% negativos (control anual sin especialista), 45,6% positivos a teleinforme por oftalmólogo; de esos, 31,4% no evaluables por calidad de imagen (sobre todo cámaras portátiles) u opacidad de medios, a menudo cataratas, que también deben ir a atención oftalmológica presencial. Post de Martín Varsavsky (235K seguidores, 4,5K vistas, 74 me gusta) sobre el piloto catalán; RT ya le respondió el 26-oct. No se nombra al proveedor del software. Fuente: https://portalsaluddigital.minsal.cl/celula-oftalmologia-dart/ · https://www.iapb.org/news/dart-impacto-de-tamizaje-nacional-con-inteligencia-artificial/",
+    "source": "@biobio",
+    "topic": "Clínica estética clandestina en Las Condes (liposucción sin autorización sanitaria): una liposucción es cirugía mayor; dos revisiones antes de operarse: profesional en el Registro de Prestadores de la Superintendencia y autorización sanitaria de la Seremi",
+    "hook_en": "Una liposucción es una cirugía mayor, con anestesia y riesgo de complicaciones graves como trombosis o embolia. Hacerla en un lugar sin autorización sanitaria deja al paciente sin respaldo justo cuando algo sale mal.\n\nAntes de cualquier procedimiento estético con anestesia o bisturí, dos revisiones que toman cinco minutos:\n1. Busca al profesional en el Registro Nacional de Prestadores Individuales de la Superintendencia de Salud y revisa su especialidad.\n2. Pide al centro su autorización sanitaria de la Seremi.\n\nSi no te la pueden mostrar, no te operes ahí.",
+    "angle": "Objetivo: https://x.com/biobio/status/2122435020262371712 (25.130 vistas)",
+    "why": "Base: BioBio/The Clinic 16-nov-2026: la Seremi RM clausuró la Clínica Novae (Las Condes), que hacía liposucciones y aumentos mamarios sin autorización sanitaria; una paciente en plena liposucción fue trasladada de urgencia; antecedentes al Ministerio Público. Superintendencia de Salud: el Registro Nacional de Prestadores Individuales (DS 16/2007) permite consultar si una persona está legalmente habilitada para ejercer y su especialidad. Las Seremi otorgan la autorización sanitaria de los establecimientos. Post BioBio 25,1K vistas, 19 respuestas. El texto no nombra la clínica. Fuente: https://www.superdesalud.gob.cl/tramites/registro-nacional-de-prestadores-individuales-de-salud/ · https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/16/clausuran-clinica-estetica-en-las-condes-en-plena-liposuccion-de-paciente-no-tenia-permiso-sanitario.shtml",
     "keywords": [
-     "IA para retinopatía en APS (Catalunya, 'yo lo haría en toda España'): en Chile la red pública lo hace a escala nacional desde 2018; aprendizaje práctico: un fondo de ojo 'no evaluable' (mala imagen o cataratas) no es un resultado normal"
+     "Clínica estética clandestina en Las Condes (liposucción sin autorización sanitaria): una liposucción es cirugía mayor; dos revisiones antes de operarse: profesional en el Registro de Prestadores de la Superintendencia y autorización sanitaria de la Seremi"
     ]
    },
    {
-    "title": "R2 · respuesta a @freddier",
+    "title": "R2 · respuesta a @CNNChile",
     "format": "respuesta",
-    "source": "@freddier",
-    "topic": "Agentes no son 'empleados' ni 'segundo cerebro': la metáfora importa porque cambia cuánto se revisa lo que hace la herramienta (sesgo de automatización, concepto conocido en medicina)",
-    "hook_en": "The metaphors matter for another reason: they shape how people use the tool. Call it an employee and you start trusting its work like a colleague's. Call it a second brain and you pour everything into it and never prune.\n\nIn medicine we have a name for the first trap: automation bias. The more authoritative a tool sounds, the less we check it.\n\nBetter to call it what it is: a tool whose abilities change every few months.",
-    "angle": "Objetivo: https://x.com/freddier/status/2122004085188739234 (19.234 vistas)",
-    "why": "Base: Sin cifras externas. Post EN de Freddy Vega (watchlist, 317K seguidores; 19,2K vistas, 42 respuestas, 296 me gusta): no cree en las metáforas 'empleado' o 'segundo cerebro'; los modelos cambian muy rápido; pide control de acceso, reglas claras y aprender rápido lo nuevo. RT ya le respondió el 26-oct (en inglés). El sesgo de automatización (confiar de más en una herramienta que suena autoritaria) es un concepto documentado en seguridad clínica. Sin «proactividad / decisión ya enmarcada / aprobar», sin infraestructura, sin experiencias de uso inventadas; no repite el ángulo de acceso de R3. Fuente: sin cifras externas",
+    "source": "@CNNChile",
+    "topic": "Acuerdo Ministerio de Ciencia–OpenAI para capacitar funcionarios en IA: en salud, la primera lección es qué datos no se suben (ficha clínica = dato sensible, Ley 20.584 art. 12) y dónde sí sirve la IA sin datos de pacientes",
+    "hook_en": "Para que esta capacitación sirva en salud, la primera lección tiene que ser qué datos no se suben. En Chile, toda la información de la ficha clínica es dato sensible por ley (Ley 20.584, art. 12): no se pega en una herramienta solo porque es cómoda o gratis.\n\nY hay mucho espacio útil sin datos de pacientes: redactar protocolos, resumir normativa, preparar material educativo. Lo clínico, solo en plataformas autorizadas por la institución y con un profesional que revise lo que sale.",
+    "angle": "Objetivo: https://x.com/CNNChile/status/2122490235510816976 (12.307 vistas)",
+    "why": "Base: DF 16-nov-2026: memorándum 'OpenAI para Chile' (OpenAI for Countries) firmado por la ministra de Ciencia y Sam Altman para capacitar funcionarios del Estado en IA, con protección de datos y supervisión humana; una segunda fase con proyectos específicos sería pagada. Ley 20.584, art. 12: toda la información de la ficha clínica y de estudios y procedimientos es dato sensible (art. 2 g) Ley 19.628). Post CNN Chile 12,3K vistas, 20 respuestas (La Tercera tiene la misma noticia con 75K y 164 respuestas, conversación más politizada: por eso se eligió CNN Chile). Sin opinión sobre el Gobierno ni sobre el acuerdo en sí. Fuente: https://www.suseso.gob.cl/612/w3-propertyvalue-130626.html · https://www.df.cl/df-lab/tech-empresas/ministra-lincolao-y-sam-altman-ceo-de-openai-firman-acuerdo-para",
     "keywords": [
-     "Agentes no son 'empleados' ni 'segundo cerebro': la metáfora importa porque cambia cuánto se revisa lo que hace la herramienta (sesgo de automatización, concepto conocido en medicina)"
+     "Acuerdo Ministerio de Ciencia–OpenAI para capacitar funcionarios en IA: en salud, la primera lección es qué datos no se suben (ficha clínica = dato sensible, Ley 20.584 art. 12) y dónde sí sirve la IA sin datos de pacientes"
     ]
    },
    {
-    "title": "R3 · respuesta a @HermesWatcher",
+    "title": "R3 · respuesta a @MatiasSchrank",
     "format": "respuesta",
-    "source": "@HermesWatcher",
-    "topic": "Apps falsas de Hermes en Play Store: RT está en la beta privada; una app de agente falsa es más peligrosa que un juego falso porque pide correo, calendario y archivos; regla simple mientras sea solo por invitación",
-    "hook_en": "I'm in the private beta, and this deserves more attention than it's getting. A fake agent app is not like a fake game: an agent app asks for your email, your calendar and your files.\n\nSimple rule while it's invite-only: if a \"Hermes\" app shows up openly in a store search, it isn't the real one.",
-    "angle": "Objetivo: https://x.com/HermesWatcher/status/2122132559811448856 (7.835 vistas)",
-    "why": "Base: Sin cifras externas. Post EN de HermesWatcher (27,9K seguidores; 7,8K vistas): aparece una app falsa 'Hermes Agent - AI' primera en la búsqueda de Play Store; el equipo trabaja para bajarla; la real es beta privada solo por invitación; lanzamiento completo previsto después de Thanksgiving. RT está en la beta privada (ya lo dijo en público el 13-nov); el texto no dice cómo entró ni detalla canales. Postura Cadu no aplica aquí. Sin infraestructura ni experiencias inventadas. Fuente: sin cifras externas",
+    "source": "@MatiasSchrank",
+    "topic": "Agente de IA que llama a consultas para conseguir la primera hora (August): útil, pero la hora más pronta no siempre es la correcta; debe preguntar el síntoma primero y reconocer urgencias (pérdida brusca de visión, cortina, destellos con manchas nuevas)",
+    "hook_en": "Útil, sobre todo para quien no puede pasar la mañana colgado al teléfono. Pero la hora más pronta no siempre es la respuesta correcta.\n\nUn agente así debería preguntar primero qué le pasa a la persona. En oftalmología lo vemos seguido: una pérdida brusca de visión en un ojo, una cortina que tapa parte de la visión o destellos con manchas nuevas no pueden esperar la primera hora libre en tres semanas. Eso se consulta el mismo día en urgencia.\n\nAgendar es la parte fácil. Saber cuándo no agendar y mandar a urgencia es lo que lo hace seguro.",
+    "angle": "Objetivo: https://x.com/MatiasSchrank/status/2122386859598680436 (8.491 vistas)",
+    "why": "Base: Business Wire 16-nov-2026: August AI lanza un agente que llama a consultas, verifica disponibilidad y cobertura, agenda la primera hora confirmada y vigila cancelaciones (beta, lista de espera, EE. UU.). Post de MatiasSchrank 8,5K vistas (sergiorocaa publicó lo mismo en inglés, 11,6K). Los signos de alarma (pérdida brusca de visión en un ojo, cortina en el campo visual, destellos con moscas nuevas) son criterios clásicos de consulta urgente por posible desprendimiento de retina u oclusión vascular. Sin infraestructura ni experiencias de uso inventadas; sin «proactividad / decisión ya enmarcada / aprobar». Fuente: https://www.businesswire.com/news/home/20261116422330/en/August-AI-Can-Now-Make-the-Calls-Fight-the-Medical-Bills-and-Take-On-the-Unpaid-Work-of-Being-a-Patient",
     "keywords": [
-     "Apps falsas de Hermes en Play Store: RT está en la beta privada; una app de agente falsa es más peligrosa que un juego falso porque pide correo, calendario y archivos; regla simple mientras sea solo por invitación"
+     "Agente de IA que llama a consultas para conseguir la primera hora (August): útil, pero la hora más pronta no siempre es la correcta; debe preguntar el síntoma primero y reconocer urgencias (pérdida brusca de visión, cortina, destellos con manchas nuevas)"
+    ]
+   },
+   {
+    "title": "R4 · respuesta a @packyM",
+    "format": "respuesta",
+    "source": "@packyM",
+    "topic": "Claude Duet 'como Muse, Dot, Grok Bot... pero más naranja': las apps de agentes se parecen; RT sintió lo mismo con la beta de la app de Hermes (muy pulida, muy parecida a Cadu); el pulido ya no diferencia",
+    "hook_en": "Same feeling I had with the Hermes mobile app beta: beautifully built, but very close to Cadu, the app its designer made before.\n\nPolish isn't what sets these apps apart anymore; they all have it. I'd rather try the one that does something none of the others do, even if it's rough around the edges.",
+    "angle": "Objetivo: https://x.com/packyM/status/2122487181738713559 (14.014 vistas)",
+    "why": "Base: Sin cifras externas. Post EN de packyM (14K vistas, 27 respuestas): acceso a Claude Duet, 'como Muse, Instinct, Dot, Quest, Poke, Hark, Grok Bot, OpenClaw, Pally... pero más naranja'. Postura RT (memoria): está en la beta privada de la app de Hermes (no se dice cómo entró), la app es muy pulida pero se parece mucho a Cadu, cuyo creador ahora hace la app oficial; esperaba algo más original. Usa solo esos dos puntos. Ojo: el ángulo Cadu ya se propuso el 11-nov (arshamg_); si Wally lo ve repetido, se suelta. Fuente: sin cifras externas",
+    "keywords": [
+     "Claude Duet 'como Muse, Dot, Grok Bot... pero más naranja': las apps de agentes se parecen; RT sintió lo mismo con la beta de la app de Hermes (muy pulida, muy parecida a Cadu); el pulido ya no diferencia"
     ]
    }
   ],
