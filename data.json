@@ -1,101 +1,67 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-19 10:30",
- "date": "2026-11-19",
+ "title": "Digest diario — escaneo 24h al 2026-11-20 10:30",
+ "date": "2026-11-20",
  "timezone": "America/Santiago",
- "updated": "2026-11-19T11:05:00-03:00",
+ "updated": "2026-11-20T11:00:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
   {
-   "name": "ministeriosalud",
-   "display_name": "ministeriosalud",
-   "handle": "@ministeriosalud",
-   "area": "health",
-   "views": 1260878,
-   "likes": 1500,
-   "replies": 1526,
-   "reposts": 143,
-   "url": "https://x.com/ministeriosalud/status/2123055539844177967",
-   "status_url": "https://x.com/ministeriosalud/status/2123055539844177967",
-   "text": "¡Así se hizo #PaQuéFumas!\n\nEn este video te mostramos el detrás de cámara de nuestra campaña #PaQuéFumas, una iniciativa que busca aumentar la percepción de riesgo y daño asociado al consumo de tabaco y de sistemas electrónicos de administración de nicotina (SEAN) y sin nicotina https://t.co/Ips0Rb27S4",
-   "original_en": "¡Así se hizo #PaQuéFumas!\n\nEn este video te mostramos el detrás de cámara de nuestra campaña #PaQuéFumas, una iniciativa que busca aumentar la percepción de riesgo y daño asociado al consumo de tabaco y de sistemas electrónicos de administración de nicotina (SEAN) y sin nicotina https://t.co/Ips0Rb27S4",
-   "highlight": true,
-   "created_at": "2026-11-18T14:07:39.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "benyuls",
-   "display_name": "benyuls",
-   "handle": "@benyuls",
+   "name": "DotCSV",
+   "display_name": "DotCSV",
+   "handle": "@DotCSV",
    "area": "ai",
-   "views": 89581,
-   "likes": 427,
-   "replies": 25,
-   "reposts": 45,
-   "url": "https://x.com/benyuls/status/2123112078701695386",
-   "status_url": "https://x.com/benyuls/status/2123112078701695386",
-   "text": "un chaval de 22 años factura 12.000$ al mes\ncon agentes de IA + Tilion, el negocio del año.\n\ntrabaja con clínicas, gestorías y restaurantes.\n\nestos negocios se pasan horas en webs haciendo lo mismo:\n\npedir a proveedores, confirmar citas, rellenar formularios de seguros, comparar https://t.co/43rcBymmcb https://t.co/4YjYlHkzgv",
-   "original_en": "un chaval de 22 años factura 12.000$ al mes\ncon agentes de IA + Tilion, el negocio del año.\n\ntrabaja con clínicas, gestorías y restaurantes.\n\nestos negocios se pasan horas en webs haciendo lo mismo:\n\npedir a proveedores, confirmar citas, rellenar formularios de seguros, comparar https://t.co/43rcBymmcb https://t.co/4YjYlHkzgv",
+   "views": 75069,
+   "likes": 716,
+   "replies": 90,
+   "reposts": 16,
+   "url": "https://x.com/DotCSV/status/2123451763797934403",
+   "status_url": "https://x.com/DotCSV/status/2123451763797934403",
+   "text": "Ostras, hacía tiempo que no probaba la generación de imágenes de ChatGPT y es terrible lo mala que se ha vuelto... ¿no?",
+   "original_en": "Ostras, hacía tiempo que no probaba la generación de imágenes de ChatGPT y es terrible lo mala que se ha vuelto... ¿no?",
    "highlight": true,
-   "created_at": "2026-11-18T17:52:19.000Z",
+   "created_at": "2026-11-19T16:22:06.000Z",
    "window": "24h"
   },
   {
-   "name": "biobio",
-   "display_name": "biobio",
-   "handle": "@biobio",
-   "area": "health",
-   "views": 70489,
-   "likes": 58,
-   "replies": 8,
-   "reposts": 17,
-   "url": "https://x.com/biobio/status/2123057523477602584",
-   "status_url": "https://x.com/biobio/status/2123057523477602584",
-   "text": "Documentan nuevo y desconocido riesgo en medicamentos para adelgazar como Ozempic, Wegovy y Mounjaro https://t.co/yUklIjaMuW",
-   "original_en": "Documentan nuevo y desconocido riesgo en medicamentos para adelgazar como Ozempic, Wegovy y Mounjaro https://t.co/yUklIjaMuW",
+   "name": "DavidPawlan",
+   "display_name": "DavidPawlan",
+   "handle": "@DavidPawlan",
+   "area": "ai",
+   "views": 62803,
+   "likes": 541,
+   "replies": 131,
+   "reposts": 40,
+   "url": "https://x.com/DavidPawlan/status/2123457446374953162",
+   "status_url": "https://x.com/DavidPawlan/status/2123457446374953162",
+   "text": "what each personal agent is actually best at right now:\n\nMuse: socials/consumer\nDots: voice\nDuet: artifacts\nGrok Bot: work\nInstinct: browser use\nHark: routines\nTown: emails\nMiso: flights\nSoar: hotels\nFo: hardware integration\nTab: phone calls\nPally: networking/CRM\nTomo: groupchats",
+   "original_en": "what each personal agent is actually best at right now:\n\nMuse: socials/consumer\nDots: voice\nDuet: artifacts\nGrok Bot: work\nInstinct: browser use\nHark: routines\nTown: emails\nMiso: flights\nSoar: hotels\nFo: hardware integration\nTab: phone calls\nPally: networking/CRM\nTomo: groupchats",
    "highlight": true,
-   "created_at": "2026-11-18T14:15:32.000Z",
+   "created_at": "2026-11-19T16:44:41.000Z",
    "window": "24h",
-   "draft_en": "[R1 · respuesta] Vale la pena leer este estudio más allá del titular. No describe un efecto oculto del fármaco: es una evaluación exploratoria de 14 personas en una sola consulta de Inglaterra, y muestra algo esperable cuando el apetito baja tanto: se come bastante menos de lo necesario.\n\nLa ingesta típica fue de 1.231 calorías al día, cerca del 58% de lo estimado, y más de tres de cada cuatro quedaron cortos en fibra y vitamina D. Varios contaron además que nadie les hacía seguimiento.\n\nPor eso, si usas semaglutida o tirzepatida, el control no es solo el peso. Pide que revisen lo que estás comiendo, idealmente con nutricionista, y consulta si aparecen mareos o mucho cansancio. Bajar de peso no debería costar nutrientes.\n\nFuente: https://nutrition.bmj.com/content/early/2026/11/13/bmjnph-2026-001622 · https://bmjgroup.com/appetite-suppressants-linked-to-inadequate-key-nutrient-intake-in-some-people/ · https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/11/18/documentan-nuevo-y-desconocido-riesgo-en-medicamentos-para-adelgazar-como-ozempic-wegovy-y-mounjaro.shtml",
+   "draft_en": "[R2 · respuesta] Useful map. I'd add one column nobody ranks yet: what each agent still remembers at the end of a long task.\n\nI'm in the Hermes private beta. The app is very polished, but on long tasks it still loses context. That matters more to me than voice or artifacts, because an agent that forgets halfway means briefing it all over again.",
    "draft_keywords": [
-    "GLP-1 (Ozempic/Wegovy/Mounjaro): el 'riesgo nuevo y desconocido' del titular es un estudio exploratorio de 14 personas sobre ingesta (BMJ Nutrition); lo útil es que el control no es solo el peso: revisar lo que se come y consultar si hay mareos o cansancio"
+    "Mapa de agentes personales (Muse, Dots, Duet, Grok Bot...): falta la columna de qué recuerda cada uno después de una tarea larga; RT en la beta privada de Hermes: app muy pulida, pero pierde contexto en tareas largas"
    ],
-   "why_hit": "Objetivo de respuesta R1 (GLP-1 (Ozempic/Wegovy/Mounjaro): el 'riesgo nuevo y desconocido' del titular es un estudio exploratorio de 14 personas sobre ingesta (BMJ Nutrition); lo útil es que el control no es solo el peso: revisar lo que se come y consultar si hay mareos o cansancio). Base verificada: Estudio en BMJ Nutrition Prevention & Health (publicado en línea 13-nov-2026; evaluación de servicio exploratoria, una sola consulta de atención primaria en Northamptonshire, Inglaterra; 14 adultos con agonistas GLP-1 o GIP/GLP-1, 10 con receta privada y 4 del NHS). Ingesta energética mediana 1.231 kcal/día = 58,5% de lo estimado; 3 bajo 800 kcal/día; 8/14 bajo dos tercios del requerimiento. Más de tres cuartos bajo dos tercios de la referencia en fibra y vitamina D; hierro bajo el umbral en la mitad; proteína sobre la referencia (153%). Participantes describen falta de seguimiento estructurado y efectos no manejados como mareos e hipotensión. Los autores lo declaran pequeño, observacional y generador de hipótesis. Post BioBio 70,5K vistas, 8 respuestas, 25 guardados. No es NAION (no repite el ángulo de los 5 borradores GLP-1/NAION del 10–15 nov).",
-   "hook": "Vale la pena leer este estudio más allá del titular. No describe un efecto oculto del fármaco: es una evaluación explora",
+   "why_hit": "Objetivo de respuesta R2 (Mapa de agentes personales (Muse, Dots, Duet, Grok Bot...): falta la columna de qué recuerda cada uno después de una tarea larga; RT en la beta privada de Hermes: app muy pulida, pero pierde contexto en tareas largas). Base verificada: Post DavidPawlan 19-nov 62,8K vistas, 541 me gusta, 131 respuestas, 771 guardados. Usa solo 2 de las opiniones registradas de RT sobre Hermes (app muy pulida; pierde contexto en tareas largas) y que está en la beta privada, sin decir cómo entró ni inventar usos. Sin proactividad/aprobar, sin infra, sin cifras.",
+   "hook": "Useful map. I'd add one column nobody ranks yet: what each agent still remembers at the end of a long task.\n\nI'm in the ",
    "top10_rank": 1
   },
   {
-   "name": "nvandewetering",
-   "display_name": "nvandewetering",
-   "handle": "@nvandewetering",
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
    "area": "ai",
-   "views": 15591,
-   "likes": 33,
-   "replies": 33,
-   "reposts": 1,
-   "url": "https://x.com/nvandewetering/status/2123116024107016284",
-   "status_url": "https://x.com/nvandewetering/status/2123116024107016284",
-   "text": "ChatGPT Dots is ahead of Grok Bot, and it's not close.\n\nGrok Bot users, what's your best workflow that you can get done before hitting the limits?",
-   "original_en": "ChatGPT Dots is ahead of Grok Bot, and it's not close.\n\nGrok Bot users, what's your best workflow that you can get done before hitting the limits?",
+   "views": 55390,
+   "likes": 67,
+   "replies": 8,
+   "reposts": 5,
+   "url": "https://x.com/ErickSky/status/2123487714238431489",
+   "status_url": "https://x.com/ErickSky/status/2123487714238431489",
+   "text": "Muy buena propuesta de Krea con sus Krea Bots!\n\nSe nota que hay bastante interés porque ya llevan más de 50.000 solicitudes para probarlos! (La mía incluida jajaja)\n\nEl caso de uso de estos bots es para tener un equipo de diseño completo, con roles, memoria y que se pasan el https://t.co/bsH1ykfWks",
+   "original_en": "Muy buena propuesta de Krea con sus Krea Bots!\n\nSe nota que hay bastante interés porque ya llevan más de 50.000 solicitudes para probarlos! (La mía incluida jajaja)\n\nEl caso de uso de estos bots es para tener un equipo de diseño completo, con roles, memoria y que se pasan el https://t.co/bsH1ykfWks",
    "highlight": true,
-   "created_at": "2026-11-18T18:08:00.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "nvandewetering",
-   "display_name": "nvandewetering",
-   "handle": "@nvandewetering",
-   "area": "ai",
-   "views": 13337,
-   "likes": 33,
-   "replies": 30,
-   "reposts": 0,
-   "url": "https://x.com/nvandewetering/status/2123087586004697468",
-   "status_url": "https://x.com/nvandewetering/status/2123087586004697468",
-   "text": "ChatGPT Dots or Grok Bot?\n\nIf you could only keep one personal agent for the next year. Because it really all comes down to this.\n\nI'm team Dots after 100+ hours of delegating my workday by voice. But I want to hear the honest Grok Bot case...",
-   "original_en": "ChatGPT Dots or Grok Bot?\n\nIf you could only keep one personal agent for the next year. Because it really all comes down to this.\n\nI'm team Dots after 100+ hours of delegating my workday by voice. But I want to hear the honest Grok Bot case...",
-   "highlight": true,
-   "created_at": "2026-11-18T16:15:00.000Z",
+   "created_at": "2026-11-19T18:44:58.000Z",
    "window": "24h"
   },
   {
@@ -103,149 +69,50 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 8528,
-   "likes": 132,
-   "replies": 3,
+   "views": 53475,
+   "likes": 16,
+   "replies": 0,
    "reposts": 4,
-   "url": "https://x.com/ErickSky/status/2123150875900162284",
-   "status_url": "https://x.com/ErickSky/status/2123150875900162284",
-   "text": "Muse acaba de matar a 91947392918 apps de esto 😵‍💫 https://t.co/tonbAxv37F",
-   "original_en": "Muse acaba de matar a 91947392918 apps de esto 😵‍💫 https://t.co/tonbAxv37F",
+   "url": "https://x.com/ErickSky/status/2123484933570416863",
+   "status_url": "https://x.com/ErickSky/status/2123484933570416863",
+   "text": "En la actualidad el límite de los agentes de larga duración y de los swarms no es el modelo, hay modelos bastante capaces.\n\nEl problema es cuánto cuesta que corran esos agentes!\n\nPuedes tener el mejor agente del mundo, pero si quieres que trabaje horas o que lance cientos de https://t.co/9LBUXG2NQp",
+   "original_en": "En la actualidad el límite de los agentes de larga duración y de los swarms no es el modelo, hay modelos bastante capaces.\n\nEl problema es cuánto cuesta que corran esos agentes!\n\nPuedes tener el mejor agente del mundo, pero si quieres que trabaje horas o que lance cientos de https://t.co/9LBUXG2NQp",
    "highlight": true,
-   "created_at": "2026-11-18T20:26:29.000Z",
+   "created_at": "2026-11-19T18:33:55.000Z",
    "window": "24h"
   },
   {
-   "name": "meganoticiascl",
-   "display_name": "meganoticiascl",
-   "handle": "@meganoticiascl",
-   "area": "health",
-   "views": 8358,
-   "likes": 153,
-   "replies": 1,
-   "reposts": 22,
-   "url": "https://x.com/meganoticiascl/status/2123250283245404349",
-   "status_url": "https://x.com/meganoticiascl/status/2123250283245404349",
-   "text": "Salir de la UCI directo a sentir la brisa del mar 🌊🏥 Así es la innovadora terapia del Hospital del Mar en Barcelona, donde llevan a pacientes críticos a la playa para acelerar su recuperación. https://t.co/uykyukv34N",
-   "original_en": "Salir de la UCI directo a sentir la brisa del mar 🌊🏥 Así es la innovadora terapia del Hospital del Mar en Barcelona, donde llevan a pacientes críticos a la playa para acelerar su recuperación. https://t.co/uykyukv34N",
-   "highlight": true,
-   "created_at": "2026-11-19T03:01:30.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "freddier",
-   "display_name": "freddier",
-   "handle": "@freddier",
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
    "area": "ai",
-   "views": 8014,
-   "likes": 133,
-   "replies": 13,
-   "reposts": 2,
-   "url": "https://x.com/freddier/status/2123377125554065434",
-   "status_url": "https://x.com/freddier/status/2123377125554065434",
-   "text": "I was interviewed for TV, and the journalist clearly used AI to decide what to ask me. He knew eerily specific details about my life, and the questions were really good. But he clearly didn’t understand them.\n\nI’m not sure if this is a good thing or a bad thing.",
-   "original_en": "I was interviewed for TV, and the journalist clearly used AI to decide what to ask me. He knew eerily specific details about my life, and the questions were really good. But he clearly didn’t understand them.\n\nI’m not sure if this is a good thing or a bad thing.",
+   "views": 7675,
+   "likes": 128,
+   "replies": 2,
+   "reposts": 4,
+   "url": "https://x.com/ErickSky/status/2123462175624720894",
+   "status_url": "https://x.com/ErickSky/status/2123462175624720894",
+   "text": "Ya se divirtieron los vibecoders...\n\nAhora es el turno de los científicos. https://t.co/l15yfwajdW",
+   "original_en": "Ya se divirtieron los vibecoders...\n\nAhora es el turno de los científicos. https://t.co/l15yfwajdW",
    "highlight": true,
-   "created_at": "2026-11-19T11:25:31.000Z",
-   "window": "24h",
-   "draft_en": "[R3 · respuesta] Medicine has a version of this. An AI summary can hand a doctor every detail of a patient's chart before the visit, and the details can all be right. Knowing them isn't the same as understanding which ones matter to that person. That only shows up in the follow-up question, when the answer surprises you.\n\nSo I'd call it good for preparation and bad as a substitute. A simple test: if the interviewer can't leave the script when you say something unexpected, the AI did the homework but nobody did the listening.",
-   "draft_keywords": [
-    "Periodista que preparó la entrevista con IA: sabía detalles muy específicos pero no los entendía; en medicina pasa igual con un resumen de ficha hecho por IA: los datos no son comprensión, eso aparece en la pregunta de seguimiento; buena para preparar, mala como reemplazo"
-   ],
-   "why_hit": "Objetivo de respuesta R3 (Periodista que preparó la entrevista con IA: sabía detalles muy específicos pero no los entendía; en medicina pasa igual con un resumen de ficha hecho por IA: los datos no son comprensión, eso aparece en la pregunta de seguimiento; buena para preparar, mala como reemplazo). Base verificada: Post freddier 19-nov 8,0K vistas, 133 me gusta, 13 respuestas, pregunta abierta ('not sure if this is a good thing or a bad thing'). Sin cifras externas; opinión desde la medicina, sin experiencias de uso inventadas ni mención de Hermes/agentes de RT. A freddier se le propuso otra respuesta el 16-nov (metáforas/sesgo de automatización): ángulo distinto.",
-   "hook": "Medicine has a version of this. An AI summary can hand a doctor every detail of a patient's chart before the visit, and ",
-   "top10_rank": 2
+   "created_at": "2026-11-19T17:03:29.000Z",
+   "window": "24h"
   },
   {
    "name": "biobio",
    "display_name": "biobio",
    "handle": "@biobio",
    "area": "health",
-   "views": 7061,
-   "likes": 5,
-   "replies": 0,
-   "reposts": 2,
-   "url": "https://x.com/biobio/status/2123150075635610008",
-   "status_url": "https://x.com/biobio/status/2123150075635610008",
-   "text": "Ni el peso ni el IMC lo dicen todo: estudio demuestra cómo influye el tamaño de la cintura en la salud\nhttps://t.co/tMBhoSN284",
-   "original_en": "Ni el peso ni el IMC lo dicen todo: estudio demuestra cómo influye el tamaño de la cintura en la salud\nhttps://t.co/tMBhoSN284",
+   "views": 6204,
+   "likes": 48,
+   "replies": 4,
+   "reposts": 26,
+   "url": "https://x.com/biobio/status/2123500076395880504",
+   "status_url": "https://x.com/biobio/status/2123500076395880504",
+   "text": "Los gatos y perros también pueden tener diabetes: las señales que advierten de la enfermedad\nhttps://t.co/2XzOkyj6Gv",
+   "original_en": "Los gatos y perros también pueden tener diabetes: las señales que advierten de la enfermedad\nhttps://t.co/2XzOkyj6Gv",
    "highlight": true,
-   "created_at": "2026-11-18T20:23:18.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ministeriosalud",
-   "display_name": "ministeriosalud",
-   "handle": "@ministeriosalud",
-   "area": "health",
-   "views": 6411,
-   "likes": 14,
-   "replies": 0,
-   "reposts": 12,
-   "url": "https://x.com/ministeriosalud/status/2123091795793838560",
-   "status_url": "https://x.com/ministeriosalud/status/2123091795793838560",
-   "text": "En el Día Mundial del Cáncer de Páncreas, es importante estar atento a los síntomas que podrían aparecer.\n\nSi presentas alguno de estos de manera abrupta o persistente, consulta con tu equipo de salud. https://t.co/5TO3wS4qVp",
-   "original_en": "En el Día Mundial del Cáncer de Páncreas, es importante estar atento a los síntomas que podrían aparecer.\n\nSi presentas alguno de estos de manera abrupta o persistente, consulta con tu equipo de salud. https://t.co/5TO3wS4qVp",
-   "highlight": true,
-   "created_at": "2026-11-18T16:31:43.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ministeriosalud",
-   "display_name": "ministeriosalud",
-   "handle": "@ministeriosalud",
-   "area": "health",
-   "views": 6242,
-   "likes": 10,
-   "replies": 0,
-   "reposts": 9,
-   "url": "https://x.com/ministeriosalud/status/2123116208274678004",
-   "status_url": "https://x.com/ministeriosalud/status/2123116208274678004",
-   "text": "La EPOC tiene cobertura GES, lo que garantiza prestaciones para su sospecha, confirmación diagnóstica y tratamiento. #DíaMundialDeLaEPOC https://t.co/RMcdGB5vn1",
-   "original_en": "La EPOC tiene cobertura GES, lo que garantiza prestaciones para su sospecha, confirmación diagnóstica y tratamiento. #DíaMundialDeLaEPOC https://t.co/RMcdGB5vn1",
-   "highlight": true,
-   "created_at": "2026-11-18T18:08:44.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ministeriosalud",
-   "display_name": "ministeriosalud",
-   "handle": "@ministeriosalud",
-   "area": "health",
-   "views": 6084,
-   "likes": 10,
-   "replies": 1,
-   "reposts": 9,
-   "url": "https://x.com/ministeriosalud/status/2123079382193385765",
-   "status_url": "https://x.com/ministeriosalud/status/2123079382193385765",
-   "text": "Prevengamos la Resistencia a los Antimicrobianos (RAM)‼️\n\nEl uso responsable de antibióticos contribuye a mantener su eficacia para tratar infecciones hoy y en el futuro. \n\n➡️Semana Mundial de Sensibilización sobre la Resistencia a los Antimicrobianos ⬅️ https://t.co/cNYkb4VoC3",
-   "original_en": "Prevengamos la Resistencia a los Antimicrobianos (RAM)‼️\n\nEl uso responsable de antibióticos contribuye a mantener su eficacia para tratar infecciones hoy y en el futuro. \n\n➡️Semana Mundial de Sensibilización sobre la Resistencia a los Antimicrobianos ⬅️ https://t.co/cNYkb4VoC3",
-   "highlight": true,
-   "created_at": "2026-11-18T15:42:24.000Z",
-   "window": "24h",
-   "draft_en": "[R2 · respuesta] Un ejemplo muy cotidiano desde la oftalmología: el ojo rojo. La mayoría de las conjuntivitis son virales y los colirios antibióticos no las mejoran. Aun así, en un estudio de más de 300 mil pacientes en EE. UU., el 58% salió de la farmacia con uno, y cerca de 1 de cada 5 de esos colirios traía además corticoide, que en algunas infecciones del ojo puede empeorar el cuadro.\n\nLo práctico: no uses gotas que te sobraron de otra vez ni las de otra persona. Y si el ojo rojo viene con dolor, molestia con la luz o baja de visión, consulta ese mismo día.\n\nFuente: https://www.aaojournal.org/article/S0161-6420(17)31554-3/fulltext · https://www.aaojournal.org/article/S0161-6420(24)00009-5/fulltext · https://www.aao.org/eye-health/tips-prevention/over-prescription-antibiotics-pink-eye",
-   "draft_keywords": [
-    "Semana Mundial de Sensibilización sobre la Resistencia a los Antimicrobianos: el ejemplo cotidiano del ojo rojo; la mayoría de las conjuntivitis son virales y los colirios antibióticos no ayudan; no usar gotas sobrantes ni ajenas (muchas traen corticoide); signos para consultar el mismo día"
-   ],
-   "why_hit": "Objetivo de respuesta R2 (Semana Mundial de Sensibilización sobre la Resistencia a los Antimicrobianos: el ejemplo cotidiano del ojo rojo; la mayoría de las conjuntivitis son virales y los colirios antibióticos no ayudan; no usar gotas sobrantes ni ajenas (muchas traen corticoide); signos para consultar el mismo día). Base verificada: Ophthalmology (editorial AAO 2017, sobre Shekhawat et al.): hasta 80% de las conjuntivitis son virales; en >300.000 pacientes con conjuntivitis aguda en una red de EE. UU. (2001–2014), 58% retiró un antibiótico tópico en farmacia, y cerca de 1 de cada 5 de esas recetas era una combinación antibiótico–corticoide. AAO Conjunctivitis Preferred Practice Pattern 2024: evitar el uso indiscriminado de antibióticos o corticoides tópicos; la conjuntivitis viral no responde a antibacterianos; los corticoides pueden prolongar infecciones por adenovirus y empeorar las herpéticas. Post Minsal 6,1K vistas, 1 respuesta. Ángulo de colirios antibióticos usado como detalle en una respuesta del 29-oct (ojo rojo), no en los últimos 3 días; aquí el eje es la resistencia y las gotas sobrantes.",
-   "hook": "Un ejemplo muy cotidiano desde la oftalmología: el ojo rojo. La mayoría de las conjuntivitis son virales y los colirios ",
-   "top10_rank": 3
-  },
-  {
-   "name": "T13",
-   "display_name": "T13",
-   "handle": "@T13",
-   "area": "health",
-   "views": 5569,
-   "likes": 8,
-   "replies": 0,
-   "reposts": 6,
-   "url": "https://x.com/T13/status/2123073744755396909",
-   "status_url": "https://x.com/T13/status/2123073744755396909",
-   "text": "\"Vieja miedosa\": Los insultos de asistente de médico a mujer que denunció que sería operada en oficina que funcionaba como clínica\nhttps://t.co/LUkBW5mFVZ",
-   "original_en": "\"Vieja miedosa\": Los insultos de asistente de médico a mujer que denunció que sería operada en oficina que funcionaba como clínica\nhttps://t.co/LUkBW5mFVZ",
-   "highlight": true,
-   "created_at": "2026-11-18T15:20:00.000Z",
+   "created_at": "2026-11-19T19:34:05.000Z",
    "window": "24h"
   },
   {
@@ -253,16 +120,152 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 4479,
-   "likes": 111,
-   "replies": 11,
-   "reposts": 5,
-   "url": "https://x.com/ErickSky/status/2123174138143453654",
-   "status_url": "https://x.com/ErickSky/status/2123174138143453654",
-   "text": "Google Deepmind es el laboratorio más chingón que existe, tanto que unió a Elon Musk y a Sam Altman en primer lugar.\n\nPara los millennials, eso fue como que si el Laboratorio de Dexter se uniera con el Laboratorio de Cerebro para enfrentar a un enemigo más grande, ¿se entiende? https://t.co/GXVUsTloSH",
-   "original_en": "Google Deepmind es el laboratorio más chingón que existe, tanto que unió a Elon Musk y a Sam Altman en primer lugar.\n\nPara los millennials, eso fue como que si el Laboratorio de Dexter se uniera con el Laboratorio de Cerebro para enfrentar a un enemigo más grande, ¿se entiende? https://t.co/GXVUsTloSH",
+   "views": 5118,
+   "likes": 110,
+   "replies": 3,
+   "reposts": 3,
+   "url": "https://x.com/ErickSky/status/2123518772350718306",
+   "status_url": "https://x.com/ErickSky/status/2123518772350718306",
+   "text": "Listo! Tendremos port de PC en breve chicos!! https://t.co/YMjiunGGbK",
+   "original_en": "Listo! Tendremos port de PC en breve chicos!! https://t.co/YMjiunGGbK",
+   "highlight": true,
+   "created_at": "2026-11-19T20:48:23.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 4916,
+   "likes": 213,
+   "replies": 2,
+   "reposts": 50,
+   "url": "https://x.com/adnradiochile/status/2123534279481458754",
+   "status_url": "https://x.com/adnradiochile/status/2123534279481458754",
+   "text": "Inauguran nuevo hospital veterinario en Santiago: ofrece atención de alta complejidad para todas las mascotas https://t.co/aoor0JjvRF",
+   "original_en": "Inauguran nuevo hospital veterinario en Santiago: ofrece atención de alta complejidad para todas las mascotas https://t.co/aoor0JjvRF",
    "highlight": false,
-   "created_at": "2026-11-18T21:58:55.000Z",
+   "created_at": "2026-11-19T21:50:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "biobio",
+   "display_name": "biobio",
+   "handle": "@biobio",
+   "area": "health",
+   "views": 4637,
+   "likes": 22,
+   "replies": 0,
+   "reposts": 11,
+   "url": "https://x.com/biobio/status/2123432964096741533",
+   "status_url": "https://x.com/biobio/status/2123432964096741533",
+   "text": "El hígado podría tener la clave para frenar una rara enfermedad que daña el cerebro\nhttps://t.co/9EB1JgmiFa",
+   "original_en": "El hígado podría tener la clave para frenar una rara enfermedad que daña el cerebro\nhttps://t.co/9EB1JgmiFa",
+   "highlight": false,
+   "created_at": "2026-11-19T15:07:24.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "biobio",
+   "display_name": "biobio",
+   "handle": "@biobio",
+   "area": "health",
+   "views": 4602,
+   "likes": 3,
+   "replies": 1,
+   "reposts": 5,
+   "url": "https://x.com/biobio/status/2123491589536498154",
+   "status_url": "https://x.com/biobio/status/2123491589536498154",
+   "text": "Interno intentó fugarse desde el Hospital Regional de Valdivia mientras recibía atención médica\n https://t.co/KcgIK9XTaa",
+   "original_en": "Interno intentó fugarse desde el Hospital Regional de Valdivia mientras recibía atención médica\n https://t.co/KcgIK9XTaa",
+   "highlight": false,
+   "created_at": "2026-11-19T19:00:22.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "biobio",
+   "display_name": "biobio",
+   "handle": "@biobio",
+   "area": "health",
+   "views": 4468,
+   "likes": 7,
+   "replies": 1,
+   "reposts": 3,
+   "url": "https://x.com/biobio/status/2123521958138544245",
+   "status_url": "https://x.com/biobio/status/2123521958138544245",
+   "text": "VIDEO | Activistas con cáncer arrojan cenizas a comisario europeo de Salud en protesta por pesticidas\n https://t.co/LtOV9n5DYb",
+   "original_en": "VIDEO | Activistas con cáncer arrojan cenizas a comisario europeo de Salud en protesta por pesticidas\n https://t.co/LtOV9n5DYb",
+   "highlight": false,
+   "created_at": "2026-11-19T21:01:02.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 3451,
+   "likes": 62,
+   "replies": 4,
+   "reposts": 2,
+   "url": "https://x.com/ErickSky/status/2123488333842018577",
+   "status_url": "https://x.com/ErickSky/status/2123488333842018577",
+   "text": "Anthropic ha llevado la delantera desde el inicio de los tiempos 😵 https://t.co/In9jVYjap4",
+   "original_en": "Anthropic ha llevado la delantera desde el inicio de los tiempos 😵 https://t.co/In9jVYjap4",
+   "highlight": false,
+   "created_at": "2026-11-19T18:47:25.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "n8n_io",
+   "display_name": "n8n_io",
+   "handle": "@n8n_io",
+   "area": "ai",
+   "views": 3114,
+   "likes": 28,
+   "replies": 5,
+   "reposts": 4,
+   "url": "https://x.com/n8n_io/status/2123443255341994038",
+   "status_url": "https://x.com/n8n_io/status/2123443255341994038",
+   "text": "We asked @simonscrapes to review Nod, our new open source personal agent, against Dots, Muse and Grok Bot.\nWatch for what works and what he thinks it’s still missing. 👀\n 🔗 https://t.co/WS5Nkf4xid https://t.co/BhL2fFauqx",
+   "original_en": "We asked @simonscrapes to review Nod, our new open source personal agent, against Dots, Muse and Grok Bot.\nWatch for what works and what he thinks it’s still missing. 👀\n 🔗 https://t.co/WS5Nkf4xid https://t.co/BhL2fFauqx",
+   "highlight": false,
+   "created_at": "2026-11-19T15:48:18.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 3087,
+   "likes": 10,
+   "replies": 0,
+   "reposts": 5,
+   "url": "https://x.com/adnradiochile/status/2123607260576219391",
+   "status_url": "https://x.com/adnradiochile/status/2123607260576219391",
+   "text": "VIDEO | “Se hizo en 5 minutos”: Municipalidad de Quilicura ironiza con video del Minsal y lanza nueva campaña comunal\nhttps://t.co/xMuQn5l1gu",
+   "original_en": "VIDEO | “Se hizo en 5 minutos”: Municipalidad de Quilicura ironiza con video del Minsal y lanza nueva campaña comunal\nhttps://t.co/xMuQn5l1gu",
+   "highlight": false,
+   "created_at": "2026-11-20T02:40:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "sergiorocaa",
+   "display_name": "sergiorocaa",
+   "handle": "@sergiorocaa",
+   "area": "ai",
+   "views": 3031,
+   "likes": 136,
+   "replies": 10,
+   "reposts": 12,
+   "url": "https://x.com/sergiorocaa/status/2123464816610496933",
+   "status_url": "https://x.com/sergiorocaa/status/2123464816610496933",
+   "text": "• Elige un vídeo.\n• Dile a KREA qué quieres cambiar.\n• Obtén tu vídeo editado.\n\nLa forma de editar vídeos está cambiando. https://t.co/RrOTLvZBgU https://t.co/EfWOyLhHMP",
+   "original_en": "• Elige un vídeo.\n• Dile a KREA qué quieres cambiar.\n• Obtén tu vídeo editado.\n\nLa forma de editar vídeos está cambiando. https://t.co/RrOTLvZBgU https://t.co/EfWOyLhHMP",
+   "highlight": false,
+   "created_at": "2026-11-19T17:13:59.000Z",
    "window": "24h"
   },
   {
@@ -270,52 +273,91 @@
    "display_name": "CNNChile",
    "handle": "@CNNChile",
    "area": "health",
-   "views": 3029,
-   "likes": 8,
-   "replies": 3,
-   "reposts": 6,
-   "url": "https://x.com/CNNChile/status/2123372494681747605",
-   "status_url": "https://x.com/CNNChile/status/2123372494681747605",
-   "text": "Clausuran clínica estética clandestina en Las Condes: Se hacían cirugías mayores sin tener resolución sanitaria https://t.co/TKYDMDs7cf",
-   "original_en": "Clausuran clínica estética clandestina en Las Condes: Se hacían cirugías mayores sin tener resolución sanitaria https://t.co/TKYDMDs7cf",
+   "views": 2713,
+   "likes": 3,
+   "replies": 0,
+   "reposts": 2,
+   "url": "https://x.com/CNNChile/status/2123504582579859563",
+   "status_url": "https://x.com/CNNChile/status/2123504582579859563",
+   "text": "Es oficial: Deep Purple posterga su show en Chile por problemas de salud de Ian Gillan\n\nhttps://t.co/xycsyW5ejF",
+   "original_en": "Es oficial: Deep Purple posterga su show en Chile por problemas de salud de Ian Gillan\n\nhttps://t.co/xycsyW5ejF",
    "highlight": false,
-   "created_at": "2026-11-19T11:07:07.000Z",
+   "created_at": "2026-11-19T19:51:59.000Z",
    "window": "24h"
   },
   {
-   "name": "juancarlossaid",
-   "display_name": "juancarlossaid",
-   "handle": "@juancarlossaid",
+   "name": "Cooperativa",
+   "display_name": "Cooperativa",
+   "handle": "@Cooperativa",
    "area": "health",
-   "views": 2560,
-   "likes": 104,
-   "replies": 7,
-   "reposts": 36,
-   "url": "https://x.com/juancarlossaid/status/2123147082911580433",
-   "status_url": "https://x.com/juancarlossaid/status/2123147082911580433",
-   "text": "¿Sirve las campañas publicitarias contra el tabaco? La verdad, no mucho. Prohibiciones de fumar en espacios públicos y el aumento de precios de los productos de tabaco vía impuestos son las medidas más efectivas. Ahí deberían ponerse los mayores esfuerzos.",
-   "original_en": "¿Sirve las campañas publicitarias contra el tabaco? La verdad, no mucho. Prohibiciones de fumar en espacios públicos y el aumento de precios de los productos de tabaco vía impuestos son las medidas más efectivas. Ahí deberían ponerse los mayores esfuerzos.",
+   "views": 2576,
+   "likes": 2,
+   "replies": 1,
+   "reposts": 3,
+   "url": "https://x.com/Cooperativa/status/2123497600854749485",
+   "status_url": "https://x.com/Cooperativa/status/2123497600854749485",
+   "text": "Confirmado: Deep Purple postergó show en Chile por la salud de su icónico vocalista https://t.co/XcIrPZdMy5 https://t.co/GK0psKEPHS",
+   "original_en": "Confirmado: Deep Purple postergó show en Chile por la salud de su icónico vocalista https://t.co/XcIrPZdMy5 https://t.co/GK0psKEPHS",
    "highlight": false,
-   "created_at": "2026-11-18T20:11:25.000Z",
+   "created_at": "2026-11-19T19:24:15.000Z",
    "window": "24h"
+  },
+  {
+   "name": "24HorasTVN",
+   "display_name": "24HorasTVN",
+   "handle": "@24HorasTVN",
+   "area": "health",
+   "views": 2473,
+   "likes": 2,
+   "replies": 2,
+   "reposts": 4,
+   "url": "https://x.com/24HorasTVN/status/2123635929940185453",
+   "status_url": "https://x.com/24HorasTVN/status/2123635929940185453",
+   "text": "🔴 #Nacional \n\nPodrían provocar ceguera repentina: la advertencia del ISP por medicamentos para bajar de peso \n\nMás detalles⬇️\n https://t.co/4F3zeVPxjJ",
+   "original_en": "🔴 #Nacional \n\nPodrían provocar ceguera repentina: la advertencia del ISP por medicamentos para bajar de peso \n\nMás detalles⬇️\n https://t.co/4F3zeVPxjJ",
+   "highlight": false,
+   "created_at": "2026-11-20T04:33:55.000Z",
+   "window": "24h",
+   "draft_en": "[R1 · respuesta] Lo nuevo es que ahora lo dice el ISP en Chile, y con un dato local: desde 2022 hay 2 notificaciones de neuropatía óptica isquémica asociadas a semaglutida. Es un efecto muy poco frecuente, pero cuando ocurre la pérdida de visión puede ser permanente.\n\nLo práctico: no suspendas el tratamiento por tu cuenta. Si notas una baja brusca de visión en un ojo, consulta ese mismo día. Y cuéntale a tu médico si tienes apnea del sueño, hipertensión o diabetes de larga data.\n\nA los colegas: si ven un caso, notifíquenlo al ISP. Con solo 2 reportes en casi cinco años, puede que estemos subnotificando.\n\nFuente: https://temasdesalud.cl/noticia/agonistas-del-receptor-de-glp-1-y-riesgo-de-neuropatia-optica-isquemica-anterior/ · https://www.24horas.cl/actualidad/nacional/isp-alerta-ceguera-medicamentos-bajar-peso",
+   "draft_keywords": [
+    "GLP-1/NAION: ahora lo dice el ISP en Chile, con dato local (2 notificaciones de neuropatía óptica isquémica con semaglutida desde 2022); no suspender por cuenta propia, baja brusca de visión = consulta el mismo día, y a los colegas: notificar"
+   ],
+   "why_hit": "Objetivo de respuesta R1 (GLP-1/NAION: ahora lo dice el ISP en Chile, con dato local (2 notificaciones de neuropatía óptica isquémica con semaglutida desde 2022); no suspender por cuenta propia, baja brusca de visión = consulta el mismo día, y a los colegas: notificar). Base verificada: Nota de farmacovigilancia del ISP (Subdepartamento Farmacovigilancia y Estudios Clínicos, nov-2026; texto reproducido en temasdesalud.cl): 2 notificaciones con el término MedDRA 'Neuropatía óptica isquémica' para semaglutida entre el 1-ene-2022 y el 13-nov-2026; el ISP instruirá actualizar folletos de pacientes y profesionales de AR-GLP-1; recomienda a pacientes no suspender el tratamiento por iniciativa propia, consultar de inmediato ante pérdida súbita de visión e informar apnea del sueño, hipertensión o diabetes de larga evolución; pide notificar toda sospecha. 24HorasTVN publicó 3 veces el titular (2,5K + 1,9K + 1,9K vistas). Dato nuevo (regulador chileno + cifra local) frente a las 5 respuestas GLP-1/NAION del 10–15 nov (FDA, EMA, Sentinel, factores de riesgo). 'Puede que estemos subnotificando' es opinión de RT, no cifra.",
+   "hook": "Lo nuevo es que ahora lo dice el ISP en Chile, y con un dato local: desde 2022 hay 2 notificaciones de neuropatía óptica",
+   "top10_rank": 2
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Los titulares de 'riesgo nuevo y desconocido' sobre GLP-1 explotan en vistas aunque el estudio sea pequeño; la respuesta útil pone la escala y el qué hacer",
-  "Los videos de detrás de cámara de campañas del Minsal alcanzan cifras masivas, pero la conversación se va al costo y al tono",
-  "Las efemérides sanitarias (RAM, EPOC, páncreas) tienen vistas estables y casi sin respuestas: espacio para un ejemplo concreto desde la especialidad",
-  "En agentes personales, los posts 'X vs Y' se repiten a diario; sin un ángulo nuevo, mejor no entrar"
+  "Una alerta de un regulador chileno reactiva un tema que ya parecía agotado: el dato local (2 notificaciones en Chile) es lo que lo hace nuevo",
+  "Los titulares de 'ceguera repentina' se republican varias veces el mismo día con pocas respuestas: espacio para la proporción y el qué hacer",
+  "Las listas de 'qué agente es mejor para qué' concentran guardados (771) y respuestas; aportan las que suman un criterio, no otra preferencia",
+  "Los posts de humor y finanzas de cuentas tech (GTA VI, IPO) se llevan las vistas pero no dejan espacio para RT"
  ],
  "no_hits": [
   {
-   "handle": "@sergiorocaa",
-   "max_views": 52,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 52."
+   "handle": "@freddier",
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@bilinkis",
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
+  },
+  {
+   "handle": "@ministeriosalud",
+   "max_views": 662,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 662."
+  },
+  {
+   "handle": "@Pajarobere",
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
+  },
+  {
+   "handle": "@juancarlossaid",
    "max_views": 0,
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
@@ -326,18 +368,23 @@
   },
   {
    "handle": "@HeliaMolina_M",
-   "max_views": 304,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 304."
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
+  },
+  {
+   "handle": "@jmanalich",
+   "max_views": 347,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 347."
   }
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 16,
+ "hits_count": 18,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-11-18",
-  "hits_count": 20,
-  "total_views": 335276
+  "date": "2026-11-19",
+  "hits_count": 16,
+  "total_views": 1516211
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -405,29 +452,11 @@
  },
  "day_roster": [
   {
-   "handle": "@ministeriosalud",
-   "name": "ministeriosalud",
-   "area": "health",
-   "views": 1260878,
-   "total_views": 1295954,
-   "hit": true,
-   "window": "24h"
-  },
-  {
    "handle": "@midudev",
    "name": "midudev",
    "area": "ai",
-   "views": 57774,
-   "total_views": 82222,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@ErickSky",
-   "name": "ErickSky",
-   "area": "ai",
-   "views": 56748,
-   "total_views": 106719,
+   "views": 273309,
+   "total_views": 412369,
    "hit": true,
    "window": "24h"
   },
@@ -435,35 +464,17 @@
    "handle": "@DotCSV",
    "name": "DotCSV",
    "area": "ai",
-   "views": 27620,
-   "total_views": 71003,
+   "views": 75069,
+   "total_views": 89934,
    "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@Pajarobere",
-   "name": "Pajarobere",
-   "area": "health",
-   "views": 10428,
-   "total_views": 10428,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@freddier",
-   "name": "freddier",
+   "handle": "@ErickSky",
+   "name": "ErickSky",
    "area": "ai",
-   "views": 8014,
-   "total_views": 19591,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@Cooperativa",
-   "name": "Cooperativa",
-   "area": "health",
-   "views": 5123,
-   "total_views": 9952,
+   "views": 55390,
+   "total_views": 169892,
    "hit": true,
    "window": "24h"
   },
@@ -471,17 +482,26 @@
    "handle": "@adnradiochile",
    "name": "adnradiochile",
    "area": "health",
-   "views": 4605,
-   "total_views": 15536,
+   "views": 8081,
+   "total_views": 58254,
    "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@jmanalich",
-   "name": "jmanalich",
+   "handle": "@Cooperativa",
+   "name": "Cooperativa",
    "area": "health",
-   "views": 3435,
-   "total_views": 3435,
+   "views": 3686,
+   "total_views": 33172,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@sergiorocaa",
+   "name": "sergiorocaa",
+   "area": "ai",
+   "views": 3031,
+   "total_views": 5543,
    "hit": true,
    "window": "24h"
   },
@@ -489,35 +509,35 @@
    "handle": "@CNNChile",
    "name": "CNNChile",
    "area": "health",
-   "views": 3029,
-   "total_views": 5399,
+   "views": 2713,
+   "total_views": 8181,
    "hit": true,
    "window": "24h"
   },
   {
-   "handle": "@juancarlossaid",
-   "name": "juancarlossaid",
+   "handle": "@ministeriosalud",
+   "name": "ministeriosalud",
    "area": "health",
-   "views": 2560,
-   "total_views": 3894,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@HeliaMolina_M",
-   "name": "HeliaMolina_M",
-   "area": "health",
-   "views": 304,
-   "total_views": 1507,
+   "views": 662,
+   "total_views": 662,
    "hit": false,
    "window": "24h"
   },
   {
-   "handle": "@sergiorocaa",
-   "name": "sergiorocaa",
+   "handle": "@jmanalich",
+   "name": "jmanalich",
+   "area": "health",
+   "views": 347,
+   "total_views": 347,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@freddier",
+   "name": "freddier",
    "area": "ai",
-   "views": 52,
-   "total_views": 52,
+   "views": 0,
+   "total_views": 0,
    "hit": false,
    "window": "24h"
   },
@@ -531,8 +551,35 @@
    "window": "24h"
   },
   {
+   "handle": "@Pajarobere",
+   "name": "Pajarobere",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@juancarlossaid",
+   "name": "juancarlossaid",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
    "handle": "@CatuRojas",
    "name": "CatuRojas",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@HeliaMolina_M",
+   "name": "HeliaMolina_M",
    "area": "health",
    "views": 0,
    "total_views": 0,
@@ -604,51 +651,51 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "#PaQuéFumas: detrás de cámara de la campaña antitabaco del Minsal"
+    "keyword": "ISP: alerta por GLP-1 (Ozempic, Wegovy, Mounjaro) y neuropatía óptica"
    },
    {
     "rank": 2,
-    "keyword": "Ozempic, Wegovy y Mounjaro: comer menos de lo necesario (estudio de 14 personas)"
+    "keyword": "Agentes personales: para qué sirve cada uno (Muse, Dots, Duet, Grok Bot...)"
    },
    {
     "rank": 3,
-    "keyword": "Agentes personales: Dots vs Grok Bot vs Claude Duet vs Gemini Tasks vs Muse"
+    "keyword": "Agentes de larga duración: el límite es el costo, no el modelo"
    },
    {
     "rank": 4,
-    "keyword": "Muse de Meta y el acceso a mensajes privados"
+    "keyword": "Linger y Nod: agentes personales de código abierto"
    },
    {
     "rank": 5,
-    "keyword": "Hospital El Carmen: esperas y errores en la atención"
+    "keyword": "Krea Bots y edición de video con IA"
    },
    {
     "rank": 6,
-    "keyword": "Resistencia a los antimicrobianos: uso responsable de antibióticos"
+    "keyword": "Salida a bolsa de Anthropic"
    },
    {
     "rank": 7,
-    "keyword": "Periodismo preparado con IA: detalles sin comprensión"
+    "keyword": "Día Mundial de la EPOC"
    },
    {
     "rank": 8,
-    "keyword": "GLP-1/NAION: la FDA exige advertencia en la etiqueta"
+    "keyword": "Sarampión en EE. UU. y el panorama en Chile"
    },
    {
     "rank": 9,
-    "keyword": "Captchas que frenan a los agentes de IA"
+    "keyword": "Demanda al Hospital Sótero del Río por jeringa reutilizada"
    },
    {
     "rank": 10,
-    "keyword": "Gemini 4 Neon y la carrera de modelos"
+    "keyword": "Agentes de IA y ciberataques"
    }
   ],
-  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía, oftalmología, alertas regulatorias), sistema de salud chileno y agentes personales (curadas a mano). Excluidos: política y presupuesto (marchas contra recortes, Ricarte Soto/Presupuesto), tabaco (#PaQuéFumas, rechazado 25-oct), tragedias y casos judiciales (Hospital El Carmen, pancreatitis, Italia), farándula y deportes (Ruth Gamarra, Mario Soto, Scaloni), tecnología pura (vulnerabilidad PHP, Gemini 4 Neon, captchas) y promociones de agentes."
+  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía, oftalmología, alertas regulatorias), sistema de salud chileno y agentes personales (curadas a mano). Excluidos: política y renuncias en el Gobierno, Presupuesto 2027 y metas APS, crimen y casos judiciales (casa de torturas Yungay, Sótero del Río), farándula y deportes (Deep Purple, Alexis Sánchez), tecnología pura y finanzas (GTA VI, IPO de Anthropic, NVIDIA) y promociones de agentes."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 19-11-2026: 3 respuestas en borrador (2 salud, 1 IA) para el filtro de Wally; sin originales; nada publicado.",
-   "takeaway": "Salud: lo más visto fue el detrás de cámara de #PaQuéFumas del Minsal (1,26M vistas, 1.526 respuestas), excluido (tabaco rechazado 25-oct). En el tema propio de RT, BioBio (70K) tituló un 'riesgo nuevo y desconocido' de Ozempic, Wegovy y Mounjaro: es un estudio exploratorio de 14 personas sobre ingesta (BMJ Nutrition); R1 lo pone en proporción y da el qué hacer. R2 aprovecha la Semana de la Resistencia a los Antimicrobianos del Minsal (6,1K) con el ejemplo del ojo rojo y los colirios antibióticos (fuentes AAO). IA: freddier (8K) cuenta que un periodista preparó su entrevista con IA y sabía detalles sin entenderlos; R3 trae el paralelo médico. La guerra de agentes personales (Dots, Grok Bot, Claude Duet, Gemini Tasks, Muse) siguió activa, sin un hilo nuevo donde RT aporte; GLP-1/NAION volvió con la exigencia de la FDA, sin borrador (repetido)."
+   "headline": "Digest 20-11-2026: 2 respuestas en borrador (1 salud, 1 IA) para el filtro de Wally; sin originales; nada publicado.",
+   "takeaway": "Salud: el tema propio de RT volvió con dato chileno: el ISP emitió una nota de farmacovigilancia por GLP-1 y neuropatía óptica isquémica (2 notificaciones con semaglutida en Chile desde 2022) y 24 Horas la tituló 'ceguera repentina' tres veces (2,5K vistas la más vista). R1 lo pone en proporción, da el qué hacer y pide notificar. El resto de la salud con tracción fue política (renuncias en la seremi de Salud del Biobío), presupuesto o casos judiciales: excluidos. IA: el mapa de DavidPawlan de para qué sirve cada agente personal (62,8K vistas, 131 respuestas) es la conversación del día; R2 suma la columna que falta, la memoria en tareas largas, desde la beta de Hermes. ErickSky (55K) dijo que el límite de los agentes largos es el costo: no se responde para no repetir el ángulo de cuota del 10-nov."
   },
   "corpus": {
    "posts": 175,
@@ -660,39 +707,27 @@
   "topics": [],
   "ideas": [
    {
-    "title": "R1 · respuesta a @biobio",
+    "title": "R1 · respuesta a @24HorasTVN",
     "format": "respuesta",
-    "source": "@biobio",
-    "topic": "GLP-1 (Ozempic/Wegovy/Mounjaro): el 'riesgo nuevo y desconocido' del titular es un estudio exploratorio de 14 personas sobre ingesta (BMJ Nutrition); lo útil es que el control no es solo el peso: revisar lo que se come y consultar si hay mareos o cansancio",
-    "hook_en": "Vale la pena leer este estudio más allá del titular. No describe un efecto oculto del fármaco: es una evaluación exploratoria de 14 personas en una sola consulta de Inglaterra, y muestra algo esperable cuando el apetito baja tanto: se come bastante menos de lo necesario.\n\nLa ingesta típica fue de 1.231 calorías al día, cerca del 58% de lo estimado, y más de tres de cada cuatro quedaron cortos en fibra y vitamina D. Varios contaron además que nadie les hacía seguimiento.\n\nPor eso, si usas semaglutida o tirzepatida, el control no es solo el peso. Pide que revisen lo que estás comiendo, idealmente con nutricionista, y consulta si aparecen mareos o mucho cansancio. Bajar de peso no debería costar nutrientes.",
-    "angle": "Objetivo: https://x.com/biobio/status/2123057523477602584 (70.489 vistas)",
-    "why": "Base: Estudio en BMJ Nutrition Prevention & Health (publicado en línea 13-nov-2026; evaluación de servicio exploratoria, una sola consulta de atención primaria en Northamptonshire, Inglaterra; 14 adultos con agonistas GLP-1 o GIP/GLP-1, 10 con receta privada y 4 del NHS). Ingesta energética mediana 1.231 kcal/día = 58,5% de lo estimado; 3 bajo 800 kcal/día; 8/14 bajo dos tercios del requerimiento. Más de tres cuartos bajo dos tercios de la referencia en fibra y vitamina D; hierro bajo el umbral en la mitad; proteína sobre la referencia (153%). Participantes describen falta de seguimiento estructurado y efectos no manejados como mareos e hipotensión. Los autores lo declaran pequeño, observacional y generador de hipótesis. Post BioBio 70,5K vistas, 8 respuestas, 25 guardados. No es NAION (no repite el ángulo de los 5 borradores GLP-1/NAION del 10–15 nov). Fuente: https://nutrition.bmj.com/content/early/2026/11/13/bmjnph-2026-001622 · https://bmjgroup.com/appetite-suppressants-linked-to-inadequate-key-nutrient-intake-in-some-people/ · https://www.biobiochile.cl/noticias/salud-y-bienestar/cuerpo/2026/11/18/documentan-nuevo-y-desconocido-riesgo-en-medicamentos-para-adelgazar-como-ozempic-wegovy-y-mounjaro.shtml",
+    "source": "@24HorasTVN",
+    "topic": "GLP-1/NAION: ahora lo dice el ISP en Chile, con dato local (2 notificaciones de neuropatía óptica isquémica con semaglutida desde 2022); no suspender por cuenta propia, baja brusca de visión = consulta el mismo día, y a los colegas: notificar",
+    "hook_en": "Lo nuevo es que ahora lo dice el ISP en Chile, y con un dato local: desde 2022 hay 2 notificaciones de neuropatía óptica isquémica asociadas a semaglutida. Es un efecto muy poco frecuente, pero cuando ocurre la pérdida de visión puede ser permanente.\n\nLo práctico: no suspendas el tratamiento por tu cuenta. Si notas una baja brusca de visión en un ojo, consulta ese mismo día. Y cuéntale a tu médico si tienes apnea del sueño, hipertensión o diabetes de larga data.\n\nA los colegas: si ven un caso, notifíquenlo al ISP. Con solo 2 reportes en casi cinco años, puede que estemos subnotificando.",
+    "angle": "Objetivo: https://x.com/24HorasTVN/status/2123635929940185453 (2.473 vistas)",
+    "why": "Base: Nota de farmacovigilancia del ISP (Subdepartamento Farmacovigilancia y Estudios Clínicos, nov-2026; texto reproducido en temasdesalud.cl): 2 notificaciones con el término MedDRA 'Neuropatía óptica isquémica' para semaglutida entre el 1-ene-2022 y el 13-nov-2026; el ISP instruirá actualizar folletos de pacientes y profesionales de AR-GLP-1; recomienda a pacientes no suspender el tratamiento por iniciativa propia, consultar de inmediato ante pérdida súbita de visión e informar apnea del sueño, hipertensión o diabetes de larga evolución; pide notificar toda sospecha. 24HorasTVN publicó 3 veces el titular (2,5K + 1,9K + 1,9K vistas). Dato nuevo (regulador chileno + cifra local) frente a las 5 respuestas GLP-1/NAION del 10–15 nov (FDA, EMA, Sentinel, factores de riesgo). 'Puede que estemos subnotificando' es opinión de RT, no cifra. Fuente: https://temasdesalud.cl/noticia/agonistas-del-receptor-de-glp-1-y-riesgo-de-neuropatia-optica-isquemica-anterior/ · https://www.24horas.cl/actualidad/nacional/isp-alerta-ceguera-medicamentos-bajar-peso",
     "keywords": [
-     "GLP-1 (Ozempic/Wegovy/Mounjaro): el 'riesgo nuevo y desconocido' del titular es un estudio exploratorio de 14 personas sobre ingesta (BMJ Nutrition); lo útil es que el control no es solo el peso: revisar lo que se come y consultar si hay mareos o cansancio"
+     "GLP-1/NAION: ahora lo dice el ISP en Chile, con dato local (2 notificaciones de neuropatía óptica isquémica con semaglutida desde 2022); no suspender por cuenta propia, baja brusca de visión = consulta el mismo día, y a los colegas: notificar"
     ]
    },
    {
-    "title": "R2 · respuesta a @ministeriosalud",
+    "title": "R2 · respuesta a @DavidPawlan",
     "format": "respuesta",
-    "source": "@ministeriosalud",
-    "topic": "Semana Mundial de Sensibilización sobre la Resistencia a los Antimicrobianos: el ejemplo cotidiano del ojo rojo; la mayoría de las conjuntivitis son virales y los colirios antibióticos no ayudan; no usar gotas sobrantes ni ajenas (muchas traen corticoide); signos para consultar el mismo día",
-    "hook_en": "Un ejemplo muy cotidiano desde la oftalmología: el ojo rojo. La mayoría de las conjuntivitis son virales y los colirios antibióticos no las mejoran. Aun así, en un estudio de más de 300 mil pacientes en EE. UU., el 58% salió de la farmacia con uno, y cerca de 1 de cada 5 de esos colirios traía además corticoide, que en algunas infecciones del ojo puede empeorar el cuadro.\n\nLo práctico: no uses gotas que te sobraron de otra vez ni las de otra persona. Y si el ojo rojo viene con dolor, molestia con la luz o baja de visión, consulta ese mismo día.",
-    "angle": "Objetivo: https://x.com/ministeriosalud/status/2123079382193385765 (6.084 vistas)",
-    "why": "Base: Ophthalmology (editorial AAO 2017, sobre Shekhawat et al.): hasta 80% de las conjuntivitis son virales; en >300.000 pacientes con conjuntivitis aguda en una red de EE. UU. (2001–2014), 58% retiró un antibiótico tópico en farmacia, y cerca de 1 de cada 5 de esas recetas era una combinación antibiótico–corticoide. AAO Conjunctivitis Preferred Practice Pattern 2024: evitar el uso indiscriminado de antibióticos o corticoides tópicos; la conjuntivitis viral no responde a antibacterianos; los corticoides pueden prolongar infecciones por adenovirus y empeorar las herpéticas. Post Minsal 6,1K vistas, 1 respuesta. Ángulo de colirios antibióticos usado como detalle en una respuesta del 29-oct (ojo rojo), no en los últimos 3 días; aquí el eje es la resistencia y las gotas sobrantes. Fuente: https://www.aaojournal.org/article/S0161-6420(17)31554-3/fulltext · https://www.aaojournal.org/article/S0161-6420(24)00009-5/fulltext · https://www.aao.org/eye-health/tips-prevention/over-prescription-antibiotics-pink-eye",
+    "source": "@DavidPawlan",
+    "topic": "Mapa de agentes personales (Muse, Dots, Duet, Grok Bot...): falta la columna de qué recuerda cada uno después de una tarea larga; RT en la beta privada de Hermes: app muy pulida, pero pierde contexto en tareas largas",
+    "hook_en": "Useful map. I'd add one column nobody ranks yet: what each agent still remembers at the end of a long task.\n\nI'm in the Hermes private beta. The app is very polished, but on long tasks it still loses context. That matters more to me than voice or artifacts, because an agent that forgets halfway means briefing it all over again.",
+    "angle": "Objetivo: https://x.com/DavidPawlan/status/2123457446374953162 (62.803 vistas)",
+    "why": "Base: Post DavidPawlan 19-nov 62,8K vistas, 541 me gusta, 131 respuestas, 771 guardados. Usa solo 2 de las opiniones registradas de RT sobre Hermes (app muy pulida; pierde contexto en tareas largas) y que está en la beta privada, sin decir cómo entró ni inventar usos. Sin proactividad/aprobar, sin infra, sin cifras. Fuente: sin cifras externas",
     "keywords": [
-     "Semana Mundial de Sensibilización sobre la Resistencia a los Antimicrobianos: el ejemplo cotidiano del ojo rojo; la mayoría de las conjuntivitis son virales y los colirios antibióticos no ayudan; no usar gotas sobrantes ni ajenas (muchas traen corticoide); signos para consultar el mismo día"
-    ]
-   },
-   {
-    "title": "R3 · respuesta a @freddier",
-    "format": "respuesta",
-    "source": "@freddier",
-    "topic": "Periodista que preparó la entrevista con IA: sabía detalles muy específicos pero no los entendía; en medicina pasa igual con un resumen de ficha hecho por IA: los datos no son comprensión, eso aparece en la pregunta de seguimiento; buena para preparar, mala como reemplazo",
-    "hook_en": "Medicine has a version of this. An AI summary can hand a doctor every detail of a patient's chart before the visit, and the details can all be right. Knowing them isn't the same as understanding which ones matter to that person. That only shows up in the follow-up question, when the answer surprises you.\n\nSo I'd call it good for preparation and bad as a substitute. A simple test: if the interviewer can't leave the script when you say something unexpected, the AI did the homework but nobody did the listening.",
-    "angle": "Objetivo: https://x.com/freddier/status/2123377125554065434 (8.014 vistas)",
-    "why": "Base: Post freddier 19-nov 8,0K vistas, 133 me gusta, 13 respuestas, pregunta abierta ('not sure if this is a good thing or a bad thing'). Sin cifras externas; opinión desde la medicina, sin experiencias de uso inventadas ni mención de Hermes/agentes de RT. A freddier se le propuso otra respuesta el 16-nov (metáforas/sesgo de automatización): ángulo distinto. Fuente: sin cifras externas",
-    "keywords": [
-     "Periodista que preparó la entrevista con IA: sabía detalles muy específicos pero no los entendía; en medicina pasa igual con un resumen de ficha hecho por IA: los datos no son comprensión, eso aparece en la pregunta de seguimiento; buena para preparar, mala como reemplazo"
+     "Mapa de agentes personales (Muse, Dots, Duet, Grok Bot...): falta la columna de qué recuerda cada uno después de una tarea larga; RT en la beta privada de Hermes: app muy pulida, pero pierde contexto en tareas largas"
     ]
    }
   ],
