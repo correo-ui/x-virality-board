@@ -1,237 +1,125 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-22 10:30",
- "date": "2026-11-22",
+ "title": "Digest diario — escaneo 24h al 2026-11-23 10:30",
+ "date": "2026-11-23",
  "timezone": "America/Santiago",
- "updated": "2026-11-22T10:36:00-03:00",
+ "updated": "2026-11-23T10:45:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
   {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 53472,
-   "likes": 1639,
-   "replies": 34,
-   "reposts": 178,
-   "url": "https://x.com/midudev/status/2124141881080623212",
-   "status_url": "https://x.com/midudev/status/2124141881080623212",
-   "text": "Tu IA puede escribir código frontend obsoleto. Google ha sacado una skill para evitar generar webs con patrones antiguos y APIs desactualizadas: https://t.co/WL9SpQauRe https://t.co/k0JHX3Natv",
-   "original_en": "Tu IA puede escribir código frontend obsoleto. Google ha sacado una skill para evitar generar webs con patrones antiguos y APIs desactualizadas: https://t.co/WL9SpQauRe https://t.co/k0JHX3Natv",
-   "highlight": true,
-   "created_at": "2026-11-21T14:04:23.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "midudev",
-   "display_name": "midudev",
-   "handle": "@midudev",
-   "area": "ai",
-   "views": 44002,
-   "likes": 1032,
-   "replies": 79,
-   "reposts": 35,
-   "url": "https://x.com/midudev/status/2124157202092916921",
-   "status_url": "https://x.com/midudev/status/2124157202092916921",
-   "text": "Mi terminal en Rust tiene incorporado un panel de estadísticas para saber cuántos tokens gasto y dónde.\n\nCreo que se nota bastante la caña que le he dado a Opus 5.5 últimamente... https://t.co/FluMOGg17g",
-   "original_en": "Mi terminal en Rust tiene incorporado un panel de estadísticas para saber cuántos tokens gasto y dónde.\n\nCreo que se nota bastante la caña que le he dado a Opus 5.5 últimamente... https://t.co/FluMOGg17g",
-   "highlight": true,
-   "created_at": "2026-11-21T15:05:16.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 41798,
-   "likes": 1159,
-   "replies": 58,
-   "reposts": 28,
-   "url": "https://x.com/ErickSky/status/2124269958737916363",
-   "status_url": "https://x.com/ErickSky/status/2124269958737916363",
-   "text": "Están diciendo que Google Neon es mejor que Claude Opus 5.5 en coding.\n\nSi eso es cierto, entonces Google acaba de provocar que Anthropic desbloquee un nuevo Opus.\n\nYa hemos visto esto antes.",
-   "original_en": "Están diciendo que Google Neon es mejor que Claude Opus 5.5 en coding.\n\nSi eso es cierto, entonces Google acaba de provocar que Anthropic desbloquee un nuevo Opus.\n\nYa hemos visto esto antes.",
-   "highlight": true,
-   "created_at": "2026-11-21T22:33:19.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "biobio",
-   "display_name": "biobio",
-   "handle": "@biobio",
+   "name": "marioguerrag",
+   "display_name": "marioguerrag",
+   "handle": "@marioguerrag",
    "area": "health",
-   "views": 16617,
-   "likes": 159,
-   "replies": 11,
-   "reposts": 114,
-   "url": "https://x.com/biobio/status/2124199137495150829",
-   "status_url": "https://x.com/biobio/status/2124199137495150829",
-   "text": "Lactante de 5 meses llevaba 11 horas esperando: detectan graves deficiencias en Hospital de Ovalle\n\nhttps://t.co/aMyXGmJWJU",
-   "original_en": "Lactante de 5 meses llevaba 11 horas esperando: detectan graves deficiencias en Hospital de Ovalle\n\nhttps://t.co/aMyXGmJWJU",
+   "views": 1224230,
+   "likes": 653,
+   "replies": 60,
+   "reposts": 73,
+   "url": "https://x.com/marioguerrag/status/2124519722980979003",
+   "status_url": "https://x.com/marioguerrag/status/2124519722980979003",
+   "text": "La diferencia entre OZEMPIC y MOUNJARO, las inyecciones para la diabetes y la obesidad, que mucha gente desconoce:\n\n🔴 OZEMPIC\n•Su molécula es la semaglutida, de la farmacéutica danesa Novo Nordisk.\n•Se inyecta una vez por semana.\n•Imita una hormona del intestino, la GLP-1,",
+   "original_en": "La diferencia entre OZEMPIC y MOUNJARO, las inyecciones para la diabetes y la obesidad, que mucha gente desconoce:\n\n🔴 OZEMPIC\n•Su molécula es la semaglutida, de la farmacéutica danesa Novo Nordisk.\n•Se inyecta una vez por semana.\n•Imita una hormona del intestino, la GLP-1,",
    "highlight": true,
-   "created_at": "2026-11-21T17:51:54.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "T13",
-   "display_name": "T13",
-   "handle": "@T13",
-   "area": "health",
-   "views": 10428,
-   "likes": 51,
-   "replies": 10,
-   "reposts": 48,
-   "url": "https://x.com/T13/status/2124162226743636335",
-   "status_url": "https://x.com/T13/status/2124162226743636335",
-   "text": "Pacientes murieron sin recibir atención de urgencia\nEN VIVO #T13Finde » https://t.co/uxMKKyVGSS https://t.co/dyFAHMFHly",
-   "original_en": "Pacientes murieron sin recibir atención de urgencia\nEN VIVO #T13Finde » https://t.co/uxMKKyVGSS https://t.co/dyFAHMFHly",
-   "highlight": true,
-   "created_at": "2026-11-21T15:25:14.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 8796,
-   "likes": 264,
-   "replies": 12,
-   "reposts": 8,
-   "url": "https://x.com/ErickSky/status/2124193987590246837",
-   "status_url": "https://x.com/ErickSky/status/2124193987590246837",
-   "text": "Nada mal el Inkling 2 Mini chicos\n\nOjo con ese modelo! https://t.co/8ImmgjfTfm",
-   "original_en": "Nada mal el Inkling 2 Mini chicos\n\nOjo con ese modelo! https://t.co/8ImmgjfTfm",
-   "highlight": true,
-   "created_at": "2026-11-21T17:31:26.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "24HorasTVN",
-   "display_name": "24HorasTVN",
-   "handle": "@24HorasTVN",
-   "area": "health",
-   "views": 6475,
-   "likes": 8,
-   "replies": 11,
-   "reposts": 2,
-   "url": "https://x.com/24HorasTVN/status/2124299200934396025",
-   "status_url": "https://x.com/24HorasTVN/status/2124299200934396025",
-   "text": "🔴 #Nacional \n\n“Estamos orgullosos de ese trabajo”: director de agencia detrás de polémica campaña del Minsal respondió a las críticas\n\nMás detalles ⬇️ \nhttps://t.co/G3hyTJ8WA4",
-   "original_en": "🔴 #Nacional \n\n“Estamos orgullosos de ese trabajo”: director de agencia detrás de polémica campaña del Minsal respondió a las críticas\n\nMás detalles ⬇️ \nhttps://t.co/G3hyTJ8WA4",
-   "highlight": true,
-   "created_at": "2026-11-22T00:29:31.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "ErickSky",
-   "display_name": "ErickSky",
-   "handle": "@ErickSky",
-   "area": "ai",
-   "views": 6260,
-   "likes": 149,
-   "replies": 13,
-   "reposts": 3,
-   "url": "https://x.com/ErickSky/status/2124270829101830380",
-   "status_url": "https://x.com/ErickSky/status/2124270829101830380",
-   "text": "Inkling 2 Mini está bastante arriba 😵\n\nEsto es un golpe de estado chicos!! https://t.co/R1g0YWeUuc",
-   "original_en": "Inkling 2 Mini está bastante arriba 😵\n\nEsto es un golpe de estado chicos!! https://t.co/R1g0YWeUuc",
-   "highlight": true,
-   "created_at": "2026-11-21T22:36:47.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "real_kukuruza",
-   "display_name": "real_kukuruza",
-   "handle": "@real_kukuruza",
-   "area": "ai",
-   "views": 6096,
-   "likes": 72,
-   "replies": 13,
-   "reposts": 2,
-   "url": "https://x.com/real_kukuruza/status/2124226520004649025",
-   "status_url": "https://x.com/real_kukuruza/status/2124226520004649025",
-   "text": "Hermes Mobile is running. Most people still can’t get in\n\nThe official app from @NousResearch is still in closed beta (TestFlight + Firebase). Build 44 landed on November 13. Full release is still aimed at the window after Thanksgiving and before Christmas - no official date from https://t.co/2Pejnnulfh",
-   "original_en": "Hermes Mobile is running. Most people still can’t get in\n\nThe official app from @NousResearch is still in closed beta (TestFlight + Firebase). Build 44 landed on November 13. Full release is still aimed at the window after Thanksgiving and before Christmas - no official date from https://t.co/2Pejnnulfh",
-   "highlight": true,
-   "created_at": "2026-11-21T19:40:43.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "drewcoffman",
-   "display_name": "drewcoffman",
-   "handle": "@drewcoffman",
-   "area": "ai",
-   "views": 3924,
-   "likes": 45,
-   "replies": 23,
-   "reposts": 0,
-   "url": "https://x.com/drewcoffman/status/2124180989606006784",
-   "status_url": "https://x.com/drewcoffman/status/2124180989606006784",
-   "text": "is it just my timeline or has the AI industry gotten noticeably quieter about personal agents?\n\nfelt like every week we were getting another AI assistant. muse, dots, instinct, claude duet, etc\n\nnow i barely hear anyone talking about them",
-   "original_en": "is it just my timeline or has the AI industry gotten noticeably quieter about personal agents?\n\nfelt like every week we were getting another AI assistant. muse, dots, instinct, claude duet, etc\n\nnow i barely hear anyone talking about them",
-   "highlight": false,
-   "created_at": "2026-11-21T16:39:47.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "sergiorocaa",
-   "display_name": "sergiorocaa",
-   "handle": "@sergiorocaa",
-   "area": "ai",
-   "views": 2918,
-   "likes": 51,
-   "replies": 2,
-   "reposts": 8,
-   "url": "https://x.com/sergiorocaa/status/2124140629852651582",
-   "status_url": "https://x.com/sergiorocaa/status/2124140629852651582",
-   "text": "DIJERON QUE LA IA NO PODRÍA REEMPLAZAR A LOS HUMANOS.\n\nA MI COLEGA YA LO HA REEMPLAZADO 💀 https://t.co/LM22TwhxF1",
-   "original_en": "DIJERON QUE LA IA NO PODRÍA REEMPLAZAR A LOS HUMANOS.\n\nA MI COLEGA YA LO HA REEMPLAZADO 💀 https://t.co/LM22TwhxF1",
-   "highlight": false,
-   "created_at": "2026-11-21T13:59:25.000Z",
-   "window": "24h"
-  },
-  {
-   "name": "aymanemsi",
-   "display_name": "aymanemsi",
-   "handle": "@aymanemsi",
-   "area": "ai",
-   "views": 2686,
-   "likes": 57,
-   "replies": 23,
-   "reposts": 2,
-   "url": "https://x.com/aymanemsi/status/2124288418414813223",
-   "status_url": "https://x.com/aymanemsi/status/2124288418414813223",
-   "text": "Been testing the hermes mobile app and all I can say is this.\n\nIt is the best way to talk to your hermes agent from your phone.\n\nDiscord and telegram don't even come close.\n\n@NousResearch team absolutely cooked on this one. https://t.co/4KbL6tLLl8",
-   "original_en": "Been testing the hermes mobile app and all I can say is this.\n\nIt is the best way to talk to your hermes agent from your phone.\n\nDiscord and telegram don't even come close.\n\n@NousResearch team absolutely cooked on this one. https://t.co/4KbL6tLLl8",
-   "highlight": false,
-   "created_at": "2026-11-21T23:46:40.000Z",
+   "created_at": "2026-11-22T15:05:48.000Z",
    "window": "24h",
-   "draft_en": "[R2 · respuesta] I'm in the private beta too, and I agree: the app is very polished.\n\nThe part that still falls short for me is voice mode. It's mediocre next to the rest of the app.\n\nIf you plan to use it mostly hands-free, while walking or commuting, test voice for a few days before you make the app your only channel.",
+   "draft_en": "[R1 · respuesta] En lo que no se diferencian, y casi nadie lo menciona, es en el ojo. Este mes la FDA exigió que todos los GLP-1, incluido Mounjaro (tirzepatida), adviertan en su etiquetado sobre la NAION: una afección del nervio óptico, rara, pero que puede dejar pérdida de visión permanente.\n\nLa señal típica es una baja de visión súbita y sin dolor en un ojo, a veces notada al despertar, o una zona borrosa o que falta.\n\nSi usas cualquiera de los dos y te pasa, consulta de inmediato. Y si ya tuviste una NAION, seguir o suspender el tratamiento se decide con tu médico.\n\nFuente: https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential",
    "draft_keywords": [
-    "Hermes Mobile app: RT también está en la beta privada; coincide en que la app es muy pulida, pero el modo voz todavía es mediocre. Qué hacer: si se va a usar sobre todo manos libres, probar la voz unos días antes de dejarla como único canal"
+    "Ozempic vs Mounjaro (1,2M vistas): en lo que NO se diferencian es en el ojo. La FDA (9-nov-2026) exigió la advertencia de NAION en el etiquetado de todos los GLP-1, y su tabla incluye explícitamente Mounjaro/Zepbound (tirzepatida). Qué hacer: reconocer el síntoma (baja de visión súbita e indolora en un ojo, a veces al despertar) y consultar de inmediato; si ya hubo NAION, seguir o suspender se decide con el médico"
    ],
-   "why_hit": "Objetivo de respuesta R2 (Hermes Mobile app: RT también está en la beta privada; coincide en que la app es muy pulida, pero el modo voz todavía es mediocre. Qué hacer: si se va a usar sobre todo manos libres, probar la voz unos días antes de dejarla como único canal). Base verificada: Post de aymanemsi (2,5K seguidores; 'building a public brain on AI agents') del 21-nov 20:46 hora de Santiago: 2,7K vistas, 57 me gusta, 23 respuestas. Usa solo opiniones verificadas de RT sobre Hermes: está en la beta privada (sin decir cómo entró), app muy pulida, modo voz mediocre. Ángulo nuevo: el modo voz no se había usado (13-nov: app pulida/Hermes potente, descartado; 20-nov: memoria en tareas largas). No se atribuye 'parecido con Cadu' ni 'Hermes ya es potente'. Sin infra, sin usos inventados ni menciones de pacientes.",
-   "hook": "I'm in the private beta too, and I agree: the app is very polished.\n\nThe part that still falls short for me is voice mod",
+   "why_hit": "Objetivo de respuesta R1 (Ozempic vs Mounjaro (1,2M vistas): en lo que NO se diferencian es en el ojo. La FDA (9-nov-2026) exigió la advertencia de NAION en el etiquetado de todos los GLP-1, y su tabla incluye explícitamente Mounjaro/Zepbound (tirzepatida). Qué hacer: reconocer el síntoma (baja de visión súbita e indolora en un ojo, a veces al despertar) y consultar de inmediato; si ya hubo NAION, seguir o suspender se decide con el médico). Base verificada: Post de marioguerrag (6K seguidores, cuenta de divulgación general 'Mundo hispano', no sanitaria) del 22-nov 12:05 hora de Santiago: 1,23M vistas, 653 me gusta, 694 guardados, 60 respuestas; compara Ozempic y Mounjaro (molécula, laboratorio, GLP-1 vs GLP-1+GIP) sin decir nada del ojo. Tema recurrente de RT con tracción masiva. Dato NUEVO frente a respuestas previas (10-nov FDA 126 ensayos, 11-nov Sentinel, 14-nov EMA, 15-nov factores de riesgo, 20-nov ISP Chile): que la exigencia de la FDA abarca también Mounjaro/Zepbound (tirzepatida, listado en la tabla de la FDA), justo la comparación del post; más la forma de reconocer el síntoma. Todo literal de la FDA Drug Safety Communication del 9-nov-2026: 'requiring application holders for all GLP-1 RA medications to add information to the Warnings and Precautions section'; NAION 'rare', 'acute, painless, decreased vision in one eye, including permanent vision loss'; 'that patients may notice upon waking'; 'blurred or missing portions of vision'; 'contact their health care professional right away'; 'If a patient has had a NAION event, they should talk with their health care professional about whether to continue taking their GLP-1 RA medication or to stop it'. No se dan cifras de incidencia (ya usadas el 10-nov). 6.ª respuesta GLP-1/NAION en ~2 semanas: Wally decide.",
+   "hook": "En lo que no se diferencian, y casi nadie lo menciona, es en el ojo. Este mes la FDA exigió que todos los GLP-1, incluid",
    "top10_rank": 1
   },
   {
-   "name": "24HorasTVN",
-   "display_name": "24HorasTVN",
-   "handle": "@24HorasTVN",
-   "area": "health",
-   "views": 2388,
-   "likes": 0,
-   "replies": 2,
-   "reposts": 1,
-   "url": "https://x.com/24HorasTVN/status/2124271715446313342",
-   "status_url": "https://x.com/24HorasTVN/status/2124271715446313342",
-   "text": "🔴 #Nacional\n\nPodrían provocar ceguera repentina: la advertencia del ISP por medicamentos para bajar de peso\n\nMás detalles ⬇\nhttps://t.co/zZ47aDeLBN",
-   "original_en": "🔴 #Nacional\n\nPodrían provocar ceguera repentina: la advertencia del ISP por medicamentos para bajar de peso\n\nMás detalles ⬇\nhttps://t.co/zZ47aDeLBN",
+   "name": "midudev",
+   "display_name": "midudev",
+   "handle": "@midudev",
+   "area": "ai",
+   "views": 36193,
+   "likes": 1311,
+   "replies": 48,
+   "reposts": 151,
+   "url": "https://x.com/midudev/status/2124504171353149796",
+   "status_url": "https://x.com/midudev/status/2124504171353149796",
+   "text": "Qué de acuerdo estoy con esto: Tu trabajo no es escribir código. Tu trabajo es entender problemas, tomar decisiones y construir soluciones.\n\nNo confundamos la herramienta con la profesión. https://t.co/3HCmGOMmxI",
+   "original_en": "Qué de acuerdo estoy con esto: Tu trabajo no es escribir código. Tu trabajo es entender problemas, tomar decisiones y construir soluciones.\n\nNo confundamos la herramienta con la profesión. https://t.co/3HCmGOMmxI",
+   "highlight": true,
+   "created_at": "2026-11-22T14:04:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ShenSeanChen",
+   "display_name": "ShenSeanChen",
+   "handle": "@ShenSeanChen",
+   "area": "ai",
+   "views": 13212,
+   "likes": 320,
+   "replies": 35,
+   "reposts": 34,
+   "url": "https://x.com/ShenSeanChen/status/2124533366473023832",
+   "status_url": "https://x.com/ShenSeanChen/status/2124533366473023832",
+   "text": "𝗜 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲𝗱 𝗮𝗻 𝗮𝗹𝘄𝗮𝘆𝘀-𝗼𝗻 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗮𝗴𝗲𝗻𝘁 𝗵𝗮𝗿𝗻𝗲𝘀𝘀: 𝗘𝘃𝗲𝗻𝘁 𝗜𝗻𝗯𝗼𝘅, 𝗧𝗶𝗺𝗲𝗿𝘀, 𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻𝘀 &amp; 𝗢𝘂𝘁𝗯𝗼𝘅 𝗶𝗻 𝗿𝗲𝗮𝗹 𝗰𝗼𝗱𝗲.\n\nAfter reading Anthropic's newly published \"Building always-on agents\", I made a huge https://t.co/sw6S1PBIG7",
+   "original_en": "𝗜 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲𝗱 𝗮𝗻 𝗮𝗹𝘄𝗮𝘆𝘀-𝗼𝗻 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗮𝗴𝗲𝗻𝘁 𝗵𝗮𝗿𝗻𝗲𝘀𝘀: 𝗘𝘃𝗲𝗻𝘁 𝗜𝗻𝗯𝗼𝘅, 𝗧𝗶𝗺𝗲𝗿𝘀, 𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻𝘀 &amp; 𝗢𝘂𝘁𝗯𝗼𝘅 𝗶𝗻 𝗿𝗲𝗮𝗹 𝗰𝗼𝗱𝗲.\n\nAfter reading Anthropic's newly published \"Building always-on agents\", I made a huge https://t.co/sw6S1PBIG7",
+   "highlight": true,
+   "created_at": "2026-11-22T16:00:01.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "nvandewetering",
+   "display_name": "nvandewetering",
+   "handle": "@nvandewetering",
+   "area": "ai",
+   "views": 10810,
+   "likes": 94,
+   "replies": 22,
+   "reposts": 2,
+   "url": "https://x.com/nvandewetering/status/2124504335698518385",
+   "status_url": "https://x.com/nvandewetering/status/2124504335698518385",
+   "text": "ChatGPT Dots, Claude Projects / Duet, Grok Bot, and even Meta Muse are guiding us towards the exact same thing…\n\nA super personal agent that does all your work and chores unprompted. \n\nAs a Dots guy, I envy how Grok Bot can call businesses on your behalf. But in a matter of time",
+   "original_en": "ChatGPT Dots, Claude Projects / Duet, Grok Bot, and even Meta Muse are guiding us towards the exact same thing…\n\nA super personal agent that does all your work and chores unprompted. \n\nAs a Dots guy, I envy how Grok Bot can call businesses on your behalf. But in a matter of time",
+   "highlight": true,
+   "created_at": "2026-11-22T14:04:39.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "oaranda",
+   "display_name": "oaranda",
+   "handle": "@oaranda",
+   "area": "ai",
+   "views": 4820,
+   "likes": 49,
+   "replies": 4,
+   "reposts": 10,
+   "url": "https://x.com/oaranda/status/2124552882674381065",
+   "status_url": "https://x.com/oaranda/status/2124552882674381065",
+   "text": "Investigadores del Max Planck revisaron las memorias reales de 80 usuarios de ChatGPT. El 96% las guardo ChatGPT solito, sin que nadie le dijera «acuerdate de esto»\n\nSi alguna vez le contaste de tu diagnostico, de la deuda de la tarjeta o de tu ex para que te ayudara con un",
+   "original_en": "Investigadores del Max Planck revisaron las memorias reales de 80 usuarios de ChatGPT. El 96% las guardo ChatGPT solito, sin que nadie le dijera «acuerdate de esto»\n\nSi alguna vez le contaste de tu diagnostico, de la deuda de la tarjeta o de tu ex para que te ayudara con un",
    "highlight": false,
-   "created_at": "2026-11-21T22:40:18.000Z",
+   "created_at": "2026-11-22T17:17:34.000Z",
+   "window": "24h",
+   "draft_en": "[R2 · respuesta] Desde la consulta agrego una regla para colegas: no pegar en un chat de IA nada que identifique a un paciente. Nombre, RUT o número de ficha no tienen por qué estar ahí; el caso se puede describir sin identificadores.\n\nY el momento importa: el 1 de diciembre entra en vigencia la Ley 21.719, que incluye los datos relativos a la salud entre los datos personales sensibles.\n\nSi alguna vez lo hiciste, revisa hoy la memoria y borra lo que no debería estar ahí.\n\nFuente: https://www.bcn.cl/leychile/navegar?idLey=21719",
+   "draft_keywords": [
+    "Memorias de ChatGPT (Max Planck, 96% guardadas sin pedirlo; la salud es el dato sensible más frecuente): regla práctica para colegas, no pegar identificadores de pacientes (nombre, RUT, n.º de ficha) y describir el caso sin ellos; el 1-dic-2026 entra en vigencia la Ley 21.719, que incluye los datos relativos a la salud entre los datos personales sensibles. Qué hacer: si ya se hizo, revisar y borrar la memoria hoy"
+   ],
+   "why_hit": "Objetivo de respuesta R2 (Memorias de ChatGPT (Max Planck, 96% guardadas sin pedirlo; la salud es el dato sensible más frecuente): regla práctica para colegas, no pegar identificadores de pacientes (nombre, RUT, n.º de ficha) y describir el caso sin ellos; el 1-dic-2026 entra en vigencia la Ley 21.719, que incluye los datos relativos a la salud entre los datos personales sensibles. Qué hacer: si ya se hizo, revisar y borrar la memoria hoy). Base verificada: Post de oaranda (14,8K seguidores; IA, agentes y comunicación) del 22-nov 14:17 hora de Santiago: 4,8K vistas, 49 me gusta, 10 reposts, 4 respuestas. El post ya dice que la salud fue el dato sensible más frecuente y explica cómo revisar la memoria; la respuesta suma el ángulo clínico (datos de pacientes) y un dato chileno oficial y oportuno: Ley 21.719 (BCN, 'Versión: Con Vigencia Diferida por Fecha - 01-DIC-2026'), art. 2 g: datos personales sensibles incluyen 'los datos relativos a la salud'; art. 2 f: persona identificable mediante identificadores 'tales como el nombre, el número de cédula de identidad'. No se atribuye a RT ningún uso propio de IA con pacientes. No repite el 17-nov (acuerdo Ciencia–OpenAI / ficha clínica, Ley 20.584): otra ley, otro gesto concreto. Sin Hermes, sin infra. RT respondió a oaranda una vez (3-nov, reglas de agentes).",
+   "hook": "Desde la consulta agrego una regla para colegas: no pegar en un chat de IA nada que identifique a un paciente. Nombre, R",
+   "top10_rank": 2
+  },
+  {
+   "name": "adnradiochile",
+   "display_name": "adnradiochile",
+   "handle": "@adnradiochile",
+   "area": "health",
+   "views": 4150,
+   "likes": 2,
+   "replies": 0,
+   "reposts": 3,
+   "url": "https://x.com/adnradiochile/status/2124576144481792391",
+   "status_url": "https://x.com/adnradiochile/status/2124576144481792391",
+   "text": "¿Toses cuando comes? Estas son las señales de disfagia, el trastorno que puede afectar tu salud\n\nhttps://t.co/12sJ8ygE8A",
+   "original_en": "¿Toses cuando comes? Estas son las señales de disfagia, el trastorno que puede afectar tu salud\n\nhttps://t.co/12sJ8ygE8A",
+   "highlight": false,
+   "created_at": "2026-11-22T18:50:00.000Z",
    "window": "24h"
   },
   {
@@ -239,33 +127,43 @@
    "display_name": "ministeriosalud",
    "handle": "@ministeriosalud",
    "area": "health",
-   "views": 1557,
-   "likes": 25,
-   "replies": 2,
-   "reposts": 17,
-   "url": "https://x.com/ministeriosalud/status/2124473889644294177",
-   "status_url": "https://x.com/ministeriosalud/status/2124473889644294177",
-   "text": "¡Donar es dar tiempo para vivir!\n\nEste 22 de noviembre, en el Día Nacional del Trasplante, recordemos lo que ya se ha logrado en Chile durante 2026: 602 trasplantes realizados, la cifra más alta registrada desde el año 2000.\n\nTu decisión importa. Infórmate, conversa con tu https://t.co/Sn4q4vTktz",
-   "original_en": "¡Donar es dar tiempo para vivir!\n\nEste 22 de noviembre, en el Día Nacional del Trasplante, recordemos lo que ya se ha logrado en Chile durante 2026: 602 trasplantes realizados, la cifra más alta registrada desde el año 2000.\n\nTu decisión importa. Infórmate, conversa con tu https://t.co/Sn4q4vTktz",
+   "views": 2668,
+   "likes": 12,
+   "replies": 0,
+   "reposts": 8,
+   "url": "https://x.com/ministeriosalud/status/2124534738324996590",
+   "status_url": "https://x.com/ministeriosalud/status/2124534738324996590",
+   "text": "Este 22 de noviembre conmemoramos el Día del Fonoaudiólogo y la Fonoaudióloga. Queremos saludar y agradecer profundamente a los profesionales que, con vocación, paciencia y compromiso, trabajan día a día en nuestra red asistencial para mejorar la comunicación y calidad de vida de https://t.co/Q0rGQjOAla",
+   "original_en": "Este 22 de noviembre conmemoramos el Día del Fonoaudiólogo y la Fonoaudióloga. Queremos saludar y agradecer profundamente a los profesionales que, con vocación, paciencia y compromiso, trabajan día a día en nuestra red asistencial para mejorar la comunicación y calidad de vida de https://t.co/Q0rGQjOAla",
    "highlight": false,
-   "created_at": "2026-11-22T12:03:40.000Z",
-   "window": "24h",
-   "draft_en": "[R1 · respuesta] 602 trasplantes en lo que va de 2026 es una gran noticia. Desde la oftalmología agrego algo que casi no se dice: la córnea no depende solo de la muerte encefálica.\n\nSegún el propio Minsal, apenas el 2% de quienes fallecen en Chile cumple ese criterio para donar órganos. Pero las córneas también se pueden donar tras un fallecimiento por paro cardiorrespiratorio: para eso existe un programa específico.\n\nAsí que cuando conversen en familia sobre donar, nombren también las córneas. Para alguien con la córnea opaca, ese tejido puede significar recuperar visión.\n\nFuente: https://chilepaisdonante.minsal.cl/preguntas-frecuentes/preguntas-frecuentes.html · https://www.minsal.cl/wp-content/uploads/2022/07/norma-tecnica-de-corneas-2021.pdf",
-   "draft_keywords": [
-    "Día Nacional del Trasplante (602 trasplantes en 2026, récord desde 2000): la córnea no depende solo de la muerte encefálica; solo el 2% de los fallecidos cumple ese criterio, pero las córneas también se donan tras paro cardiorrespiratorio. Qué hacer: al conversar en familia sobre donar, nombrar también las córneas"
-   ],
-   "why_hit": "Objetivo de respuesta R1 (Día Nacional del Trasplante (602 trasplantes en 2026, récord desde 2000): la córnea no depende solo de la muerte encefálica; solo el 2% de los fallecidos cumple ese criterio, pero las córneas también se donan tras paro cardiorrespiratorio. Qué hacer: al conversar en familia sobre donar, nombrar también las córneas). Base verificada: Post de @ministeriosalud del 22-nov 09:03 hora de Santiago (Día Nacional del Trasplante): 1,6K vistas, 25 me gusta, 2 respuestas, 17 reposts a ~1,5 h de publicado; bajo el umbral de 2.000 pero es cuenta del watchlist, tema propio de RT y va a seguir subiendo. '602 trasplantes' y 'cifra más alta desde 2000' son del propio post. El 2% y que tras paro cardiorrespiratorio solo existe programa de extracción de córneas y piel: Minsal, Chile País Donante, preguntas frecuentes (verificado hoy). Respaldo: Norma Técnica Minsal de córneas (2021) define el donante por criterios cardiorrespiratorios y el procuramiento desde UPC o Anatomía Patológica. No se afirma que los 602 incluyan córneas ni se dan cifras de lista de espera (la de la norma es de 2021). Tema no usado antes por RT (radar: solo córneas de México/España descartadas en oct).",
-   "hook": "602 trasplantes en lo que va de 2026 es una gran noticia. Desde la oftalmología agrego algo que casi no se dice: la córn",
-   "top10_rank": 2
+   "created_at": "2026-11-22T16:05:28.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "sergiorocaa",
+   "display_name": "sergiorocaa",
+   "handle": "@sergiorocaa",
+   "area": "ai",
+   "views": 2493,
+   "likes": 59,
+   "replies": 1,
+   "reposts": 11,
+   "url": "https://x.com/sergiorocaa/status/2124604933999841455",
+   "status_url": "https://x.com/sergiorocaa/status/2124604933999841455",
+   "text": "Guía para añadir fácilmente Skills a Claude.\n\nEl artículo incluye 25 de las mejores skills para Claude, Gemini y ChatGPT.\n\nGuárdate este post para no perderlo 🔖 https://t.co/WlSs1Mt1tK",
+   "original_en": "Guía para añadir fácilmente Skills a Claude.\n\nEl artículo incluye 25 de las mejores skills para Claude, Gemini y ChatGPT.\n\nGuárdate este post para no perderlo 🔖 https://t.co/WlSs1Mt1tK",
+   "highlight": false,
+   "created_at": "2026-11-22T20:44:24.000Z",
+   "window": "24h"
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Los días nacionales del Minsal (trasplante, diabetes) dan espacio para un dato de la especialidad que el post oficial no incluye",
-  "Las fiscalizaciones de hospitales siguen circulando dos días después en distintos medios: sin dato clínico nuevo no hay respuesta",
-  "Las apps en beta cerrada generan elogios y preguntas de acceso; aporta quien dice qué falta, con una sola observación concreta",
-  "Los domingos, las cuentas de medios chilenos llenan el feed de deportes, crimen y política; la salud con tracción baja"
+  "Los explicadores virales de fármacos (Ozempic vs Mounjaro) llegan a millones sin mencionar riesgos oculares: espacio para un dato regulatorio literal y un síntoma concreto",
+  "Cuando el Minsal entra en un debate político, sus posts superan con creces a cualquier tema clínico, pero no son terreno para RT",
+  "Los estudios de privacidad en IA aterrizan mejor con un gesto práctico y una norma local con fecha",
+  "Los lunes temprano, los medios chilenos todavía arrastran la agenda política del fin de semana"
  ],
  "no_hits": [
   {
@@ -284,19 +182,14 @@
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
-   "handle": "@ministeriosalud",
-   "max_views": 1557,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.557."
-  },
-  {
    "handle": "@Pajarobere",
    "max_views": 0,
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@juancarlossaid",
-   "max_views": 890,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 890."
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@CatuRojas",
@@ -307,16 +200,26 @@
    "handle": "@HeliaMolina_M",
    "max_views": 0,
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
+  },
+  {
+   "handle": "@Cooperativa",
+   "max_views": 1969,
+   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.969."
+  },
+  {
+   "handle": "@jmanalich",
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   }
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 14,
+ "hits_count": 8,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-11-21",
-  "hits_count": 26,
-  "total_views": 580136
+  "date": "2026-11-22",
+  "hits_count": 14,
+  "total_views": 207417
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -384,11 +287,11 @@
  },
  "day_roster": [
   {
-   "handle": "@midudev",
-   "name": "midudev",
-   "area": "ai",
-   "views": 53472,
-   "total_views": 97474,
+   "handle": "@ministeriosalud",
+   "name": "ministeriosalud",
+   "area": "health",
+   "views": 502875,
+   "total_views": 587462,
    "hit": true,
    "window": "24h"
   },
@@ -396,8 +299,17 @@
    "handle": "@ErickSky",
    "name": "ErickSky",
    "area": "ai",
-   "views": 41798,
-   "total_views": 134341,
+   "views": 268462,
+   "total_views": 366423,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@midudev",
+   "name": "midudev",
+   "area": "ai",
+   "views": 122073,
+   "total_views": 158266,
    "hit": true,
    "window": "24h"
   },
@@ -405,17 +317,8 @@
    "handle": "@CNNChile",
    "name": "CNNChile",
    "area": "health",
-   "views": 24147,
-   "total_views": 134689,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@jmanalich",
-   "name": "jmanalich",
-   "area": "health",
-   "views": 4582,
-   "total_views": 9105,
+   "views": 13830,
+   "total_views": 27852,
    "hit": true,
    "window": "24h"
   },
@@ -423,8 +326,8 @@
    "handle": "@adnradiochile",
    "name": "adnradiochile",
    "area": "health",
-   "views": 3653,
-   "total_views": 17050,
+   "views": 9279,
+   "total_views": 29881,
    "hit": true,
    "window": "24h"
   },
@@ -432,8 +335,8 @@
    "handle": "@sergiorocaa",
    "name": "sergiorocaa",
    "area": "ai",
-   "views": 2918,
-   "total_views": 2918,
+   "views": 2493,
+   "total_views": 2535,
    "hit": true,
    "window": "24h"
   },
@@ -441,26 +344,8 @@
    "handle": "@Cooperativa",
    "name": "Cooperativa",
    "area": "health",
-   "views": 2852,
-   "total_views": 21371,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@ministeriosalud",
-   "name": "ministeriosalud",
-   "area": "health",
-   "views": 1557,
-   "total_views": 1557,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@juancarlossaid",
-   "name": "juancarlossaid",
-   "area": "health",
-   "views": 890,
-   "total_views": 1617,
+   "views": 1969,
+   "total_views": 13101,
    "hit": false,
    "window": "24h"
   },
@@ -501,6 +386,15 @@
    "window": "24h"
   },
   {
+   "handle": "@juancarlossaid",
+   "name": "juancarlossaid",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
    "handle": "@CatuRojas",
    "name": "CatuRojas",
    "area": "health",
@@ -512,6 +406,15 @@
   {
    "handle": "@HeliaMolina_M",
    "name": "HeliaMolina_M",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@jmanalich",
+   "name": "jmanalich",
    "area": "health",
    "views": 0,
    "total_views": 0,
@@ -583,54 +486,54 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "Día Nacional del Trasplante: 602 trasplantes en 2026 y la donación de córneas"
+    "keyword": "Ozempic vs Mounjaro: el explicador viral (1,2M) que no dice nada del ojo"
    },
    {
     "rank": 2,
-    "keyword": "Hermes Mobile: beta cerrada y el modo voz"
+    "keyword": "FDA: advertencia de NAION en todos los GLP-1, incluida la tirzepatida"
    },
    {
     "rank": 3,
-    "keyword": "¿Se calmó la conversación sobre agentes personales? (Muse, Dots, Duet)"
+    "keyword": "Memorias de ChatGPT: la salud, el dato sensible que más se guarda"
    },
    {
     "rank": 4,
-    "keyword": "Hospital de Ovalle: lactante 11 horas esperando en Urgencia"
+    "keyword": "Ley 21.719 de datos personales: vigencia el 1 de diciembre"
    },
    {
     "rank": 5,
-    "keyword": "Polémica campaña del Minsal: la agencia responde"
+    "keyword": "Agentes personales convergen (Dots, Duet, Grok Bot, Muse)"
    },
    {
     "rank": 6,
-    "keyword": "ISP: alerta por GLP-1 y neuropatía óptica (republicada otra vez)"
+    "keyword": "Comunicado del Minsal sobre hormonización (política, excluido)"
    },
    {
     "rank": 7,
-    "keyword": "Nuevo Hospital del Salvador: una espera de años"
+    "keyword": "Campaña antivapeo del Minsal: la agencia defiende el spot"
    },
    {
     "rank": 8,
-    "keyword": "Repos gratis para potenciar Grok Bot (tecnología)"
+    "keyword": "Alerta amarilla por calor en Valparaíso (34 °C)"
    },
    {
     "rank": 9,
-    "keyword": "Google Neon vs Claude Opus 5.5 en código (tecnología)"
+    "keyword": "Disfagia: señales cuando toses al comer"
    },
    {
     "rank": 10,
-    "keyword": "Fragatas portuguesas: prohibición de baño en el Biobío"
+    "keyword": "Gemini 4 Neon vs Opus 5.5 (tecnología)"
    }
   ],
-  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía, desprendimiento, córnea/trasplante, oftalmología, alertas regulatorias), sistema de salud chileno y agentes personales (curadas a mano). Excluidos: política (cruce Schneider–Kaiser, caso firmas, terapias hormonales, acusación constitucional), crimen (Molina, Ñuñoa, La Florida), accidentes (avioneta Peñalolén), deportes y farándula (Ricardo Acuña, Ed Sheeran, Florence Pugh, Raphael, Bolsonaro), tecnología pura (Inkling 2 Mini, terminal en Rust, Riemann) y virales sin salud (Elon Musk y Optimus)."
+  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía, desprendimiento, córnea, oftalmología, alertas regulatorias), sistema de salud chileno y agentes personales (curadas a mano). Excluidos: política (comunicado del Minsal y debate sobre hormonización, caso Firmas, periodista despedido y ministro Quiroz, renuncias Seremi/Senama), polémica de la campaña antivapeo (comunicación), crimen y fraude (SII, reclutamiento en Sinaloa), accidentes (Antofagasta, incendio Independencia), deportes y farándula (Musiala, Matus) y tecnología pura (Gemini 4 Neon, GLM-5.4, Riemann, singularidad)."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 22-11-2026: 2 respuestas en borrador (1 salud, 1 IA) para el filtro de Wally; sin originales; nada publicado.",
-   "takeaway": "Domingo con la salud chilena todavía marcada por la fiscalización del Hospital de Ovalle (BioBio 16,6K, T13 10,4K), ya excluida ayer por ser fiscalización sin aporte desde la especialidad, y por la polémica de una campaña del Minsal (24 Horas 6,5K), un tema de comunicación política. GLP-1/NAION volvió a republicarse (24 Horas 2,4K) sin dato nuevo. Tema propio: hoy es el Día Nacional del Trasplante y el Minsal informó 602 trasplantes en 2026, la cifra más alta desde 2000 (1,6K a 1,5 h). R1 suma el dato que casi nadie dice: solo el 2% de los fallecidos cumple criterio de muerte encefálica, pero las córneas también se donan tras un paro cardiorrespiratorio (Minsal, Chile País Donante). IA: la beta de la app móvil de Hermes concentra la conversación (real_kukuruza 6,1K, aymanemsi 2,7K y 23 respuestas); R2 aporta una opinión verificada de RT que no se había usado: la app es muy pulida, pero el modo voz sigue siendo mediocre. drewcoffman (3,9K) pregunta si se calmó la conversación sobre agentes personales: sin ángulo propio."
+   "headline": "Digest 23-11-2026: 2 respuestas en borrador (1 salud, 1 IA, ambas en español) para el filtro de Wally; sin originales; nada publicado.",
+   "takeaway": "Lunes con la conversación de salud chilena dominada por la política: el comunicado del Minsal sobre hormonización en menores (503K vistas) y su eco en medios (T13 12,8K, BioBio 9,6K, ADN 9,3K), todo excluido, igual que la defensa de la agencia detrás del spot antivapeo del Minsal (BioBio 26,9K; el post del Minsal 81,9K y 205 respuestas). Tema propio con tracción masiva: un explicador 'Ozempic vs Mounjaro' de marioguerrag llegó a 1,23M vistas y 694 guardados sin decir nada del ojo. R1 aporta el dato nuevo: la exigencia de la FDA del 9-nov de advertir la NAION abarca a todos los GLP-1, incluido Mounjaro (tirzepatida), más cómo reconocer el síntoma y qué hacer (literal de la FDA). IA: oaranda (4,8K) resume un estudio del Max Planck sobre memorias de ChatGPT donde la salud es el dato sensible más frecuente; R2 suma la regla clínica (no pegar identificadores de pacientes) y la Ley 21.719, que entra en vigencia el 1 de diciembre. Hermes en saturación: nvandewetering (10,8K, convergencia de agentes personales) queda fuera."
   },
   "corpus": {
-   "posts": 177,
+   "posts": 206,
    "min_views": 2000
   },
   "window": {
@@ -639,27 +542,27 @@
   "topics": [],
   "ideas": [
    {
-    "title": "R1 · respuesta a @ministeriosalud",
+    "title": "R1 · respuesta a @marioguerrag",
     "format": "respuesta",
-    "source": "@ministeriosalud",
-    "topic": "Día Nacional del Trasplante (602 trasplantes en 2026, récord desde 2000): la córnea no depende solo de la muerte encefálica; solo el 2% de los fallecidos cumple ese criterio, pero las córneas también se donan tras paro cardiorrespiratorio. Qué hacer: al conversar en familia sobre donar, nombrar también las córneas",
-    "hook_en": "602 trasplantes en lo que va de 2026 es una gran noticia. Desde la oftalmología agrego algo que casi no se dice: la córnea no depende solo de la muerte encefálica.\n\nSegún el propio Minsal, apenas el 2% de quienes fallecen en Chile cumple ese criterio para donar órganos. Pero las córneas también se pueden donar tras un fallecimiento por paro cardiorrespiratorio: para eso existe un programa específico.\n\nAsí que cuando conversen en familia sobre donar, nombren también las córneas. Para alguien con la córnea opaca, ese tejido puede significar recuperar visión.",
-    "angle": "Objetivo: https://x.com/ministeriosalud/status/2124473889644294177 (1.557 vistas)",
-    "why": "Base: Post de @ministeriosalud del 22-nov 09:03 hora de Santiago (Día Nacional del Trasplante): 1,6K vistas, 25 me gusta, 2 respuestas, 17 reposts a ~1,5 h de publicado; bajo el umbral de 2.000 pero es cuenta del watchlist, tema propio de RT y va a seguir subiendo. '602 trasplantes' y 'cifra más alta desde 2000' son del propio post. El 2% y que tras paro cardiorrespiratorio solo existe programa de extracción de córneas y piel: Minsal, Chile País Donante, preguntas frecuentes (verificado hoy). Respaldo: Norma Técnica Minsal de córneas (2021) define el donante por criterios cardiorrespiratorios y el procuramiento desde UPC o Anatomía Patológica. No se afirma que los 602 incluyan córneas ni se dan cifras de lista de espera (la de la norma es de 2021). Tema no usado antes por RT (radar: solo córneas de México/España descartadas en oct). Fuente: https://chilepaisdonante.minsal.cl/preguntas-frecuentes/preguntas-frecuentes.html · https://www.minsal.cl/wp-content/uploads/2022/07/norma-tecnica-de-corneas-2021.pdf",
+    "source": "@marioguerrag",
+    "topic": "Ozempic vs Mounjaro (1,2M vistas): en lo que NO se diferencian es en el ojo. La FDA (9-nov-2026) exigió la advertencia de NAION en el etiquetado de todos los GLP-1, y su tabla incluye explícitamente Mounjaro/Zepbound (tirzepatida). Qué hacer: reconocer el síntoma (baja de visión súbita e indolora en un ojo, a veces al despertar) y consultar de inmediato; si ya hubo NAION, seguir o suspender se decide con el médico",
+    "hook_en": "En lo que no se diferencian, y casi nadie lo menciona, es en el ojo. Este mes la FDA exigió que todos los GLP-1, incluido Mounjaro (tirzepatida), adviertan en su etiquetado sobre la NAION: una afección del nervio óptico, rara, pero que puede dejar pérdida de visión permanente.\n\nLa señal típica es una baja de visión súbita y sin dolor en un ojo, a veces notada al despertar, o una zona borrosa o que falta.\n\nSi usas cualquiera de los dos y te pasa, consulta de inmediato. Y si ya tuviste una NAION, seguir o suspender el tratamiento se decide con tu médico.",
+    "angle": "Objetivo: https://x.com/marioguerrag/status/2124519722980979003 (1.224.230 vistas)",
+    "why": "Base: Post de marioguerrag (6K seguidores, cuenta de divulgación general 'Mundo hispano', no sanitaria) del 22-nov 12:05 hora de Santiago: 1,23M vistas, 653 me gusta, 694 guardados, 60 respuestas; compara Ozempic y Mounjaro (molécula, laboratorio, GLP-1 vs GLP-1+GIP) sin decir nada del ojo. Tema recurrente de RT con tracción masiva. Dato NUEVO frente a respuestas previas (10-nov FDA 126 ensayos, 11-nov Sentinel, 14-nov EMA, 15-nov factores de riesgo, 20-nov ISP Chile): que la exigencia de la FDA abarca también Mounjaro/Zepbound (tirzepatida, listado en la tabla de la FDA), justo la comparación del post; más la forma de reconocer el síntoma. Todo literal de la FDA Drug Safety Communication del 9-nov-2026: 'requiring application holders for all GLP-1 RA medications to add information to the Warnings and Precautions section'; NAION 'rare', 'acute, painless, decreased vision in one eye, including permanent vision loss'; 'that patients may notice upon waking'; 'blurred or missing portions of vision'; 'contact their health care professional right away'; 'If a patient has had a NAION event, they should talk with their health care professional about whether to continue taking their GLP-1 RA medication or to stop it'. No se dan cifras de incidencia (ya usadas el 10-nov). 6.ª respuesta GLP-1/NAION en ~2 semanas: Wally decide. Fuente: https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential",
     "keywords": [
-     "Día Nacional del Trasplante (602 trasplantes en 2026, récord desde 2000): la córnea no depende solo de la muerte encefálica; solo el 2% de los fallecidos cumple ese criterio, pero las córneas también se donan tras paro cardiorrespiratorio. Qué hacer: al conversar en familia sobre donar, nombrar también las córneas"
+     "Ozempic vs Mounjaro (1,2M vistas): en lo que NO se diferencian es en el ojo. La FDA (9-nov-2026) exigió la advertencia de NAION en el etiquetado de todos los GLP-1, y su tabla incluye explícitamente Mounjaro/Zepbound (tirzepatida). Qué hacer: reconocer el síntoma (baja de visión súbita e indolora en un ojo, a veces al despertar) y consultar de inmediato; si ya hubo NAION, seguir o suspender se decide con el médico"
     ]
    },
    {
-    "title": "R2 · respuesta a @aymanemsi",
+    "title": "R2 · respuesta a @oaranda",
     "format": "respuesta",
-    "source": "@aymanemsi",
-    "topic": "Hermes Mobile app: RT también está en la beta privada; coincide en que la app es muy pulida, pero el modo voz todavía es mediocre. Qué hacer: si se va a usar sobre todo manos libres, probar la voz unos días antes de dejarla como único canal",
-    "hook_en": "I'm in the private beta too, and I agree: the app is very polished.\n\nThe part that still falls short for me is voice mode. It's mediocre next to the rest of the app.\n\nIf you plan to use it mostly hands-free, while walking or commuting, test voice for a few days before you make the app your only channel.",
-    "angle": "Objetivo: https://x.com/aymanemsi/status/2124288418414813223 (2.686 vistas)",
-    "why": "Base: Post de aymanemsi (2,5K seguidores; 'building a public brain on AI agents') del 21-nov 20:46 hora de Santiago: 2,7K vistas, 57 me gusta, 23 respuestas. Usa solo opiniones verificadas de RT sobre Hermes: está en la beta privada (sin decir cómo entró), app muy pulida, modo voz mediocre. Ángulo nuevo: el modo voz no se había usado (13-nov: app pulida/Hermes potente, descartado; 20-nov: memoria en tareas largas). No se atribuye 'parecido con Cadu' ni 'Hermes ya es potente'. Sin infra, sin usos inventados ni menciones de pacientes. Fuente: sin cifras externas",
+    "source": "@oaranda",
+    "topic": "Memorias de ChatGPT (Max Planck, 96% guardadas sin pedirlo; la salud es el dato sensible más frecuente): regla práctica para colegas, no pegar identificadores de pacientes (nombre, RUT, n.º de ficha) y describir el caso sin ellos; el 1-dic-2026 entra en vigencia la Ley 21.719, que incluye los datos relativos a la salud entre los datos personales sensibles. Qué hacer: si ya se hizo, revisar y borrar la memoria hoy",
+    "hook_en": "Desde la consulta agrego una regla para colegas: no pegar en un chat de IA nada que identifique a un paciente. Nombre, RUT o número de ficha no tienen por qué estar ahí; el caso se puede describir sin identificadores.\n\nY el momento importa: el 1 de diciembre entra en vigencia la Ley 21.719, que incluye los datos relativos a la salud entre los datos personales sensibles.\n\nSi alguna vez lo hiciste, revisa hoy la memoria y borra lo que no debería estar ahí.",
+    "angle": "Objetivo: https://x.com/oaranda/status/2124552882674381065 (4.820 vistas)",
+    "why": "Base: Post de oaranda (14,8K seguidores; IA, agentes y comunicación) del 22-nov 14:17 hora de Santiago: 4,8K vistas, 49 me gusta, 10 reposts, 4 respuestas. El post ya dice que la salud fue el dato sensible más frecuente y explica cómo revisar la memoria; la respuesta suma el ángulo clínico (datos de pacientes) y un dato chileno oficial y oportuno: Ley 21.719 (BCN, 'Versión: Con Vigencia Diferida por Fecha - 01-DIC-2026'), art. 2 g: datos personales sensibles incluyen 'los datos relativos a la salud'; art. 2 f: persona identificable mediante identificadores 'tales como el nombre, el número de cédula de identidad'. No se atribuye a RT ningún uso propio de IA con pacientes. No repite el 17-nov (acuerdo Ciencia–OpenAI / ficha clínica, Ley 20.584): otra ley, otro gesto concreto. Sin Hermes, sin infra. RT respondió a oaranda una vez (3-nov, reglas de agentes). Fuente: https://www.bcn.cl/leychile/navegar?idLey=21719",
     "keywords": [
-     "Hermes Mobile app: RT también está en la beta privada; coincide en que la app es muy pulida, pero el modo voz todavía es mediocre. Qué hacer: si se va a usar sobre todo manos libres, probar la voz unos días antes de dejarla como único canal"
+     "Memorias de ChatGPT (Max Planck, 96% guardadas sin pedirlo; la salud es el dato sensible más frecuente): regla práctica para colegas, no pegar identificadores de pacientes (nombre, RUT, n.º de ficha) y describir el caso sin ellos; el 1-dic-2026 entra en vigencia la Ley 21.719, que incluye los datos relativos a la salud entre los datos personales sensibles. Qué hacer: si ya se hizo, revisar y borrar la memoria hoy"
     ]
    }
   ],
