@@ -1,26 +1,43 @@
 {
- "title": "Digest diario — escaneo 24h al 2026-11-26 10:30",
- "date": "2026-11-26",
+ "title": "Digest diario — escaneo 24h al 2026-11-27 10:35",
+ "date": "2026-11-27",
  "timezone": "America/Santiago",
- "updated": "2026-11-26T11:30:00-03:00",
+ "updated": "2026-11-27T11:15:00-03:00",
  "brand_title": "Grok Bot X Virality Score",
  "brand_handle": "@Drrubentorrest",
  "hits": [
   {
-   "name": "latercera",
-   "display_name": "latercera",
-   "handle": "@latercera",
-   "area": "health",
-   "views": 7616,
-   "likes": 61,
-   "replies": 7,
-   "reposts": 11,
-   "url": "https://x.com/latercera/status/2125741330584482205",
-   "status_url": "https://x.com/latercera/status/2125741330584482205",
-   "text": "Un estudio descubre nuevos beneficios para la salud al comer palta todos los días \n\nhttps://t.co/v5UBROeE6u",
-   "original_en": "Un estudio descubre nuevos beneficios para la salud al comer palta todos los días \n\nhttps://t.co/v5UBROeE6u",
+   "name": "NousResearch",
+   "display_name": "NousResearch",
+   "handle": "@NousResearch",
+   "area": "ai",
+   "views": 122440,
+   "likes": 2254,
+   "replies": 71,
+   "reposts": 149,
+   "url": "https://x.com/NousResearch/status/2125989568721637578",
+   "status_url": "https://x.com/NousResearch/status/2125989568721637578",
+   "text": "Hermes Agent can now control your Obsidian vault as a shared knowledge base via the official connector. Your notes stay local, private, and fully under your control.\n\nhttps://t.co/i3vCWL6ODj https://t.co/LVznCceaLc",
+   "original_en": "Hermes Agent can now control your Obsidian vault as a shared knowledge base via the official connector. Your notes stay local, private, and fully under your control.\n\nhttps://t.co/i3vCWL6ODj https://t.co/LVznCceaLc",
    "highlight": true,
-   "created_at": "2026-11-26T00:00:02.000Z",
+   "created_at": "2026-11-26T16:26:26.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "midudev",
+   "display_name": "midudev",
+   "handle": "@midudev",
+   "area": "ai",
+   "views": 71476,
+   "likes": 1615,
+   "replies": 48,
+   "reposts": 152,
+   "url": "https://x.com/midudev/status/2125950618481435114",
+   "status_url": "https://x.com/midudev/status/2125950618481435114",
+   "text": "Guía oficial de Antrhopic sobre cómo desplegar código a producción usando Claude Code: mejores prácticas, automatización de revisiones y skills. ¡Muy interesante! https://t.co/vjHkS0GYea",
+   "original_en": "Guía oficial de Antrhopic sobre cómo desplegar código a producción usando Claude Code: mejores prácticas, automatización de revisiones y skills. ¡Muy interesante! https://t.co/vjHkS0GYea",
+   "highlight": true,
+   "created_at": "2026-11-26T13:51:40.000Z",
    "window": "24h"
   },
   {
@@ -28,67 +45,217 @@
    "display_name": "ErickSky",
    "handle": "@ErickSky",
    "area": "ai",
-   "views": 3778,
-   "likes": 100,
+   "views": 41859,
+   "likes": 3942,
+   "replies": 11,
+   "reposts": 91,
+   "url": "https://x.com/ErickSky/status/2126130065201373604",
+   "status_url": "https://x.com/ErickSky/status/2126130065201373604",
+   "text": "Compraron un USB de 16GB en el cyber de la esquina y les sobró espacio https://t.co/Li5AKp0Sw5",
+   "original_en": "Compraron un USB de 16GB en el cyber de la esquina y les sobró espacio https://t.co/Li5AKp0Sw5",
+   "highlight": true,
+   "created_at": "2026-11-27T01:44:43.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "DotCSV",
+   "display_name": "DotCSV",
+   "handle": "@DotCSV",
+   "area": "ai",
+   "views": 27135,
+   "likes": 448,
+   "replies": 6,
+   "reposts": 13,
+   "url": "https://x.com/DotCSV/status/2126043621749145970",
+   "status_url": "https://x.com/DotCSV/status/2126043621749145970",
+   "text": "Viniendome arriba con unas cervezas de más, parte 2 https://t.co/VG5LfeX7H7",
+   "original_en": "Viniendome arriba con unas cervezas de más, parte 2 https://t.co/VG5LfeX7H7",
+   "highlight": true,
+   "created_at": "2026-11-26T20:01:14.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "DotCSV",
+   "display_name": "DotCSV",
+   "handle": "@DotCSV",
+   "area": "ai",
+   "views": 25265,
+   "likes": 1243,
+   "replies": 33,
+   "reposts": 123,
+   "url": "https://x.com/DotCSV/status/2126109559047459274",
+   "status_url": "https://x.com/DotCSV/status/2126109559047459274",
+   "text": "Literalmente yo en la última semana a cualquier hora y lugar https://t.co/wib6N0uRQc",
+   "original_en": "Literalmente yo en la última semana a cualquier hora y lugar https://t.co/wib6N0uRQc",
+   "highlight": true,
+   "created_at": "2026-11-27T00:23:14.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "sergiorocaa",
+   "display_name": "sergiorocaa",
+   "handle": "@sergiorocaa",
+   "area": "ai",
+   "views": 21219,
+   "likes": 116,
+   "replies": 15,
+   "reposts": 25,
+   "url": "https://x.com/sergiorocaa/status/2125983408731922831",
+   "status_url": "https://x.com/sergiorocaa/status/2125983408731922831",
+   "text": "DOS IAs SE LLAMARON ENTRE SÍ Y SE DIERON CUENTA DE QUE AMBAS ERAN IAs Y DE INMEDIATO DEJARON DE HABLAR EN HUMANO\n\nEste clip es corto pero genuinamente me hizo detenerme un segundo\n\nDos agentes de voz de IA se conectan en una llamada telefónica y empiezan a hablar como personas",
+   "original_en": "DOS IAs SE LLAMARON ENTRE SÍ Y SE DIERON CUENTA DE QUE AMBAS ERAN IAs Y DE INMEDIATO DEJARON DE HABLAR EN HUMANO\n\nEste clip es corto pero genuinamente me hizo detenerme un segundo\n\nDos agentes de voz de IA se conectan en una llamada telefónica y empiezan a hablar como personas",
+   "highlight": true,
+   "created_at": "2026-11-26T16:01:58.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 12470,
+   "likes": 330,
+   "replies": 13,
+   "reposts": 19,
+   "url": "https://x.com/ErickSky/status/2125990014806880607",
+   "status_url": "https://x.com/ErickSky/status/2125990014806880607",
+   "text": "Esto es un paso más hacia lo que todos sabemos que es inevitable.\n\nTus agentes no olvidarán cosas jamás en la vida. https://t.co/Z2C9lK23rV",
+   "original_en": "Esto es un paso más hacia lo que todos sabemos que es inevitable.\n\nTus agentes no olvidarán cosas jamás en la vida. https://t.co/Z2C9lK23rV",
+   "highlight": true,
+   "created_at": "2026-11-26T16:28:13.000Z",
+   "window": "24h",
+   "draft_en": "[R1 · respuesta] Que no olvide nada no es lo mismo que recuerde bien.\n\nEstoy en la beta privada de Hermes y una de las cosas que le noto es que pierde contexto en tareas largas. Una memoria en notas que uno puede abrir, leer y corregir apunta a ese problema, porque no depende de lo que el chat alcanzó a retener.\n\nPero una memoria que no olvida también guarda lo mal anotado. Lo práctico: revisa de vez en cuando qué escribió el agente en esa bóveda, como revisarías una ficha. Lo que quede mal ahí, lo puede usar como si fuera cierto.\n\nFuente: https://x.com/NousResearch/status/2125989568721637578",
+   "draft_keywords": [
+    "Hermes Agent ahora puede controlar una bóveda de Obsidian como base de conocimiento compartida (NousResearch, 122K vistas); ErickSky: «tus agentes no olvidarán cosas jamás». Postura: no olvidar no es lo mismo que recordar bien; una memoria en notas que uno puede leer y corregir apunta al problema de perder contexto en tareas largas, pero también guarda lo mal anotado. Qué hacer: revisar lo que el agente escribe en la bóveda"
+   ],
+   "why_hit": "Objetivo de respuesta R1 (Hermes Agent ahora puede controlar una bóveda de Obsidian como base de conocimiento compartida (NousResearch, 122K vistas); ErickSky: «tus agentes no olvidarán cosas jamás». Postura: no olvidar no es lo mismo que recordar bien; una memoria en notas que uno puede leer y corregir apunta al problema de perder contexto en tareas largas, pero también guarda lo mal anotado. Qué hacer: revisar lo que el agente escribe en la bóveda). Base verificada: Post de ErickSky (watchlist) del 26-nov 13:28 hora de Santiago: 12.470 vistas, 330 me gusta, 143 guardados, 13 respuestas; cita el anuncio de NousResearch (122.425 vistas, 2.253 me gusta, 71 respuestas): 'Hermes Agent can now control your Obsidian vault as a shared knowledge base via the official connector. Your notes stay local, private, and fully under your control.' Usa solo opiniones verificadas de RT: está en la beta privada (sin decir cómo entró) y Hermes pierde contexto en tareas largas. NO dice que el conector resuelva eso ni que RT lo haya probado o use Obsidian (no verificado). Ojo Wally: el ángulo 'pierde contexto en tareas largas' ya salió el 20-nov (R2 DavidPawlan); hoy va con noticia nueva (conector Obsidian) y una idea distinta (lo mal anotado también se recuerda). Sin Cadu, sin 'Hermes ya es potente', sin proactividad/aprobar, sin infraestructura. 'Como revisarías una ficha' es analogía de médico, no vínculo forzado con oftalmología.",
+   "hook": "Que no olvide nada no es lo mismo que recuerde bien.\n\nEstoy en la beta privada de Hermes y una de las cosas que le noto ",
+   "top10_rank": 1
+  },
+  {
+   "name": "witcheer",
+   "display_name": "witcheer",
+   "handle": "@witcheer",
+   "area": "ai",
+   "views": 11721,
+   "likes": 186,
    "replies": 18,
+   "reposts": 9,
+   "url": "https://x.com/witcheer/status/2126014371868352569",
+   "status_url": "https://x.com/witcheer/status/2126014371868352569",
+   "text": "a big part of my setup sit in an Obsidian vault that my Hermes Agent reads and writes all day.\n\nnow Obsidian ships its own skills for that, and they're in the Hermes plugin catalog:\n\n- notes in Obsidian Flavored Markdown: wikilinks, callouts, properties\n- Bases and Canvas files\n- https://t.co/Pd3AglEe2F",
+   "original_en": "a big part of my setup sit in an Obsidian vault that my Hermes Agent reads and writes all day.\n\nnow Obsidian ships its own skills for that, and they're in the Hermes plugin catalog:\n\n- notes in Obsidian Flavored Markdown: wikilinks, callouts, properties\n- Bases and Canvas files\n- https://t.co/Pd3AglEe2F",
+   "highlight": true,
+   "created_at": "2026-11-26T18:05:00.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "asantossanz",
+   "display_name": "asantossanz",
+   "handle": "@asantossanz",
+   "area": "ai",
+   "views": 9721,
+   "likes": 62,
+   "replies": 8,
+   "reposts": 0,
+   "url": "https://x.com/asantossanz/status/2126012641910874155",
+   "status_url": "https://x.com/asantossanz/status/2126012641910874155",
+   "text": "I can finally share a secret with you that I’ve been dying to tell! At Wondeful, we’ve launched a personal agent designed for enterprises. \n\nThis is something truly unique; I’ve been using personal agents since January, starting with OpenClaw, which I set up on a home server, https://t.co/28N1c3Wqwj",
+   "original_en": "I can finally share a secret with you that I’ve been dying to tell! At Wondeful, we’ve launched a personal agent designed for enterprises. \n\nThis is something truly unique; I’ve been using personal agents since January, starting with OpenClaw, which I set up on a home server, https://t.co/28N1c3Wqwj",
+   "highlight": true,
+   "created_at": "2026-11-26T17:58:07.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 7371,
+   "likes": 113,
+   "replies": 9,
    "reposts": 3,
-   "url": "https://x.com/ErickSky/status/2125765243607417026",
-   "status_url": "https://x.com/ErickSky/status/2125765243607417026",
-   "text": "Cualquier oficinista, independientemente de su cargo, necesita un Grok @bot o similar.\n\nYo auguro que así como ahora te dan un computador en el onboarding, también te darán un agente que será una especie de asistente que te ayudará y te hará seguimiento de todas tus tareas.",
-   "original_en": "Cualquier oficinista, independientemente de su cargo, necesita un Grok @bot o similar.\n\nYo auguro que así como ahora te dan un computador en el onboarding, también te darán un agente que será una especie de asistente que te ayudará y te hará seguimiento de todas tus tareas.",
-   "highlight": false,
-   "created_at": "2026-11-26T01:35:03.000Z",
+   "url": "https://x.com/ErickSky/status/2126106093608718490",
+   "status_url": "https://x.com/ErickSky/status/2126106093608718490",
+   "text": "Metieron un reset en Claude también.\n\nPero esa no es la noticia.\n\nOsmani no estaba en Google!???\n\nCuando ocurrió ese cambio que no me enteré???? https://t.co/ds0MlSRQ2S",
+   "original_en": "Metieron un reset en Claude también.\n\nPero esa no es la noticia.\n\nOsmani no estaba en Google!???\n\nCuando ocurrió ese cambio que no me enteré???? https://t.co/ds0MlSRQ2S",
+   "highlight": true,
+   "created_at": "2026-11-27T00:09:28.000Z",
    "window": "24h"
   },
   {
-   "name": "latercera",
-   "display_name": "latercera",
-   "handle": "@latercera",
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 5621,
+   "likes": 169,
+   "replies": 15,
+   "reposts": 5,
+   "url": "https://x.com/ErickSky/status/2125989694286487767",
+   "status_url": "https://x.com/ErickSky/status/2125989694286487767",
+   "text": "Tener hijos es literalmente lo mejor que me ha pasado en la vida ❤️\n\nTengan hijos chicos, es muy bonito! https://t.co/OIx21fUjR1",
+   "original_en": "Tener hijos es literalmente lo mejor que me ha pasado en la vida ❤️\n\nTengan hijos chicos, es muy bonito! https://t.co/OIx21fUjR1",
+   "highlight": true,
+   "created_at": "2026-11-26T16:26:56.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "biobio",
+   "display_name": "biobio",
+   "handle": "@biobio",
    "area": "health",
-   "views": 3385,
-   "likes": 39,
+   "views": 4860,
+   "likes": 10,
    "replies": 1,
-   "reposts": 11,
-   "url": "https://x.com/latercera/status/2125590332494492139",
-   "status_url": "https://x.com/latercera/status/2125590332494492139",
-   "text": "Un estudio descubre nuevos beneficios para la salud al comer palta todos los días https://t.co/v5UBROe6gW",
-   "original_en": "Un estudio descubre nuevos beneficios para la salud al comer palta todos los días https://t.co/v5UBROe6gW",
+   "reposts": 2,
+   "url": "https://x.com/biobio/status/2125961016546832593",
+   "status_url": "https://x.com/biobio/status/2125961016546832593",
+   "text": "Servicio de Salud Los Ríos publica licitación para el diseño del nuevo hospital de Panguipulli\n\nhttps://t.co/H6jkZQsXu3",
+   "original_en": "Servicio de Salud Los Ríos publica licitación para el diseño del nuevo hospital de Panguipulli\n\nhttps://t.co/H6jkZQsXu3",
    "highlight": false,
-   "created_at": "2026-11-25T14:00:01.000Z",
+   "created_at": "2026-11-26T14:32:59.000Z",
    "window": "24h"
   },
   {
-   "name": "ASSEcomunica",
-   "display_name": "ASSEcomunica",
-   "handle": "@ASSEcomunica",
+   "name": "CityNewsVAN",
+   "display_name": "CityNewsVAN",
+   "handle": "@CityNewsVAN",
    "area": "health",
-   "views": 3079,
-   "likes": 104,
+   "views": 4852,
+   "likes": 4,
    "replies": 2,
-   "reposts": 53,
-   "url": "https://x.com/ASSEcomunica/status/2125590115133370440",
-   "status_url": "https://x.com/ASSEcomunica/status/2125590115133370440",
-   "text": "👓La óptica del Hospital de Ojos, reabierta en noviembre de 2025, ha confeccionado 632 lentes para niños y niñas en el marco del Programa de Salud Visual Escolar. A estos se suman otros 57 elaborados por UTU, alcanzando un total de 689 lentes confeccionados desde junio de 2025. https://t.co/gNAyzBWQYr",
-   "original_en": "👓La óptica del Hospital de Ojos, reabierta en noviembre de 2025, ha confeccionado 632 lentes para niños y niñas en el marco del Programa de Salud Visual Escolar. A estos se suman otros 57 elaborados por UTU, alcanzando un total de 689 lentes confeccionados desde junio de 2025. https://t.co/gNAyzBWQYr",
+   "reposts": 1,
+   "url": "https://x.com/CityNewsVAN/status/2126133919020114059",
+   "status_url": "https://x.com/CityNewsVAN/status/2126133919020114059",
+   "text": "Health Canada has issued a warning about a “very rare” risk of vision loss with Ozempic, Wegovy and other semaglutide drugs. https://t.co/7heKhIBevy",
+   "original_en": "Health Canada has issued a warning about a “very rare” risk of vision loss with Ozempic, Wegovy and other semaglutide drugs. https://t.co/7heKhIBevy",
    "highlight": false,
-   "created_at": "2026-11-25T13:59:09.000Z",
-   "window": "24h"
+   "created_at": "2026-11-27T02:00:02.000Z",
+   "window": "24h",
+   "draft_en": "[R2 · respuesta] The detail worth keeping from Health Canada's review isn't only that NAION is very rare. It's that, in their words, there is no identified time interval for when it may develop after starting treatment.\n\nThey reviewed 23 cases, 16 of them possibly linked, and they are still assessing the other GLP-1 drugs.\n\nWhat to do: if vision in one eye suddenly turns blurry or cloudy while you're on it, seek urgent care. Don't wait for your next refill to mention it. If NAION is confirmed, you may need to stop the medication.\n\nFuente: https://recalls-rappels.canada.ca/en/alert-recall/health-canada-warns-very-rare-serious-risk-vision-loss-semaglutide-drugs · https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1795630406073",
+   "draft_keywords": [
+    "Health Canada (25-nov) advierte un riesgo 'muy raro' de NAION con todos los semaglutidos (Ozempic, Wegovy, Rybelsus y genéricos). Dato nuevo: no hay un intervalo identificado entre el inicio del tratamiento y la NAION; revisó 23 casos, 16 posiblemente relacionados; evalúa aún los otros GLP-1. Qué hacer: baja súbita de visión o visión borrosa/nublada → atención urgente; si se confirma NAION puede requerir suspender"
+   ],
+   "why_hit": "Objetivo de respuesta R2 (Health Canada (25-nov) advierte un riesgo 'muy raro' de NAION con todos los semaglutidos (Ozempic, Wegovy, Rybelsus y genéricos). Dato nuevo: no hay un intervalo identificado entre el inicio del tratamiento y la NAION; revisó 23 casos, 16 posiblemente relacionados; evalúa aún los otros GLP-1. Qué hacer: baja súbita de visión o visión borrosa/nublada → atención urgente; si se confirma NAION puede requerir suspender). Base verificada: Post de CityNewsVAN (Vancouver) del 26-nov 23:00 hora de Santiago: 4.852 vistas, 4 me gusta, 2 respuestas. Literal Health Canada (aviso 25-nov-2026): 'The risk of developing NAION with semaglutide is very rare'; 'All prescription semaglutide drugs (current brand names include: Ozempic, Rybelsus, Plosbrio, Poviztra and Wegovy...)'; 'There is no identified time interval for when NAION may develop after starting treatment'; 'The department is currently assessing the risk of NAION with all other GLP-1 receptor agonist drugs'; 'If you experience sudden vision loss or rapidly worsening eyesight while taking semaglutide (e.g., blurring or cloudiness of vision), seek urgent medical attention'; 'If NAION is confirmed, you may need to stop taking the medication'. Summary Safety Review: 'Health Canada reviewed 23 cases (12 Canadian and 11 international)... Of the 23 cases, 16 cases (5 Canadian and 11 international) were found to be possibly linked to the use of semaglutide'. Ojo Wally: GLP-1/NAION es la 8.ª respuesta del mes (última de RT el 23-nov con la FDA); esto es dato NUEVO de otro regulador (Health Canada, 25-nov): el 'no hay intervalo identificado' y los 23/16 casos no se usaron antes; el 'al despertar' ya salió el 11 y 23-nov y por eso no se repite. Inglés porque el post es en inglés; no hay cobertura en español con tracción. Wally decide por saturación del tema. 'Don't wait for your next refill' es consejo de RT, no cita de la fuente.",
+   "hook": "The detail worth keeping from Health Canada's review isn't only that NAION is very rare. It's that, in their words, ther",
+   "top10_rank": 2
   },
   {
-   "name": "DrLopezRosetti",
-   "display_name": "DrLopezRosetti",
-   "handle": "@DrLopezRosetti",
-   "area": "health",
-   "views": 2727,
-   "likes": 44,
-   "replies": 0,
-   "reposts": 7,
-   "url": "https://x.com/DrLopezRosetti/status/2125688474410066285",
-   "status_url": "https://x.com/DrLopezRosetti/status/2125688474410066285",
-   "text": "¿Cómo funcionan las inyecciones para bajar de peso?\n¿Sabía que el desarrollo de algunos medicamentos para bajar de peso tiene su origen en el estudio de la saliva de un reptil?\nCuando comemos, nuestro intestino libera una hormona llamada GLP-1, que interviene en la regulación del https://t.co/MMH3uKs0Ta",
-   "original_en": "¿Cómo funcionan las inyecciones para bajar de peso?\n¿Sabía que el desarrollo de algunos medicamentos para bajar de peso tiene su origen en el estudio de la saliva de un reptil?\nCuando comemos, nuestro intestino libera una hormona llamada GLP-1, que interviene en la regulación del https://t.co/MMH3uKs0Ta",
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 3927,
+   "likes": 104,
+   "replies": 10,
+   "reposts": 4,
+   "url": "https://x.com/ErickSky/status/2126017324532523448",
+   "status_url": "https://x.com/ErickSky/status/2126017324532523448",
+   "text": "Qué bueno...\n\nAhora quiero resolución 4K, Ray Tracing, Réflex, Multiforme Generation, Ray Reconstruction, True HDR y que le pueda poner la voz de Goku a Jason y la de Bulma a Lucía.\n\nGracias. https://t.co/MCX1hTr7qr",
+   "original_en": "Qué bueno...\n\nAhora quiero resolución 4K, Ray Tracing, Réflex, Multiforme Generation, Ray Reconstruction, True HDR y que le pueda poner la voz de Goku a Jason y la de Bulma a Lucía.\n\nGracias. https://t.co/MCX1hTr7qr",
    "highlight": false,
-   "created_at": "2026-11-25T20:30:00.000Z",
+   "created_at": "2026-11-26T18:16:44.000Z",
    "window": "24h"
   },
   {
@@ -96,50 +263,77 @@
    "display_name": "ministeriosalud",
    "handle": "@ministeriosalud",
    "area": "health",
-   "views": 2129,
-   "likes": 12,
-   "replies": 1,
-   "reposts": 11,
-   "url": "https://x.com/ministeriosalud/status/2125623254538760623",
-   "status_url": "https://x.com/ministeriosalud/status/2125623254538760623",
-   "text": "El termómetro sube y las altas temperaturas ya se sienten 🌡️\n\nCuida tu salud siguiendo estos consejos recomendados por la Dra. Samanta Anríquez, jefa de la División de Emergencias Sanitarias del Ministerio de Salud. https://t.co/AN0IetvMTa",
-   "original_en": "El termómetro sube y las altas temperaturas ya se sienten 🌡️\n\nCuida tu salud siguiendo estos consejos recomendados por la Dra. Samanta Anríquez, jefa de la División de Emergencias Sanitarias del Ministerio de Salud. https://t.co/AN0IetvMTa",
+   "views": 2926,
+   "likes": 17,
+   "replies": 3,
+   "reposts": 14,
+   "url": "https://x.com/ministeriosalud/status/2125984367872798945",
+   "status_url": "https://x.com/ministeriosalud/status/2125984367872798945",
+   "text": "Autoridades de salud llegaron al Hospital Dr. Óscar Hernández Escobar de Curacautín para conocer la implementación de DispenSSAN, un sistema de casilleros inteligentes que permitirá a pacientes con tratamientos crónicos retirar sus medicamentos de manera rápida, segura y https://t.co/uAn4V0Gnqo",
+   "original_en": "Autoridades de salud llegaron al Hospital Dr. Óscar Hernández Escobar de Curacautín para conocer la implementación de DispenSSAN, un sistema de casilleros inteligentes que permitirá a pacientes con tratamientos crónicos retirar sus medicamentos de manera rápida, segura y https://t.co/uAn4V0Gnqo",
    "highlight": false,
-   "created_at": "2026-11-25T16:10:50.000Z",
+   "created_at": "2026-11-26T16:05:46.000Z",
    "window": "24h"
   },
   {
-   "name": "latercera",
-   "display_name": "latercera",
-   "handle": "@latercera",
-   "area": "health",
-   "views": 1131,
-   "likes": 1,
-   "replies": 0,
-   "reposts": 0,
-   "url": "https://x.com/latercera/status/2125914967354622373",
-   "status_url": "https://x.com/latercera/status/2125914967354622373",
-   "text": "La IA como nuevo consultorio: la mitad de las personas ya la utiliza para resolver dudas de salud \n\nhttps://t.co/v0audRvl4c",
-   "original_en": "La IA como nuevo consultorio: la mitad de las personas ya la utiliza para resolver dudas de salud \n\nhttps://t.co/v0audRvl4c",
+   "name": "ErickSky",
+   "display_name": "ErickSky",
+   "handle": "@ErickSky",
+   "area": "ai",
+   "views": 2748,
+   "likes": 31,
+   "replies": 5,
+   "reposts": 2,
+   "url": "https://x.com/ErickSky/status/2125954176035504152",
+   "status_url": "https://x.com/ErickSky/status/2125954176035504152",
+   "text": "Ya va, que esta es la cuenta oficial de github????????????????????? https://t.co/4ENWdVo4Md",
+   "original_en": "Ya va, que esta es la cuenta oficial de github????????????????????? https://t.co/4ENWdVo4Md",
    "highlight": false,
-   "created_at": "2026-11-26T11:30:00.000Z",
-   "window": "24h",
-   "draft_en": "[R1 · respuesta] El dato más útil de esta encuesta es el más bajo: solo un 9% usa la IA para preparar una consulta médica, mientras un 16% la usa para intentar diagnosticarse.\n\nDebería ser al revés. Para ordenar síntomas, desde cuándo están, qué remedios tomas y qué quieres preguntar, sirve. Para diagnosticar, como recuerda el Colegio Médico, se equivoca y no se hace responsable de un mal consejo.\n\nLo práctico: si ya le preguntaste a un chatbot, lleva esa respuesta a tu control y conversa con tu médico. No cambies una dosis ni dejes un medicamento solo por lo que te respondió.\n\nFuente: https://www.latercera.com/nacional/noticia/la-ia-como-nuevo-consultorio-la-mitad-de-las-personas-ya-la-utiliza-para-resolver-dudas-de-salud/ · https://periodismo2.cl/fr/article/982097ee-139a-41ac-9ea7-21df160dc108",
-   "draft_keywords": [
-    "Estudio de la Cámara de Comercio de Santiago (La Tercera, 25-nov): 50% usó IA para temas de salud en los últimos 30 días; 29% para medicamentos (usos, dosis y efectos), 16% para intentar diagnosticarse y solo 9% para preparar una consulta médica. Postura: el uso más útil es el menos frecuente; Colegio Médico: la IA se equivoca y no se hace responsable. Qué hacer: usarla para ordenar la consulta, llevar la respuesta al médico y no cambiar dosis por lo que diga un chatbot"
-   ],
-   "why_hit": "Objetivo de respuesta R1 (Estudio de la Cámara de Comercio de Santiago (La Tercera, 25-nov): 50% usó IA para temas de salud en los últimos 30 días; 29% para medicamentos (usos, dosis y efectos), 16% para intentar diagnosticarse y solo 9% para preparar una consulta médica. Postura: el uso más útil es el menos frecuente; Colegio Médico: la IA se equivoca y no se hace responsable. Qué hacer: usarla para ordenar la consulta, llevar la respuesta al médico y no cambiar dosis por lo que diga un chatbot). Base verificada: Post de La Tercera (2,2M seguidores) del 26-nov 08:30 hora de Santiago: 1.133 vistas, 1 me gusta, 1 cita, 0 respuestas al escanear (recién publicado; la conversación está abierta). Cifras literales de la nota (Ignacia Canales, 25-nov-2026, estudio de la Cámara de Comercio de Santiago): 'la mitad de los consumidores (50%) declara haber usado alguna herramienta de IA para temas de salud en los últimos 30 días'; 'un 29% de los encuestados declara haber utilizado IA para informarse sobre sus usos, dosis y efectos' (medicamentos); 'un 16% reconoce haberlas utilizado para intentar diagnosticar un problema de salud'; 'la IA también se ha convertido en una herramienta para preparar una consulta médica (9%)'. Colegio Médico (Anamaría Arriagada, presidenta): 'la inteligencia artificial se equivoca y su algoritmo tiene sesgos'; 'no reemplaza una consulta sanitaria. ¿Por qué? Porque no se hace responsable'; 'no va a haber nadie que se haga responsable, por ejemplo, de un mal consejo'. Ojo Wally: la nota no informa tamaño de muestra ni método (lo señala Periodismo2), por eso la respuesta no generaliza a 'los chilenos'. Ojo: tema propio de RT (hilo 'IA antes de la consulta' publicado el 26-oct; borrador ADN del 27-oct con el ángulo 'preparar la consulta'); esto es dato nuevo (encuesta CCS de ayer + Colmed), no repite el NHS del hilo. Ojo: 'No cambies una dosis…' es consejo de RT, no cifra de la fuente; no se nombra marca de IA. Sin 'la vista', sin infraestructura, sin experiencias inventadas.",
-   "hook": "El dato más útil de esta encuesta es el más bajo: solo un 9% usa la IA para preparar una consulta médica, mientras un 16",
-   "top10_rank": 1
+   "created_at": "2026-11-26T14:05:48.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "BkashJosi",
+   "display_name": "BkashJosi",
+   "handle": "@BkashJosi",
+   "area": "ai",
+   "views": 2163,
+   "likes": 11,
+   "replies": 8,
+   "reposts": 0,
+   "url": "https://x.com/BkashJosi/status/2126091639198552397",
+   "status_url": "https://x.com/BkashJosi/status/2126091639198552397",
+   "text": "Every AI lab gave its bot a name this year.\n\nCodex has Dot Bot\nHermes Agent has Bot Mode\nClaude has Claude Duet\nMeta has Muse Bot\nX has Grok Bot\nGemini ..........?\n\nWrong answers only 👇 https://t.co/G44adB6CGs",
+   "original_en": "Every AI lab gave its bot a name this year.\n\nCodex has Dot Bot\nHermes Agent has Bot Mode\nClaude has Claude Duet\nMeta has Muse Bot\nX has Grok Bot\nGemini ..........?\n\nWrong answers only 👇 https://t.co/G44adB6CGs",
+   "highlight": false,
+   "created_at": "2026-11-26T23:12:02.000Z",
+   "window": "24h"
+  },
+  {
+   "name": "ministeriosalud",
+   "display_name": "ministeriosalud",
+   "handle": "@ministeriosalud",
+   "area": "health",
+   "views": 2058,
+   "likes": 6,
+   "replies": 1,
+   "reposts": 5,
+   "url": "https://x.com/ministeriosalud/status/2126070301905523106",
+   "status_url": "https://x.com/ministeriosalud/status/2126070301905523106",
+   "text": "Se realizó la Sesión Extraordinaria de la Comisión de Estrategia Nacional de Salud del Consejo Nacional de Salud, instancia de diálogo y trabajo conjunto con colegios profesionales y organizaciones gremiales. https://t.co/YfvmRDTSk4",
+   "original_en": "Se realizó la Sesión Extraordinaria de la Comisión de Estrategia Nacional de Salud del Consejo Nacional de Salud, instancia de diálogo y trabajo conjunto con colegios profesionales y organizaciones gremiales. https://t.co/YfvmRDTSk4",
+   "highlight": false,
+   "created_at": "2026-11-26T21:47:15.000Z",
+   "window": "24h"
   }
  ],
  "virals": [],
  "outsiders": [],
  "patterns": [
-  "Las encuestas sobre IA y salud ya son noticia de medios chilenos: RT aporta mejor con la cifra útil (preparar la consulta) que con advertencias genéricas",
-  "Las noticias GLP-1 con alcance hoy son de apariencia física (famosas); la alerta NAION circula republicada sin dato nuevo",
-  "La conversación de agentes personales en español gira en torno a predicciones laborales y comparaciones de marcas, con poca tracción",
-  "Calor y salud de figuras públicas dominan la agenda sanitaria del día, fuera de la línea de RT"
+  "La memoria de los agentes es la noticia de IA del día: Hermes + Obsidian mueve 122K vistas y ErickSky la lleva al español",
+  "GLP-1/NAION vuelve con un regulador nuevo (Health Canada), pero la cobertura con alcance es en inglés",
+  "La agenda sanitaria chilena con más alcance es político-judicial (certificado de Zandra Parisi) y económica (desempleo), fuera de la línea de RT",
+  "Sin noticias oculares chilenas con tracción en 24h"
  ],
  "no_hits": [
   {
@@ -148,24 +342,19 @@
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
-   "handle": "@sergiorocaa",
-   "max_views": 485,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 485."
-  },
-  {
    "handle": "@bilinkis",
    "max_views": 0,
    "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@Pajarobere",
-   "max_views": 1415,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.415."
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@juancarlossaid",
-   "max_views": 1021,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 1.021."
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   },
   {
    "handle": "@CatuRojas",
@@ -179,18 +368,18 @@
   },
   {
    "handle": "@jmanalich",
-   "max_views": 719,
-   "reason": "Ningún original (24h) llegó a 2.000 vistas; máximo 719."
+   "max_views": 0,
+   "reason": "Sin originales de IA o salud en las últimas 24h (búsqueda filtrada por tema)."
   }
  ],
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 7,
+ "hits_count": 18,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-11-25",
-  "hits_count": 20,
-  "total_views": 655186
+  "date": "2026-11-26",
+  "hits_count": 7,
+  "total_views": 23845
  },
  "leaderboards": {
   "as_of": "2026-09-15",
@@ -258,11 +447,11 @@
  },
  "day_roster": [
   {
-   "handle": "@DotCSV",
-   "name": "DotCSV",
+   "handle": "@midudev",
+   "name": "midudev",
    "area": "ai",
-   "views": 134124,
-   "total_views": 144966,
+   "views": 91581,
+   "total_views": 163057,
    "hit": true,
    "window": "24h"
   },
@@ -270,17 +459,8 @@
    "handle": "@ErickSky",
    "name": "ErickSky",
    "area": "ai",
-   "views": 66372,
-   "total_views": 141374,
-   "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@midudev",
-   "name": "midudev",
-   "area": "ai",
-   "views": 54041,
-   "total_views": 102270,
+   "views": 41859,
+   "total_views": 94637,
    "hit": true,
    "window": "24h"
   },
@@ -288,8 +468,26 @@
    "handle": "@adnradiochile",
    "name": "adnradiochile",
    "area": "health",
-   "views": 15090,
-   "total_views": 30948,
+   "views": 32216,
+   "total_views": 86091,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@DotCSV",
+   "name": "DotCSV",
+   "area": "ai",
+   "views": 27135,
+   "total_views": 52400,
+   "hit": true,
+   "window": "24h"
+  },
+  {
+   "handle": "@sergiorocaa",
+   "name": "sergiorocaa",
+   "area": "ai",
+   "views": 21219,
+   "total_views": 24934,
    "hit": true,
    "window": "24h"
   },
@@ -297,8 +495,8 @@
    "handle": "@CNNChile",
    "name": "CNNChile",
    "area": "health",
-   "views": 2957,
-   "total_views": 10763,
+   "views": 18117,
+   "total_views": 34120,
    "hit": true,
    "window": "24h"
   },
@@ -306,8 +504,8 @@
    "handle": "@Cooperativa",
    "name": "Cooperativa",
    "area": "health",
-   "views": 2375,
-   "total_views": 12835,
+   "views": 8640,
+   "total_views": 20688,
    "hit": true,
    "window": "24h"
   },
@@ -315,45 +513,9 @@
    "handle": "@ministeriosalud",
    "name": "ministeriosalud",
    "area": "health",
-   "views": 2129,
-   "total_views": 7465,
+   "views": 2926,
+   "total_views": 5405,
    "hit": true,
-   "window": "24h"
-  },
-  {
-   "handle": "@Pajarobere",
-   "name": "Pajarobere",
-   "area": "health",
-   "views": 1415,
-   "total_views": 1872,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@juancarlossaid",
-   "name": "juancarlossaid",
-   "area": "health",
-   "views": 1021,
-   "total_views": 1021,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@jmanalich",
-   "name": "jmanalich",
-   "area": "health",
-   "views": 719,
-   "total_views": 719,
-   "hit": false,
-   "window": "24h"
-  },
-  {
-   "handle": "@sergiorocaa",
-   "name": "sergiorocaa",
-   "area": "ai",
-   "views": 485,
-   "total_views": 722,
-   "hit": false,
    "window": "24h"
   },
   {
@@ -375,6 +537,24 @@
    "window": "24h"
   },
   {
+   "handle": "@Pajarobere",
+   "name": "Pajarobere",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@juancarlossaid",
+   "name": "juancarlossaid",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
    "handle": "@CatuRojas",
    "name": "CatuRojas",
    "area": "health",
@@ -386,6 +566,15 @@
   {
    "handle": "@HeliaMolina_M",
    "name": "HeliaMolina_M",
+   "area": "health",
+   "views": 0,
+   "total_views": 0,
+   "hit": false,
+   "window": "24h"
+  },
+  {
+   "handle": "@jmanalich",
+   "name": "jmanalich",
    "area": "health",
    "views": 0,
    "total_views": 0,
@@ -457,54 +646,54 @@
   "keywords": [
    {
     "rank": 1,
-    "keyword": "La IA para dudas de salud: 50% la usó en 30 días (CCS, La Tercera)"
+    "keyword": "Hermes Agent + Obsidian: memoria en notas locales (NousResearch, 122K)"
    },
    {
     "rank": 2,
-    "keyword": "16% usa IA para diagnosticarse, 9% para preparar la consulta"
+    "keyword": "«Tus agentes no olvidarán cosas jamás» (ErickSky, 12,5K)"
    },
    {
     "rank": 3,
-    "keyword": "Colegio Médico: la IA se equivoca y no se hace responsable"
+    "keyword": "Health Canada: NAION «muy rara» con todos los semaglutidos (25-nov)"
    },
    {
     "rank": 4,
-    "keyword": "«Ozempic face» de Lisandra Silva (24 Horas, 11,9K)"
+    "keyword": "NAION: sin intervalo identificado tras iniciar el tratamiento (Health Canada)"
    },
    {
     "rank": 5,
-    "keyword": "Alerta FDA NAION en GLP-1, republicada (sin dato nuevo)"
+    "keyword": "Claude Duet vs Grok Bot y el nombre de cada bot de laboratorio"
    },
    {
     "rank": 6,
-    "keyword": "Inyecciones para bajar de peso: cómo funcionan (GLP-1)"
+    "keyword": "Agentes personales para empresas (Wondeful, 9,7K EN)"
    },
    {
     "rank": 7,
-    "keyword": "Lentes para escolares: Programa de Salud Visual (ASSE Uruguay)"
+    "keyword": "Dos IAs que se llaman entre sí (sergiorocaa, 21,2K)"
    },
    {
     "rank": 8,
-    "keyword": "Altas temperaturas: consejos Minsal y alertas regionales"
+    "keyword": "Certificado médico de Zandra Parisi (político, excluido)"
    },
    {
     "rank": 9,
-    "keyword": "«Todo oficinista necesita un Grok Bot» (ErickSky, 3,8K)"
+    "keyword": "Desempleo 10% INE (fuera de línea)"
    },
    {
     "rank": 10,
-    "keyword": "Qué tareas reemplazan los asistentes personales (Grok Bot, Claude Duet, Muse)"
+    "keyword": "Generación «aesthetic»: suplementos y salud adolescente (24 Horas)"
    }
   ],
-  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía, oftalmología, alertas regulatorias), sistema de salud chileno y agentes personales (curadas a mano). Excluidos: política (hormonización en menores, caso Firmas, acusación constitucional, Sala Cuna Universal), salud de personas concretas (Tomás Mosciatti, Ricardo Lagos), duelo por Delfina Guzmán, crimen y accidentes (Villa Alemana, Ruta 5 Norte), deportes y farándula, y tecnología pura (GTA Madrid, Rust, DeepSeek, Gemini, telemetría de Claude Code)."
+  "note": "Minadas de originales 24h del watchlist, búsqueda por temas propios de RT (GLP-1/NAION, miopía, cataratas, glaucoma, retinopatía, oftalmología, alertas regulatorias), sistema de salud chileno y agentes personales (curadas a mano). Excluidos: política (certificado médico de Zandra Parisi, tratamientos hormonales en menores, caso Firmas), economía (desempleo 10%), salud mental, crimen y accidentes, deportes y farándula, y tecnología pura (GTA VI, Claude Code, Gemini 4 Neon, DeepSeek)."
  },
  "trend_radar": {
   "summary": {
-   "headline": "Digest 26-11-2026: 1 respuesta en borrador (salud e IA, español) para el filtro de Wally; sin originales; nada publicado.",
-   "takeaway": "Jueves flojo para la línea de RT: la salud con más alcance fue el estado de Tomás Mosciatti (privacidad, fuera) y el «Ozempic face» de una famosa (GLP-1 sin vínculo ocular). La alerta FDA de NAION volvió a circular, pero es la misma del 9-nov que RT ya usó el 23-nov. R1 entra en La Tercera con el estudio de la Cámara de Comercio de Santiago: 50% usó IA para dudas de salud en un mes, 16% para diagnosticarse y solo 9% para preparar la consulta; el Colegio Médico recuerda que se equivoca y no se hace responsable. IA: ErickSky («todo oficinista necesita un Grok Bot», 3,8K) y skpnky («qué tareas te reemplaza tu asistente», 1,5K) movieron la conversación de agentes, pero uno cierra en tono combativo y el otro pide experiencia personal de RT no verificada; sin borrador de agentes."
+   "headline": "Digest 27-11-2026: 2 respuestas en borrador (IA en español y salud en inglés) para el filtro de Wally; sin originales; nada publicado.",
+   "takeaway": "Viernes con la memoria de los agentes al centro: NousResearch anunció que Hermes Agent controla una bóveda de Obsidian (122K vistas) y ErickSky lo llevó al español (12,5K). R1 entra ahí con una idea propia: no olvidar no es recordar bien; RT en la beta privada nota que pierde contexto en tareas largas, y una memoria que no olvida también guarda lo mal anotado. Salud: Health Canada (25-nov) sumó la advertencia de NAION a todos los semaglutidos; R2 responde a CityNewsVAN con el dato nuevo (no hay intervalo identificado tras iniciar, 23 casos revisados, 16 posiblemente relacionados). Tema saturado en el mes: Wally decide. Lo más visto en salud chilena fue político (certificado médico de Zandra Parisi) y el desempleo del 10%: fuera de la línea de RT."
   },
   "corpus": {
-   "posts": 193,
+   "posts": 184,
    "min_views": 2000
   },
   "window": {
@@ -513,15 +702,27 @@
   "topics": [],
   "ideas": [
    {
-    "title": "R1 · respuesta a @latercera",
+    "title": "R1 · respuesta a @ErickSky",
     "format": "respuesta",
-    "source": "@latercera",
-    "topic": "Estudio de la Cámara de Comercio de Santiago (La Tercera, 25-nov): 50% usó IA para temas de salud en los últimos 30 días; 29% para medicamentos (usos, dosis y efectos), 16% para intentar diagnosticarse y solo 9% para preparar una consulta médica. Postura: el uso más útil es el menos frecuente; Colegio Médico: la IA se equivoca y no se hace responsable. Qué hacer: usarla para ordenar la consulta, llevar la respuesta al médico y no cambiar dosis por lo que diga un chatbot",
-    "hook_en": "El dato más útil de esta encuesta es el más bajo: solo un 9% usa la IA para preparar una consulta médica, mientras un 16% la usa para intentar diagnosticarse.\n\nDebería ser al revés. Para ordenar síntomas, desde cuándo están, qué remedios tomas y qué quieres preguntar, sirve. Para diagnosticar, como recuerda el Colegio Médico, se equivoca y no se hace responsable de un mal consejo.\n\nLo práctico: si ya le preguntaste a un chatbot, lleva esa respuesta a tu control y conversa con tu médico. No cambies una dosis ni dejes un medicamento solo por lo que te respondió.",
-    "angle": "Objetivo: https://x.com/latercera/status/2125914967354622373 (1.131 vistas)",
-    "why": "Base: Post de La Tercera (2,2M seguidores) del 26-nov 08:30 hora de Santiago: 1.133 vistas, 1 me gusta, 1 cita, 0 respuestas al escanear (recién publicado; la conversación está abierta). Cifras literales de la nota (Ignacia Canales, 25-nov-2026, estudio de la Cámara de Comercio de Santiago): 'la mitad de los consumidores (50%) declara haber usado alguna herramienta de IA para temas de salud en los últimos 30 días'; 'un 29% de los encuestados declara haber utilizado IA para informarse sobre sus usos, dosis y efectos' (medicamentos); 'un 16% reconoce haberlas utilizado para intentar diagnosticar un problema de salud'; 'la IA también se ha convertido en una herramienta para preparar una consulta médica (9%)'. Colegio Médico (Anamaría Arriagada, presidenta): 'la inteligencia artificial se equivoca y su algoritmo tiene sesgos'; 'no reemplaza una consulta sanitaria. ¿Por qué? Porque no se hace responsable'; 'no va a haber nadie que se haga responsable, por ejemplo, de un mal consejo'. Ojo Wally: la nota no informa tamaño de muestra ni método (lo señala Periodismo2), por eso la respuesta no generaliza a 'los chilenos'. Ojo: tema propio de RT (hilo 'IA antes de la consulta' publicado el 26-oct; borrador ADN del 27-oct con el ángulo 'preparar la consulta'); esto es dato nuevo (encuesta CCS de ayer + Colmed), no repite el NHS del hilo. Ojo: 'No cambies una dosis…' es consejo de RT, no cifra de la fuente; no se nombra marca de IA. Sin 'la vista', sin infraestructura, sin experiencias inventadas. Fuente: https://www.latercera.com/nacional/noticia/la-ia-como-nuevo-consultorio-la-mitad-de-las-personas-ya-la-utiliza-para-resolver-dudas-de-salud/ · https://periodismo2.cl/fr/article/982097ee-139a-41ac-9ea7-21df160dc108",
+    "source": "@ErickSky",
+    "topic": "Hermes Agent ahora puede controlar una bóveda de Obsidian como base de conocimiento compartida (NousResearch, 122K vistas); ErickSky: «tus agentes no olvidarán cosas jamás». Postura: no olvidar no es lo mismo que recordar bien; una memoria en notas que uno puede leer y corregir apunta al problema de perder contexto en tareas largas, pero también guarda lo mal anotado. Qué hacer: revisar lo que el agente escribe en la bóveda",
+    "hook_en": "Que no olvide nada no es lo mismo que recuerde bien.\n\nEstoy en la beta privada de Hermes y una de las cosas que le noto es que pierde contexto en tareas largas. Una memoria en notas que uno puede abrir, leer y corregir apunta a ese problema, porque no depende de lo que el chat alcanzó a retener.\n\nPero una memoria que no olvida también guarda lo mal anotado. Lo práctico: revisa de vez en cuando qué escribió el agente en esa bóveda, como revisarías una ficha. Lo que quede mal ahí, lo puede usar como si fuera cierto.",
+    "angle": "Objetivo: https://x.com/ErickSky/status/2125990014806880607 (12.470 vistas)",
+    "why": "Base: Post de ErickSky (watchlist) del 26-nov 13:28 hora de Santiago: 12.470 vistas, 330 me gusta, 143 guardados, 13 respuestas; cita el anuncio de NousResearch (122.425 vistas, 2.253 me gusta, 71 respuestas): 'Hermes Agent can now control your Obsidian vault as a shared knowledge base via the official connector. Your notes stay local, private, and fully under your control.' Usa solo opiniones verificadas de RT: está en la beta privada (sin decir cómo entró) y Hermes pierde contexto en tareas largas. NO dice que el conector resuelva eso ni que RT lo haya probado o use Obsidian (no verificado). Ojo Wally: el ángulo 'pierde contexto en tareas largas' ya salió el 20-nov (R2 DavidPawlan); hoy va con noticia nueva (conector Obsidian) y una idea distinta (lo mal anotado también se recuerda). Sin Cadu, sin 'Hermes ya es potente', sin proactividad/aprobar, sin infraestructura. 'Como revisarías una ficha' es analogía de médico, no vínculo forzado con oftalmología. Fuente: https://x.com/NousResearch/status/2125989568721637578",
     "keywords": [
-     "Estudio de la Cámara de Comercio de Santiago (La Tercera, 25-nov): 50% usó IA para temas de salud en los últimos 30 días; 29% para medicamentos (usos, dosis y efectos), 16% para intentar diagnosticarse y solo 9% para preparar una consulta médica. Postura: el uso más útil es el menos frecuente; Colegio Médico: la IA se equivoca y no se hace responsable. Qué hacer: usarla para ordenar la consulta, llevar la respuesta al médico y no cambiar dosis por lo que diga un chatbot"
+     "Hermes Agent ahora puede controlar una bóveda de Obsidian como base de conocimiento compartida (NousResearch, 122K vistas); ErickSky: «tus agentes no olvidarán cosas jamás». Postura: no olvidar no es lo mismo que recordar bien; una memoria en notas que uno puede leer y corregir apunta al problema de perder contexto en tareas largas, pero también guarda lo mal anotado. Qué hacer: revisar lo que el agente escribe en la bóveda"
+    ]
+   },
+   {
+    "title": "R2 · respuesta a @CityNewsVAN",
+    "format": "respuesta",
+    "source": "@CityNewsVAN",
+    "topic": "Health Canada (25-nov) advierte un riesgo 'muy raro' de NAION con todos los semaglutidos (Ozempic, Wegovy, Rybelsus y genéricos). Dato nuevo: no hay un intervalo identificado entre el inicio del tratamiento y la NAION; revisó 23 casos, 16 posiblemente relacionados; evalúa aún los otros GLP-1. Qué hacer: baja súbita de visión o visión borrosa/nublada → atención urgente; si se confirma NAION puede requerir suspender",
+    "hook_en": "The detail worth keeping from Health Canada's review isn't only that NAION is very rare. It's that, in their words, there is no identified time interval for when it may develop after starting treatment.\n\nThey reviewed 23 cases, 16 of them possibly linked, and they are still assessing the other GLP-1 drugs.\n\nWhat to do: if vision in one eye suddenly turns blurry or cloudy while you're on it, seek urgent care. Don't wait for your next refill to mention it. If NAION is confirmed, you may need to stop the medication.",
+    "angle": "Objetivo: https://x.com/CityNewsVAN/status/2126133919020114059 (4.852 vistas)",
+    "why": "Base: Post de CityNewsVAN (Vancouver) del 26-nov 23:00 hora de Santiago: 4.852 vistas, 4 me gusta, 2 respuestas. Literal Health Canada (aviso 25-nov-2026): 'The risk of developing NAION with semaglutide is very rare'; 'All prescription semaglutide drugs (current brand names include: Ozempic, Rybelsus, Plosbrio, Poviztra and Wegovy...)'; 'There is no identified time interval for when NAION may develop after starting treatment'; 'The department is currently assessing the risk of NAION with all other GLP-1 receptor agonist drugs'; 'If you experience sudden vision loss or rapidly worsening eyesight while taking semaglutide (e.g., blurring or cloudiness of vision), seek urgent medical attention'; 'If NAION is confirmed, you may need to stop taking the medication'. Summary Safety Review: 'Health Canada reviewed 23 cases (12 Canadian and 11 international)... Of the 23 cases, 16 cases (5 Canadian and 11 international) were found to be possibly linked to the use of semaglutide'. Ojo Wally: GLP-1/NAION es la 8.ª respuesta del mes (última de RT el 23-nov con la FDA); esto es dato NUEVO de otro regulador (Health Canada, 25-nov): el 'no hay intervalo identificado' y los 23/16 casos no se usaron antes; el 'al despertar' ya salió el 11 y 23-nov y por eso no se repite. Inglés porque el post es en inglés; no hay cobertura en español con tracción. Wally decide por saturación del tema. 'Don't wait for your next refill' es consejo de RT, no cita de la fuente. Fuente: https://recalls-rappels.canada.ca/en/alert-recall/health-canada-warns-very-rare-serious-risk-vision-loss-semaglutide-drugs · https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1795630406073",
+    "keywords": [
+     "Health Canada (25-nov) advierte un riesgo 'muy raro' de NAION con todos los semaglutidos (Ozempic, Wegovy, Rybelsus y genéricos). Dato nuevo: no hay un intervalo identificado entre el inicio del tratamiento y la NAION; revisó 23 casos, 16 posiblemente relacionados; evalúa aún los otros GLP-1. Qué hacer: baja súbita de visión o visión borrosa/nublada → atención urgente; si se confirma NAION puede requerir suspender"
     ]
    }
   ],
